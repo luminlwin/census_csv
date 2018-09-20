@@ -1,4 +1,4 @@
-* Python libraries: os, csv
+* Python libraries: os, csv, pandas
 * Needs OS permission to create directories
 * Input files located in files/ directory
 * Output files to be generated in subdirectories inside out\_files/
