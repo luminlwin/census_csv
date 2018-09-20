@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),119,55,174,Rihkhuadal(ST),MMR004001
+" Employee (Private, Org)",350,94,444,Rihkhuadal(ST),MMR004001
+ Employer,14,8,22,Rihkhuadal(ST),MMR004001
+ Own account worker,552,212,764,Rihkhuadal(ST),MMR004001
+ Contributing family worker,572,629,1201,Rihkhuadal(ST),MMR004001
+ Sought work,73,48,121,Rihkhuadal(ST),MMR004001
+ Did not seek work,3,1,4,Rihkhuadal(ST),MMR004001
+ Full time student,569,616,1185,Rihkhuadal(ST),MMR004001
+ Household work,37,646,683,Rihkhuadal(ST),MMR004001
+" Pensioner, retired, elderly person",86,98,184,Rihkhuadal(ST),MMR004001
+" Ill, disabled",29,33,62,Rihkhuadal(ST),MMR004001
+ Other,107,73,180,Rihkhuadal(ST),MMR004001
+ Total,2511,2513,5024,Rihkhuadal(ST),MMR004001

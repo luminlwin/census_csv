@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1328,1846,3174,Kyonpyaw,MMR017005
+" Employee (Private, Org)",28040,12570,40610,Kyonpyaw,MMR017005
+ Employer,8141,1813,9954,Kyonpyaw,MMR017005
+ Own account worker,20775,9194,29969,Kyonpyaw,MMR017005
+ Contributing family worker,6767,8224,14991,Kyonpyaw,MMR017005
+ Sought work,2173,1521,3694,Kyonpyaw,MMR017005
+ Did not seek work,236,135,371,Kyonpyaw,MMR017005
+ Full time student,12393,12861,25254,Kyonpyaw,MMR017005
+ Household work,664,41268,41932,Kyonpyaw,MMR017005
+" Pensioner, retired, elderly person",3834,5690,9524,Kyonpyaw,MMR017005
+" Ill, disabled",1022,946,1968,Kyonpyaw,MMR017005
+ Other,5856,3750,9606,Kyonpyaw,MMR017005
+ Total,91229,99818,191047,Kyonpyaw,MMR017005

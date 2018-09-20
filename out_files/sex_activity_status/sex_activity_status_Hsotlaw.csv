@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),67,53,120,Hsotlaw,MMR001006
+" Employee (Private, Org)",74,28,102,Hsotlaw,MMR001006
+ Employer,11,4,15,Hsotlaw,MMR001006
+ Own account worker,929,627,1556,Hsotlaw,MMR001006
+ Contributing family worker,555,485,1040,Hsotlaw,MMR001006
+ Sought work,56,10,66,Hsotlaw,MMR001006
+ Did not seek work,5,3,8,Hsotlaw,MMR001006
+ Full time student,489,478,967,Hsotlaw,MMR001006
+ Household work,29,409,438,Hsotlaw,MMR001006
+" Pensioner, retired, elderly person",39,62,101,Hsotlaw,MMR001006
+" Ill, disabled",17,15,32,Hsotlaw,MMR001006
+ Other,90,49,139,Hsotlaw,MMR001006
+ Total,2361,2223,4584,Hsotlaw,MMR001006

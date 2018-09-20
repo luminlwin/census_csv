@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),174,81,255,Cikha(ST),MMR004005
+" Employee (Private, Org)",68,24,92,Cikha(ST),MMR004005
+ Employer,1,-,1,Cikha(ST),MMR004005
+ Own account worker,13,8,21,Cikha(ST),MMR004005
+ Contributing family worker,2435,2227,4662,Cikha(ST),MMR004005
+ Sought work,63,39,102,Cikha(ST),MMR004005
+ Did not seek work,15,13,28,Cikha(ST),MMR004005
+ Full time student,915,862,1777,Cikha(ST),MMR004005
+ Household work,18,375,393,Cikha(ST),MMR004005
+" Pensioner, retired, elderly person",220,317,537,Cikha(ST),MMR004005
+" Ill, disabled",37,50,87,Cikha(ST),MMR004005
+ Other,33,27,60,Cikha(ST),MMR004005
+ Total,3992,4023,8015,Cikha(ST),MMR004005

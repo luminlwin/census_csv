@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1631,1391,3022,Dagon Myothit(Seik),MMR013021
+" Employee (Private, Org)",34045,17120,51165,Dagon Myothit(Seik),MMR013021
+ Employer,1080,364,1444,Dagon Myothit(Seik),MMR013021
+ Own account worker,10835,7169,18004,Dagon Myothit(Seik),MMR013021
+ Contributing family worker,1356,1583,2939,Dagon Myothit(Seik),MMR013021
+ Sought work,1758,887,2645,Dagon Myothit(Seik),MMR013021
+ Did not seek work,419,181,600,Dagon Myothit(Seik),MMR013021
+ Full time student,8770,8248,17018,Dagon Myothit(Seik),MMR013021
+ Household work,876,28616,29492,Dagon Myothit(Seik),MMR013021
+" Pensioner, retired, elderly person",3222,3286,6508,Dagon Myothit(Seik),MMR013021
+" Ill, disabled",625,432,1057,Dagon Myothit(Seik),MMR013021
+ Other,3363,1664,5027,Dagon Myothit(Seik),MMR013021
+ Total,67980,70941,138921,Dagon Myothit(Seik),MMR013021

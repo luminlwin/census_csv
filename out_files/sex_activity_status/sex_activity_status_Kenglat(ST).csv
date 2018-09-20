@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),96,47,143,Kenglat(ST),MMR016009
+" Employee (Private, Org)",414,94,508,Kenglat(ST),MMR016009
+ Employer,29,12,41,Kenglat(ST),MMR016009
+ Own account worker,1566,492,2058,Kenglat(ST),MMR016009
+ Contributing family worker,1711,2004,3715,Kenglat(ST),MMR016009
+ Sought work,18,12,30,Kenglat(ST),MMR016009
+ Did not seek work,4,3,7,Kenglat(ST),MMR016009
+ Full time student,341,400,741,Kenglat(ST),MMR016009
+ Household work,88,669,757,Kenglat(ST),MMR016009
+" Pensioner, retired, elderly person",165,272,437,Kenglat(ST),MMR016009
+" Ill, disabled",22,13,35,Kenglat(ST),MMR016009
+ Other,163,87,250,Kenglat(ST),MMR016009
+ Total,4617,4105,8722,Kenglat(ST),MMR016009

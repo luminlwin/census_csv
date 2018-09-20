@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),80,50,130,Shinbwayyan(ST),MMR001004
+" Employee (Private, Org)",1147,184,1331,Shinbwayyan(ST),MMR001004
+ Employer,172,20,192,Shinbwayyan(ST),MMR001004
+ Own account worker,2010,794,2804,Shinbwayyan(ST),MMR001004
+ Contributing family worker,336,493,829,Shinbwayyan(ST),MMR001004
+ Sought work,67,18,85,Shinbwayyan(ST),MMR001004
+ Did not seek work,62,5,67,Shinbwayyan(ST),MMR001004
+ Full time student,687,690,1377,Shinbwayyan(ST),MMR001004
+ Household work,103,1430,1533,Shinbwayyan(ST),MMR001004
+" Pensioner, retired, elderly person",68,152,220,Shinbwayyan(ST),MMR001004
+" Ill, disabled",17,13,30,Shinbwayyan(ST),MMR001004
+ Other,73,34,107,Shinbwayyan(ST),MMR001004
+ Total,4822,3883,8705,Shinbwayyan(ST),MMR001004

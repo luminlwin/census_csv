@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),726,455,1181,Panglong(ST),MMR014011
+" Employee (Private, Org)",2046,782,2828,Panglong(ST),MMR014011
+ Employer,283,127,410,Panglong(ST),MMR014011
+ Own account worker,12006,8263,20269,Panglong(ST),MMR014011
+ Contributing family worker,4667,9069,13736,Panglong(ST),MMR014011
+ Sought work,501,349,850,Panglong(ST),MMR014011
+ Did not seek work,100,30,130,Panglong(ST),MMR014011
+ Full time student,3518,3301,6819,Panglong(ST),MMR014011
+ Household work,211,4277,4488,Panglong(ST),MMR014011
+" Pensioner, retired, elderly person",1157,1793,2950,Panglong(ST),MMR014011
+" Ill, disabled",143,147,290,Panglong(ST),MMR014011
+ Other,1641,269,1910,Panglong(ST),MMR014011
+ Total,26999,28862,55861,Panglong(ST),MMR014011

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),73,14,87,Panwine,MMR015007
+" Employee (Private, Org)",175,109,284,Panwine,MMR015007
+ Employer,695,642,1337,Panwine,MMR015007
+ Own account worker,19894,15828,35722,Panwine,MMR015007
+ Contributing family worker,4972,5550,10522,Panwine,MMR015007
+ Sought work,916,672,1588,Panwine,MMR015007
+ Did not seek work,245,153,398,Panwine,MMR015007
+ Full time student,4433,3881,8314,Panwine,MMR015007
+ Household work,959,4296,5255,Panwine,MMR015007
+" Pensioner, retired, elderly person",1290,1637,2927,Panwine,MMR015007
+" Ill, disabled",171,210,381,Panwine,MMR015007
+ Other,2546,2582,5128,Panwine,MMR015007
+ Total,36369,35574,71943,Panwine,MMR015007

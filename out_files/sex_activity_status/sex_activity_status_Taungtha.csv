@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1788,2978,4766,Taungtha,MMR010018
+" Employee (Private, Org)",14143,10419,24562,Taungtha,MMR010018
+ Employer,1781,771,2552,Taungtha,MMR010018
+ Own account worker,26650,13233,39883,Taungtha,MMR010018
+ Contributing family worker,6636,10251,16887,Taungtha,MMR010018
+ Sought work,2390,2037,4427,Taungtha,MMR010018
+ Did not seek work,256,252,508,Taungtha,MMR010018
+ Full time student,13800,14832,28632,Taungtha,MMR010018
+ Household work,1806,36210,38016,Taungtha,MMR010018
+" Pensioner, retired, elderly person",4753,7069,11822,Taungtha,MMR010018
+" Ill, disabled",754,723,1477,Taungtha,MMR010018
+ Other,3034,1723,4757,Taungtha,MMR010018
+ Total,77791,100498,178289,Taungtha,MMR010018

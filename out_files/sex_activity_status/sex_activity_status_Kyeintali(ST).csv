@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),244,243,487,Kyeintali(ST),MMR012017
+" Employee (Private, Org)",2618,576,3194,Kyeintali(ST),MMR012017
+ Employer,577,126,703,Kyeintali(ST),MMR012017
+ Own account worker,2887,940,3827,Kyeintali(ST),MMR012017
+ Contributing family worker,666,1137,1803,Kyeintali(ST),MMR012017
+ Sought work,442,276,718,Kyeintali(ST),MMR012017
+ Did not seek work,34,14,48,Kyeintali(ST),MMR012017
+ Full time student,1112,1192,2304,Kyeintali(ST),MMR012017
+ Household work,62,4495,4557,Kyeintali(ST),MMR012017
+" Pensioner, retired, elderly person",702,1219,1921,Kyeintali(ST),MMR012017
+" Ill, disabled",92,96,188,Kyeintali(ST),MMR012017
+ Other,384,179,563,Kyeintali(ST),MMR012017
+ Total,9820,10493,20313,Kyeintali(ST),MMR012017

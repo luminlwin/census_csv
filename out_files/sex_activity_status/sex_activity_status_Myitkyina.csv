@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),8357,4967,13324,Myitkyina,MMR001001
+" Employee (Private, Org)",23423,12643,36066,Myitkyina,MMR001001
+ Employer,2816,1161,3977,Myitkyina,MMR001001
+ Own account worker,32207,17578,49785,Myitkyina,MMR001001
+ Contributing family worker,4430,4115,8545,Myitkyina,MMR001001
+ Sought work,4614,2543,7157,Myitkyina,MMR001001
+ Did not seek work,696,332,1028,Myitkyina,MMR001001
+ Full time student,26715,29431,56146,Myitkyina,MMR001001
+ Household work,3439,44511,47950,Myitkyina,MMR001001
+" Pensioner, retired, elderly person",4992,8012,13004,Myitkyina,MMR001001
+" Ill, disabled",989,938,1927,Myitkyina,MMR001001
+ Other,6704,3939,10643,Myitkyina,MMR001001
+ Total,119382,130170,249552,Myitkyina,MMR001001

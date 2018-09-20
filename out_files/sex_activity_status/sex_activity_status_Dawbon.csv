@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1183,932,2115,Dawbon,MMR013014
+" Employee (Private, Org)",12287,5165,17452,Dawbon,MMR013014
+ Employer,556,196,752,Dawbon,MMR013014
+ Own account worker,6142,4071,10213,Dawbon,MMR013014
+ Contributing family worker,580,501,1081,Dawbon,MMR013014
+ Sought work,1186,395,1581,Dawbon,MMR013014
+ Did not seek work,193,53,246,Dawbon,MMR013014
+ Full time student,4456,4508,8964,Dawbon,MMR013014
+ Household work,643,14373,15016,Dawbon,MMR013014
+" Pensioner, retired, elderly person",1984,1983,3967,Dawbon,MMR013014
+" Ill, disabled",316,226,542,Dawbon,MMR013014
+ Other,1644,677,2321,Dawbon,MMR013014
+ Total,31170,33080,64250,Dawbon,MMR013014

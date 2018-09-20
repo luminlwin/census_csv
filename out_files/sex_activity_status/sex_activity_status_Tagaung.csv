@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),173,103,276,Tagaung,MMR010012
+" Employee (Private, Org)",3450,2230,5680,Tagaung,MMR010012
+ Employer,481,173,654,Tagaung,MMR010012
+ Own account worker,4752,1583,6335,Tagaung,MMR010012
+ Contributing family worker,1562,1560,3122,Tagaung,MMR010012
+ Sought work,334,257,591,Tagaung,MMR010012
+ Did not seek work,72,36,108,Tagaung,MMR010012
+ Full time student,1803,1845,3648,Tagaung,MMR010012
+ Household work,262,5798,6060,Tagaung,MMR010012
+" Pensioner, retired, elderly person",320,601,921,Tagaung,MMR010012
+" Ill, disabled",70,53,123,Tagaung,MMR010012
+ Other,469,152,621,Tagaung,MMR010012
+ Total,13748,14391,28139,Tagaung,MMR010012

@@ -1,0 +1,2865 @@
+Urban_Rural,Mobile_phone_Yes,Mobile_phone_No,Mobile_phone_Total
+AREA # 010101,Myitkyina,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,25624,14044,39668
+ Rural,2848,8067,10915
+ Total,28472,22111,50583
+NotApp :,1258,*,*
+AREA # 010102,Waingmaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1693,2127,3820
+ Rural,2975,12985,15960
+ Total,4668,15112,19780
+NotApp :,241,*,*
+AREA # 010103,Ingyanyan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,12,66,78
+ Rural,10,197,207
+ Total,22,263,285
+NotApp :,35,*,*
+AREA # 010104,Tanaing,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1700,1994,3694
+ Rural,520,2184,2704
+ Total,2220,4178,6398
+NotApp :,303,*,*
+AREA # 010105,Chiphwe,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,57,272,329
+ Rural,331,1271,1602
+ Total,388,1543,1931
+NotApp :,11,*,*
+AREA # 010106,Hsotlaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5,61,66
+ Rural,29,978,1007
+ Total,34,1039,1073
+NotApp :,4,*,*
+AREA # 010151,Hsinbo(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,137,567,704
+ Rural,130,1174,1304
+ Total,267,1741,2008
+NotApp :,80,*,*
+AREA # 010152,Hsadone(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,166,344,510
+ Rural,496,604,1100
+ Total,662,948,1610
+NotApp :,9,*,*
+AREA # 010153,Kanpaikti(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,150,24,174
+ Rural,400,896,1296
+ Total,550,920,1470
+NotApp :,20,*,*
+AREA # 010154,Shinbwayyan(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,290,735,1025
+ Rural,46,1059,1105
+ Total,336,1794,2130
+NotApp :,15,*,*
+AREA # 010155,Panwa(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,43,153,196
+ Rural,380,799,1179
+ Total,423,952,1375
+NotApp :,41,*,*
+AREA # 010201,Mohnyin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4052,2301,6353
+ Rural,7166,16671,23837
+ Total,11218,18972,30190
+NotApp :,542,*,*
+AREA # 010202,Mogaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2707,1741,4448
+ Rural,6309,14141,20450
+ Total,9016,15882,24898
+NotApp :,208,*,*
+AREA # 010203,Phakant,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4473,2383,6856
+ Rural,11805,14473,26278
+ Total,16278,16856,33134
+NotApp :,1665,*,*
+AREA # 010251,Hopin(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2595,1946,4541
+ Rural,2014,2877,4891
+ Total,4609,4823,9432
+NotApp :,114,*,*
+AREA # 010252,Kamine(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,225,805,1030
+ Rural,284,2184,2468
+ Total,509,2989,3498
+NotApp :,131,*,*
+AREA # 010301,Bhamo,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5734,3781,9515
+ Rural,4086,10560,14646
+ Total,9820,14341,24161
+NotApp :,571,*,*
+AREA # 010302,Shwegu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1746,1656,3402
+ Rural,2120,10306,12426
+ Total,3866,11962,15828
+NotApp :,336,*,*
+AREA # 010303,Momauk,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,630,1460,2090
+ Rural,1027,5517,6544
+ Total,1657,6977,8634
+NotApp :,144,*,*
+AREA # 010304,Mansi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,517,1101,1618
+ Rural,2480,6456,8936
+ Total,2997,7557,10554
+NotApp :,82,*,*
+AREA # 010351,Myohla(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,66,295,361
+ Rural,63,369,432
+ Total,129,664,793
+NotApp :,11,*,*
+AREA # 010352,Lwe`ge`(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,783,442,1225
+ Rural,191,87,278
+ Total,974,529,1503
+NotApp :,24,*,*
+AREA # 010353,Dotphoneyan(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,57,254,311
+ Rural,415,1507,1922
+ Total,472,1761,2233
+NotApp :,65,*,*
+AREA # 010401,Putao,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,821,1990,2811
+ Rural,330,7602,7932
+ Total,1151,9592,10743
+NotApp :,94,*,*
+AREA # 010402,Sumprabum,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,20,152,172
+ Rural,25,282,307
+ Total,45,434,479
+NotApp :,18,*,*
+AREA # 010403,Machanbaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,66,342,408
+ Rural,40,1271,1311
+ Total,106,1613,1719
+NotApp :,31,*,*
+AREA # 010404,Khaunglanphoo,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3,67,70
+ Rural,9,1632,1641
+ Total,12,1699,1711
+NotApp :,2,*,*
+AREA # 010405,Naungmoon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,40,320,360
+ Rural,9,574,583
+ Total,49,894,943
+NotApp :,4,*,*
+AREA # 010451,Pannandin(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1,23,24
+ Rural,2,243,245
+ Total,3,266,269
+NotApp :,1,*,*
+AREA # 020101,Loikaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,7515,2907,10422
+ Rural,5131,10942,16073
+ Total,12646,13849,26495
+NotApp :,304,*,*
+AREA # 020102,Dimawso,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,450,687,1137
+ Rural,2423,11787,14210
+ Total,2873,12474,15347
+NotApp :,105,*,*
+AREA # 020103,Phruso,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,217,636,853
+ Rural,133,4924,5057
+ Total,350,5560,5910
+NotApp :,78,*,*
+AREA # 020104,Shardaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3,333,336
+ Rural,7,1063,1070
+ Total,10,1396,1406
+NotApp :,28,*,*
+AREA # 020201,Bawlakhe,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,12,827,839
+ Rural,15,735,750
+ Total,27,1562,1589
+NotApp :,81,*,*
+AREA # 020202,Parsaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,47,547,594
+ Rural,80,4059,4139
+ Total,127,4606,4733
+NotApp :,302,*,*
+AREA # 020203,Meisi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,-,195,195
+ Rural,11,1096,1107
+ Total,11,1291,1302
+NotApp :,55,*,*
+AREA # 020251,Ywathit(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,-,292,292
+ Rural,1,199,200
+ Total,1,491,492
+NotApp :,30,*,*
+AREA # 030101,Hpa-an,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,9573,5195,14768
+ Rural,17436,56993,74429
+ Total,27009,62188,89197
+NotApp :,1176,*,*
+AREA # 030102,Hlaingbwe,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1071,1208,2279
+ Rural,2842,26465,29307
+ Total,3913,27673,31586
+NotApp :,379,*,*
+AREA # 030103,Thandaunggyi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1612,1450,3062
+ Rural,381,2366,2747
+ Total,1993,3816,5809
+NotApp :,36,*,*
+AREA # 030151,Paingkyon(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,75,732,807
+ Rural,673,16298,16971
+ Total,748,17030,17778
+NotApp :,210,*,*
+AREA # 030152,Shan Ywathit(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4,79,83
+ Rural,277,3396,3673
+ Total,281,3475,3756
+NotApp :,29,*,*
+AREA # 030153,Leiktho(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,154,453,607
+ Rural,645,8674,9319
+ Total,799,9127,9926
+NotApp :,73,*,*
+AREA # 030154,Bawgali(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,241,195,436
+ Rural,550,2419,2969
+ Total,791,2614,3405
+NotApp :,7,*,*
+AREA # 030201,Pharpon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,177,456,633
+ Rural,125,1786,1911
+ Total,302,2242,2544
+NotApp :,108,*,*
+AREA # 030251,Kamamaung(ST},*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1061,1688,2749
+ Rural,119,1090,1209
+ Total,1180,2778,3958
+NotApp :,52,*,*
+AREA # 030301,Myawady,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,13601,10415,24016
+ Rural,7478,9764,17242
+ Total,21079,20179,41258
+NotApp :,937,*,*
+AREA # 030351,Sugali(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,29,46,75
+ Rural,399,587,986
+ Total,428,633,1061
+NotApp :,24,*,*
+AREA # 030352,Wawlaymyaing(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,430,147,577
+ Rural,456,664,1120
+ Total,886,811,1697
+NotApp :,44,*,*
+AREA # 030401,Kawkareik,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3786,4696,8482
+ Rural,5246,31770,37016
+ Total,9032,36466,45498
+NotApp :,393,*,*
+AREA # 030402,Kyarinseikkyi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1061,756,1817
+ Rural,2205,18018,20223
+ Total,3266,18774,22040
+NotApp :,270,*,*
+AREA # 030451,Payarthonezu(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4821,1275,6096
+ Rural,1417,10282,11699
+ Total,6238,11557,17795
+NotApp :,271,*,*
+AREA # 030452,Kyaidon(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,72,608,680
+ Rural,70,9983,10053
+ Total,142,10591,10733
+NotApp :,114,*,*
+AREA # 040101,HaKa,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4076,1145,5221
+ Rural,813,3883,4696
+ Total,4889,5028,9917
+NotApp :,107,*,*
+AREA # 040102,Thantlang,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,377,1130,1507
+ Rural,579,7696,8275
+ Total,956,8826,9782
+NotApp :,38,*,*
+AREA # 040201,Falam,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1630,372,2002
+ Rural,1507,4919,6426
+ Total,3137,5291,8428
+NotApp :,60,*,*
+AREA # 040202,Tedim,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1187,1063,2250
+ Rural,1739,10694,12433
+ Total,2926,11757,14683
+NotApp :,65,*,*
+AREA # 040203,Tonzaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,188,452,640
+ Rural,164,2607,2771
+ Total,352,3059,3411
+NotApp :,37,*,*
+AREA # 040251,Rihkhuadal(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,184,486,670
+ Rural,226,302,528
+ Total,410,788,1198
+NotApp :,12,*,*
+AREA # 040252,Cikha(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3,212,215
+ Rural,16,1299,1315
+ Total,19,1511,1530
+NotApp :,6,*,*
+AREA # 040301,Mindat,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1399,944,2343
+ Rural,685,5494,6179
+ Total,2084,6438,8522
+NotApp :,95,*,*
+AREA # 040302,Matupi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,51,1619,1670
+ Rural,86,5880,5966
+ Total,137,7499,7636
+NotApp :,43,*,*
+AREA # 040303,Kanpalet,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,219,588,807
+ Rural,87,3083,3170
+ Total,306,3671,3977
+NotApp :,66,*,*
+AREA # 040304,Paletwat,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,217,1133,1350
+ Rural,43,11900,11943
+ Total,260,13033,13293
+NotApp :,86,*,*
+AREA # 040351,Reazu(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2,460,462
+ Rural,63,1996,2059
+ Total,65,2456,2521
+NotApp :,14,*,*
+AREA # 040352,Sami(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3,630,633
+ Rural,23,5567,5590
+ Total,26,6197,6223
+NotApp :,100,*,*
+AREA # 050101,Sagaing,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,10613,5883,16496
+ Rural,15611,33036,48647
+ Total,26224,38919,65143
+NotApp :,1842,*,*
+AREA # 050102,Myinmu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1858,1773,3631
+ Rural,3797,17876,21673
+ Total,5655,19649,25304
+NotApp :,264,*,*
+AREA # 050103,Myaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,562,1391,1953
+ Rural,2716,19593,22309
+ Total,3278,20984,24262
+NotApp :,350,*,*
+AREA # 050201,Shwebo,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,7625,5906,13531
+ Rural,7690,29026,36716
+ Total,15315,34932,50247
+NotApp :,467,*,*
+AREA # 050202,Khin U,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1189,1102,2291
+ Rural,3500,26833,30333
+ Total,4689,27935,32624
+NotApp :,271,*,*
+AREA # 050203,Wetlet,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1034,1272,2306
+ Rural,6426,37980,44406
+ Total,7460,39252,46712
+NotApp :,437,*,*
+AREA # 050204,Kambalu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2388,2795,5183
+ Rural,6385,49758,56143
+ Total,8773,52553,61326
+NotApp :,537,*,*
+AREA # 050205,Kyunhlau,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1412,1087,2499
+ Rural,1964,16400,18364
+ Total,3376,17487,20863
+NotApp :,224,*,*
+AREA # 050206,Ye U,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2137,1828,3965
+ Rural,3910,18498,22408
+ Total,6047,20326,26373
+NotApp :,308,*,*
+AREA # 050207,Depayin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,437,518,955
+ Rural,3885,25505,29390
+ Total,4322,26023,30345
+NotApp :,367,*,*
+AREA # 050208,Tasei,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1559,1413,2972
+ Rural,4000,28965,32965
+ Total,5559,30378,35937
+NotApp :,328,*,*
+AREA # 050251,Kyaukmyaung(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,713,1593,2306
+ Rural,818,3926,4744
+ Total,1531,5519,7050
+NotApp :,65,*,*
+AREA # 050301,Monywa,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,25401,15005,40406
+ Rural,13177,22379,35556
+ Total,38578,37384,75962
+NotApp :,1167,*,*
+AREA # 050302,Butalin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,635,558,1193
+ Rural,3438,23985,27423
+ Total,4073,24543,28616
+NotApp :,389,*,*
+AREA # 050303,Ayartaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,979,1176,2155
+ Rural,3820,29616,33436
+ Total,4799,30792,35591
+NotApp :,378,*,*
+AREA # 050304,Chaung Oo,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2011,3070,5081
+ Rural,4794,13501,18295
+ Total,6805,16571,23376
+NotApp :,254,*,*
+AREA # 050401,Katha,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3118,2145,5263
+ Rural,4816,21882,26698
+ Total,7934,24027,31961
+NotApp :,447,*,*
+AREA # 050402,Indaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1182,660,1842
+ Rural,4012,17376,21388
+ Total,5194,18036,23230
+NotApp :,320,*,*
+AREA # 050403,Tigyaing,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1354,1716,3070
+ Rural,3862,19457,23319
+ Total,5216,21173,26389
+NotApp :,279,*,*
+AREA # 050404,Banmauk,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,302,910,1212
+ Rural,443,17213,17656
+ Total,745,18123,18868
+NotApp :,678,*,*
+AREA # 050405,Kawlin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2777,1792,4569
+ Rural,3452,23382,26834
+ Total,6229,25174,31403
+NotApp :,408,*,*
+AREA # 050406,Wuntho,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1385,1205,2590
+ Rural,1959,9656,11615
+ Total,3344,10861,14205
+NotApp :,321,*,*
+AREA # 050407,Pinlebu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,768,701,1469
+ Rural,712,19719,20431
+ Total,1480,20420,21900
+NotApp :,382,*,*
+AREA # 050501,Kalay,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,15432,10289,25721
+ Rural,11470,35578,47048
+ Total,26902,45867,72769
+NotApp :,551,*,*
+AREA # 050502,Kalewa,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1108,845,1953
+ Rural,757,9025,9782
+ Total,1865,9870,11735
+NotApp :,183,*,*
+AREA # 050503,Mingin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,105,731,836
+ Rural,249,20973,21222
+ Total,354,21704,22058
+NotApp :,359,*,*
+AREA # 050601,Tamu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4885,4104,8989
+ Rural,632,2365,2997
+ Total,5517,6469,11986
+NotApp :,97,*,*
+AREA # 050651,Myothit(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,38,270,308
+ Rural,283,2506,2789
+ Total,321,2776,3097
+NotApp :,38,*,*
+AREA # 050652,Khampat(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,702,2136,2838
+ Rural,719,3951,4670
+ Total,1421,6087,7508
+NotApp :,25,*,*
+AREA # 050701,Mawlaik,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,940,884,1824
+ Rural,900,7621,8521
+ Total,1840,8505,10345
+NotApp :,173,*,*
+AREA # 050702,Phaungpyin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,172,1770,1942
+ Rural,199,18105,18304
+ Total,371,19875,20246
+NotApp :,277,*,*
+AREA # 050801,Hkamti,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1007,1176,2183
+ Rural,411,4767,5178
+ Total,1418,5943,7361
+NotApp :,521,*,*
+AREA # 050802,Homalin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1189,2386,3575
+ Rural,2816,29352,32168
+ Total,4005,31738,35743
+NotApp :,1266,*,*
+AREA # 050803,Leshi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,43,210,253
+ Rural,27,1376,1403
+ Total,70,1586,1656
+NotApp :,53,*,*
+AREA # 050804,Lahe,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,87,451,538
+ Rural,631,5808,6439
+ Total,718,6259,6977
+NotApp :,37,*,*
+AREA # 050805,Nanyun,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,93,282,375
+ Rural,4,1189,1193
+ Total,97,1471,1568
+NotApp :,17,*,*
+AREA # 050851,Mobaingluk(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,11,199,210
+ Rural,9,91,100
+ Total,20,290,310
+NotApp :,2,*,*
+AREA # 050852,Sonemara(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,14,272,286
+ Rural,12,896,908
+ Total,26,1168,1194
+NotApp :,10,*,*
+AREA # 050853,Htanparkway(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,-,128,128
+ Rural,43,590,633
+ Total,43,718,761
+NotApp :,9,*,*
+AREA # 050854,Pansaung(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,48,290,338
+ Rural,24,1987,2011
+ Total,72,2277,2349
+NotApp :,5,*,*
+AREA # 050855,Donhee(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,-,169,169
+ Rural,1,3753,3754
+ Total,1,3922,3923
+NotApp :,10,*,*
+AREA # 050901,Yinmarpin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,759,318,1077
+ Rural,3587,24868,28455
+ Total,4346,25186,29532
+NotApp :,265,*,*
+AREA # 050902,Salingyi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,498,724,1222
+ Rural,5264,19981,25245
+ Total,5762,20705,26467
+NotApp :,384,*,*
+AREA # 050903,Palae,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,505,426,931
+ Rural,3226,28205,31431
+ Total,3731,28631,32362
+NotApp :,338,*,*
+AREA # 050904,Kani,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,568,570,1138
+ Rural,2069,26016,28085
+ Total,2637,26586,29223
+NotApp :,351,*,*
+AREA # 060101,Dawei,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,11062,4320,15382
+ Rural,3022,6539,9561
+ Total,14084,10859,24943
+NotApp :,551,*,*
+AREA # 060102,Lounglon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,697,543,1240
+ Rural,7003,17492,24495
+ Total,7700,18035,25735
+NotApp :,291,*,*
+AREA # 060103,Thayetchaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1244,1163,2407
+ Rural,3281,17186,20467
+ Total,4525,18349,22874
+NotApp :,255,*,*
+AREA # 060104,Yebyu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,787,290,1077
+ Rural,3379,17617,20996
+ Total,4166,17907,22073
+NotApp :,316,*,*
+AREA # 060151,Myitta(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,14,482,496
+ Rural,92,3602,3694
+ Total,106,4084,4190
+NotApp :,72,*,*
+AREA # 060152,Kaleinaung(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,118,506,624
+ Rural,242,3411,3653
+ Total,360,3917,4277
+NotApp :,141,*,*
+AREA # 060201,Myeik,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,11937,9611,21548
+ Rural,9702,23099,32801
+ Total,21639,32710,54349
+NotApp :,763,*,*
+AREA # 060202,Kyunsu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,752,390,1142
+ Rural,3120,28726,31846
+ Total,3872,29116,32988
+NotApp :,330,*,*
+AREA # 060203,Palaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1805,1766,3571
+ Rural,3022,11932,14954
+ Total,4827,13698,18525
+NotApp :,178,*,*
+AREA # 060204,Tanintharyi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,747,379,1126
+ Rural,2195,16608,18803
+ Total,2942,16987,19929
+NotApp :,325,*,*
+AREA # 060251,Palauk(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,367,844,1211
+ Rural,613,5304,5917
+ Total,980,6148,7128
+NotApp :,45,*,*
+AREA # 060301,Kawthoung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,10101,2479,12580
+ Rural,4221,8680,12901
+ Total,14322,11159,25481
+NotApp :,367,*,*
+AREA # 060302,Bokepyin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,655,392,1047
+ Rural,1713,6116,7829
+ Total,2368,6508,8876
+NotApp :,187,*,*
+AREA # 060351,Khamaukgyi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,383,1972,2355
+ Rural,1818,692,2510
+ Total,2201,2664,4865
+NotApp :,126,*,*
+AREA # 060352,Pyigyimandaing,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,17,698,715
+ Rural,15,2374,2389
+ Total,32,3072,3104
+NotApp :,91,*,*
+AREA # 060353,Karathuri(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,42,244,286
+ Rural,286,3190,3476
+ Total,328,3434,3762
+NotApp :,102,*,*
+AREA # 070101,Bago,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,31387,23505,54892
+ Rural,19863,32377,52240
+ Total,51250,55882,107132
+NotApp :,1161,*,*
+AREA # 070102,Tanatpin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1351,2278,3629
+ Rural,3638,25260,28898
+ Total,4989,27538,32527
+NotApp :,222,*,*
+AREA # 070103,Kawa,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1218,3036,4254
+ Rural,4257,37564,41821
+ Total,5475,40600,46075
+NotApp :,248,*,*
+AREA # 070104,Waw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2059,2987,5046
+ Rural,4978,27059,32037
+ Total,7037,30046,37083
+NotApp :,296,*,*
+AREA # 070105,Nyaunglebin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5519,7543,13062
+ Rural,6936,24764,31700
+ Total,12455,32307,44762
+NotApp :,311,*,*
+AREA # 070106,Kyauktaga,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2758,4115,6873
+ Rural,7518,37257,44775
+ Total,10276,41372,51648
+NotApp :,363,*,*
+AREA # 070107,Daik U,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3392,5348,8740
+ Rural,7050,29963,37013
+ Total,10442,35311,45753
+NotApp :,339,*,*
+AREA # 070108,Shwegyin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2400,2465,4865
+ Rural,2697,14220,16917
+ Total,5097,16685,21782
+NotApp :,240,*,*
+AREA # 070201,Toungoo,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,13390,8510,21900
+ Rural,12024,23536,35560
+ Total,25414,32046,57460
+NotApp :,871,*,*
+AREA # 070202,Yaedashe,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3033,2922,5955
+ Rural,11632,32940,44572
+ Total,14665,35862,50527
+NotApp :,460,*,*
+AREA # 070203,Kyaukkyi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,722,1536,2258
+ Rural,2622,18003,20625
+ Total,3344,19539,22883
+NotApp :,203,*,*
+AREA # 070204,Pyu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,6104,7723,13827
+ Rural,8330,32774,41104
+ Total,14434,40497,54931
+NotApp :,386,*,*
+AREA # 070205,Oatwin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1151,2058,3209
+ Rural,7263,26398,33661
+ Total,8414,28456,36870
+NotApp :,276,*,*
+AREA # 070206,Htantapin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,799,1577,2376
+ Rural,3427,20978,24405
+ Total,4226,22555,26781
+NotApp :,169,*,*
+AREA # 070301,Pyay,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,16112,12703,28815
+ Rural,8868,20874,29742
+ Total,24980,33577,58557
+NotApp :,1014,*,*
+AREA # 070302,Paukkhaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1638,1968,3606
+ Rural,3817,24924,28741
+ Total,5455,26892,32347
+NotApp :,302,*,*
+AREA # 070303,Padaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1989,2479,4468
+ Rural,7566,26858,34424
+ Total,9555,29337,38892
+NotApp :,412,*,*
+AREA # 070304,Paunde,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2618,3863,6481
+ Rural,4627,25592,30219
+ Total,7245,29455,36700
+NotApp :,296,*,*
+AREA # 070305,Thegon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1668,2598,4266
+ Rural,6670,25014,31684
+ Total,8338,27612,35950
+NotApp :,304,*,*
+AREA # 070306,Shwedaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2081,2437,4518
+ Rural,5106,23940,29046
+ Total,7187,26377,33564
+NotApp :,368,*,*
+AREA # 070401,Tharyarwaddy,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3936,4228,8164
+ Rural,4834,23628,28462
+ Total,8770,27856,36626
+NotApp :,285,*,*
+AREA # 070402,Letpadan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2678,3057,5735
+ Rural,6646,31103,37749
+ Total,9324,34160,43484
+NotApp :,336,*,*
+AREA # 070403,Minhla,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1254,1448,2702
+ Rural,4714,23478,28192
+ Total,5968,24926,30894
+NotApp :,231,*,*
+AREA # 070404,Okpo,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1273,1527,2800
+ Rural,5752,23342,29094
+ Total,7025,24869,31894
+NotApp :,283,*,*
+AREA # 070405,Zigon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1814,2153,3967
+ Rural,3389,10854,14243
+ Total,5203,13007,18210
+NotApp :,160,*,*
+AREA # 070406,Nattalin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2125,2517,4642
+ Rural,7563,33564,41127
+ Total,9688,36081,45769
+NotApp :,317,*,*
+AREA # 070407,Monyo,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,886,1494,2380
+ Rural,3719,27188,30907
+ Total,4605,28682,33287
+NotApp :,232,*,*
+AREA # 070408,Gyobingauk,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2775,2809,5584
+ Rural,5898,19104,25002
+ Total,8673,21913,30586
+NotApp :,233,*,*
+AREA # 080101,Magway,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,13532,6338,19870
+ Rural,10114,38693,48807
+ Total,23646,45031,68677
+NotApp :,1053,*,*
+AREA # 080102,Yenangyoung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5387,5289,10676
+ Rural,4127,17697,21824
+ Total,9514,22986,32500
+NotApp :,490,*,*
+AREA # 080103,Chauk,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5750,4651,10401
+ Rural,5615,28602,34217
+ Total,11365,33253,44618
+NotApp :,539,*,*
+AREA # 080104,Taungdwingyi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4663,5392,10055
+ Rural,8580,41628,50208
+ Total,13243,47020,60263
+NotApp :,426,*,*
+AREA # 080105,Myothit,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,841,905,1746
+ Rural,3941,31261,35202
+ Total,4782,32166,36948
+NotApp :,339,*,*
+AREA # 080106,Natmauk,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1464,1710,3174
+ Rural,5108,40144,45252
+ Total,6572,41854,48426
+NotApp :,396,*,*
+AREA # 080201,Minbu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4645,4545,9190
+ Rural,7990,26637,34627
+ Total,12635,31182,43817
+NotApp :,551,*,*
+AREA # 080202,Pwint Phyu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,848,606,1454
+ Rural,8417,29893,38310
+ Total,9265,30499,39764
+NotApp :,475,*,*
+AREA # 080203,Ngape,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,494,485,979
+ Rural,3052,8426,11478
+ Total,3546,8911,12457
+NotApp :,159,*,*
+AREA # 080204,Salin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1444,1342,2786
+ Rural,6914,45905,52819
+ Total,8358,47247,55605
+NotApp :,631,*,*
+AREA # 080205,Saytottara,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,710,815,1525
+ Rural,425,8830,9255
+ Total,1135,9645,10780
+NotApp :,279,*,*
+AREA # 080301,Thayet,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2869,1694,4563
+ Rural,4305,17104,21409
+ Total,7174,18798,25972
+NotApp :,302,*,*
+AREA # 080302,Minhla,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1890,1091,2981
+ Rural,8396,20245,28641
+ Total,10286,21336,31622
+NotApp :,346,*,*
+AREA # 080303,Mindon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,716,554,1270
+ Rural,2153,13386,15539
+ Total,2869,13940,16809
+NotApp :,207,*,*
+AREA # 080304,Kamma,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,512,782,1294
+ Rural,1909,15940,17849
+ Total,2421,16722,19143
+NotApp :,208,*,*
+AREA # 080305,Aunglan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5703,5922,11625
+ Rural,9097,36887,45984
+ Total,14800,42809,57609
+NotApp :,479,*,*
+AREA # 080306,Sinpaungwe`,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,537,744,1281
+ Rural,3969,23434,27403
+ Total,4506,24178,28684
+NotApp :,290,*,*
+AREA # 080401,Pakokku,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,10710,8359,19069
+ Rural,13987,33284,47271
+ Total,24697,41643,66340
+NotApp :,723,*,*
+AREA # 080402,Yesagyo,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2256,2643,4899
+ Rural,11164,31269,42433
+ Total,13420,33912,47332
+NotApp :,485,*,*
+AREA # 080403,Myaing,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1091,710,1801
+ Rural,9043,42797,51840
+ Total,10134,43507,53641
+NotApp :,502,*,*
+AREA # 080404,Pauk,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,869,832,1701
+ Rural,3892,33372,37264
+ Total,4761,34204,38965
+NotApp :,326,*,*
+AREA # 080405,Seikphyu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1202,927,2129
+ Rural,3356,17942,21298
+ Total,4558,18869,23427
+NotApp :,208,*,*
+AREA # 080501,Gangaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1873,1385,3258
+ Rural,7015,19639,26654
+ Total,8888,21024,29912
+NotApp :,303,*,*
+AREA # 080502,Htilin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,589,534,1123
+ Rural,1782,7627,9409
+ Total,2371,8161,10532
+NotApp :,182,*,*
+AREA # 080503,Saw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,617,644,1261
+ Rural,1240,5824,7064
+ Total,1857,6468,8325
+NotApp :,212,*,*
+AREA # 080551,Kyaukhtu(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,681,459,1140
+ Rural,1966,4503,6469
+ Total,2647,4962,7609
+NotApp :,103,*,*
+AREA # 090101,Aungmyetharzan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,37880,11851,49731
+ Total,37880,11851,49731
+NotApp :,971,*,*
+AREA # 090102,Chanayeharzan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,28208,5073,33281
+ Total,28208,5073,33281
+NotApp :,1883,*,*
+AREA # 090103,Mahaaungmye,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,33694,8233,41927
+ Total,33694,8233,41927
+NotApp :,754,*,*
+AREA # 090104,Chanmyatharzi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,39645,13402,53047
+ Total,39645,13402,53047
+NotApp :,901,*,*
+AREA # 090105,Pyigyidagun,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,30646,13229,43875
+ Total,30646,13229,43875
+NotApp :,1032,*,*
+AREA # 090106,Amarapura,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,10925,5705,16630
+ Rural,18980,14016,32996
+ Total,29905,19721,49626
+NotApp :,572,*,*
+AREA # 090107,Patheingyi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2231,471,2702
+ Rural,27795,22493,50288
+ Total,30026,22964,52990
+NotApp :,902,*,*
+AREA # 090201,Pyin Oo Lwin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,23642,8299,31941
+ Rural,12185,9256,21441
+ Total,35827,17555,53382
+NotApp :,962,*,*
+AREA # 090202,Madaya,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2805,2506,5311
+ Rural,12529,40805,53334
+ Total,15334,43311,58645
+NotApp :,508,*,*
+AREA # 090203,Sinku,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,987,745,1732
+ Rural,7450,25351,32801
+ Total,8437,26096,34533
+NotApp :,281,*,*
+AREA # 090204,Mogok,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,9416,7270,16686
+ Rural,5472,13089,18561
+ Total,14888,20359,35247
+NotApp :,586,*,*
+AREA # 090205,Thabeikkyin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,195,993,1188
+ Rural,2378,22183,24561
+ Total,2573,23176,25749
+NotApp :,297,*,*
+AREA # 090251,Tagaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,385,1408,1793
+ Rural,601,4998,5599
+ Total,986,6406,7392
+NotApp :,96,*,*
+AREA # 090301,Kyaukse,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5994,2497,8491
+ Rural,17035,32239,49274
+ Total,23029,34736,57765
+NotApp :,526,*,*
+AREA # 090302,Singaing,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1163,617,1780
+ Rural,13028,18771,31799
+ Total,14191,19388,33579
+NotApp :,464,*,*
+AREA # 090303,Myitthar,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2685,1661,4346
+ Rural,10394,31277,41671
+ Total,13079,32938,46017
+NotApp :,399,*,*
+AREA # 090304,Tada U,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1624,1028,2652
+ Rural,8534,21441,29975
+ Total,10158,22469,32627
+NotApp :,340,*,*
+AREA # 090401,Myingyan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,10246,8651,18897
+ Rural,10419,33024,43443
+ Total,20665,41675,62340
+NotApp :,622,*,*
+AREA # 090402,Taungtha,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2168,1695,3863
+ Rural,9475,36514,45989
+ Total,11643,38209,49852
+NotApp :,425,*,*
+AREA # 090403,Natogyi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1698,1144,2842
+ Rural,8889,29234,38123
+ Total,10587,30378,40965
+NotApp :,349,*,*
+AREA # 090404,Kyaukpadaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,6317,2696,9013
+ Rural,13033,39915,52948
+ Total,19350,42611,61961
+NotApp :,497,*,*
+AREA # 090405,Ngazun,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,818,839,1657
+ Rural,4275,21906,26181
+ Total,5093,22745,27838
+NotApp :,295,*,*
+AREA # 090501,Nyaung U,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,6441,3074,9515
+ Rural,9422,25725,35147
+ Total,15863,28799,44662
+NotApp :,603,*,*
+AREA # 090551,Ngat,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,438,1001,1439
+ Rural,1758,6614,8372
+ Total,2196,7615,9811
+NotApp :,69,*,*
+AREA # 090601,Yame`thin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3165,2162,5327
+ Rural,9828,42104,51932
+ Total,12993,44266,57259
+NotApp :,559,*,*
+AREA # 090602,Pyawbwe,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3726,3148,6874
+ Rural,11789,40200,51989
+ Total,15515,43348,58863
+NotApp :,497,*,*
+AREA # 090701,Meiktila,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,14856,9107,23963
+ Rural,12767,31709,44476
+ Total,27623,40816,68439
+NotApp :,998,*,*
+AREA # 090702,MahlYaing,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1428,1683,3111
+ Rural,3706,26510,30216
+ Total,5134,28193,33327
+NotApp :,382,*,*
+AREA # 090703,Thazi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3023,1697,4720
+ Rural,9519,30653,40172
+ Total,12542,32350,44892
+NotApp :,484,*,*
+AREA # 090704,Wundwin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3383,3917,7300
+ Rural,9692,36577,46269
+ Total,13075,40494,53569
+NotApp :,474,*,*
+AREA # 100101,Mawlamyine,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,31088,18646,49734
+ Rural,3639,4084,7723
+ Total,34727,22730,57457
+NotApp :,954,*,*
+AREA # 100102,Kyaikemaraw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,992,1184,2176
+ Rural,7581,29131,36712
+ Total,8573,30315,38888
+NotApp :,478,*,*
+AREA # 100103,Chaungzon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,820,924,1744
+ Rural,7924,18276,26200
+ Total,8744,19200,27944
+NotApp :,292,*,*
+AREA # 100104,Thanbyuzayat,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5752,5963,11715
+ Rural,6417,18102,24519
+ Total,12169,24065,36234
+NotApp :,470,*,*
+AREA # 100105,Mudon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,6210,4582,10792
+ Rural,10035,18485,28520
+ Total,16245,23067,39312
+NotApp :,541,*,*
+AREA # 100106,Ye,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3720,2393,6113
+ Rural,5715,18163,23878
+ Total,9435,20556,29991
+NotApp :,508,*,*
+AREA # 100151,Lamine,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1176,1791,2967
+ Rural,3834,11838,15672
+ Total,5010,13629,18639
+NotApp :,149,*,*
+AREA # 100152,Khawzar,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,125,653,778
+ Rural,580,3460,4040
+ Total,705,4113,4818
+NotApp :,70,*,*
+AREA # 100201,Thaton,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5177,5529,10706
+ Rural,9784,27794,37578
+ Total,14961,33323,48284
+NotApp :,603,*,*
+AREA # 100202,Paung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2410,3492,5902
+ Rural,10628,27196,37824
+ Total,13038,30688,43726
+NotApp :,460,*,*
+AREA # 100203,Kyaikto,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3730,3786,7516
+ Rural,8285,22287,30572
+ Total,12015,26073,38088
+NotApp :,848,*,*
+AREA # 100204,Bilin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2134,1910,4044
+ Rural,6758,28429,35187
+ Total,8892,30339,39231
+NotApp :,544,*,*
+AREA # 110101,Sittway,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,9905,9001,18906
+ Rural,3000,7130,10130
+ Total,12905,16131,29036
+NotApp :,377,*,*
+AREA # 110102,Ponnagyun,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1084,1382,2466
+ Rural,1065,21804,22869
+ Total,2149,23186,25335
+NotApp :,246,*,*
+AREA # 110103,Pauktaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,814,1656,2470
+ Rural,1471,26603,28074
+ Total,2285,28259,30544
+NotApp :,349,*,*
+AREA # 110104,Yethedaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,870,640,1510
+ Rural,2809,20022,22831
+ Total,3679,20662,24341
+NotApp :,255,*,*
+AREA # 110201,Myauk U,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1902,5372,7274
+ Rural,2168,32083,34251
+ Total,4070,37455,41525
+NotApp :,517,*,*
+AREA # 110202,Kyauktaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1915,1924,3839
+ Rural,3062,29594,32656
+ Total,4977,31518,36495
+NotApp :,327,*,*
+AREA # 110203,Minbya,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1632,2983,4615
+ Rural,1639,30374,32013
+ Total,3271,33357,36628
+NotApp :,359,*,*
+AREA # 110204,Myebon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,807,1811,2618
+ Rural,1689,27032,28721
+ Total,2496,28843,31339
+NotApp :,244,*,*
+AREA # 110301,Maungtaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1391,923,2314
+ Rural,1117,3959,5076
+ Total,2508,4882,7390
+NotApp :,142,*,*
+AREA # 110302,Buthidaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1191,871,2062
+ Rural,1387,7815,9202
+ Total,2578,8686,11264
+NotApp :,178,*,*
+AREA # 110351,Taungpyoletwe(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,23,135,158
+ Rural,6,342,348
+ Total,29,477,506
+NotApp :,17,*,*
+AREA # 110401,Kyaukpyu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2718,1536,4254
+ Rural,3219,29791,33010
+ Total,5937,31327,37264
+NotApp :,491,*,*
+AREA # 110402,Mannaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,705,601,1306
+ Rural,1700,11729,13429
+ Total,2405,12330,14735
+NotApp :,186,*,*
+AREA # 110403,Yanbye,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,920,1328,2248
+ Rural,1059,19111,20170
+ Total,1979,20439,22418
+NotApp :,325,*,*
+AREA # 110404,An,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1099,779,1878
+ Rural,2838,22643,25481
+ Total,3937,23422,27359
+NotApp :,324,*,*
+AREA # 110501,Thandwe,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2107,1243,3350
+ Rural,6598,21127,27725
+ Total,8705,22370,31075
+NotApp :,580,*,*
+AREA # 110502,Toungup,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3428,2750,6178
+ Rural,2340,16721,19061
+ Total,5768,19471,25239
+NotApp :,343,*,*
+AREA # 110503,Gwa,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1076,1412,2488
+ Rural,809,7948,8757
+ Total,1885,9360,11245
+NotApp :,115,*,*
+AREA # 110551,Maei(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,98,1117,1215
+ Rural,235,8503,8738
+ Total,333,9620,9953
+NotApp :,96,*,*
+AREA # 110552,Kyeintali(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,439,1036,1475
+ Rural,502,4104,4606
+ Total,941,5140,6081
+NotApp :,76,*,*
+AREA # 120101,Insein,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,45976,15700,61676
+ Total,45976,15700,61676
+NotApp :,993,*,*
+AREA # 120102,Mingaladon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,30469,11172,41641
+ Rural,14057,10605,24662
+ Total,44526,21777,66303
+NotApp :,1749,*,*
+AREA # 120103,Hmawby,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3756,2186,5942
+ Rural,24104,26423,50527
+ Total,27860,28609,56469
+NotApp :,902,*,*
+AREA # 120104,Hlegu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5789,2960,8749
+ Rural,21981,27293,49274
+ Total,27770,30253,58023
+NotApp :,1175,*,*
+AREA # 120105,Taikkyi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,9120,11239,20359
+ Rural,10723,35917,46640
+ Total,19843,47156,66999
+NotApp :,614,*,*
+AREA # 120106,Htantabin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,993,1063,2056
+ Rural,11092,21063,32155
+ Total,12085,22126,34211
+NotApp :,229,*,*
+AREA # 120107,Shwepyitha,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,34191,24320,58511
+ Rural,7768,7496,15264
+ Total,41959,31816,73775
+NotApp :,834,*,*
+AREA # 120108,Hlinethaya,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,54661,49146,103807
+ Rural,16771,28133,44904
+ Total,71432,77279,148711
+NotApp :,1246,*,*
+AREA # 120201,Thingangyun,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,35436,7884,43320
+ Total,35436,7884,43320
+NotApp :,265,*,*
+AREA # 120202,Yankin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,13270,1367,14637
+ Total,13270,1367,14637
+NotApp :,149,*,*
+AREA # 120203,South Okkalapa,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,27068,5657,32725
+ Total,27068,5657,32725
+NotApp :,418,*,*
+AREA # 120204,North Okkalapa,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,46986,17770,64756
+ Total,46986,17770,64756
+NotApp :,946,*,*
+AREA # 120205,Thakayta,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,35359,10097,45456
+ Total,35359,10097,45456
+NotApp :,451,*,*
+AREA # 120206,Dawbon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,11236,3173,14409
+ Total,11236,3173,14409
+NotApp :,154,*,*
+AREA # 120207,Tamway,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,33432,1928,35360
+ Total,33432,1928,35360
+NotApp :,633,*,*
+AREA # 120208,Pazuntaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,9704,602,10306
+ Total,9704,602,10306
+NotApp :,215,*,*
+AREA # 120209,Botahtaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,7823,574,8397
+ Total,7823,574,8397
+NotApp :,295,*,*
+AREA # 120210,Dagon Myothit(South),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,47585,29399,76984
+ Total,47585,29399,76984
+NotApp :,751,*,*
+AREA # 120211,Dagon Myothit(North),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,35386,7318,42704
+ Total,35386,7318,42704
+NotApp :,126,*,*
+AREA # 120212,Dagon Myothit(East),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,22070,9825,31895
+ Rural,868,1150,2018
+ Total,22938,10975,33913
+NotApp :,814,*,*
+AREA # 120213,Dagon Myothit(Seik),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,19158,15014,34172
+ Rural,1448,2285,3733
+ Total,20606,17299,37905
+NotApp :,383,*,*
+AREA # 120214,Mingala Taungnyunt,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,23591,2327,25918
+ Total,23591,2327,25918
+NotApp :,325,*,*
+AREA # 120301,Thanlyin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,13197,5512,18709
+ Rural,21024,21864,42888
+ Total,34221,27376,61597
+NotApp :,594,*,*
+AREA # 120302,Kyauktan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5667,4197,9864
+ Rural,9324,13788,23112
+ Total,14991,17985,32976
+NotApp :,324,*,*
+AREA # 120303,Thongwa,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3101,3655,6756
+ Rural,9477,23854,33331
+ Total,12578,27509,40087
+NotApp :,287,*,*
+AREA # 120304,Khayan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3433,4445,7878
+ Rural,7680,23756,31436
+ Total,11113,28201,39314
+NotApp :,203,*,*
+AREA # 120305,Twantay,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4220,4977,9197
+ Rural,12608,29797,42405
+ Total,16828,34774,51602
+NotApp :,365,*,*
+AREA # 120306,Kawhmu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1125,1106,2231
+ Rural,7847,19714,27561
+ Total,8972,20820,29792
+NotApp :,220,*,*
+AREA # 120307,Kungyangon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2019,1939,3958
+ Rural,7482,16912,24394
+ Total,9501,18851,28352
+NotApp :,207,*,*
+AREA # 120308,Dala,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,13152,12179,25331
+ Rural,5056,7525,12581
+ Total,18208,19704,37912
+NotApp :,211,*,*
+AREA # 120309,Seikkyi/Khanaungto,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3835,3894,7729
+ Total,3835,3894,7729
+NotApp :,39,*,*
+AREA # 120310,Cocogyun,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,93,258,351
+ Total,93,258,351
+NotApp :,8,*,*
+AREA # 120351,Tada(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,788,1702,2490
+ Rural,1611,5392,7003
+ Total,2399,7094,9493
+NotApp :,57,*,*
+AREA # 120401,Kyauktada,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5807,313,6120
+ Total,5807,313,6120
+NotApp :,412,*,*
+AREA # 120402,Pabedan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,6201,362,6563
+ Total,6201,362,6563
+NotApp :,145,*,*
+AREA # 120403,Lanmadaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,8166,433,8599
+ Total,8166,433,8599
+NotApp :,607,*,*
+AREA # 120404,Latha,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4143,330,4473
+ Total,4143,330,4473
+NotApp :,510,*,*
+AREA # 120405,Ahlon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,10069,874,10943
+ Total,10069,874,10943
+NotApp :,503,*,*
+AREA # 120406,Kyimyindine,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,17242,5820,23062
+ Total,17242,5820,23062
+NotApp :,182,*,*
+AREA # 120407,Sangyoung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,19611,1024,20635
+ Total,19611,1024,20635
+NotApp :,1228,*,*
+AREA # 120408,Hline,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,29369,3468,32837
+ Total,29369,3468,32837
+NotApp :,851,*,*
+AREA # 120409,Kamayut,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,15536,763,16299
+ Total,15536,763,16299
+NotApp :,1002,*,*
+AREA # 120410,Mayangon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,32722,6085,38807
+ Total,32722,6085,38807
+NotApp :,891,*,*
+AREA # 120411,Dagon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4397,211,4608
+ Total,4397,211,4608
+NotApp :,176,*,*
+AREA # 120412,Bahan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,16326,1100,17426
+ Total,16326,1100,17426
+NotApp :,1076,*,*
+AREA # 120413,Seikkan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,380,30,410
+ Total,380,30,410
+NotApp :,67,*,*
+AREA # 130101,Taunggyi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,38687,17961,56648
+ Rural,9774,16182,25956
+ Total,48461,34143,82604
+NotApp :,922,*,*
+AREA # 130102,Nyaungshwe,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2305,754,3059
+ Rural,12668,26907,39575
+ Total,14973,27661,42634
+NotApp :,550,*,*
+AREA # 130103,Hopon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2497,2039,4536
+ Rural,2695,17497,20192
+ Total,5192,19536,24728
+NotApp :,246,*,*
+AREA # 130104,Hsihseng,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1270,1379,2649
+ Rural,3485,26637,30122
+ Total,4755,28016,32771
+NotApp :,323,*,*
+AREA # 130105,Kalaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,8416,4182,12598
+ Rural,8484,20259,28743
+ Total,16900,24441,41341
+NotApp :,409,*,*
+AREA # 130106,Pindaya,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1333,926,2259
+ Rural,1516,13769,15285
+ Total,2849,14695,17544
+NotApp :,214,*,*
+AREA # 130107,Ywarngan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,760,395,1155
+ Rural,1447,15746,17193
+ Total,2207,16141,18348
+NotApp :,248,*,*
+AREA # 130108,Yatsauk,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3893,1784,5677
+ Rural,4428,15852,20280
+ Total,8321,17636,25957
+NotApp :,294,*,*
+AREA # 130109,Pinlaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2109,661,2770
+ Rural,4254,18480,22734
+ Total,6363,19141,25504
+NotApp :,214,*,*
+AREA # 130110,Phekon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1614,1817,3431
+ Rural,2701,13952,16653
+ Total,4315,15769,20084
+NotApp :,187,*,*
+AREA # 130151,Kyauktalongyi(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,112,490,602
+ Rural,2187,9476,11663
+ Total,2299,9966,12265
+NotApp :,78,*,*
+AREA # 130152,Indaw(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,950,886,1836
+ Rural,500,5814,6314
+ Total,1450,6700,8150
+NotApp :,120,*,*
+AREA # 130153,Naungtayar(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,722,257,979
+ Rural,2747,12853,15600
+ Total,3469,13110,16579
+NotApp :,149,*,*
+AREA # 130201,Loilem,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1811,1042,2853
+ Rural,947,7101,8048
+ Total,2758,8143,10901
+NotApp :,112,*,*
+AREA # 130202,Le`char,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,959,371,1330
+ Rural,1339,6121,7460
+ Total,2298,6492,8790
+NotApp :,101,*,*
+AREA # 130203,Nanhsam(South),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3442,1399,4841
+ Rural,2493,11529,14022
+ Total,5935,12928,18863
+NotApp :,264,*,*
+AREA # 130204,Kunhing,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,997,545,1542
+ Rural,559,2469,3028
+ Total,1556,3014,4570
+NotApp :,122,*,*
+AREA # 130205,Kehsi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,251,591,842
+ Rural,547,7512,8059
+ Total,798,8103,8901
+NotApp :,109,*,*
+AREA # 130206,Mongkai,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,612,1607,2219
+ Rural,217,13896,14113
+ Total,829,15503,16332
+NotApp :,213,*,*
+AREA # 130207,Mineshu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1147,936,2083
+ Rural,979,6139,7118
+ Total,2126,7075,9201
+NotApp :,161,*,*
+AREA # 130251,Panglong(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2882,2342,5224
+ Rural,1253,8039,9292
+ Total,4135,10381,14516
+NotApp :,104,*,*
+AREA # 130252,Kholan(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1097,651,1748
+ Rural,667,1949,2616
+ Total,1764,2600,4364
+NotApp :,145,*,*
+AREA # 130253,Karli(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1050,615,1665
+ Rural,574,4328,4902
+ Total,1624,4943,6567
+NotApp :,80,*,*
+AREA # 130254,Minenaung(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,52,700,752
+ Rural,183,4876,5059
+ Total,235,5576,5811
+NotApp :,69,*,*
+AREA # 130255,Minesan(Monsan)(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,45,462,507
+ Rural,1311,4848,6159
+ Total,1356,5310,6666
+NotApp :,259,*,*
+AREA # 130301,Linkhe`,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1508,210,1718
+ Rural,1880,4790,6670
+ Total,3388,5000,8388
+NotApp :,100,*,*
+AREA # 130302,Mone`,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1104,999,2103
+ Rural,561,3560,4121
+ Total,1665,4559,6224
+NotApp :,66,*,*
+AREA # 130303,Maukme`,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,208,984,1192
+ Rural,54,5948,6002
+ Total,262,6932,7194
+NotApp :,191,*,*
+AREA # 130304,Minepan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1283,676,1959
+ Rural,1090,2372,3462
+ Total,2373,3048,5421
+NotApp :,165,*,*
+AREA # 130351,Homane(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,11,663,674
+ Rural,2,484,486
+ Total,13,1147,1160
+NotApp :,17,*,*
+AREA # 130352,Kengtaung(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,156,1941,2097
+ Rural,-,164,164
+ Total,156,2105,2261
+NotApp :,46,*,*
+AREA # 130401,Lashio,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,24466,9633,34099
+ Rural,5652,25181,30833
+ Total,30118,34814,64932
+NotApp :,881,*,*
+AREA # 130402,Theinni,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1625,298,1923
+ Rural,3462,6394,9856
+ Total,5087,6692,11779
+NotApp :,116,*,*
+AREA # 130403,Mineye`,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,859,611,1470
+ Rural,942,10916,11858
+ Total,1801,11527,13328
+NotApp :,139,*,*
+AREA # 130404,Tantyan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2876,3932,6808
+ Rural,822,27512,28334
+ Total,3698,31444,35142
+NotApp :,291,*,*
+AREA # 130501,MuSe,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,11069,2265,13334
+ Rural,4768,4112,8880
+ Total,15837,6377,22214
+NotApp :,873,*,*
+AREA # 130502,Namkham,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5266,866,6132
+ Rural,7509,7776,15285
+ Total,12775,8642,21417
+NotApp :,200,*,*
+AREA # 130503,Kukai,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2962,1721,4683
+ Rural,2074,12274,14348
+ Total,5036,13995,19031
+NotApp :,175,*,*
+AREA # 130551,Monekoe(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1372,97,1469
+ Rural,1677,1212,2889
+ Total,3049,1309,4358
+NotApp :,29,*,*
+AREA # 130552,Manhero(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,319,27,346
+ Rural,1152,145,1297
+ Total,1471,172,1643
+NotApp :,30,*,*
+AREA # 130553,Pansai(KyuKute)(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1623,145,1768
+ Rural,1125,1650,2775
+ Total,2748,1795,4543
+NotApp :,51,*,*
+AREA # 130554,Tamoenye(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1291,1196,2487
+ Rural,425,10137,10562
+ Total,1716,11333,13049
+NotApp :,45,*,*
+AREA # 130601,Kyukme,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5758,2895,8653
+ Rural,4810,14908,19718
+ Total,10568,17803,28371
+NotApp :,367,*,*
+AREA # 130602,Naungkhio,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2606,1565,4171
+ Rural,7803,20250,28053
+ Total,10409,21815,32224
+NotApp :,365,*,*
+AREA # 130603,Hsipaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2930,1079,4009
+ Rural,7270,26627,33897
+ Total,10200,27706,37906
+NotApp :,454,*,*
+AREA # 130604,Namtu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,611,2646,3257
+ Rural,612,7772,8384
+ Total,1223,10418,11641
+NotApp :,153,*,*
+AREA # 130605,Namsan(North),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,384,551,935
+ Rural,954,11796,12750
+ Total,1338,12347,13685
+NotApp :,265,*,*
+AREA # 130606,Momeik,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1266,967,2233
+ Rural,2293,9126,11419
+ Total,3559,10093,13652
+NotApp :,177,*,*
+AREA # 130607,Mabane,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,522,192,714
+ Rural,2867,5051,7918
+ Total,3389,5243,8632
+NotApp :,266,*,*
+AREA # 130608,Manton,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,243,536,779
+ Rural,178,6726,6904
+ Total,421,7262,7683
+NotApp :,136,*,*
+AREA # 130651,Minengaw(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,171,442,613
+ Rural,148,3268,3416
+ Total,319,3710,4029
+NotApp :,98,*,*
+AREA # 130652,Minelon(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,134,452,586
+ Rural,213,5057,5270
+ Total,347,5509,5856
+NotApp :,201,*,*
+AREA # 130701,Kunlon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,468,690,1158
+ Rural,2001,7233,9234
+ Total,2469,7923,10392
+NotApp :,158,*,*
+AREA # 130801,Laukine,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2811,130,2941
+ Rural,7389,3901,11290
+ Total,10200,4031,14231
+NotApp :,557,*,*
+AREA # 130802,Kongyan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,161,33,194
+ Rural,1569,3699,5268
+ Total,1730,3732,5462
+NotApp :,14,*,*
+AREA # 130851,Chinshwehaw(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,400,219,619
+ Rural,175,156,331
+ Total,575,375,950
+NotApp :,28,*,*
+AREA # 130852,Mawhtike(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,81,4,85
+ Rural,2870,1248,4118
+ Total,2951,1252,4203
+NotApp :,14,*,*
+AREA # 130901,Hopan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2399,979,3378
+ Rural,2493,4160,6653
+ Total,4892,5139,10031
+NotApp :,72,*,*
+AREA # 130902,Minemaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,684,169,853
+ Rural,3755,5837,9592
+ Total,4439,6006,10445
+NotApp :,71,*,*
+AREA # 130903,Panwine,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,382,87,469
+ Rural,6856,6644,13500
+ Total,7238,6731,13969
+NotApp :,8,*,*
+AREA # 130952,Panlon(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,89,572,661
+ Rural,97,427,524
+ Total,186,999,1185
+NotApp :,26,*,*
+AREA # 131001,Makman,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,41,26,67
+ Rural,109,3142,3251
+ Total,150,3168,3318
+NotApp :,55,*,*
+AREA # 131002,Pan San(Pan Kham),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1950,72,2022
+ Rural,5166,8954,14120
+ Total,7116,9026,16142
+NotApp :,744,*,*
+AREA # 131003,Naphang,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,132,23,155
+ Rural,4897,11422,16319
+ Total,5029,11445,16474
+NotApp :,40,*,*
+AREA # 131051,ManKan(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,29,52,81
+ Rural,13,221,234
+ Total,42,273,315
+NotApp :,19,*,*
+AREA # 131101,Kengtung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,7150,1952,9102
+ Rural,9466,15528,24994
+ Total,16616,17480,34096
+NotApp :,512,*,*
+AREA # 131102,Minekat,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,276,282,558
+ Rural,644,6823,7467
+ Total,920,7105,8025
+NotApp :,133,*,*
+AREA # 131103,Mineyan,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,751,238,989
+ Rural,3995,5135,9130
+ Total,4746,5373,10119
+NotApp :,153,*,*
+AREA # 131104,Minelar,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1522,38,1560
+ Rural,1369,2279,3648
+ Total,2891,2317,5208
+NotApp :,231,*,*
+AREA # 131151,Mine Pauk(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Rural,5359,3926,9285
+ Total,5359,3926,9285
+NotApp :,65,*,*
+AREA # 131201,Minesat,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1104,457,1561
+ Rural,1911,12437,14348
+ Total,3015,12894,15909
+NotApp :,313,*,*
+AREA # 131202,Minepyin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,901,432,1333
+ Rural,1122,8150,9272
+ Total,2023,8582,10605
+NotApp :,144,*,*
+AREA # 131203,Minetung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,854,265,1119
+ Rural,383,2756,3139
+ Total,1237,3021,4258
+NotApp :,57,*,*
+AREA # 131251,Minekoke(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,79,205,284
+ Rural,226,2692,2918
+ Total,305,2897,3202
+NotApp :,77,*,*
+AREA # 131252,Tontar(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,104,323,427
+ Rural,72,2195,2267
+ Total,176,2518,2694
+NotApp :,33,*,*
+AREA # 131253,Ponparkyin(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,71,650,721
+ Rural,848,5765,6613
+ Total,919,6415,7334
+NotApp :,83,*,*
+AREA # 131254,Monehta(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3,88,91
+ Rural,12,826,838
+ Total,15,914,929
+NotApp :,3,*,*
+AREA # 131301,Tachileik,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,9913,1181,11094
+ Rural,13017,7068,20085
+ Total,22930,8249,31179
+NotApp :,515,*,*
+AREA # 131351,Talay(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,499,374,873
+ Rural,663,2482,3145
+ Total,1162,2856,4018
+NotApp :,85,*,*
+AREA # 131352,Kenglat(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,714,48,762
+ Rural,749,965,1714
+ Total,1463,1013,2476
+NotApp :,39,*,*
+AREA # 131401,Minephyat,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1000,323,1323
+ Rural,1354,3488,4842
+ Total,2354,3811,6165
+NotApp :,161,*,*
+AREA # 131402,Mineyaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,867,323,1190
+ Rural,1184,3955,5139
+ Total,2051,4278,6329
+NotApp :,131,*,*
+AREA # 131451,Mineyu(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,28,203,231
+ Rural,7497,3139,10636
+ Total,7525,3342,10867
+NotApp :,165,*,*
+AREA # 140101,Kangyidaunt,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1141,1533,2674
+ Rural,8102,32190,40292
+ Total,9243,33723,42966
+NotApp :,345,*,*
+AREA # 140102,Kyaungon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1696,2254,3950
+ Rural,6311,31141,37452
+ Total,8007,33395,41402
+NotApp :,278,*,*
+AREA # 140103,Kyonpyaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2355,3644,5999
+ Rural,5744,47745,53489
+ Total,8099,51389,59488
+NotApp :,394,*,*
+AREA # 140104,Ngaputaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,910,1631,2541
+ Rural,3387,31448,34835
+ Total,4297,33079,37376
+NotApp :,231,*,*
+AREA # 140105,Pathein,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,21620,15821,37441
+ Rural,7953,20642,28595
+ Total,29573,36463,66036
+NotApp :,851,*,*
+AREA # 140106,Yekyi,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1355,1411,2766
+ Rural,5556,19480,25036
+ Total,6911,20891,27802
+NotApp :,199,*,*
+AREA # 140107,Thapaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,818,922,1740
+ Rural,5816,29681,35497
+ Total,6634,30603,37237
+NotApp :,376,*,*
+AREA # 140151,Ngayokaung(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,176,657,833
+ Rural,666,8702,9368
+ Total,842,9359,10201
+NotApp :,68,*,*
+AREA # 140152,Hainggyikyun(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,647,2902,3549
+ Rural,2835,22691,25526
+ Total,3482,25593,29075
+NotApp :,204,*,*
+AREA # 140153,Shwethaungyan(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,252,567,819
+ Rural,2812,6550,9362
+ Total,3064,7117,10181
+NotApp :,202,*,*
+AREA # 140154,Ngwehsaung(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1578,1097,2675
+ Rural,1858,4937,6795
+ Total,3436,6034,9470
+NotApp :,180,*,*
+AREA # 140155,Ngathaingchaung(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1837,2760,4597
+ Rural,2494,15822,18316
+ Total,4331,18582,22913
+NotApp :,199,*,*
+AREA # 140201,Kyaiklatt,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2187,3230,5417
+ Rural,4918,33413,38331
+ Total,7105,36643,43748
+NotApp :,526,*,*
+AREA # 140202,Daydaye,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1692,1874,3566
+ Rural,7815,37229,45044
+ Total,9507,39103,48610
+NotApp :,479,*,*
+AREA # 140203,Phyapon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4894,5160,10054
+ Rural,6704,24872,31576
+ Total,11598,30032,41630
+NotApp :,366,*,*
+AREA # 140204,Bogale,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4128,5987,10115
+ Rural,8894,56978,65872
+ Total,13022,62965,75987
+NotApp :,607,*,*
+AREA # 140251,Ahmar(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,249,528,777
+ Rural,3652,23357,27009
+ Total,3901,23885,27786
+NotApp :,383,*,*
+AREA # 140301,Nyaungdon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3018,2882,5900
+ Rural,10610,34691,45301
+ Total,13628,37573,51201
+NotApp :,457,*,*
+AREA # 140302,Danubyu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2476,2704,5180
+ Rural,5642,33975,39617
+ Total,8118,36679,44797
+NotApp :,310,*,*
+AREA # 140303,Pantanaw,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1784,2508,4292
+ Rural,7458,48527,55985
+ Total,9242,51035,60277
+NotApp :,434,*,*
+AREA # 140304,Maubin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,4648,4489,9137
+ Rural,9189,53478,62667
+ Total,13837,57967,71804
+NotApp :,629,*,*
+AREA # 140401,Myaungmya,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5713,6800,12513
+ Rural,6474,47185,53659
+ Total,12187,53985,66172
+NotApp :,571,*,*
+AREA # 140402,Wakema,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2338,2967,5305
+ Rural,9057,53086,62143
+ Total,11395,56053,67448
+NotApp :,575,*,*
+AREA # 140403,Einme,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1655,1391,3046
+ Rural,5341,38068,43409
+ Total,6996,39459,46455
+NotApp :,362,*,*
+AREA # 140501,Mawlamyinegyun,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3282,4301,7583
+ Rural,7641,59662,67303
+ Total,10923,63963,74886
+NotApp :,436,*,*
+AREA # 140502,Labutta,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3012,4191,7203
+ Rural,4949,42994,47943
+ Total,7961,47185,55146
+NotApp :,425,*,*
+AREA # 140551,Pyinsalu(ST),*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,70,431,501
+ Rural,1386,18550,19936
+ Total,1456,18981,20437
+NotApp :,161,*,*
+AREA # 140601,Kyangin,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2037,3269,5306
+ Rural,3216,18335,21551
+ Total,5253,21604,26857
+NotApp :,241,*,*
+AREA # 140602,Zalun,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2142,3115,5257
+ Rural,6121,30695,36816
+ Total,8263,33810,42073
+NotApp :,220,*,*
+AREA # 140603,Myanaung,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2568,3481,6049
+ Rural,6777,47094,53871
+ Total,9345,50575,59920
+NotApp :,437,*,*
+AREA # 140604,Laymyethna,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,414,356,770
+ Rural,3323,22151,25474
+ Total,3737,22507,26244
+NotApp :,310,*,*
+AREA # 140605,Hinthada,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,9473,10356,19829
+ Rural,10765,55535,66300
+ Total,20238,65891,86129
+NotApp :,639,*,*
+AREA # 140606,Ingapu,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1542,2036,3578
+ Rural,8659,44992,53651
+ Total,10201,47028,57229
+NotApp :,515,*,*
+AREA # 150101,Tatkon,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,5063,4083,9146
+ Rural,13105,29496,42601
+ Total,18168,33579,51747
+NotApp :,415,*,*
+AREA # 150102,Zeyarthiri,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,6316,1930,8246
+ Rural,7876,9953,17829
+ Total,14192,11883,26075
+NotApp :,326,*,*
+AREA # 150103,Ottarathiri,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,2761,2134,4895
+ Rural,4801,8965,13766
+ Total,7562,11099,18661
+NotApp :,325,*,*
+AREA # 150104,Pobbathiri,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,6479,3769,10248
+ Rural,7634,9734,17368
+ Total,14113,13503,27616
+NotApp :,382,*,*
+AREA # 150201,Pyinmana,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,9539,4917,14456
+ Rural,9581,15626,25207
+ Total,19120,20543,39663
+NotApp :,695,*,*
+AREA # 150202,Lewe,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,3468,2655,6123
+ Rural,17007,42044,59051
+ Total,20475,44699,65174
+NotApp :,584,*,*
+AREA # 150203,Zabuthiri,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,21031,3691,24722
+ Rural,765,833,1598
+ Total,21796,4524,26320
+NotApp :,869,*,*
+AREA # 150204,Dekkhinathiri,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,625,283,908
+ Rural,2244,3845,6089
+ Total,2869,4128,6997
+NotApp :,205,*,*
+SUMMARY,*,*,*
+Urban/Rural,Mobile phone,*,*
+*,Yes,No,Total
+ Urban,1937391,1112042,3049433
+ Rural,1644360,6184039,7828399
+ Total,3581751,7296081,10877832
+NotApp :,137752,*,*

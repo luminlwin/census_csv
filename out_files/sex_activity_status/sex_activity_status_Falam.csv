@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1067,943,2010,Falam,MMR004001
+" Employee (Private, Org)",1307,555,1862,Falam,MMR004001
+ Employer,114,34,148,Falam,MMR004001
+ Own account worker,3807,2309,6116,Falam,MMR004001
+ Contributing family worker,3308,4737,8045,Falam,MMR004001
+ Sought work,457,342,799,Falam,MMR004001
+ Did not seek work,116,103,219,Falam,MMR004001
+ Full time student,3654,3943,7597,Falam,MMR004001
+ Household work,296,1874,2170,Falam,MMR004001
+" Pensioner, retired, elderly person",594,660,1254,Falam,MMR004001
+" Ill, disabled",226,287,513,Falam,MMR004001
+ Other,237,168,405,Falam,MMR004001
+ Total,15183,15955,31138,Falam,MMR004001

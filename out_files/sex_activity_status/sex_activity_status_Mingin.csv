@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),739,783,1522,Mingin,MMR005029
+" Employee (Private, Org)",3996,2359,6355,Mingin,MMR005029
+ Employer,710,207,917,Mingin,MMR005029
+ Own account worker,17117,6517,23634,Mingin,MMR005029
+ Contributing family worker,4925,8595,13520,Mingin,MMR005029
+ Sought work,1366,1230,2596,Mingin,MMR005029
+ Did not seek work,93,52,145,Mingin,MMR005029
+ Full time student,6443,6619,13062,Mingin,MMR005029
+ Household work,510,13989,14499,Mingin,MMR005029
+" Pensioner, retired, elderly person",2085,2831,4916,Mingin,MMR005029
+" Ill, disabled",237,243,480,Mingin,MMR005029
+ Other,1331,600,1931,Mingin,MMR005029
+ Total,39552,44025,83577,Mingin,MMR005029

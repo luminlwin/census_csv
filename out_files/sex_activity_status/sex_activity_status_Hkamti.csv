@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1176,523,1699,Hkamti,MMR005033
+" Employee (Private, Org)",6710,1203,7913,Hkamti,MMR005033
+ Employer,641,206,847,Hkamti,MMR005033
+ Own account worker,6428,3393,9821,Hkamti,MMR005033
+ Contributing family worker,2347,2736,5083,Hkamti,MMR005033
+ Sought work,421,182,603,Hkamti,MMR005033
+ Did not seek work,60,29,89,Hkamti,MMR005033
+ Full time student,2747,2892,5639,Hkamti,MMR005033
+ Household work,404,3979,4383,Hkamti,MMR005033
+" Pensioner, retired, elderly person",356,593,949,Hkamti,MMR005033
+" Ill, disabled",86,88,174,Hkamti,MMR005033
+ Other,723,293,1016,Hkamti,MMR005033
+ Total,22099,16117,38216,Hkamti,MMR005033

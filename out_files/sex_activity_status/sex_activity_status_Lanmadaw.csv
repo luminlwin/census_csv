@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),875,1352,2227,Lanmadaw,MMR013035
+" Employee (Private, Org)",6386,7452,13838,Lanmadaw,MMR013035
+ Employer,1088,461,1549,Lanmadaw,MMR013035
+ Own account worker,3122,2049,5171,Lanmadaw,MMR013035
+ Contributing family worker,717,725,1442,Lanmadaw,MMR013035
+ Sought work,601,491,1092,Lanmadaw,MMR013035
+ Did not seek work,132,82,214,Lanmadaw,MMR013035
+ Full time student,2775,3133,5908,Lanmadaw,MMR013035
+ Household work,184,6840,7024,Lanmadaw,MMR013035
+" Pensioner, retired, elderly person",1466,2092,3558,Lanmadaw,MMR013035
+" Ill, disabled",117,130,247,Lanmadaw,MMR013035
+ Other,1196,683,1879,Lanmadaw,MMR013035
+ Total,18659,25490,44149,Lanmadaw,MMR013035

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),848,107,955,Karathuri(ST),MMR006010
+" Employee (Private, Org)",2944,829,3773,Karathuri(ST),MMR006010
+ Employer,142,21,163,Karathuri(ST),MMR006010
+ Own account worker,1523,443,1966,Karathuri(ST),MMR006010
+ Contributing family worker,796,603,1399,Karathuri(ST),MMR006010
+ Sought work,69,41,110,Karathuri(ST),MMR006010
+ Did not seek work,21,64,85,Karathuri(ST),MMR006010
+ Full time student,947,992,1939,Karathuri(ST),MMR006010
+ Household work,57,2742,2799,Karathuri(ST),MMR006010
+" Pensioner, retired, elderly person",130,208,338,Karathuri(ST),MMR006010
+" Ill, disabled",27,18,45,Karathuri(ST),MMR006010
+ Other,221,128,349,Karathuri(ST),MMR006010
+ Total,7725,6196,13921,Karathuri(ST),MMR006010

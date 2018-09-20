@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),212,225,437,Tada(ST),MMR013024
+" Employee (Private, Org)",5513,1011,6524,Tada(ST),MMR013024
+ Employer,1796,267,2063,Tada(ST),MMR013024
+ Own account worker,2656,820,3476,Tada(ST),MMR013024
+ Contributing family worker,741,601,1342,Tada(ST),MMR013024
+ Sought work,285,157,442,Tada(ST),MMR013024
+ Did not seek work,110,69,179,Tada(ST),MMR013024
+ Full time student,1517,1390,2907,Tada(ST),MMR013024
+ Household work,177,9283,9460,Tada(ST),MMR013024
+" Pensioner, retired, elderly person",556,857,1413,Tada(ST),MMR013024
+" Ill, disabled",128,107,235,Tada(ST),MMR013024
+ Other,481,93,574,Tada(ST),MMR013024
+ Total,14172,14880,29052,Tada(ST),MMR013024

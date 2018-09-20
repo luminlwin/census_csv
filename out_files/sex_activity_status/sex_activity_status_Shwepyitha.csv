@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),5466,3208,8674,Shwepyitha,MMR013007
+" Employee (Private, Org)",62996,38934,101930,Shwepyitha,MMR013007
+ Employer,2330,1199,3529,Shwepyitha,MMR013007
+ Own account worker,21760,16074,37834,Shwepyitha,MMR013007
+ Contributing family worker,2027,3364,5391,Shwepyitha,MMR013007
+ Sought work,3925,2240,6165,Shwepyitha,MMR013007
+ Did not seek work,751,527,1278,Shwepyitha,MMR013007
+ Full time student,19767,19184,38951,Shwepyitha,MMR013007
+ Household work,1549,53307,54856,Shwepyitha,MMR013007
+" Pensioner, retired, elderly person",8445,9291,17736,Shwepyitha,MMR013007
+" Ill, disabled",1214,932,2146,Shwepyitha,MMR013007
+ Other,6523,3922,10445,Shwepyitha,MMR013007
+ Total,136753,152182,288935,Shwepyitha,MMR013007

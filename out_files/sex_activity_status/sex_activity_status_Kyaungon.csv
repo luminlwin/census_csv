@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),890,1149,2039,Kyaungon,MMR017007
+" Employee (Private, Org)",22234,12683,34917,Kyaungon,MMR017007
+ Employer,6960,1738,8698,Kyaungon,MMR017007
+ Own account worker,13647,6444,20091,Kyaungon,MMR017007
+ Contributing family worker,4560,6969,11529,Kyaungon,MMR017007
+ Sought work,1005,905,1910,Kyaungon,MMR017007
+ Did not seek work,150,113,263,Kyaungon,MMR017007
+ Full time student,8013,8400,16413,Kyaungon,MMR017007
+ Household work,542,25725,26267,Kyaungon,MMR017007
+" Pensioner, retired, elderly person",2338,3429,5767,Kyaungon,MMR017007
+" Ill, disabled",693,720,1413,Kyaungon,MMR017007
+ Other,2381,1281,3662,Kyaungon,MMR017007
+ Total,63413,69556,132969,Kyaungon,MMR017007

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),413,91,504,Meisi,MMR002007
+" Employee (Private, Org)",446,188,634,Meisi,MMR002007
+ Employer,21,11,32,Meisi,MMR002007
+ Own account worker,897,285,1182,Meisi,MMR002007
+ Contributing family worker,309,522,831,Meisi,MMR002007
+ Sought work,48,19,67,Meisi,MMR002007
+ Did not seek work,1,3,4,Meisi,MMR002007
+ Full time student,323,372,695,Meisi,MMR002007
+ Household work,15,616,631,Meisi,MMR002007
+" Pensioner, retired, elderly person",46,64,110,Meisi,MMR002007
+" Ill, disabled",15,3,18,Meisi,MMR002007
+ Other,81,33,114,Meisi,MMR002007
+ Total,2615,2207,4822,Meisi,MMR002007

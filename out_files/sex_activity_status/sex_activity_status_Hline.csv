@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),3968,5016,8984,Hline,MMR013040
+" Employee (Private, Org)",24037,16978,41015,Hline,MMR013040
+ Employer,2170,907,3077,Hline,MMR013040
+ Own account worker,11699,7828,19527,Hline,MMR013040
+ Contributing family worker,1999,1485,3484,Hline,MMR013040
+ Sought work,2442,1577,4019,Hline,MMR013040
+ Did not seek work,358,183,541,Hline,MMR013040
+ Full time student,10462,9853,20315,Hline,MMR013040
+ Household work,710,24166,24876,Hline,MMR013040
+" Pensioner, retired, elderly person",5202,6180,11382,Hline,MMR013040
+" Ill, disabled",498,456,954,Hline,MMR013040
+ Other,3151,2819,5970,Hline,MMR013040
+ Total,66696,77448,144144,Hline,MMR013040

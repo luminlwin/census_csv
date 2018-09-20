@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2346,2093,4439,Pyigyidagun,MMR010005
+" Employee (Private, Org)",50468,21368,71836,Pyigyidagun,MMR010005
+ Employer,4226,924,5150,Pyigyidagun,MMR010005
+ Own account worker,14249,11573,25822,Pyigyidagun,MMR010005
+ Contributing family worker,2251,2049,4300,Pyigyidagun,MMR010005
+ Sought work,1832,1201,3033,Pyigyidagun,MMR010005
+ Did not seek work,364,322,686,Pyigyidagun,MMR010005
+ Full time student,12873,13253,26126,Pyigyidagun,MMR010005
+ Household work,952,36070,37022,Pyigyidagun,MMR010005
+" Pensioner, retired, elderly person",4576,5642,10218,Pyigyidagun,MMR010005
+" Ill, disabled",606,431,1037,Pyigyidagun,MMR010005
+ Other,5942,2638,8580,Pyigyidagun,MMR010005
+ Total,100685,97564,198249,Pyigyidagun,MMR010005

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1240,1500,2740,Danubyu,MMR017022
+" Employee (Private, Org)",17896,8554,26450,Danubyu,MMR017022
+ Employer,3251,799,4050,Danubyu,MMR017022
+ Own account worker,18931,8949,27880,Danubyu,MMR017022
+ Contributing family worker,4085,4674,8759,Danubyu,MMR017022
+ Sought work,1383,990,2373,Danubyu,MMR017022
+ Did not seek work,153,89,242,Danubyu,MMR017022
+ Full time student,8612,8826,17438,Danubyu,MMR017022
+ Household work,787,32583,33370,Danubyu,MMR017022
+" Pensioner, retired, elderly person",3453,5204,8657,Danubyu,MMR017022
+" Ill, disabled",776,752,1528,Danubyu,MMR017022
+ Other,8975,4867,13842,Danubyu,MMR017022
+ Total,69542,77787,147329,Danubyu,MMR017022

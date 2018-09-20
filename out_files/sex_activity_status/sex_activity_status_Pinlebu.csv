@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),858,878,1736,Pinlebu,MMR005026
+" Employee (Private, Org)",1987,829,2816,Pinlebu,MMR005026
+ Employer,273,97,370,Pinlebu,MMR005026
+ Own account worker,16558,5224,21782,Pinlebu,MMR005026
+ Contributing family worker,5960,11441,17401,Pinlebu,MMR005026
+ Sought work,3385,2859,6244,Pinlebu,MMR005026
+ Did not seek work,252,158,410,Pinlebu,MMR005026
+ Full time student,5513,5801,11314,Pinlebu,MMR005026
+ Household work,764,14390,15154,Pinlebu,MMR005026
+" Pensioner, retired, elderly person",2768,5025,7793,Pinlebu,MMR005026
+" Ill, disabled",263,314,577,Pinlebu,MMR005026
+ Other,1531,680,2211,Pinlebu,MMR005026
+ Total,40112,47696,87808,Pinlebu,MMR005026

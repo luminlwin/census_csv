@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),216,135,351,Naungmoon,MMR001017
+" Employee (Private, Org)",97,39,136,Naungmoon,MMR001017
+ Employer,1,3,4,Naungmoon,MMR001017
+ Own account worker,592,137,729,Naungmoon,MMR001017
+ Contributing family worker,77,267,344,Naungmoon,MMR001017
+ Sought work,284,130,414,Naungmoon,MMR001017
+ Did not seek work,9,9,18,Naungmoon,MMR001017
+ Full time student,542,558,1100,Naungmoon,MMR001017
+ Household work,37,591,628,Naungmoon,MMR001017
+" Pensioner, retired, elderly person",63,59,122,Naungmoon,MMR001017
+" Ill, disabled",17,36,53,Naungmoon,MMR001017
+ Other,17,6,23,Naungmoon,MMR001017
+ Total,1952,1970,3922,Naungmoon,MMR001017

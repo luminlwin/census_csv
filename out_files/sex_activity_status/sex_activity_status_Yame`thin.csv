@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),3302,1898,5200,Yame`thin,MMR010023
+" Employee (Private, Org)",18471,8775,27246,Yame`thin,MMR010023
+ Employer,2757,1090,3847,Yame`thin,MMR010023
+ Own account worker,41773,18612,60385,Yame`thin,MMR010023
+ Contributing family worker,11395,18266,29661,Yame`thin,MMR010023
+ Sought work,2197,1692,3889,Yame`thin,MMR010023
+ Did not seek work,272,142,414,Yame`thin,MMR010023
+ Full time student,13968,13114,27082,Yame`thin,MMR010023
+ Household work,1349,38555,39904,Yame`thin,MMR010023
+" Pensioner, retired, elderly person",5163,7603,12766,Yame`thin,MMR010023
+" Ill, disabled",723,780,1503,Yame`thin,MMR010023
+ Other,2291,732,3023,Yame`thin,MMR010023
+ Total,103661,111259,214920,Yame`thin,MMR010023

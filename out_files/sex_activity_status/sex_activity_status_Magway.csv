@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),6924,5678,12602,Magway,MMR009001
+" Employee (Private, Org)",30545,20138,50683,Magway,MMR009001
+ Employer,5399,2374,7773,Magway,MMR009001
+ Own account worker,26242,14740,40982,Magway,MMR009001
+ Contributing family worker,7895,12637,20532,Magway,MMR009001
+ Sought work,2064,1712,3776,Magway,MMR009001
+ Did not seek work,377,241,618,Magway,MMR009001
+ Full time student,16232,16834,33066,Magway,MMR009001
+ Household work,1322,42172,43494,Magway,MMR009001
+" Pensioner, retired, elderly person",6424,8825,15249,Magway,MMR009001
+" Ill, disabled",913,831,1744,Magway,MMR009001
+ Other,6173,3936,10109,Magway,MMR009001
+ Total,110510,130118,240628,Magway,MMR009001

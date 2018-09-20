@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),8887,7170,16057,Insein,MMR013001
+" Employee (Private, Org)",47766,29048,76814,Insein,MMR013001
+ Employer,2365,1087,3452,Insein,MMR013001
+ Own account worker,20903,16308,37211,Insein,MMR013001
+ Contributing family worker,2598,2597,5195,Insein,MMR013001
+ Sought work,3977,2275,6252,Insein,MMR013001
+ Did not seek work,704,352,1056,Insein,MMR013001
+ Full time student,18994,19322,38316,Insein,MMR013001
+ Household work,1330,46474,47804,Insein,MMR013001
+" Pensioner, retired, elderly person",8680,9804,18484,Insein,MMR013001
+" Ill, disabled",1053,880,1933,Insein,MMR013001
+ Other,8504,4109,12613,Insein,MMR013001
+ Total,125761,139426,265187,Insein,MMR013001

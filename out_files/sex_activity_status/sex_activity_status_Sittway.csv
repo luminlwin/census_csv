@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),7178,4168,11346,Sittway,MMR012001
+" Employee (Private, Org)",11498,4750,16248,Sittway,MMR012001
+ Employer,1834,787,2621,Sittway,MMR012001
+ Own account worker,11831,6910,18741,Sittway,MMR012001
+ Contributing family worker,1696,1863,3559,Sittway,MMR012001
+ Sought work,3570,2770,6340,Sittway,MMR012001
+ Did not seek work,854,565,1419,Sittway,MMR012001
+ Full time student,10824,10420,21244,Sittway,MMR012001
+ Household work,839,27022,27861,Sittway,MMR012001
+" Pensioner, retired, elderly person",3151,4208,7359,Sittway,MMR012001
+" Ill, disabled",368,323,691,Sittway,MMR012001
+ Other,4732,2214,6946,Sittway,MMR012001
+ Total,58375,66000,124375,Sittway,MMR012001

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1879,1883,3762,Thapaung,MMR017003
+" Employee (Private, Org)",15042,6655,21697,Thapaung,MMR017003
+ Employer,6105,1213,7318,Thapaung,MMR017003
+ Own account worker,14656,5446,20102,Thapaung,MMR017003
+ Contributing family worker,4951,6005,10956,Thapaung,MMR017003
+ Sought work,1363,901,2264,Thapaung,MMR017003
+ Did not seek work,227,147,374,Thapaung,MMR017003
+ Full time student,8376,8832,17208,Thapaung,MMR017003
+ Household work,762,26474,27236,Thapaung,MMR017003
+" Pensioner, retired, elderly person",1877,2868,4745,Thapaung,MMR017003
+" Ill, disabled",533,530,1063,Thapaung,MMR017003
+ Other,4000,2174,6174,Thapaung,MMR017003
+ Total,59771,63128,122899,Thapaung,MMR017003

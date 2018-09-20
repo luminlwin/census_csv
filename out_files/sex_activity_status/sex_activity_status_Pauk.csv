@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1900,1265,3165,Pauk,MMR009021
+" Employee (Private, Org)",10586,6145,16731,Pauk,MMR009021
+ Employer,915,479,1394,Pauk,MMR009021
+ Own account worker,20828,7580,28408,Pauk,MMR009021
+ Contributing family worker,6802,9895,16697,Pauk,MMR009021
+ Sought work,2451,2606,5057,Pauk,MMR009021
+ Did not seek work,214,206,420,Pauk,MMR009021
+ Full time student,10437,10872,21309,Pauk,MMR009021
+ Household work,638,28107,28745,Pauk,MMR009021
+" Pensioner, retired, elderly person",3524,5256,8780,Pauk,MMR009021
+" Ill, disabled",728,789,1517,Pauk,MMR009021
+ Other,2068,1199,3267,Pauk,MMR009021
+ Total,61091,74399,135490,Pauk,MMR009021

@@ -1,0 +1,3629 @@
+Type_residence,Urban_Rural_Urban,Urban_Rural_Rural,Urban_Rural_Total,Township,MIMU_code
+ Condominium/Apartment/Flat,2042,614,2656,Myitkyina,MMR001001
+ Bungalow/Brick house,6741,404,7145,Myitkyina,MMR001001
+ Semi-pacca house,5352,1021,6373,Myitkyina,MMR001001
+ Wooden house,12637,3169,15806,Myitkyina,MMR001001
+ Bamboo,12274,5469,17743,Myitkyina,MMR001001
+ Hut 2 - 3 years,163,94,257,Myitkyina,MMR001001
+ Hut 1 year,49,68,117,Myitkyina,MMR001001
+ Other,410,76,486,Myitkyina,MMR001001
+ Total,39668,10915,50583,Myitkyina,MMR001001
+ Condominium/Apartment/Flat,57,193,250,Waingmaw,MMR001002
+ Bungalow/Brick house,452,1022,1474,Waingmaw,MMR001002
+ Semi-pacca house,694,1211,1905,Waingmaw,MMR001002
+ Wooden house,738,2745,3483,Waingmaw,MMR001002
+ Bamboo,1813,10417,12230,Waingmaw,MMR001002
+ Hut 2 - 3 years,52,115,167,Waingmaw,MMR001002
+ Hut 1 year,4,136,140,Waingmaw,MMR001002
+ Other,10,121,131,Waingmaw,MMR001002
+ Total,3820,15960,19780,Waingmaw,MMR001002
+ Condominium/Apartment/Flat,3,-,3,Ingyanyan,MMR001003
+ Semi-pacca house,-,4,4,Ingyanyan,MMR001003
+ Wooden house,4,11,15,Ingyanyan,MMR001003
+ Bamboo,66,192,258,Ingyanyan,MMR001003
+ Hut 2 - 3 years,4,-,4,Ingyanyan,MMR001003
+ Hut 1 year,1,-,1,Ingyanyan,MMR001003
+ Total,78,207,285,Ingyanyan,MMR001003
+ Condominium/Apartment/Flat,304,-,304,Tanaing,MMR001004
+ Bungalow/Brick house,207,19,226,Tanaing,MMR001004
+ Semi-pacca house,329,44,373,Tanaing,MMR001004
+ Wooden house,1289,736,2025,Tanaing,MMR001004
+ Bamboo,1551,1823,3374,Tanaing,MMR001004
+ Hut 2 - 3 years,6,57,63,Tanaing,MMR001004
+ Hut 1 year,3,20,23,Tanaing,MMR001004
+ Other,5,5,10,Tanaing,MMR001004
+ Total,3694,2704,6398,Tanaing,MMR001004
+ Condominium/Apartment/Flat,16,16,32,Chiphwe,MMR001005
+ Bungalow/Brick house,21,13,34,Chiphwe,MMR001005
+ Semi-pacca house,34,17,51,Chiphwe,MMR001005
+ Wooden house,73,1110,1183,Chiphwe,MMR001005
+ Bamboo,181,435,616,Chiphwe,MMR001005
+ Hut 2 - 3 years,4,9,13,Chiphwe,MMR001005
+ Hut 1 year,-,1,1,Chiphwe,MMR001005
+ Other,-,1,1,Chiphwe,MMR001005
+ Total,329,1602,1931,Chiphwe,MMR001005
+ Condominium/Apartment/Flat,2,-,2,Hsotlaw,MMR001006
+ Bungalow/Brick house,-,1,1,Hsotlaw,MMR001006
+ Semi-pacca house,1,-,1,Hsotlaw,MMR001006
+ Wooden house,15,546,561,Hsotlaw,MMR001006
+ Bamboo,48,433,481,Hsotlaw,MMR001006
+ Hut 2 - 3 years,-,1,1,Hsotlaw,MMR001006
+ Other,-,26,26,Hsotlaw,MMR001006
+ Total,66,1007,1073,Hsotlaw,MMR001006
+ Condominium/Apartment/Flat,59,-,59,Hsinbo(ST),MMR001001
+ Bungalow/Brick house,14,10,24,Hsinbo(ST),MMR001001
+ Semi-pacca house,66,30,96,Hsinbo(ST),MMR001001
+ Wooden house,329,572,901,Hsinbo(ST),MMR001001
+ Bamboo,212,679,891,Hsinbo(ST),MMR001001
+ Hut 2 - 3 years,19,6,25,Hsinbo(ST),MMR001001
+ Hut 1 year,3,5,8,Hsinbo(ST),MMR001001
+ Other,2,2,4,Hsinbo(ST),MMR001001
+ Total,704,1304,2008,Hsinbo(ST),MMR001001
+ Condominium/Apartment/Flat,32,-,32,Hsadone(ST),MMR001002
+ Bungalow/Brick house,29,21,50,Hsadone(ST),MMR001002
+ Semi-pacca house,39,19,58,Hsadone(ST),MMR001002
+ Wooden house,168,288,456,Hsadone(ST),MMR001002
+ Bamboo,238,749,987,Hsadone(ST),MMR001002
+ Hut 2 - 3 years,3,8,11,Hsadone(ST),MMR001002
+ Hut 1 year,-,8,8,Hsadone(ST),MMR001002
+ Other,1,7,8,Hsadone(ST),MMR001002
+ Total,510,1100,1610,Hsadone(ST),MMR001002
+ Condominium/Apartment/Flat,32,26,58,Kanpaikti(ST),MMR001002
+ Bungalow/Brick house,5,55,60,Kanpaikti(ST),MMR001002
+ Semi-pacca house,12,47,59,Kanpaikti(ST),MMR001002
+ Wooden house,106,370,476,Kanpaikti(ST),MMR001002
+ Bamboo,16,744,760,Kanpaikti(ST),MMR001002
+ Hut 2 - 3 years,-,38,38,Kanpaikti(ST),MMR001002
+ Hut 1 year,-,1,1,Kanpaikti(ST),MMR001002
+ Other,3,15,18,Kanpaikti(ST),MMR001002
+ Total,174,1296,1470,Kanpaikti(ST),MMR001002
+ Condominium/Apartment/Flat,13,-,13,Shinbwayyan(ST),MMR001004
+ Bungalow/Brick house,5,2,7,Shinbwayyan(ST),MMR001004
+ Semi-pacca house,16,6,22,Shinbwayyan(ST),MMR001004
+ Wooden house,464,236,700,Shinbwayyan(ST),MMR001004
+ Bamboo,467,777,1244,Shinbwayyan(ST),MMR001004
+ Hut 2 - 3 years,45,83,128,Shinbwayyan(ST),MMR001004
+ Hut 1 year,10,1,11,Shinbwayyan(ST),MMR001004
+ Other,5,-,5,Shinbwayyan(ST),MMR001004
+ Total,1025,1105,2130,Shinbwayyan(ST),MMR001004
+ Condominium/Apartment/Flat,23,54,77,Panwa(ST),MMR001005
+ Bungalow/Brick house,3,26,29,Panwa(ST),MMR001005
+ Semi-pacca house,15,24,39,Panwa(ST),MMR001005
+ Wooden house,153,982,1135,Panwa(ST),MMR001005
+ Bamboo,2,90,92,Panwa(ST),MMR001005
+ Hut 2 - 3 years,-,2,2,Panwa(ST),MMR001005
+ Other,-,1,1,Panwa(ST),MMR001005
+ Total,196,1179,1375,Panwa(ST),MMR001005
+ Condominium/Apartment/Flat,115,462,577,Mohnyin,MMR001007
+ Bungalow/Brick house,925,808,1733,Mohnyin,MMR001007
+ Semi-pacca house,771,1218,1989,Mohnyin,MMR001007
+ Wooden house,2488,12169,14657,Mohnyin,MMR001007
+ Bamboo,1914,8882,10796,Mohnyin,MMR001007
+ Hut 2 - 3 years,32,191,223,Mohnyin,MMR001007
+ Hut 1 year,3,50,53,Mohnyin,MMR001007
+ Other,105,57,162,Mohnyin,MMR001007
+ Total,6353,23837,30190,Mohnyin,MMR001007
+ Condominium/Apartment/Flat,41,645,686,Mogaung,MMR001008
+ Bungalow/Brick house,575,1100,1675,Mogaung,MMR001008
+ Semi-pacca house,518,1225,1743,Mogaung,MMR001008
+ Wooden house,2109,8199,10308,Mogaung,MMR001008
+ Bamboo,1177,9057,10234,Mogaung,MMR001008
+ Hut 2 - 3 years,12,95,107,Mogaung,MMR001008
+ Hut 1 year,4,33,37,Mogaung,MMR001008
+ Other,12,96,108,Mogaung,MMR001008
+ Total,4448,20450,24898,Mogaung,MMR001008
+ Condominium/Apartment/Flat,38,160,198,Phakant,MMR001009
+ Bungalow/Brick house,122,328,450,Phakant,MMR001009
+ Semi-pacca house,368,865,1233,Phakant,MMR001009
+ Wooden house,3775,14714,18489,Phakant,MMR001009
+ Bamboo,2469,9049,11518,Phakant,MMR001009
+ Hut 2 - 3 years,25,414,439,Phakant,MMR001009
+ Hut 1 year,15,121,136,Phakant,MMR001009
+ Other,44,627,671,Phakant,MMR001009
+ Total,6856,26278,33134,Phakant,MMR001009
+ Condominium/Apartment/Flat,114,151,265,Hopin(ST),MMR001007
+ Bungalow/Brick house,590,137,727,Hopin(ST),MMR001007
+ Semi-pacca house,442,214,656,Hopin(ST),MMR001007
+ Wooden house,1313,2173,3486,Hopin(ST),MMR001007
+ Bamboo,1999,2183,4182,Hopin(ST),MMR001007
+ Hut 2 - 3 years,56,20,76,Hopin(ST),MMR001007
+ Hut 1 year,12,13,25,Hopin(ST),MMR001007
+ Other,15,-,15,Hopin(ST),MMR001007
+ Total,4541,4891,9432,Hopin(ST),MMR001007
+ Condominium/Apartment/Flat,9,-,9,Kamine(ST),MMR001009
+ Bungalow/Brick house,33,18,51,Kamine(ST),MMR001009
+ Semi-pacca house,56,50,106,Kamine(ST),MMR001009
+ Wooden house,336,661,997,Kamine(ST),MMR001009
+ Bamboo,592,1707,2299,Kamine(ST),MMR001009
+ Hut 2 - 3 years,1,21,22,Kamine(ST),MMR001009
+ Hut 1 year,2,8,10,Kamine(ST),MMR001009
+ Other,1,3,4,Kamine(ST),MMR001009
+ Total,1030,2468,3498,Kamine(ST),MMR001009
+ Condominium/Apartment/Flat,479,427,906,Bhamo,MMR001010
+ Bungalow/Brick house,1140,614,1754,Bhamo,MMR001010
+ Semi-pacca house,1261,783,2044,Bhamo,MMR001010
+ Wooden house,3571,6692,10263,Bhamo,MMR001010
+ Bamboo,2899,5902,8801,Bhamo,MMR001010
+ Hut 2 - 3 years,38,148,186,Bhamo,MMR001010
+ Hut 1 year,17,42,59,Bhamo,MMR001010
+ Other,110,38,148,Bhamo,MMR001010
+ Total,9515,14646,24161,Bhamo,MMR001010
+ Condominium/Apartment/Flat,42,159,201,Shwegu,MMR001011
+ Bungalow/Brick house,378,314,692,Shwegu,MMR001011
+ Semi-pacca house,278,348,626,Shwegu,MMR001011
+ Wooden house,1955,6871,8826,Shwegu,MMR001011
+ Bamboo,675,4310,4985,Shwegu,MMR001011
+ Hut 2 - 3 years,46,261,307,Shwegu,MMR001011
+ Hut 1 year,5,66,71,Shwegu,MMR001011
+ Other,23,97,120,Shwegu,MMR001011
+ Total,3402,12426,15828,Shwegu,MMR001011
+ Condominium/Apartment/Flat,1,392,393,Momauk,MMR001012
+ Bungalow/Brick house,76,380,456,Momauk,MMR001012
+ Semi-pacca house,55,384,439,Momauk,MMR001012
+ Wooden house,426,2052,2478,Momauk,MMR001012
+ Bamboo,1287,3175,4462,Momauk,MMR001012
+ Hut 2 - 3 years,41,107,148,Momauk,MMR001012
+ Hut 1 year,3,32,35,Momauk,MMR001012
+ Other,201,22,223,Momauk,MMR001012
+ Total,2090,6544,8634,Momauk,MMR001012
+ Condominium/Apartment/Flat,81,156,237,Mansi,MMR001013
+ Bungalow/Brick house,104,479,583,Mansi,MMR001013
+ Semi-pacca house,158,483,641,Mansi,MMR001013
+ Wooden house,620,3382,4002,Mansi,MMR001013
+ Bamboo,639,3676,4315,Mansi,MMR001013
+ Hut 2 - 3 years,7,80,87,Mansi,MMR001013
+ Hut 1 year,1,656,657,Mansi,MMR001013
+ Other,8,24,32,Mansi,MMR001013
+ Total,1618,8936,10554,Mansi,MMR001013
+ Condominium/Apartment/Flat,15,-,15,Myohla(ST),MMR001011
+ Bungalow/Brick house,8,1,9,Myohla(ST),MMR001011
+ Semi-pacca house,3,2,5,Myohla(ST),MMR001011
+ Wooden house,223,220,443,Myohla(ST),MMR001011
+ Bamboo,90,204,294,Myohla(ST),MMR001011
+ Hut 2 - 3 years,16,-,16,Myohla(ST),MMR001011
+ Hut 1 year,5,-,5,Myohla(ST),MMR001011
+ Other,1,5,6,Myohla(ST),MMR001011
+ Total,361,432,793,Myohla(ST),MMR001011
+ Condominium/Apartment/Flat,241,1,242,Lwe`ge`(ST),MMR001012
+ Bungalow/Brick house,500,29,529,Lwe`ge`(ST),MMR001012
+ Semi-pacca house,215,103,318,Lwe`ge`(ST),MMR001012
+ Wooden house,113,32,145,Lwe`ge`(ST),MMR001012
+ Bamboo,129,111,240,Lwe`ge`(ST),MMR001012
+ Hut 2 - 3 years,1,-,1,Lwe`ge`(ST),MMR001012
+ Other,26,2,28,Lwe`ge`(ST),MMR001012
+ Total,1225,278,1503,Lwe`ge`(ST),MMR001012
+ Condominium/Apartment/Flat,19,76,95,Dotphoneyan(ST),MMR001012
+ Bungalow/Brick house,9,71,80,Dotphoneyan(ST),MMR001012
+ Semi-pacca house,7,105,112,Dotphoneyan(ST),MMR001012
+ Wooden house,72,447,519,Dotphoneyan(ST),MMR001012
+ Bamboo,189,1184,1373,Dotphoneyan(ST),MMR001012
+ Hut 2 - 3 years,2,29,31,Dotphoneyan(ST),MMR001012
+ Hut 1 year,4,7,11,Dotphoneyan(ST),MMR001012
+ Other,9,3,12,Dotphoneyan(ST),MMR001012
+ Total,311,1922,2233,Dotphoneyan(ST),MMR001012
+ Condominium/Apartment/Flat,60,151,211,Putao,MMR001014
+ Bungalow/Brick house,95,2,97,Putao,MMR001014
+ Semi-pacca house,78,9,87,Putao,MMR001014
+ Wooden house,1618,2839,4457,Putao,MMR001014
+ Bamboo,945,4849,5794,Putao,MMR001014
+ Hut 2 - 3 years,12,71,83,Putao,MMR001014
+ Hut 1 year,1,11,12,Putao,MMR001014
+ Other,2,-,2,Putao,MMR001014
+ Total,2811,7932,10743,Putao,MMR001014
+ Condominium/Apartment/Flat,6,-,6,Sumprabum,MMR001015
+ Bungalow/Brick house,1,-,1,Sumprabum,MMR001015
+ Semi-pacca house,2,-,2,Sumprabum,MMR001015
+ Wooden house,41,20,61,Sumprabum,MMR001015
+ Bamboo,122,285,407,Sumprabum,MMR001015
+ Hut 1 year,-,1,1,Sumprabum,MMR001015
+ Other,-,1,1,Sumprabum,MMR001015
+ Total,172,307,479,Sumprabum,MMR001015
+ Condominium/Apartment/Flat,53,-,53,Machanbaw,MMR001016
+ Bungalow/Brick house,6,-,6,Machanbaw,MMR001016
+ Semi-pacca house,3,1,4,Machanbaw,MMR001016
+ Wooden house,176,399,575,Machanbaw,MMR001016
+ Bamboo,169,910,1079,Machanbaw,MMR001016
+ Hut 2 - 3 years,-,1,1,Machanbaw,MMR001016
+ Other,1,-,1,Machanbaw,MMR001016
+ Total,408,1311,1719,Machanbaw,MMR001016
+ Semi-pacca house,-,1,1,Khaunglanphoo,MMR001018
+ Wooden house,41,243,284,Khaunglanphoo,MMR001018
+ Bamboo,29,1395,1424,Khaunglanphoo,MMR001018
+ Hut 2 - 3 years,-,2,2,Khaunglanphoo,MMR001018
+ Total,70,1641,1711,Khaunglanphoo,MMR001018
+ Semi-pacca house,1,-,1,Naungmoon,MMR001017
+ Wooden house,120,69,189,Naungmoon,MMR001017
+ Bamboo,239,514,753,Naungmoon,MMR001017
+ Total,360,583,943,Naungmoon,MMR001017
+ Wooden house,2,111,113,Pannandin(ST),MMR001017
+ Bamboo,22,134,156,Pannandin(ST),MMR001017
+ Total,24,245,269,Pannandin(ST),MMR001017
+ Condominium/Apartment/Flat,738,781,1519,Loikaw,MMR002001
+ Bungalow/Brick house,2576,2174,4750,Loikaw,MMR002001
+ Semi-pacca house,1306,1385,2691,Loikaw,MMR002001
+ Wooden house,4127,7105,11232,Loikaw,MMR002001
+ Bamboo,1587,4543,6130,Loikaw,MMR002001
+ Hut 2 - 3 years,27,37,64,Loikaw,MMR002001
+ Hut 1 year,26,23,49,Loikaw,MMR002001
+ Other,35,25,60,Loikaw,MMR002001
+ Total,10422,16073,26495,Loikaw,MMR002001
+ Condominium/Apartment/Flat,23,210,233,Dimawso,MMR002002
+ Bungalow/Brick house,360,1697,2057,Dimawso,MMR002002
+ Semi-pacca house,207,1654,1861,Dimawso,MMR002002
+ Wooden house,405,7604,8009,Dimawso,MMR002002
+ Bamboo,140,2984,3124,Dimawso,MMR002002
+ Hut 2 - 3 years,-,40,40,Dimawso,MMR002002
+ Hut 1 year,-,7,7,Dimawso,MMR002002
+ Other,2,14,16,Dimawso,MMR002002
+ Total,1137,14210,15347,Dimawso,MMR002002
+ Condominium/Apartment/Flat,93,106,199,Phruso,MMR002003
+ Bungalow/Brick house,257,288,545,Phruso,MMR002003
+ Semi-pacca house,129,271,400,Phruso,MMR002003
+ Wooden house,134,2272,2406,Phruso,MMR002003
+ Bamboo,240,2116,2356,Phruso,MMR002003
+ Hut 2 - 3 years,-,2,2,Phruso,MMR002003
+ Other,-,2,2,Phruso,MMR002003
+ Total,853,5057,5910,Phruso,MMR002003
+ Bungalow/Brick house,4,1,5,Shardaw,MMR002004
+ Semi-pacca house,11,-,11,Shardaw,MMR002004
+ Wooden house,207,224,431,Shardaw,MMR002004
+ Bamboo,108,842,950,Shardaw,MMR002004
+ Hut 2 - 3 years,4,2,6,Shardaw,MMR002004
+ Hut 1 year,2,1,3,Shardaw,MMR002004
+ Total,336,1070,1406,Shardaw,MMR002004
+ Condominium/Apartment/Flat,212,-,212,Bawlakhe,MMR002005
+ Bungalow/Brick house,28,21,49,Bawlakhe,MMR002005
+ Semi-pacca house,47,23,70,Bawlakhe,MMR002005
+ Wooden house,427,363,790,Bawlakhe,MMR002005
+ Bamboo,121,319,440,Bawlakhe,MMR002005
+ Hut 2 - 3 years,1,22,23,Bawlakhe,MMR002005
+ Hut 1 year,3,2,5,Bawlakhe,MMR002005
+ Total,839,750,1589,Bawlakhe,MMR002005
+ Condominium/Apartment/Flat,59,51,110,Parsaung,MMR002006
+ Bungalow/Brick house,45,38,83,Parsaung,MMR002006
+ Semi-pacca house,49,126,175,Parsaung,MMR002006
+ Wooden house,345,1070,1415,Parsaung,MMR002006
+ Bamboo,85,2430,2515,Parsaung,MMR002006
+ Hut 2 - 3 years,4,78,82,Parsaung,MMR002006
+ Hut 1 year,3,181,184,Parsaung,MMR002006
+ Other,4,165,169,Parsaung,MMR002006
+ Total,594,4139,4733,Parsaung,MMR002006
+ Condominium/Apartment/Flat,9,77,86,Meisi,MMR002007
+ Bungalow/Brick house,14,6,20,Meisi,MMR002007
+ Semi-pacca house,16,21,37,Meisi,MMR002007
+ Wooden house,127,719,846,Meisi,MMR002007
+ Bamboo,29,283,312,Meisi,MMR002007
+ Hut 1 year,-,1,1,Meisi,MMR002007
+ Total,195,1107,1302,Meisi,MMR002007
+ Condominium/Apartment/Flat,8,33,41,Ywathit(ST),MMR002005
+ Bungalow/Brick house,3,1,4,Ywathit(ST),MMR002005
+ Semi-pacca house,23,6,29,Ywathit(ST),MMR002005
+ Wooden house,246,124,370,Ywathit(ST),MMR002005
+ Bamboo,7,36,43,Ywathit(ST),MMR002005
+ Hut 2 - 3 years,5,-,5,Ywathit(ST),MMR002005
+ Total,292,200,492,Ywathit(ST),MMR002005
+ Condominium/Apartment/Flat,1200,1928,3128,Hpa-an,MMR003001
+ Bungalow/Brick house,2582,4349,6931,Hpa-an,MMR003001
+ Semi-pacca house,1892,5445,7337,Hpa-an,MMR003001
+ Wooden house,7527,48768,56295,Hpa-an,MMR003001
+ Bamboo,1272,10980,12252,Hpa-an,MMR003001
+ Hut 2 - 3 years,100,1711,1811,Hpa-an,MMR003001
+ Hut 1 year,154,816,970,Hpa-an,MMR003001
+ Other,41,432,473,Hpa-an,MMR003001
+ Total,14768,74429,89197,Hpa-an,MMR003001
+ Condominium/Apartment/Flat,92,344,436,Hlaingbwe,MMR003002
+ Bungalow/Brick house,125,469,594,Hlaingbwe,MMR003002
+ Semi-pacca house,212,1680,1892,Hlaingbwe,MMR003002
+ Wooden house,1705,22566,24271,Hlaingbwe,MMR003002
+ Bamboo,90,2687,2777,Hlaingbwe,MMR003002
+ Hut 2 - 3 years,26,1091,1117,Hlaingbwe,MMR003002
+ Hut 1 year,24,325,349,Hlaingbwe,MMR003002
+ Other,5,145,150,Hlaingbwe,MMR003002
+ Total,2279,29307,31586,Hlaingbwe,MMR003002
+ Condominium/Apartment/Flat,525,2,527,Thandaunggyi,MMR003004
+ Bungalow/Brick house,583,105,688,Thandaunggyi,MMR003004
+ Semi-pacca house,572,268,840,Thandaunggyi,MMR003004
+ Wooden house,799,1270,2069,Thandaunggyi,MMR003004
+ Bamboo,543,1061,1604,Thandaunggyi,MMR003004
+ Hut 2 - 3 years,13,28,41,Thandaunggyi,MMR003004
+ Hut 1 year,8,12,20,Thandaunggyi,MMR003004
+ Other,19,1,20,Thandaunggyi,MMR003004
+ Total,3062,2747,5809,Thandaunggyi,MMR003004
+ Condominium/Apartment/Flat,3,125,128,Paingkyon(ST),MMR003002
+ Bungalow/Brick house,23,358,381,Paingkyon(ST),MMR003002
+ Semi-pacca house,142,874,1016,Paingkyon(ST),MMR003002
+ Wooden house,593,12268,12861,Paingkyon(ST),MMR003002
+ Bamboo,42,2902,2944,Paingkyon(ST),MMR003002
+ Hut 2 - 3 years,2,313,315,Paingkyon(ST),MMR003002
+ Hut 1 year,1,113,114,Paingkyon(ST),MMR003002
+ Other,1,18,19,Paingkyon(ST),MMR003002
+ Total,807,16971,17778,Paingkyon(ST),MMR003002
+ Bungalow/Brick house,3,2,5,Shan Ywathit(ST),MMR003002
+ Semi-pacca house,-,12,12,Shan Ywathit(ST),MMR003002
+ Wooden house,53,1293,1346,Shan Ywathit(ST),MMR003002
+ Bamboo,26,2299,2325,Shan Ywathit(ST),MMR003002
+ Hut 2 - 3 years,-,50,50,Shan Ywathit(ST),MMR003002
+ Hut 1 year,-,17,17,Shan Ywathit(ST),MMR003002
+ Other,1,-,1,Shan Ywathit(ST),MMR003002
+ Total,83,3673,3756,Shan Ywathit(ST),MMR003002
+ Condominium/Apartment/Flat,73,1,74,Leiktho(ST),MMR003004
+ Bungalow/Brick house,123,112,235,Leiktho(ST),MMR003004
+ Semi-pacca house,106,514,620,Leiktho(ST),MMR003004
+ Wooden house,131,4641,4772,Leiktho(ST),MMR003004
+ Bamboo,172,3918,4090,Leiktho(ST),MMR003004
+ Hut 2 - 3 years,1,94,95,Leiktho(ST),MMR003004
+ Hut 1 year,-,35,35,Leiktho(ST),MMR003004
+ Other,1,4,5,Leiktho(ST),MMR003004
+ Total,607,9319,9926,Leiktho(ST),MMR003004
+ Condominium/Apartment/Flat,11,8,19,Bawgali(ST),MMR003004
+ Bungalow/Brick house,36,16,52,Bawgali(ST),MMR003004
+ Semi-pacca house,81,76,157,Bawgali(ST),MMR003004
+ Wooden house,135,1001,1136,Bawgali(ST),MMR003004
+ Bamboo,168,1767,1935,Bawgali(ST),MMR003004
+ Hut 2 - 3 years,5,87,92,Bawgali(ST),MMR003004
+ Hut 1 year,-,8,8,Bawgali(ST),MMR003004
+ Other,-,6,6,Bawgali(ST),MMR003004
+ Total,436,2969,3405,Bawgali(ST),MMR003004
+ Condominium/Apartment/Flat,18,168,186,Pharpon,MMR003003
+ Bungalow/Brick house,26,14,40,Pharpon,MMR003003
+ Semi-pacca house,38,29,67,Pharpon,MMR003003
+ Wooden house,384,611,995,Pharpon,MMR003003
+ Bamboo,128,1010,1138,Pharpon,MMR003003
+ Hut 2 - 3 years,7,48,55,Pharpon,MMR003003
+ Hut 1 year,11,21,32,Pharpon,MMR003003
+ Other,21,10,31,Pharpon,MMR003003
+ Total,633,1911,2544,Pharpon,MMR003003
+ Condominium/Apartment/Flat,11,132,143,Kamamaung(ST},MMR003003
+ Bungalow/Brick house,110,9,119,Kamamaung(ST},MMR003003
+ Semi-pacca house,197,20,217,Kamamaung(ST},MMR003003
+ Wooden house,1954,768,2722,Kamamaung(ST},MMR003003
+ Bamboo,366,214,580,Kamamaung(ST},MMR003003
+ Hut 2 - 3 years,61,47,108,Kamamaung(ST},MMR003003
+ Hut 1 year,42,16,58,Kamamaung(ST},MMR003003
+ Other,8,3,11,Kamamaung(ST},MMR003003
+ Total,2749,1209,3958,Kamamaung(ST},MMR003003
+ Condominium/Apartment/Flat,1683,672,2355,Myawady,MMR003005
+ Bungalow/Brick house,1884,385,2269,Myawady,MMR003005
+ Semi-pacca house,2848,829,3677,Myawady,MMR003005
+ Wooden house,14028,11488,25516,Myawady,MMR003005
+ Bamboo,2625,2758,5383,Myawady,MMR003005
+ Hut 2 - 3 years,474,762,1236,Myawady,MMR003005
+ Hut 1 year,250,193,443,Myawady,MMR003005
+ Other,224,155,379,Myawady,MMR003005
+ Total,24016,17242,41258,Myawady,MMR003005
+ Condominium/Apartment/Flat,12,1,13,Sugali(ST),MMR003005
+ Bungalow/Brick house,1,5,6,Sugali(ST),MMR003005
+ Semi-pacca house,1,8,9,Sugali(ST),MMR003005
+ Wooden house,22,458,480,Sugali(ST),MMR003005
+ Bamboo,35,504,539,Sugali(ST),MMR003005
+ Hut 2 - 3 years,1,6,7,Sugali(ST),MMR003005
+ Hut 1 year,3,-,3,Sugali(ST),MMR003005
+ Other,-,4,4,Sugali(ST),MMR003005
+ Total,75,986,1061,Sugali(ST),MMR003005
+ Condominium/Apartment/Flat,7,-,7,Wawlaymyaing(ST),MMR003005
+ Bungalow/Brick house,1,-,1,Wawlaymyaing(ST),MMR003005
+ Semi-pacca house,6,2,8,Wawlaymyaing(ST),MMR003005
+ Wooden house,526,465,991,Wawlaymyaing(ST),MMR003005
+ Bamboo,15,647,662,Wawlaymyaing(ST),MMR003005
+ Hut 2 - 3 years,2,5,7,Wawlaymyaing(ST),MMR003005
+ Hut 1 year,7,-,7,Wawlaymyaing(ST),MMR003005
+ Other,13,1,14,Wawlaymyaing(ST),MMR003005
+ Total,577,1120,1697,Wawlaymyaing(ST),MMR003005
+ Condominium/Apartment/Flat,272,447,719,Kawkareik,MMR003006
+ Bungalow/Brick house,588,2443,3031,Kawkareik,MMR003006
+ Semi-pacca house,693,3287,3980,Kawkareik,MMR003006
+ Wooden house,6181,24777,30958,Kawkareik,MMR003006
+ Bamboo,458,3834,4292,Kawkareik,MMR003006
+ Hut 2 - 3 years,164,1510,1674,Kawkareik,MMR003006
+ Hut 1 year,58,536,594,Kawkareik,MMR003006
+ Other,68,182,250,Kawkareik,MMR003006
+ Total,8482,37016,45498,Kawkareik,MMR003006
+ Condominium/Apartment/Flat,126,92,218,Kyarinseikkyi,MMR003007
+ Bungalow/Brick house,284,939,1223,Kyarinseikkyi,MMR003007
+ Semi-pacca house,185,2287,2472,Kyarinseikkyi,MMR003007
+ Wooden house,972,13352,14324,Kyarinseikkyi,MMR003007
+ Bamboo,57,1833,1890,Kyarinseikkyi,MMR003007
+ Hut 2 - 3 years,115,1249,1364,Kyarinseikkyi,MMR003007
+ Hut 1 year,41,379,420,Kyarinseikkyi,MMR003007
+ Other,37,92,129,Kyarinseikkyi,MMR003007
+ Total,1817,20223,22040,Kyarinseikkyi,MMR003007
+ Condominium/Apartment/Flat,1392,20,1412,Payarthonezu(ST),MMR003007
+ Bungalow/Brick house,893,278,1171,Payarthonezu(ST),MMR003007
+ Semi-pacca house,829,397,1226,Payarthonezu(ST),MMR003007
+ Wooden house,2650,6933,9583,Payarthonezu(ST),MMR003007
+ Bamboo,290,3120,3410,Payarthonezu(ST),MMR003007
+ Hut 2 - 3 years,24,639,663,Payarthonezu(ST),MMR003007
+ Hut 1 year,6,179,185,Payarthonezu(ST),MMR003007
+ Other,12,133,145,Payarthonezu(ST),MMR003007
+ Total,6096,11699,17795,Payarthonezu(ST),MMR003007
+ Condominium/Apartment/Flat,24,2,26,Kyaidon(ST),MMR003007
+ Bungalow/Brick house,22,20,42,Kyaidon(ST),MMR003007
+ Semi-pacca house,89,181,270,Kyaidon(ST),MMR003007
+ Wooden house,429,5232,5661,Kyaidon(ST),MMR003007
+ Bamboo,101,4441,4542,Kyaidon(ST),MMR003007
+ Hut 2 - 3 years,2,87,89,Kyaidon(ST),MMR003007
+ Hut 1 year,12,37,49,Kyaidon(ST),MMR003007
+ Other,1,53,54,Kyaidon(ST),MMR003007
+ Total,680,10053,10733,Kyaidon(ST),MMR003007
+ Condominium/Apartment/Flat,180,4,184,HaKa,MMR004002
+ Bungalow/Brick house,420,23,443,HaKa,MMR004002
+ Semi-pacca house,461,21,482,HaKa,MMR004002
+ Wooden house,4115,4508,8623,HaKa,MMR004002
+ Bamboo,6,127,133,HaKa,MMR004002
+ Hut 2 - 3 years,15,3,18,HaKa,MMR004002
+ Hut 1 year,2,-,2,HaKa,MMR004002
+ Other,22,10,32,HaKa,MMR004002
+ Total,5221,4696,9917,HaKa,MMR004002
+ Condominium/Apartment/Flat,5,-,5,Thantlang,MMR004003
+ Bungalow/Brick house,75,12,87,Thantlang,MMR004003
+ Semi-pacca house,68,15,83,Thantlang,MMR004003
+ Wooden house,1326,7610,8936,Thantlang,MMR004003
+ Bamboo,14,616,630,Thantlang,MMR004003
+ Hut 2 - 3 years,-,3,3,Thantlang,MMR004003
+ Hut 1 year,1,12,13,Thantlang,MMR004003
+ Other,18,7,25,Thantlang,MMR004003
+ Total,1507,8275,9782,Thantlang,MMR004003
+ Condominium/Apartment/Flat,141,3,144,Falam,MMR004001
+ Bungalow/Brick house,192,8,200,Falam,MMR004001
+ Semi-pacca house,170,6,176,Falam,MMR004001
+ Wooden house,1488,5999,7487,Falam,MMR004001
+ Bamboo,-,209,209,Falam,MMR004001
+ Hut 2 - 3 years,1,35,36,Falam,MMR004001
+ Hut 1 year,-,16,16,Falam,MMR004001
+ Other,10,150,160,Falam,MMR004001
+ Total,2002,6426,8428,Falam,MMR004001
+ Condominium/Apartment/Flat,44,5,49,Tedim,MMR004004
+ Bungalow/Brick house,139,56,195,Tedim,MMR004004
+ Semi-pacca house,151,116,267,Tedim,MMR004004
+ Wooden house,1882,11186,13068,Tedim,MMR004004
+ Bamboo,22,901,923,Tedim,MMR004004
+ Hut 2 - 3 years,3,90,93,Tedim,MMR004004
+ Hut 1 year,-,21,21,Tedim,MMR004004
+ Other,9,58,67,Tedim,MMR004004
+ Total,2250,12433,14683,Tedim,MMR004004
+ Bungalow/Brick house,4,2,6,Tonzaung,MMR004005
+ Semi-pacca house,24,1,25,Tonzaung,MMR004005
+ Wooden house,600,1902,2502,Tonzaung,MMR004005
+ Bamboo,3,756,759,Tonzaung,MMR004005
+ Hut 2 - 3 years,1,77,78,Tonzaung,MMR004005
+ Hut 1 year,1,28,29,Tonzaung,MMR004005
+ Other,7,5,12,Tonzaung,MMR004005
+ Total,640,2771,3411,Tonzaung,MMR004005
+ Condominium/Apartment/Flat,12,-,12,Rihkhuadal(ST),MMR004001
+ Bungalow/Brick house,30,-,30,Rihkhuadal(ST),MMR004001
+ Semi-pacca house,100,2,102,Rihkhuadal(ST),MMR004001
+ Wooden house,447,427,874,Rihkhuadal(ST),MMR004001
+ Bamboo,72,97,169,Rihkhuadal(ST),MMR004001
+ Hut 2 - 3 years,1,-,1,Rihkhuadal(ST),MMR004001
+ Other,8,2,10,Rihkhuadal(ST),MMR004001
+ Total,670,528,1198,Rihkhuadal(ST),MMR004001
+ Condominium/Apartment/Flat,1,-,1,Cikha(ST),MMR004005
+ Bungalow/Brick house,2,-,2,Cikha(ST),MMR004005
+ Semi-pacca house,11,2,13,Cikha(ST),MMR004005
+ Wooden house,142,929,1071,Cikha(ST),MMR004005
+ Bamboo,59,255,314,Cikha(ST),MMR004005
+ Hut 2 - 3 years,-,102,102,Cikha(ST),MMR004005
+ Hut 1 year,-,21,21,Cikha(ST),MMR004005
+ Other,-,6,6,Cikha(ST),MMR004005
+ Total,215,1315,1530,Cikha(ST),MMR004005
+ Condominium/Apartment/Flat,120,1,121,Mindat,MMR004006
+ Bungalow/Brick house,45,3,48,Mindat,MMR004006
+ Semi-pacca house,131,7,138,Mindat,MMR004006
+ Wooden house,1589,3394,4983,Mindat,MMR004006
+ Bamboo,442,2678,3120,Mindat,MMR004006
+ Hut 2 - 3 years,3,56,59,Mindat,MMR004006
+ Hut 1 year,4,31,35,Mindat,MMR004006
+ Other,9,9,18,Mindat,MMR004006
+ Total,2343,6179,8522,Mindat,MMR004006
+ Condominium/Apartment/Flat,192,3,195,Matupi,MMR004007
+ Bungalow/Brick house,41,6,47,Matupi,MMR004007
+ Semi-pacca house,118,15,133,Matupi,MMR004007
+ Wooden house,1185,4347,5532,Matupi,MMR004007
+ Bamboo,132,1568,1700,Matupi,MMR004007
+ Hut 2 - 3 years,-,15,15,Matupi,MMR004007
+ Hut 1 year,-,6,6,Matupi,MMR004007
+ Other,2,6,8,Matupi,MMR004007
+ Total,1670,5966,7636,Matupi,MMR004007
+ Condominium/Apartment/Flat,3,1,4,Kanpalet,MMR004008
+ Bungalow/Brick house,20,4,24,Kanpalet,MMR004008
+ Semi-pacca house,41,5,46,Kanpalet,MMR004008
+ Wooden house,545,1064,1609,Kanpalet,MMR004008
+ Bamboo,194,2079,2273,Kanpalet,MMR004008
+ Hut 2 - 3 years,-,5,5,Kanpalet,MMR004008
+ Hut 1 year,-,1,1,Kanpalet,MMR004008
+ Other,4,11,15,Kanpalet,MMR004008
+ Total,807,3170,3977,Kanpalet,MMR004008
+ Condominium/Apartment/Flat,93,-,93,Paletwat,MMR004009
+ Bungalow/Brick house,53,-,53,Paletwat,MMR004009
+ Semi-pacca house,95,26,121,Paletwat,MMR004009
+ Wooden house,481,2213,2694,Paletwat,MMR004009
+ Bamboo,618,9593,10211,Paletwat,MMR004009
+ Hut 2 - 3 years,2,66,68,Paletwat,MMR004009
+ Hut 1 year,4,37,41,Paletwat,MMR004009
+ Other,4,8,12,Paletwat,MMR004009
+ Total,1350,11943,13293,Paletwat,MMR004009
+ Condominium/Apartment/Flat,2,-,2,Reazu(ST),MMR004007
+ Bungalow/Brick house,14,-,14,Reazu(ST),MMR004007
+ Semi-pacca house,16,2,18,Reazu(ST),MMR004007
+ Wooden house,427,1957,2384,Reazu(ST),MMR004007
+ Bamboo,2,90,92,Reazu(ST),MMR004007
+ Hut 2 - 3 years,1,5,6,Reazu(ST),MMR004007
+ Other,-,5,5,Reazu(ST),MMR004007
+ Total,462,2059,2521,Reazu(ST),MMR004007
+ Condominium/Apartment/Flat,3,1,4,Sami(ST),MMR004009
+ Bungalow/Brick house,1,-,1,Sami(ST),MMR004009
+ Semi-pacca house,12,2,14,Sami(ST),MMR004009
+ Wooden house,112,999,1111,Sami(ST),MMR004009
+ Bamboo,501,4493,4994,Sami(ST),MMR004009
+ Hut 2 - 3 years,3,85,88,Sami(ST),MMR004009
+ Hut 1 year,1,10,11,Sami(ST),MMR004009
+ Total,633,5590,6223,Sami(ST),MMR004009
+ Condominium/Apartment/Flat,520,748,1268,Sagaing,MMR005001
+ Bungalow/Brick house,2523,4554,7077,Sagaing,MMR005001
+ Semi-pacca house,1117,2366,3483,Sagaing,MMR005001
+ Wooden house,8091,20325,28416,Sagaing,MMR005001
+ Bamboo,3972,19556,23528,Sagaing,MMR005001
+ Hut 2 - 3 years,152,667,819,Sagaing,MMR005001
+ Hut 1 year,65,266,331,Sagaing,MMR005001
+ Other,56,165,221,Sagaing,MMR005001
+ Total,16496,48647,65143,Sagaing,MMR005001
+ Condominium/Apartment/Flat,58,12,70,Myinmu,MMR005002
+ Bungalow/Brick house,507,1265,1772,Myinmu,MMR005002
+ Semi-pacca house,246,833,1079,Myinmu,MMR005002
+ Wooden house,1023,4561,5584,Myinmu,MMR005002
+ Bamboo,1760,14711,16471,Myinmu,MMR005002
+ Hut 2 - 3 years,26,242,268,Myinmu,MMR005002
+ Hut 1 year,2,39,41,Myinmu,MMR005002
+ Other,9,10,19,Myinmu,MMR005002
+ Total,3631,21673,25304,Myinmu,MMR005002
+ Condominium/Apartment/Flat,9,15,24,Myaung,MMR005003
+ Bungalow/Brick house,167,803,970,Myaung,MMR005003
+ Semi-pacca house,83,605,688,Myaung,MMR005003
+ Wooden house,1026,12462,13488,Myaung,MMR005003
+ Bamboo,640,8106,8746,Myaung,MMR005003
+ Hut 2 - 3 years,19,165,184,Myaung,MMR005003
+ Hut 1 year,4,76,80,Myaung,MMR005003
+ Other,5,77,82,Myaung,MMR005003
+ Total,1953,22309,24262,Myaung,MMR005003
+ Condominium/Apartment/Flat,369,320,689,Shwebo,MMR005004
+ Bungalow/Brick house,2006,2175,4181,Shwebo,MMR005004
+ Semi-pacca house,1042,1579,2621,Shwebo,MMR005004
+ Wooden house,4881,14680,19561,Shwebo,MMR005004
+ Bamboo,5067,16744,21811,Shwebo,MMR005004
+ Hut 2 - 3 years,74,488,562,Shwebo,MMR005004
+ Hut 1 year,20,87,107,Shwebo,MMR005004
+ Other,72,643,715,Shwebo,MMR005004
+ Total,13531,36716,50247,Shwebo,MMR005004
+ Condominium/Apartment/Flat,29,13,42,Khin U,MMR005005
+ Bungalow/Brick house,196,1909,2105,Khin U,MMR005005
+ Semi-pacca house,246,1815,2061,Khin U,MMR005005
+ Wooden house,444,8233,8677,Khin U,MMR005005
+ Bamboo,1330,17287,18617,Khin U,MMR005005
+ Hut 2 - 3 years,26,696,722,Khin U,MMR005005
+ Hut 1 year,5,190,195,Khin U,MMR005005
+ Other,15,190,205,Khin U,MMR005005
+ Total,2291,30333,32624,Khin U,MMR005005
+ Condominium/Apartment/Flat,3,40,43,Wetlet,MMR005006
+ Bungalow/Brick house,307,2379,2686,Wetlet,MMR005006
+ Semi-pacca house,146,1749,1895,Wetlet,MMR005006
+ Wooden house,230,13843,14073,Wetlet,MMR005006
+ Bamboo,1607,25406,27013,Wetlet,MMR005006
+ Hut 2 - 3 years,9,689,698,Wetlet,MMR005006
+ Hut 1 year,4,162,166,Wetlet,MMR005006
+ Other,-,138,138,Wetlet,MMR005006
+ Total,2306,44406,46712,Wetlet,MMR005006
+ Condominium/Apartment/Flat,172,265,437,Kambalu,MMR005007
+ Bungalow/Brick house,670,2259,2929,Kambalu,MMR005007
+ Semi-pacca house,429,3144,3573,Kambalu,MMR005007
+ Wooden house,1672,22599,24271,Kambalu,MMR005007
+ Bamboo,2166,26555,28721,Kambalu,MMR005007
+ Hut 2 - 3 years,27,994,1021,Kambalu,MMR005007
+ Hut 1 year,1,180,181,Kambalu,MMR005007
+ Other,46,147,193,Kambalu,MMR005007
+ Total,5183,56143,61326,Kambalu,MMR005007
+ Condominium/Apartment/Flat,121,25,146,Kyunhlau,MMR005008
+ Bungalow/Brick house,537,443,980,Kyunhlau,MMR005008
+ Semi-pacca house,129,683,812,Kyunhlau,MMR005008
+ Wooden house,1020,10421,11441,Kyunhlau,MMR005008
+ Bamboo,651,5665,6316,Kyunhlau,MMR005008
+ Hut 2 - 3 years,38,583,621,Kyunhlau,MMR005008
+ Hut 1 year,3,363,366,Kyunhlau,MMR005008
+ Other,-,181,181,Kyunhlau,MMR005008
+ Total,2499,18364,20863,Kyunhlau,MMR005008
+ Condominium/Apartment/Flat,100,12,112,Ye U,MMR005009
+ Bungalow/Brick house,462,511,973,Ye U,MMR005009
+ Semi-pacca house,376,953,1329,Ye U,MMR005009
+ Wooden house,928,13574,14502,Ye U,MMR005009
+ Bamboo,2076,6554,8630,Ye U,MMR005009
+ Hut 2 - 3 years,7,680,687,Ye U,MMR005009
+ Hut 1 year,10,62,72,Ye U,MMR005009
+ Other,6,62,68,Ye U,MMR005009
+ Total,3965,22408,26373,Ye U,MMR005009
+ Condominium/Apartment/Flat,2,35,37,Depayin,MMR005010
+ Bungalow/Brick house,100,1261,1361,Depayin,MMR005010
+ Semi-pacca house,69,1606,1675,Depayin,MMR005010
+ Wooden house,291,7824,8115,Depayin,MMR005010
+ Bamboo,485,16161,16646,Depayin,MMR005010
+ Hut 2 - 3 years,8,2060,2068,Depayin,MMR005010
+ Hut 1 year,-,247,247,Depayin,MMR005010
+ Other,-,196,196,Depayin,MMR005010
+ Total,955,29390,30345,Depayin,MMR005010
+ Condominium/Apartment/Flat,13,10,23,Tasei,MMR005011
+ Bungalow/Brick house,702,637,1339,Tasei,MMR005011
+ Semi-pacca house,237,908,1145,Tasei,MMR005011
+ Wooden house,1256,27162,28418,Tasei,MMR005011
+ Bamboo,756,3158,3914,Tasei,MMR005011
+ Hut 2 - 3 years,8,904,912,Tasei,MMR005011
+ Hut 1 year,-,133,133,Tasei,MMR005011
+ Other,-,53,53,Tasei,MMR005011
+ Total,2972,32965,35937,Tasei,MMR005011
+ Condominium/Apartment/Flat,108,2,110,Kyaukmyaung(ST),MMR005004
+ Bungalow/Brick house,184,217,401,Kyaukmyaung(ST),MMR005004
+ Semi-pacca house,94,227,321,Kyaukmyaung(ST),MMR005004
+ Wooden house,857,1704,2561,Kyaukmyaung(ST),MMR005004
+ Bamboo,974,2328,3302,Kyaukmyaung(ST),MMR005004
+ Hut 2 - 3 years,53,214,267,Kyaukmyaung(ST),MMR005004
+ Hut 1 year,5,39,44,Kyaukmyaung(ST),MMR005004
+ Other,31,13,44,Kyaukmyaung(ST),MMR005004
+ Total,2306,4744,7050,Kyaukmyaung(ST),MMR005004
+ Condominium/Apartment/Flat,1441,1178,2619,Monywa,MMR005012
+ Bungalow/Brick house,5202,1842,7044,Monywa,MMR005012
+ Semi-pacca house,4200,2213,6413,Monywa,MMR005012
+ Wooden house,11395,9582,20977,Monywa,MMR005012
+ Bamboo,17770,20268,38038,Monywa,MMR005012
+ Hut 2 - 3 years,231,301,532,Monywa,MMR005012
+ Hut 1 year,99,69,168,Monywa,MMR005012
+ Other,68,103,171,Monywa,MMR005012
+ Total,40406,35556,75962,Monywa,MMR005012
+ Condominium/Apartment/Flat,83,81,164,Butalin,MMR005013
+ Bungalow/Brick house,184,2396,2580,Butalin,MMR005013
+ Semi-pacca house,152,3076,3228,Butalin,MMR005013
+ Wooden house,134,4801,4935,Butalin,MMR005013
+ Bamboo,619,14473,15092,Butalin,MMR005013
+ Hut 2 - 3 years,6,1791,1797,Butalin,MMR005013
+ Hut 1 year,4,299,303,Butalin,MMR005013
+ Other,11,506,517,Butalin,MMR005013
+ Total,1193,27423,28616,Butalin,MMR005013
+ Condominium/Apartment/Flat,69,229,298,Ayartaw,MMR005014
+ Bungalow/Brick house,136,2143,2279,Ayartaw,MMR005014
+ Semi-pacca house,344,2083,2427,Ayartaw,MMR005014
+ Wooden house,87,4101,4188,Ayartaw,MMR005014
+ Bamboo,1458,20335,21793,Ayartaw,MMR005014
+ Hut 2 - 3 years,47,3805,3852,Ayartaw,MMR005014
+ Hut 1 year,12,216,228,Ayartaw,MMR005014
+ Other,2,524,526,Ayartaw,MMR005014
+ Total,2155,33436,35591,Ayartaw,MMR005014
+ Condominium/Apartment/Flat,21,13,34,Chaung Oo,MMR005015
+ Bungalow/Brick house,483,1313,1796,Chaung Oo,MMR005015
+ Semi-pacca house,331,909,1240,Chaung Oo,MMR005015
+ Wooden house,2969,8842,11811,Chaung Oo,MMR005015
+ Bamboo,1225,6992,8217,Chaung Oo,MMR005015
+ Hut 2 - 3 years,25,142,167,Chaung Oo,MMR005015
+ Hut 1 year,19,34,53,Chaung Oo,MMR005015
+ Other,8,50,58,Chaung Oo,MMR005015
+ Total,5081,18295,23376,Chaung Oo,MMR005015
+ Condominium/Apartment/Flat,165,89,254,Katha,MMR005020
+ Bungalow/Brick house,621,559,1180,Katha,MMR005020
+ Semi-pacca house,533,617,1150,Katha,MMR005020
+ Wooden house,3054,17706,20760,Katha,MMR005020
+ Bamboo,843,6968,7811,Katha,MMR005020
+ Hut 2 - 3 years,27,532,559,Katha,MMR005020
+ Hut 1 year,5,183,188,Katha,MMR005020
+ Other,15,44,59,Katha,MMR005020
+ Total,5263,26698,31961,Katha,MMR005020
+ Condominium/Apartment/Flat,19,20,39,Indaw,MMR005021
+ Bungalow/Brick house,196,835,1031,Indaw,MMR005021
+ Semi-pacca house,225,1467,1692,Indaw,MMR005021
+ Wooden house,668,12925,13593,Indaw,MMR005021
+ Bamboo,729,5943,6672,Indaw,MMR005021
+ Hut 2 - 3 years,5,113,118,Indaw,MMR005021
+ Hut 1 year,-,46,46,Indaw,MMR005021
+ Other,-,39,39,Indaw,MMR005021
+ Total,1842,21388,23230,Indaw,MMR005021
+ Condominium/Apartment/Flat,21,30,51,Tigyaing,MMR005022
+ Bungalow/Brick house,491,544,1035,Tigyaing,MMR005022
+ Semi-pacca house,210,647,857,Tigyaing,MMR005022
+ Wooden house,1378,13123,14501,Tigyaing,MMR005022
+ Bamboo,897,8431,9328,Tigyaing,MMR005022
+ Hut 2 - 3 years,64,344,408,Tigyaing,MMR005022
+ Hut 1 year,5,134,139,Tigyaing,MMR005022
+ Other,4,66,70,Tigyaing,MMR005022
+ Total,3070,23319,26389,Tigyaing,MMR005022
+ Condominium/Apartment/Flat,22,1,23,Banmauk,MMR005023
+ Bungalow/Brick house,159,101,260,Banmauk,MMR005023
+ Semi-pacca house,107,309,416,Banmauk,MMR005023
+ Wooden house,808,12467,13275,Banmauk,MMR005023
+ Bamboo,112,4205,4317,Banmauk,MMR005023
+ Hut 2 - 3 years,3,432,435,Banmauk,MMR005023
+ Hut 1 year,-,130,130,Banmauk,MMR005023
+ Other,1,11,12,Banmauk,MMR005023
+ Total,1212,17656,18868,Banmauk,MMR005023
+ Condominium/Apartment/Flat,31,42,73,Kawlin,MMR005024
+ Bungalow/Brick house,423,795,1218,Kawlin,MMR005024
+ Semi-pacca house,423,876,1299,Kawlin,MMR005024
+ Wooden house,1861,14434,16295,Kawlin,MMR005024
+ Bamboo,1815,10105,11920,Kawlin,MMR005024
+ Hut 2 - 3 years,1,380,381,Kawlin,MMR005024
+ Hut 1 year,8,171,179,Kawlin,MMR005024
+ Other,7,31,38,Kawlin,MMR005024
+ Total,4569,26834,31403,Kawlin,MMR005024
+ Condominium/Apartment/Flat,22,181,203,Wuntho,MMR005025
+ Bungalow/Brick house,248,275,523,Wuntho,MMR005025
+ Semi-pacca house,340,452,792,Wuntho,MMR005025
+ Wooden house,1174,7359,8533,Wuntho,MMR005025
+ Bamboo,804,3104,3908,Wuntho,MMR005025
+ Hut 2 - 3 years,-,210,210,Wuntho,MMR005025
+ Hut 1 year,1,31,32,Wuntho,MMR005025
+ Other,1,3,4,Wuntho,MMR005025
+ Total,2590,11615,14205,Wuntho,MMR005025
+ Condominium/Apartment/Flat,3,4,7,Pinlebu,MMR005026
+ Bungalow/Brick house,265,304,569,Pinlebu,MMR005026
+ Semi-pacca house,120,582,702,Pinlebu,MMR005026
+ Wooden house,313,15601,15914,Pinlebu,MMR005026
+ Bamboo,743,3799,4542,Pinlebu,MMR005026
+ Hut 2 - 3 years,10,94,104,Pinlebu,MMR005026
+ Hut 1 year,3,42,45,Pinlebu,MMR005026
+ Other,12,5,17,Pinlebu,MMR005026
+ Total,1469,20431,21900,Pinlebu,MMR005026
+ Condominium/Apartment/Flat,852,575,1427,Kalay,MMR014005
+ Bungalow/Brick house,2931,1370,4301,Kalay,MMR014005
+ Semi-pacca house,3427,2087,5514,Kalay,MMR014005
+ Wooden house,9636,26378,36014,Kalay,MMR014005
+ Bamboo,8646,15857,24503,Kalay,MMR014005
+ Hut 2 - 3 years,103,477,580,Kalay,MMR014005
+ Hut 1 year,77,255,332,Kalay,MMR014005
+ Other,49,49,98,Kalay,MMR014005
+ Total,25721,47048,72769,Kalay,MMR014005
+ Condominium/Apartment/Flat,3,1,4,Kalewa,MMR005028
+ Bungalow/Brick house,148,60,208,Kalewa,MMR005028
+ Semi-pacca house,245,261,506,Kalewa,MMR005028
+ Wooden house,1107,7969,9076,Kalewa,MMR005028
+ Bamboo,413,1348,1761,Kalewa,MMR005028
+ Hut 2 - 3 years,2,81,83,Kalewa,MMR005028
+ Hut 1 year,3,54,57,Kalewa,MMR005028
+ Other,32,8,40,Kalewa,MMR005028
+ Total,1953,9782,11735,Kalewa,MMR005028
+ Condominium/Apartment/Flat,8,10,18,Mingin,MMR005029
+ Bungalow/Brick house,58,149,207,Mingin,MMR005029
+ Semi-pacca house,88,703,791,Mingin,MMR005029
+ Wooden house,278,15670,15948,Mingin,MMR005029
+ Bamboo,385,4088,4473,Mingin,MMR005029
+ Hut 2 - 3 years,9,333,342,Mingin,MMR005029
+ Hut 1 year,9,147,156,Mingin,MMR005029
+ Other,1,122,123,Mingin,MMR005029
+ Total,836,21222,22058,Mingin,MMR005029
+ Condominium/Apartment/Flat,100,1,101,Tamu,MMR005030
+ Bungalow/Brick house,457,12,469,Tamu,MMR005030
+ Semi-pacca house,711,76,787,Tamu,MMR005030
+ Wooden house,3640,1396,5036,Tamu,MMR005030
+ Bamboo,4001,1461,5462,Tamu,MMR005030
+ Hut 2 - 3 years,50,15,65,Tamu,MMR005030
+ Hut 1 year,17,20,37,Tamu,MMR005030
+ Other,13,16,29,Tamu,MMR005030
+ Total,8989,2997,11986,Tamu,MMR005030
+ Condominium/Apartment/Flat,2,8,10,Myothit(ST),MMR005030
+ Bungalow/Brick house,15,19,34,Myothit(ST),MMR005030
+ Semi-pacca house,6,74,80,Myothit(ST),MMR005030
+ Wooden house,131,1372,1503,Myothit(ST),MMR005030
+ Bamboo,148,1264,1412,Myothit(ST),MMR005030
+ Hut 2 - 3 years,-,35,35,Myothit(ST),MMR005030
+ Hut 1 year,4,11,15,Myothit(ST),MMR005030
+ Other,2,6,8,Myothit(ST),MMR005030
+ Total,308,2789,3097,Myothit(ST),MMR005030
+ Condominium/Apartment/Flat,19,1,20,Khampat(ST),MMR005030
+ Bungalow/Brick house,75,62,137,Khampat(ST),MMR005030
+ Semi-pacca house,107,124,231,Khampat(ST),MMR005030
+ Wooden house,1167,1428,2595,Khampat(ST),MMR005030
+ Bamboo,1461,3015,4476,Khampat(ST),MMR005030
+ Hut 2 - 3 years,4,26,30,Khampat(ST),MMR005030
+ Hut 1 year,5,7,12,Khampat(ST),MMR005030
+ Other,-,7,7,Khampat(ST),MMR005030
+ Total,2838,4670,7508,Khampat(ST),MMR005030
+ Condominium/Apartment/Flat,230,-,230,Mawlaik,MMR005031
+ Bungalow/Brick house,112,123,235,Mawlaik,MMR005031
+ Semi-pacca house,96,253,349,Mawlaik,MMR005031
+ Wooden house,1096,6567,7663,Mawlaik,MMR005031
+ Bamboo,202,1340,1542,Mawlaik,MMR005031
+ Hut 2 - 3 years,49,137,186,Mawlaik,MMR005031
+ Hut 1 year,37,92,129,Mawlaik,MMR005031
+ Other,2,9,11,Mawlaik,MMR005031
+ Total,1824,8521,10345,Mawlaik,MMR005031
+ Condominium/Apartment/Flat,152,2,154,Phaungpyin,MMR005032
+ Bungalow/Brick house,36,331,367,Phaungpyin,MMR005032
+ Semi-pacca house,160,758,918,Phaungpyin,MMR005032
+ Wooden house,1329,14456,15785,Phaungpyin,MMR005032
+ Bamboo,261,2450,2711,Phaungpyin,MMR005032
+ Hut 2 - 3 years,4,139,143,Phaungpyin,MMR005032
+ Hut 1 year,-,148,148,Phaungpyin,MMR005032
+ Other,-,20,20,Phaungpyin,MMR005032
+ Total,1942,18304,20246,Phaungpyin,MMR005032
+ Condominium/Apartment/Flat,183,4,187,Hkamti,MMR005033
+ Bungalow/Brick house,116,5,121,Hkamti,MMR005033
+ Semi-pacca house,294,36,330,Hkamti,MMR005033
+ Wooden house,1063,2267,3330,Hkamti,MMR005033
+ Bamboo,495,2298,2793,Hkamti,MMR005033
+ Hut 2 - 3 years,7,190,197,Hkamti,MMR005033
+ Hut 1 year,14,236,250,Hkamti,MMR005033
+ Other,11,142,153,Hkamti,MMR005033
+ Total,2183,5178,7361,Hkamti,MMR005033
+ Condominium/Apartment/Flat,213,13,226,Homalin,MMR005034
+ Bungalow/Brick house,260,188,448,Homalin,MMR005034
+ Semi-pacca house,260,633,893,Homalin,MMR005034
+ Wooden house,2388,23976,26364,Homalin,MMR005034
+ Bamboo,392,6255,6647,Homalin,MMR005034
+ Hut 2 - 3 years,30,659,689,Homalin,MMR005034
+ Hut 1 year,27,318,345,Homalin,MMR005034
+ Other,5,126,131,Homalin,MMR005034
+ Total,3575,32168,35743,Homalin,MMR005034
+ Condominium/Apartment/Flat,1,-,1,Leshi,MMR005035
+ Semi-pacca house,4,-,4,Leshi,MMR005035
+ Wooden house,116,707,823,Leshi,MMR005035
+ Bamboo,118,676,794,Leshi,MMR005035
+ Hut 2 - 3 years,14,19,33,Leshi,MMR005035
+ Other,-,1,1,Leshi,MMR005035
+ Total,253,1403,1656,Leshi,MMR005035
+ Condominium/Apartment/Flat,62,1,63,Lahe,MMR005036
+ Bungalow/Brick house,7,-,7,Lahe,MMR005036
+ Semi-pacca house,22,-,22,Lahe,MMR005036
+ Wooden house,129,141,270,Lahe,MMR005036
+ Bamboo,318,6193,6511,Lahe,MMR005036
+ Hut 2 - 3 years,-,93,93,Lahe,MMR005036
+ Other,-,11,11,Lahe,MMR005036
+ Total,538,6439,6977,Lahe,MMR005036
+ Condominium/Apartment/Flat,53,1,54,Nanyun,MMR005037
+ Bungalow/Brick house,3,-,3,Nanyun,MMR005037
+ Semi-pacca house,7,2,9,Nanyun,MMR005037
+ Wooden house,88,58,146,Nanyun,MMR005037
+ Bamboo,224,1130,1354,Nanyun,MMR005037
+ Hut 2 - 3 years,-,2,2,Nanyun,MMR005037
+ Total,375,1193,1568,Nanyun,MMR005037
+ Condominium/Apartment/Flat,32,-,32,Mobaingluk(ST),MMR005035
+ Semi-pacca house,3,-,3,Mobaingluk(ST),MMR005035
+ Wooden house,82,64,146,Mobaingluk(ST),MMR005035
+ Bamboo,88,35,123,Mobaingluk(ST),MMR005035
+ Hut 2 - 3 years,5,1,6,Mobaingluk(ST),MMR005035
+ Total,210,100,310,Mobaingluk(ST),MMR005035
+ Semi-pacca house,-,1,1,Sonemara(ST),MMR005035
+ Wooden house,285,892,1177,Sonemara(ST),MMR005035
+ Bamboo,-,14,14,Sonemara(ST),MMR005035
+ Hut 2 - 3 years,1,-,1,Sonemara(ST),MMR005035
+ Other,-,1,1,Sonemara(ST),MMR005035
+ Total,286,908,1194,Sonemara(ST),MMR005035
+ Wooden house,81,228,309,Htanparkway(ST),MMR005036
+ Bamboo,37,404,441,Htanparkway(ST),MMR005036
+ Hut 1 year,9,-,9,Htanparkway(ST),MMR005036
+ Other,1,1,2,Htanparkway(ST),MMR005036
+ Total,128,633,761,Htanparkway(ST),MMR005036
+ Condominium/Apartment/Flat,-,2,2,Pansaung(ST),MMR005037
+ Semi-pacca house,1,-,1,Pansaung(ST),MMR005037
+ Wooden house,57,50,107,Pansaung(ST),MMR005037
+ Bamboo,280,1956,2236,Pansaung(ST),MMR005037
+ Hut 2 - 3 years,-,1,1,Pansaung(ST),MMR005037
+ Hut 1 year,-,2,2,Pansaung(ST),MMR005037
+ Total,338,2011,2349,Pansaung(ST),MMR005037
+ Condominium/Apartment/Flat,-,1,1,Donhee(ST),MMR005037
+ Wooden house,2,74,76,Donhee(ST),MMR005037
+ Bamboo,167,3626,3793,Donhee(ST),MMR005037
+ Hut 2 - 3 years,-,53,53,Donhee(ST),MMR005037
+ Total,169,3754,3923,Donhee(ST),MMR005037
+ Condominium/Apartment/Flat,27,3,30,Yinmarpin,MMR005016
+ Bungalow/Brick house,96,740,836,Yinmarpin,MMR005016
+ Semi-pacca house,80,2101,2181,Yinmarpin,MMR005016
+ Wooden house,298,10692,10990,Yinmarpin,MMR005016
+ Bamboo,570,13723,14293,Yinmarpin,MMR005016
+ Hut 2 - 3 years,4,1120,1124,Yinmarpin,MMR005016
+ Hut 1 year,-,48,48,Yinmarpin,MMR005016
+ Other,2,28,30,Yinmarpin,MMR005016
+ Total,1077,28455,29532,Yinmarpin,MMR005016
+ Condominium/Apartment/Flat,5,26,31,Salingyi,MMR005018
+ Bungalow/Brick house,72,451,523,Salingyi,MMR005018
+ Semi-pacca house,48,1138,1186,Salingyi,MMR005018
+ Wooden house,252,8374,8626,Salingyi,MMR005018
+ Bamboo,838,14230,15068,Salingyi,MMR005018
+ Hut 2 - 3 years,5,885,890,Salingyi,MMR005018
+ Hut 1 year,-,82,82,Salingyi,MMR005018
+ Other,2,59,61,Salingyi,MMR005018
+ Total,1222,25245,26467,Salingyi,MMR005018
+ Condominium/Apartment/Flat,-,3,3,Palae,MMR005019
+ Bungalow/Brick house,43,361,404,Palae,MMR005019
+ Semi-pacca house,48,1054,1102,Palae,MMR005019
+ Wooden house,488,12569,13057,Palae,MMR005019
+ Bamboo,345,16959,17304,Palae,MMR005019
+ Hut 2 - 3 years,6,383,389,Palae,MMR005019
+ Hut 1 year,-,54,54,Palae,MMR005019
+ Other,1,48,49,Palae,MMR005019
+ Total,931,31431,32362,Palae,MMR005019
+ Condominium/Apartment/Flat,1,10,11,Kani,MMR005017
+ Bungalow/Brick house,38,1708,1746,Kani,MMR005017
+ Semi-pacca house,133,4651,4784,Kani,MMR005017
+ Wooden house,656,12725,13381,Kani,MMR005017
+ Bamboo,304,7306,7610,Kani,MMR005017
+ Hut 2 - 3 years,3,1375,1378,Kani,MMR005017
+ Hut 1 year,-,194,194,Kani,MMR005017
+ Other,3,116,119,Kani,MMR005017
+ Total,1138,28085,29223,Kani,MMR005017
+ Condominium/Apartment/Flat,793,488,1281,Dawei,MMR006001
+ Bungalow/Brick house,2415,767,3182,Dawei,MMR006001
+ Semi-pacca house,2632,811,3443,Dawei,MMR006001
+ Wooden house,7402,5018,12420,Dawei,MMR006001
+ Bamboo,1925,2239,4164,Dawei,MMR006001
+ Hut 2 - 3 years,59,143,202,Dawei,MMR006001
+ Hut 1 year,12,42,54,Dawei,MMR006001
+ Other,144,53,197,Dawei,MMR006001
+ Total,15382,9561,24943,Dawei,MMR006001
+ Condominium/Apartment/Flat,6,73,79,Lounglon,MMR006002
+ Bungalow/Brick house,197,3292,3489,Lounglon,MMR006002
+ Semi-pacca house,240,3203,3443,Lounglon,MMR006002
+ Wooden house,658,13206,13864,Lounglon,MMR006002
+ Bamboo,108,4043,4151,Lounglon,MMR006002
+ Hut 2 - 3 years,10,440,450,Lounglon,MMR006002
+ Hut 1 year,14,170,184,Lounglon,MMR006002
+ Other,7,68,75,Lounglon,MMR006002
+ Total,1240,24495,25735,Lounglon,MMR006002
+ Condominium/Apartment/Flat,235,36,271,Thayetchaung,MMR006003
+ Bungalow/Brick house,251,1794,2045,Thayetchaung,MMR006003
+ Semi-pacca house,269,2067,2336,Thayetchaung,MMR006003
+ Wooden house,1263,11291,12554,Thayetchaung,MMR006003
+ Bamboo,328,3908,4236,Thayetchaung,MMR006003
+ Hut 2 - 3 years,29,1053,1082,Thayetchaung,MMR006003
+ Hut 1 year,5,290,295,Thayetchaung,MMR006003
+ Other,27,28,55,Thayetchaung,MMR006003
+ Total,2407,20467,22874,Thayetchaung,MMR006003
+ Condominium/Apartment/Flat,8,649,657,Yebyu,MMR006004
+ Bungalow/Brick house,153,1370,1523,Yebyu,MMR006004
+ Semi-pacca house,152,2096,2248,Yebyu,MMR006004
+ Wooden house,622,12328,12950,Yebyu,MMR006004
+ Bamboo,102,3628,3730,Yebyu,MMR006004
+ Hut 2 - 3 years,18,625,643,Yebyu,MMR006004
+ Hut 1 year,19,230,249,Yebyu,MMR006004
+ Other,3,70,73,Yebyu,MMR006004
+ Total,1077,20996,22073,Yebyu,MMR006004
+ Condominium/Apartment/Flat,16,10,26,Myitta(ST),MMR006001
+ Bungalow/Brick house,13,82,95,Myitta(ST),MMR006001
+ Semi-pacca house,32,140,172,Myitta(ST),MMR006001
+ Wooden house,243,1666,1909,Myitta(ST),MMR006001
+ Bamboo,189,1622,1811,Myitta(ST),MMR006001
+ Hut 2 - 3 years,2,151,153,Myitta(ST),MMR006001
+ Hut 1 year,1,14,15,Myitta(ST),MMR006001
+ Other,-,9,9,Myitta(ST),MMR006001
+ Total,496,3694,4190,Myitta(ST),MMR006001
+ Condominium/Apartment/Flat,62,239,301,Kaleinaung(ST),MMR006004
+ Bungalow/Brick house,40,50,90,Kaleinaung(ST),MMR006004
+ Semi-pacca house,68,136,204,Kaleinaung(ST),MMR006004
+ Wooden house,212,1648,1860,Kaleinaung(ST),MMR006004
+ Bamboo,204,1373,1577,Kaleinaung(ST),MMR006004
+ Hut 2 - 3 years,6,106,112,Kaleinaung(ST),MMR006004
+ Hut 1 year,5,70,75,Kaleinaung(ST),MMR006004
+ Other,27,31,58,Kaleinaung(ST),MMR006004
+ Total,624,3653,4277,Kaleinaung(ST),MMR006004
+ Condominium/Apartment/Flat,466,1634,2100,Myeik,MMR006005
+ Bungalow/Brick house,3387,1782,5169,Myeik,MMR006005
+ Semi-pacca house,2413,1641,4054,Myeik,MMR006005
+ Wooden house,10188,15073,25261,Myeik,MMR006005
+ Bamboo,4979,11179,16158,Myeik,MMR006005
+ Hut 2 - 3 years,47,1030,1077,Myeik,MMR006005
+ Hut 1 year,16,271,287,Myeik,MMR006005
+ Other,52,191,243,Myeik,MMR006005
+ Total,21548,32801,54349,Myeik,MMR006005
+ Condominium/Apartment/Flat,334,139,473,Kyunsu,MMR006006
+ Bungalow/Brick house,49,203,252,Kyunsu,MMR006006
+ Semi-pacca house,63,821,884,Kyunsu,MMR006006
+ Wooden house,301,16250,16551,Kyunsu,MMR006006
+ Bamboo,368,10749,11117,Kyunsu,MMR006006
+ Hut 2 - 3 years,19,2777,2796,Kyunsu,MMR006006
+ Hut 1 year,7,334,341,Kyunsu,MMR006006
+ Other,1,573,574,Kyunsu,MMR006006
+ Total,1142,31846,32988,Kyunsu,MMR006006
+ Condominium/Apartment/Flat,96,130,226,Palaw,MMR006007
+ Bungalow/Brick house,645,1488,2133,Palaw,MMR006007
+ Semi-pacca house,268,812,1080,Palaw,MMR006007
+ Wooden house,1478,5707,7185,Palaw,MMR006007
+ Bamboo,1030,6298,7328,Palaw,MMR006007
+ Hut 2 - 3 years,36,352,388,Palaw,MMR006007
+ Hut 1 year,6,75,81,Palaw,MMR006007
+ Other,12,92,104,Palaw,MMR006007
+ Total,3571,14954,18525,Palaw,MMR006007
+ Condominium/Apartment/Flat,16,312,328,Tanintharyi,MMR006008
+ Bungalow/Brick house,21,378,399,Tanintharyi,MMR006008
+ Semi-pacca house,135,979,1114,Tanintharyi,MMR006008
+ Wooden house,692,7963,8655,Tanintharyi,MMR006008
+ Bamboo,242,7683,7925,Tanintharyi,MMR006008
+ Hut 2 - 3 years,18,1088,1106,Tanintharyi,MMR006008
+ Hut 1 year,1,321,322,Tanintharyi,MMR006008
+ Other,1,79,80,Tanintharyi,MMR006008
+ Total,1126,18803,19929,Tanintharyi,MMR006008
+ Condominium/Apartment/Flat,56,101,157,Palauk(ST),MMR006007
+ Bungalow/Brick house,121,664,785,Palauk(ST),MMR006007
+ Semi-pacca house,88,305,393,Palauk(ST),MMR006007
+ Wooden house,408,2454,2862,Palauk(ST),MMR006007
+ Bamboo,514,2026,2540,Palauk(ST),MMR006007
+ Hut 2 - 3 years,17,267,284,Palauk(ST),MMR006007
+ Hut 1 year,4,69,73,Palauk(ST),MMR006007
+ Other,3,31,34,Palauk(ST),MMR006007
+ Total,1211,5917,7128,Palauk(ST),MMR006007
+ Condominium/Apartment/Flat,2421,866,3287,Kawthoung,MMR006009
+ Bungalow/Brick house,3196,1998,5194,Kawthoung,MMR006009
+ Semi-pacca house,2563,1096,3659,Kawthoung,MMR006009
+ Wooden house,3783,6321,10104,Kawthoung,MMR006009
+ Bamboo,453,1882,2335,Kawthoung,MMR006009
+ Hut 2 - 3 years,79,419,498,Kawthoung,MMR006009
+ Hut 1 year,11,89,100,Kawthoung,MMR006009
+ Other,74,230,304,Kawthoung,MMR006009
+ Total,12580,12901,25481,Kawthoung,MMR006009
+ Condominium/Apartment/Flat,11,505,516,Bokepyin,MMR006010
+ Bungalow/Brick house,50,110,160,Bokepyin,MMR006010
+ Semi-pacca house,71,202,273,Bokepyin,MMR006010
+ Wooden house,588,4551,5139,Bokepyin,MMR006010
+ Bamboo,289,1824,2113,Bokepyin,MMR006010
+ Hut 2 - 3 years,4,399,403,Bokepyin,MMR006010
+ Hut 1 year,3,129,132,Bokepyin,MMR006010
+ Other,31,109,140,Bokepyin,MMR006010
+ Total,1047,7829,8876,Bokepyin,MMR006010
+ Condominium/Apartment/Flat,308,110,418,Khamaukgyi,MMR006009
+ Bungalow/Brick house,74,438,512,Khamaukgyi,MMR006009
+ Semi-pacca house,92,254,346,Khamaukgyi,MMR006009
+ Wooden house,1044,752,1796,Khamaukgyi,MMR006009
+ Bamboo,666,771,1437,Khamaukgyi,MMR006009
+ Hut 2 - 3 years,28,79,107,Khamaukgyi,MMR006009
+ Hut 1 year,33,44,77,Khamaukgyi,MMR006009
+ Other,110,62,172,Khamaukgyi,MMR006009
+ Total,2355,2510,4865,Khamaukgyi,MMR006009
+ Condominium/Apartment/Flat,106,7,113,Pyigyimandaing,MMR006010
+ Bungalow/Brick house,21,8,29,Pyigyimandaing,MMR006010
+ Semi-pacca house,33,39,72,Pyigyimandaing,MMR006010
+ Wooden house,318,908,1226,Pyigyimandaing,MMR006010
+ Bamboo,85,1008,1093,Pyigyimandaing,MMR006010
+ Hut 2 - 3 years,96,296,392,Pyigyimandaing,MMR006010
+ Hut 1 year,45,76,121,Pyigyimandaing,MMR006010
+ Other,11,47,58,Pyigyimandaing,MMR006010
+ Total,715,2389,3104,Pyigyimandaing,MMR006010
+ Condominium/Apartment/Flat,67,633,700,Karathuri(ST),MMR006010
+ Bungalow/Brick house,19,20,39,Karathuri(ST),MMR006010
+ Semi-pacca house,42,39,81,Karathuri(ST),MMR006010
+ Wooden house,100,1608,1708,Karathuri(ST),MMR006010
+ Bamboo,56,765,821,Karathuri(ST),MMR006010
+ Hut 2 - 3 years,-,273,273,Karathuri(ST),MMR006010
+ Hut 1 year,-,73,73,Karathuri(ST),MMR006010
+ Other,2,65,67,Karathuri(ST),MMR006010
+ Total,286,3476,3762,Karathuri(ST),MMR006010
+ Condominium/Apartment/Flat,1747,2122,3869,Bago,MMR007001
+ Bungalow/Brick house,7071,1792,8863,Bago,MMR007001
+ Semi-pacca house,7287,2605,9892,Bago,MMR007001
+ Wooden house,28544,28310,56854,Bago,MMR007001
+ Bamboo,9252,15155,24407,Bago,MMR007001
+ Hut 2 - 3 years,451,1280,1731,Bago,MMR007001
+ Hut 1 year,277,795,1072,Bago,MMR007001
+ Other,263,181,444,Bago,MMR007001
+ Total,54892,52240,107132,Bago,MMR007001
+ Condominium/Apartment/Flat,45,8,53,Tanatpin,MMR007002
+ Bungalow/Brick house,292,390,682,Tanatpin,MMR007002
+ Semi-pacca house,269,980,1249,Tanatpin,MMR007002
+ Wooden house,1723,12802,14525,Tanatpin,MMR007002
+ Bamboo,1246,13663,14909,Tanatpin,MMR007002
+ Hut 2 - 3 years,21,547,568,Tanatpin,MMR007002
+ Hut 1 year,21,450,471,Tanatpin,MMR007002
+ Other,12,58,70,Tanatpin,MMR007002
+ Total,3629,28898,32527,Tanatpin,MMR007002
+ Condominium/Apartment/Flat,12,39,51,Kawa,MMR007003
+ Bungalow/Brick house,234,434,668,Kawa,MMR007003
+ Semi-pacca house,409,1476,1885,Kawa,MMR007003
+ Wooden house,2024,15562,17586,Kawa,MMR007003
+ Bamboo,1458,22945,24403,Kawa,MMR007003
+ Hut 2 - 3 years,35,906,941,Kawa,MMR007003
+ Hut 1 year,28,361,389,Kawa,MMR007003
+ Other,54,98,152,Kawa,MMR007003
+ Total,4254,41821,46075,Kawa,MMR007003
+ Condominium/Apartment/Flat,66,31,97,Waw,MMR007004
+ Bungalow/Brick house,403,529,932,Waw,MMR007004
+ Semi-pacca house,297,1210,1507,Waw,MMR007004
+ Wooden house,2791,19509,22300,Waw,MMR007004
+ Bamboo,1359,9566,10925,Waw,MMR007004
+ Hut 2 - 3 years,70,699,769,Waw,MMR007004
+ Hut 1 year,45,393,438,Waw,MMR007004
+ Other,15,100,115,Waw,MMR007004
+ Total,5046,32037,37083,Waw,MMR007004
+ Condominium/Apartment/Flat,190,105,295,Nyaunglebin,MMR007005
+ Bungalow/Brick house,981,732,1713,Nyaunglebin,MMR007005
+ Semi-pacca house,1185,1309,2494,Nyaunglebin,MMR007005
+ Wooden house,7681,19145,26826,Nyaunglebin,MMR007005
+ Bamboo,2900,9503,12403,Nyaunglebin,MMR007005
+ Hut 2 - 3 years,49,518,567,Nyaunglebin,MMR007005
+ Hut 1 year,32,268,300,Nyaunglebin,MMR007005
+ Other,44,120,164,Nyaunglebin,MMR007005
+ Total,13062,31700,44762,Nyaunglebin,MMR007005
+ Condominium/Apartment/Flat,92,213,305,Kyauktaga,MMR007006
+ Bungalow/Brick house,590,1471,2061,Kyauktaga,MMR007006
+ Semi-pacca house,853,3058,3911,Kyauktaga,MMR007006
+ Wooden house,3990,25895,29885,Kyauktaga,MMR007006
+ Bamboo,1167,12369,13536,Kyauktaga,MMR007006
+ Hut 2 - 3 years,113,902,1015,Kyauktaga,MMR007006
+ Hut 1 year,59,817,876,Kyauktaga,MMR007006
+ Other,9,50,59,Kyauktaga,MMR007006
+ Total,6873,44775,51648,Kyauktaga,MMR007006
+ Condominium/Apartment/Flat,33,266,299,Daik U,MMR007007
+ Bungalow/Brick house,855,1157,2012,Daik U,MMR007007
+ Semi-pacca house,571,2014,2585,Daik U,MMR007007
+ Wooden house,5422,22046,27468,Daik U,MMR007007
+ Bamboo,1778,10458,12236,Daik U,MMR007007
+ Hut 2 - 3 years,34,557,591,Daik U,MMR007007
+ Hut 1 year,29,403,432,Daik U,MMR007007
+ Other,18,112,130,Daik U,MMR007007
+ Total,8740,37013,45753,Daik U,MMR007007
+ Condominium/Apartment/Flat,284,213,497,Shwegyin,MMR007008
+ Bungalow/Brick house,538,176,714,Shwegyin,MMR007008
+ Semi-pacca house,445,394,839,Shwegyin,MMR007008
+ Wooden house,3055,10080,13135,Shwegyin,MMR007008
+ Bamboo,474,4977,5451,Shwegyin,MMR007008
+ Hut 2 - 3 years,35,564,599,Shwegyin,MMR007008
+ Hut 1 year,16,401,417,Shwegyin,MMR007008
+ Other,18,112,130,Shwegyin,MMR007008
+ Total,4865,16917,21782,Shwegyin,MMR007008
+ Condominium/Apartment/Flat,1349,1384,2733,Toungoo,MMR007009
+ Bungalow/Brick house,3558,1486,5044,Toungoo,MMR007009
+ Semi-pacca house,3306,2462,5768,Toungoo,MMR007009
+ Wooden house,10662,17016,27678,Toungoo,MMR007009
+ Bamboo,2609,11429,14038,Toungoo,MMR007009
+ Hut 2 - 3 years,235,892,1127,Toungoo,MMR007009
+ Hut 1 year,85,625,710,Toungoo,MMR007009
+ Other,96,266,362,Toungoo,MMR007009
+ Total,21900,35560,57460,Toungoo,MMR007009
+ Condominium/Apartment/Flat,182,1466,1648,Yaedashe,MMR007010
+ Bungalow/Brick house,791,1422,2213,Yaedashe,MMR007010
+ Semi-pacca house,699,1992,2691,Yaedashe,MMR007010
+ Wooden house,2466,19567,22033,Yaedashe,MMR007010
+ Bamboo,1747,17383,19130,Yaedashe,MMR007010
+ Hut 2 - 3 years,38,1688,1726,Yaedashe,MMR007010
+ Hut 1 year,13,773,786,Yaedashe,MMR007010
+ Other,19,281,300,Yaedashe,MMR007010
+ Total,5955,44572,50527,Yaedashe,MMR007010
+ Condominium/Apartment/Flat,11,304,315,Kyaukkyi,MMR007011
+ Bungalow/Brick house,130,336,466,Kyaukkyi,MMR007011
+ Semi-pacca house,136,882,1018,Kyaukkyi,MMR007011
+ Wooden house,1507,12603,14110,Kyaukkyi,MMR007011
+ Bamboo,336,5103,5439,Kyaukkyi,MMR007011
+ Hut 2 - 3 years,107,812,919,Kyaukkyi,MMR007011
+ Hut 1 year,25,363,388,Kyaukkyi,MMR007011
+ Other,6,222,228,Kyaukkyi,MMR007011
+ Total,2258,20625,22883,Kyaukkyi,MMR007011
+ Condominium/Apartment/Flat,530,165,695,Pyu,MMR007012
+ Bungalow/Brick house,1749,1452,3201,Pyu,MMR007012
+ Semi-pacca house,1695,3327,5022,Pyu,MMR007012
+ Wooden house,6831,22083,28914,Pyu,MMR007012
+ Bamboo,2475,11468,13943,Pyu,MMR007012
+ Hut 2 - 3 years,220,1443,1663,Pyu,MMR007012
+ Hut 1 year,58,691,749,Pyu,MMR007012
+ Other,269,475,744,Pyu,MMR007012
+ Total,13827,41104,54931,Pyu,MMR007012
+ Condominium/Apartment/Flat,42,520,562,Oatwin,MMR007013
+ Bungalow/Brick house,294,1435,1729,Oatwin,MMR007013
+ Semi-pacca house,277,2528,2805,Oatwin,MMR007013
+ Wooden house,1555,18050,19605,Oatwin,MMR007013
+ Bamboo,900,9873,10773,Oatwin,MMR007013
+ Hut 2 - 3 years,14,765,779,Oatwin,MMR007013
+ Hut 1 year,11,323,334,Oatwin,MMR007013
+ Other,116,167,283,Oatwin,MMR007013
+ Total,3209,33661,36870,Oatwin,MMR007013
+ Condominium/Apartment/Flat,21,101,122,Htantapin,MMR007014
+ Bungalow/Brick house,173,774,947,Htantapin,MMR007014
+ Semi-pacca house,325,1559,1884,Htantapin,MMR007014
+ Wooden house,961,12539,13500,Htantapin,MMR007014
+ Bamboo,792,8780,9572,Htantapin,MMR007014
+ Hut 2 - 3 years,67,357,424,Htantapin,MMR007014
+ Hut 1 year,20,174,194,Htantapin,MMR007014
+ Other,17,121,138,Htantapin,MMR007014
+ Total,2376,24405,26781,Htantapin,MMR007014
+ Condominium/Apartment/Flat,1607,736,2343,Pyay,MMR008001
+ Bungalow/Brick house,4298,1082,5380,Pyay,MMR008001
+ Semi-pacca house,3799,1391,5190,Pyay,MMR008001
+ Wooden house,10426,17434,27860,Pyay,MMR008001
+ Bamboo,8085,7554,15639,Pyay,MMR008001
+ Hut 2 - 3 years,306,1124,1430,Pyay,MMR008001
+ Hut 1 year,139,389,528,Pyay,MMR008001
+ Other,155,32,187,Pyay,MMR008001
+ Total,28815,29742,58557,Pyay,MMR008001
+ Condominium/Apartment/Flat,29,323,352,Paukkhaung,MMR008002
+ Bungalow/Brick house,248,129,377,Paukkhaung,MMR008002
+ Semi-pacca house,410,445,855,Paukkhaung,MMR008002
+ Wooden house,2255,15536,17791,Paukkhaung,MMR008002
+ Bamboo,625,11124,11749,Paukkhaung,MMR008002
+ Hut 2 - 3 years,28,809,837,Paukkhaung,MMR008002
+ Hut 1 year,4,312,316,Paukkhaung,MMR008002
+ Other,7,63,70,Paukkhaung,MMR008002
+ Total,3606,28741,32347,Paukkhaung,MMR008002
+ Condominium/Apartment/Flat,88,1535,1623,Padaung,MMR008003
+ Bungalow/Brick house,307,464,771,Padaung,MMR008003
+ Semi-pacca house,409,946,1355,Padaung,MMR008003
+ Wooden house,2386,20238,22624,Padaung,MMR008003
+ Bamboo,1155,9671,10826,Padaung,MMR008003
+ Hut 2 - 3 years,39,937,976,Padaung,MMR008003
+ Hut 1 year,72,512,584,Padaung,MMR008003
+ Other,12,121,133,Padaung,MMR008003
+ Total,4468,34424,38892,Padaung,MMR008003
+ Condominium/Apartment/Flat,50,132,182,Paunde,MMR008004
+ Bungalow/Brick house,563,257,820,Paunde,MMR008004
+ Semi-pacca house,520,615,1135,Paunde,MMR008004
+ Wooden house,3938,20447,24385,Paunde,MMR008004
+ Bamboo,1114,7821,8935,Paunde,MMR008004
+ Hut 2 - 3 years,170,645,815,Paunde,MMR008004
+ Hut 1 year,20,247,267,Paunde,MMR008004
+ Other,106,55,161,Paunde,MMR008004
+ Total,6481,30219,36700,Paunde,MMR008004
+ Condominium/Apartment/Flat,49,565,614,Thegon,MMR008005
+ Bungalow/Brick house,232,579,811,Thegon,MMR008005
+ Semi-pacca house,627,1355,1982,Thegon,MMR008005
+ Wooden house,2523,21532,24055,Thegon,MMR008005
+ Bamboo,724,6378,7102,Thegon,MMR008005
+ Hut 2 - 3 years,67,751,818,Thegon,MMR008005
+ Hut 1 year,20,440,460,Thegon,MMR008005
+ Other,24,84,108,Thegon,MMR008005
+ Total,4266,31684,35950,Thegon,MMR008005
+ Condominium/Apartment/Flat,50,722,772,Shwedaung,MMR008006
+ Bungalow/Brick house,410,219,629,Shwedaung,MMR008006
+ Semi-pacca house,615,757,1372,Shwedaung,MMR008006
+ Wooden house,1912,19154,21066,Shwedaung,MMR008006
+ Bamboo,1357,6838,8195,Shwedaung,MMR008006
+ Hut 2 - 3 years,126,888,1014,Shwedaung,MMR008006
+ Hut 1 year,35,373,408,Shwedaung,MMR008006
+ Other,13,95,108,Shwedaung,MMR008006
+ Total,4518,29046,33564,Shwedaung,MMR008006
+ Condominium/Apartment/Flat,130,84,214,Tharyarwaddy,MMR008007
+ Bungalow/Brick house,707,199,906,Tharyarwaddy,MMR008007
+ Semi-pacca house,1084,1113,2197,Tharyarwaddy,MMR008007
+ Wooden house,4335,15847,20182,Tharyarwaddy,MMR008007
+ Bamboo,1831,10694,12525,Tharyarwaddy,MMR008007
+ Hut 2 - 3 years,20,280,300,Tharyarwaddy,MMR008007
+ Hut 1 year,36,212,248,Tharyarwaddy,MMR008007
+ Other,21,33,54,Tharyarwaddy,MMR008007
+ Total,8164,28462,36626,Tharyarwaddy,MMR008007
+ Condominium/Apartment/Flat,58,12,70,Letpadan,MMR008008
+ Bungalow/Brick house,478,284,762,Letpadan,MMR008008
+ Semi-pacca house,631,1110,1741,Letpadan,MMR008008
+ Wooden house,3077,17995,21072,Letpadan,MMR008008
+ Bamboo,1249,17633,18882,Letpadan,MMR008008
+ Hut 2 - 3 years,82,368,450,Letpadan,MMR008008
+ Hut 1 year,86,251,337,Letpadan,MMR008008
+ Other,74,96,170,Letpadan,MMR008008
+ Total,5735,37749,43484,Letpadan,MMR008008
+ Condominium/Apartment/Flat,53,149,202,Minhla,MMR009013
+ Bungalow/Brick house,282,293,575,Minhla,MMR009013
+ Semi-pacca house,394,1247,1641,Minhla,MMR009013
+ Wooden house,1652,18405,20057,Minhla,MMR009013
+ Bamboo,297,7665,7962,Minhla,MMR009013
+ Hut 2 - 3 years,8,139,147,Minhla,MMR009013
+ Hut 1 year,9,214,223,Minhla,MMR009013
+ Other,7,80,87,Minhla,MMR009013
+ Total,2702,28192,30894,Minhla,MMR009013
+ Condominium/Apartment/Flat,18,160,178,Okpo,MMR008010
+ Bungalow/Brick house,261,334,595,Okpo,MMR008010
+ Semi-pacca house,219,1389,1608,Okpo,MMR008010
+ Wooden house,1860,18577,20437,Okpo,MMR008010
+ Bamboo,435,8255,8690,Okpo,MMR008010
+ Hut 2 - 3 years,1,220,221,Okpo,MMR008010
+ Hut 1 year,5,131,136,Okpo,MMR008010
+ Other,1,28,29,Okpo,MMR008010
+ Total,2800,29094,31894,Okpo,MMR008010
+ Condominium/Apartment/Flat,26,2,28,Zigon,MMR008011
+ Bungalow/Brick house,199,62,261,Zigon,MMR008011
+ Semi-pacca house,439,324,763,Zigon,MMR008011
+ Wooden house,2513,9648,12161,Zigon,MMR008011
+ Bamboo,758,3736,4494,Zigon,MMR008011
+ Hut 2 - 3 years,16,313,329,Zigon,MMR008011
+ Hut 1 year,12,140,152,Zigon,MMR008011
+ Other,4,18,22,Zigon,MMR008011
+ Total,3967,14243,18210,Zigon,MMR008011
+ Condominium/Apartment/Flat,74,36,110,Nattalin,MMR008012
+ Bungalow/Brick house,538,328,866,Nattalin,MMR008012
+ Semi-pacca house,374,1039,1413,Nattalin,MMR008012
+ Wooden house,2774,26758,29532,Nattalin,MMR008012
+ Bamboo,842,12307,13149,Nattalin,MMR008012
+ Hut 2 - 3 years,21,391,412,Nattalin,MMR008012
+ Hut 1 year,5,229,234,Nattalin,MMR008012
+ Other,14,39,53,Nattalin,MMR008012
+ Total,4642,41127,45769,Nattalin,MMR008012
+ Condominium/Apartment/Flat,31,10,41,Monyo,MMR008013
+ Bungalow/Brick house,140,106,246,Monyo,MMR008013
+ Semi-pacca house,135,554,689,Monyo,MMR008013
+ Wooden house,1328,14323,15651,Monyo,MMR008013
+ Bamboo,738,15310,16048,Monyo,MMR008013
+ Hut 2 - 3 years,3,286,289,Monyo,MMR008013
+ Hut 1 year,2,305,307,Monyo,MMR008013
+ Other,3,13,16,Monyo,MMR008013
+ Total,2380,30907,33287,Monyo,MMR008013
+ Condominium/Apartment/Flat,66,13,79,Gyobingauk,MMR008014
+ Bungalow/Brick house,588,128,716,Gyobingauk,MMR008014
+ Semi-pacca house,568,523,1091,Gyobingauk,MMR008014
+ Wooden house,3610,17538,21148,Gyobingauk,MMR008014
+ Bamboo,683,6011,6694,Gyobingauk,MMR008014
+ Hut 2 - 3 years,42,391,433,Gyobingauk,MMR008014
+ Hut 1 year,12,371,383,Gyobingauk,MMR008014
+ Other,15,27,42,Gyobingauk,MMR008014
+ Total,5584,25002,30586,Gyobingauk,MMR008014
+ Condominium/Apartment/Flat,1931,673,2604,Magway,MMR009001
+ Bungalow/Brick house,4179,1950,6129,Magway,MMR009001
+ Semi-pacca house,1610,1797,3407,Magway,MMR009001
+ Wooden house,2032,16563,18595,Magway,MMR009001
+ Bamboo,9823,26244,36067,Magway,MMR009001
+ Hut 2 - 3 years,149,975,1124,Magway,MMR009001
+ Hut 1 year,58,457,515,Magway,MMR009001
+ Other,88,148,236,Magway,MMR009001
+ Total,19870,48807,68677,Magway,MMR009001
+ Condominium/Apartment/Flat,308,11,319,Yenangyoung,MMR009002
+ Bungalow/Brick house,931,460,1391,Yenangyoung,MMR009002
+ Semi-pacca house,674,559,1233,Yenangyoung,MMR009002
+ Wooden house,1558,9147,10705,Yenangyoung,MMR009002
+ Bamboo,7047,10555,17602,Yenangyoung,MMR009002
+ Hut 2 - 3 years,71,619,690,Yenangyoung,MMR009002
+ Hut 1 year,30,249,279,Yenangyoung,MMR009002
+ Other,57,224,281,Yenangyoung,MMR009002
+ Total,10676,21824,32500,Yenangyoung,MMR009002
+ Condominium/Apartment/Flat,201,425,626,Chauk,MMR009003
+ Bungalow/Brick house,964,1792,2756,Chauk,MMR009003
+ Semi-pacca house,1016,1560,2576,Chauk,MMR009003
+ Wooden house,2297,8311,10608,Chauk,MMR009003
+ Bamboo,5760,20606,26366,Chauk,MMR009003
+ Hut 2 - 3 years,49,816,865,Chauk,MMR009003
+ Hut 1 year,28,401,429,Chauk,MMR009003
+ Other,86,306,392,Chauk,MMR009003
+ Total,10401,34217,44618,Chauk,MMR009003
+ Condominium/Apartment/Flat,359,664,1023,Taungdwingyi,MMR009004
+ Bungalow/Brick house,1105,981,2086,Taungdwingyi,MMR009004
+ Semi-pacca house,683,1805,2488,Taungdwingyi,MMR009004
+ Wooden house,4726,35054,39780,Taungdwingyi,MMR009004
+ Bamboo,3096,11079,14175,Taungdwingyi,MMR009004
+ Hut 2 - 3 years,53,367,420,Taungdwingyi,MMR009004
+ Hut 1 year,11,181,192,Taungdwingyi,MMR009004
+ Other,22,77,99,Taungdwingyi,MMR009004
+ Total,10055,50208,60263,Taungdwingyi,MMR009004
+ Condominium/Apartment/Flat,36,86,122,Myothit,MMR009005
+ Bungalow/Brick house,173,477,650,Myothit,MMR009005
+ Semi-pacca house,113,981,1094,Myothit,MMR009005
+ Wooden house,778,21505,22283,Myothit,MMR009005
+ Bamboo,629,11188,11817,Myothit,MMR009005
+ Hut 2 - 3 years,11,766,777,Myothit,MMR009005
+ Hut 1 year,2,116,118,Myothit,MMR009005
+ Other,4,83,87,Myothit,MMR009005
+ Total,1746,35202,36948,Myothit,MMR009005
+ Condominium/Apartment/Flat,35,324,359,Natmauk,MMR009006
+ Bungalow/Brick house,379,2544,2923,Natmauk,MMR009006
+ Semi-pacca house,193,3677,3870,Natmauk,MMR009006
+ Wooden house,1077,26400,27477,Natmauk,MMR009006
+ Bamboo,1481,11422,12903,Natmauk,MMR009006
+ Hut 2 - 3 years,2,726,728,Natmauk,MMR009006
+ Hut 1 year,4,93,97,Natmauk,MMR009006
+ Other,3,66,69,Natmauk,MMR009006
+ Total,3174,45252,48426,Natmauk,MMR009006
+ Condominium/Apartment/Flat,702,705,1407,Minbu,MMR009007
+ Bungalow/Brick house,1007,681,1688,Minbu,MMR009007
+ Semi-pacca house,558,854,1412,Minbu,MMR009007
+ Wooden house,960,8812,9772,Minbu,MMR009007
+ Bamboo,5736,22328,28064,Minbu,MMR009007
+ Hut 2 - 3 years,96,698,794,Minbu,MMR009007
+ Hut 1 year,65,409,474,Minbu,MMR009007
+ Other,66,140,206,Minbu,MMR009007
+ Total,9190,34627,43817,Minbu,MMR009007
+ Condominium/Apartment/Flat,66,349,415,Pwint Phyu,MMR009008
+ Bungalow/Brick house,165,714,879,Pwint Phyu,MMR009008
+ Semi-pacca house,118,789,907,Pwint Phyu,MMR009008
+ Wooden house,208,5400,5608,Pwint Phyu,MMR009008
+ Bamboo,879,30382,31261,Pwint Phyu,MMR009008
+ Hut 2 - 3 years,16,466,482,Pwint Phyu,MMR009008
+ Hut 1 year,1,138,139,Pwint Phyu,MMR009008
+ Other,1,72,73,Pwint Phyu,MMR009008
+ Total,1454,38310,39764,Pwint Phyu,MMR009008
+ Condominium/Apartment/Flat,2,374,376,Ngape,MMR009009
+ Bungalow/Brick house,78,174,252,Ngape,MMR009009
+ Semi-pacca house,106,251,357,Ngape,MMR009009
+ Wooden house,110,4213,4323,Ngape,MMR009009
+ Bamboo,678,6285,6963,Ngape,MMR009009
+ Hut 2 - 3 years,1,127,128,Ngape,MMR009009
+ Hut 1 year,-,49,49,Ngape,MMR009009
+ Other,4,5,9,Ngape,MMR009009
+ Total,979,11478,12457,Ngape,MMR009009
+ Condominium/Apartment/Flat,48,444,492,Salin,MMR009010
+ Bungalow/Brick house,283,867,1150,Salin,MMR009010
+ Semi-pacca house,250,1265,1515,Salin,MMR009010
+ Wooden house,358,15847,16205,Salin,MMR009010
+ Bamboo,1840,33121,34961,Salin,MMR009010
+ Hut 2 - 3 years,3,878,881,Salin,MMR009010
+ Hut 1 year,-,297,297,Salin,MMR009010
+ Other,4,100,104,Salin,MMR009010
+ Total,2786,52819,55605,Salin,MMR009010
+ Condominium/Apartment/Flat,239,38,277,Saytottara,MMR009011
+ Bungalow/Brick house,41,20,61,Saytottara,MMR009011
+ Semi-pacca house,109,40,149,Saytottara,MMR009011
+ Wooden house,302,2253,2555,Saytottara,MMR009011
+ Bamboo,779,6563,7342,Saytottara,MMR009011
+ Hut 2 - 3 years,14,204,218,Saytottara,MMR009011
+ Hut 1 year,19,117,136,Saytottara,MMR009011
+ Other,22,20,42,Saytottara,MMR009011
+ Total,1525,9255,10780,Saytottara,MMR009011
+ Condominium/Apartment/Flat,95,461,556,Thayet,MMR009012
+ Bungalow/Brick house,478,199,677,Thayet,MMR009012
+ Semi-pacca house,772,548,1320,Thayet,MMR009012
+ Wooden house,2126,12172,14298,Thayet,MMR009012
+ Bamboo,1049,7467,8516,Thayet,MMR009012
+ Hut 2 - 3 years,25,272,297,Thayet,MMR009012
+ Hut 1 year,8,161,169,Thayet,MMR009012
+ Other,10,129,139,Thayet,MMR009012
+ Total,4563,21409,25972,Thayet,MMR009012
+ Condominium/Apartment/Flat,56,1743,1799,Minhla,MMR009013
+ Bungalow/Brick house,542,563,1105,Minhla,MMR009013
+ Semi-pacca house,265,737,1002,Minhla,MMR009013
+ Wooden house,572,10905,11477,Minhla,MMR009013
+ Bamboo,1502,13962,15464,Minhla,MMR009013
+ Hut 2 - 3 years,33,498,531,Minhla,MMR009013
+ Hut 1 year,5,202,207,Minhla,MMR009013
+ Other,6,31,37,Minhla,MMR009013
+ Total,2981,28641,31622,Minhla,MMR009013
+ Condominium/Apartment/Flat,22,2,24,Mindon,MMR009014
+ Bungalow/Brick house,151,70,221,Mindon,MMR009014
+ Semi-pacca house,168,250,418,Mindon,MMR009014
+ Wooden house,489,8798,9287,Mindon,MMR009014
+ Bamboo,436,6196,6632,Mindon,MMR009014
+ Hut 2 - 3 years,3,130,133,Mindon,MMR009014
+ Hut 1 year,1,70,71,Mindon,MMR009014
+ Other,-,23,23,Mindon,MMR009014
+ Total,1270,15539,16809,Mindon,MMR009014
+ Condominium/Apartment/Flat,10,3,13,Kamma,MMR009015
+ Bungalow/Brick house,82,136,218,Kamma,MMR009015
+ Semi-pacca house,128,476,604,Kamma,MMR009015
+ Wooden house,544,9276,9820,Kamma,MMR009015
+ Bamboo,516,7307,7823,Kamma,MMR009015
+ Hut 2 - 3 years,2,386,388,Kamma,MMR009015
+ Hut 1 year,9,230,239,Kamma,MMR009015
+ Other,3,35,38,Kamma,MMR009015
+ Total,1294,17849,19143,Kamma,MMR009015
+ Condominium/Apartment/Flat,366,844,1210,Aunglan,MMR009016
+ Bungalow/Brick house,1482,766,2248,Aunglan,MMR009016
+ Semi-pacca house,1066,1648,2714,Aunglan,MMR009016
+ Wooden house,4470,22123,26593,Aunglan,MMR009016
+ Bamboo,3745,18628,22373,Aunglan,MMR009016
+ Hut 2 - 3 years,260,1332,1592,Aunglan,MMR009016
+ Hut 1 year,140,465,605,Aunglan,MMR009016
+ Other,96,178,274,Aunglan,MMR009016
+ Total,11625,45984,57609,Aunglan,MMR009016
+ Condominium/Apartment/Flat,1,398,399,Sinpaungwe`,MMR009017
+ Bungalow/Brick house,146,344,490,Sinpaungwe`,MMR009017
+ Semi-pacca house,90,1155,1245,Sinpaungwe`,MMR009017
+ Wooden house,487,13265,13752,Sinpaungwe`,MMR009017
+ Bamboo,551,11818,12369,Sinpaungwe`,MMR009017
+ Hut 2 - 3 years,2,302,304,Sinpaungwe`,MMR009017
+ Hut 1 year,4,85,89,Sinpaungwe`,MMR009017
+ Other,-,36,36,Sinpaungwe`,MMR009017
+ Total,1281,27403,28684,Sinpaungwe`,MMR009017
+ Condominium/Apartment/Flat,336,2182,2518,Pakokku,MMR009018
+ Bungalow/Brick house,1658,1345,3003,Pakokku,MMR009018
+ Semi-pacca house,1422,3055,4477,Pakokku,MMR009018
+ Wooden house,3717,12514,16231,Pakokku,MMR009018
+ Bamboo,11679,26811,38490,Pakokku,MMR009018
+ Hut 2 - 3 years,139,968,1107,Pakokku,MMR009018
+ Hut 1 year,55,211,266,Pakokku,MMR009018
+ Other,63,185,248,Pakokku,MMR009018
+ Total,19069,47271,66340,Pakokku,MMR009018
+ Condominium/Apartment/Flat,82,226,308,Yesagyo,MMR009019
+ Bungalow/Brick house,307,1247,1554,Yesagyo,MMR009019
+ Semi-pacca house,197,1553,1750,Yesagyo,MMR009019
+ Wooden house,669,11455,12124,Yesagyo,MMR009019
+ Bamboo,3491,24868,28359,Yesagyo,MMR009019
+ Hut 2 - 3 years,115,2589,2704,Yesagyo,MMR009019
+ Hut 1 year,31,333,364,Yesagyo,MMR009019
+ Other,7,162,169,Yesagyo,MMR009019
+ Total,4899,42433,47332,Yesagyo,MMR009019
+ Condominium/Apartment/Flat,16,91,107,Myaing,MMR009020
+ Bungalow/Brick house,44,2552,2596,Myaing,MMR009020
+ Semi-pacca house,780,5561,6341,Myaing,MMR009020
+ Wooden house,139,11924,12063,Myaing,MMR009020
+ Bamboo,801,26972,27773,Myaing,MMR009020
+ Hut 2 - 3 years,11,3418,3429,Myaing,MMR009020
+ Hut 1 year,8,557,565,Myaing,MMR009020
+ Other,2,765,767,Myaing,MMR009020
+ Total,1801,51840,53641,Myaing,MMR009020
+ Condominium/Apartment/Flat,34,123,157,Pauk,MMR009021
+ Bungalow/Brick house,104,485,589,Pauk,MMR009021
+ Semi-pacca house,130,1061,1191,Pauk,MMR009021
+ Wooden house,253,15560,15813,Pauk,MMR009021
+ Bamboo,1177,18927,20104,Pauk,MMR009021
+ Hut 2 - 3 years,-,800,800,Pauk,MMR009021
+ Hut 1 year,1,195,196,Pauk,MMR009021
+ Other,2,113,115,Pauk,MMR009021
+ Total,1701,37264,38965,Pauk,MMR009021
+ Condominium/Apartment/Flat,22,482,504,Seikphyu,MMR009022
+ Bungalow/Brick house,269,218,487,Seikphyu,MMR009022
+ Semi-pacca house,106,259,365,Seikphyu,MMR009022
+ Wooden house,187,12572,12759,Seikphyu,MMR009022
+ Bamboo,1498,7141,8639,Seikphyu,MMR009022
+ Hut 2 - 3 years,31,520,551,Seikphyu,MMR009022
+ Hut 1 year,11,81,92,Seikphyu,MMR009022
+ Other,5,25,30,Seikphyu,MMR009022
+ Total,2129,21298,23427,Seikphyu,MMR009022
+ Condominium/Apartment/Flat,204,214,418,Gangaw,MMR009023
+ Bungalow/Brick house,481,1218,1699,Gangaw,MMR009023
+ Semi-pacca house,333,1746,2079,Gangaw,MMR009023
+ Wooden house,795,13907,14702,Gangaw,MMR009023
+ Bamboo,1432,9424,10856,Gangaw,MMR009023
+ Hut 2 - 3 years,7,69,76,Gangaw,MMR009023
+ Hut 1 year,4,55,59,Gangaw,MMR009023
+ Other,2,21,23,Gangaw,MMR009023
+ Total,3258,26654,29912,Gangaw,MMR009023
+ Condominium/Apartment/Flat,13,1,14,Htilin,MMR009024
+ Bungalow/Brick house,151,153,304,Htilin,MMR009024
+ Semi-pacca house,144,519,663,Htilin,MMR009024
+ Wooden house,269,6297,6566,Htilin,MMR009024
+ Bamboo,544,2420,2964,Htilin,MMR009024
+ Hut 2 - 3 years,1,6,7,Htilin,MMR009024
+ Hut 1 year,1,6,7,Htilin,MMR009024
+ Other,-,7,7,Htilin,MMR009024
+ Total,1123,9409,10532,Htilin,MMR009024
+ Condominium/Apartment/Flat,22,6,28,Saw,MMR009025
+ Bungalow/Brick house,77,85,162,Saw,MMR009025
+ Semi-pacca house,124,201,325,Saw,MMR009025
+ Wooden house,207,2500,2707,Saw,MMR009025
+ Bamboo,825,4186,5011,Saw,MMR009025
+ Hut 2 - 3 years,2,49,51,Saw,MMR009025
+ Hut 1 year,1,33,34,Saw,MMR009025
+ Other,3,4,7,Saw,MMR009025
+ Total,1261,7064,8325,Saw,MMR009025
+ Condominium/Apartment/Flat,44,2,46,Kyaukhtu(ST),MMR009025
+ Bungalow/Brick house,47,73,120,Kyaukhtu(ST),MMR009025
+ Semi-pacca house,118,172,290,Kyaukhtu(ST),MMR009025
+ Wooden house,367,3535,3902,Kyaukhtu(ST),MMR009025
+ Bamboo,552,2665,3217,Kyaukhtu(ST),MMR009025
+ Hut 2 - 3 years,2,12,14,Kyaukhtu(ST),MMR009025
+ Hut 1 year,8,8,16,Kyaukhtu(ST),MMR009025
+ Other,2,2,4,Kyaukhtu(ST),MMR009025
+ Total,1140,6469,7609,Kyaukhtu(ST),MMR009025
+ Condominium/Apartment/Flat,5767,-,5767,Aungmyetharzan,MMR010001
+ Bungalow/Brick house,7634,-,7634,Aungmyetharzan,MMR010001
+ Semi-pacca house,6460,-,6460,Aungmyetharzan,MMR010001
+ Wooden house,10756,-,10756,Aungmyetharzan,MMR010001
+ Bamboo,18089,-,18089,Aungmyetharzan,MMR010001
+ Hut 2 - 3 years,287,-,287,Aungmyetharzan,MMR010001
+ Hut 1 year,248,-,248,Aungmyetharzan,MMR010001
+ Other,490,-,490,Aungmyetharzan,MMR010001
+ Total,49731,-,49731,Aungmyetharzan,MMR010001
+ Condominium/Apartment/Flat,4378,-,4378,Chanayeharzan,MMR010002
+ Bungalow/Brick house,8316,-,8316,Chanayeharzan,MMR010002
+ Semi-pacca house,6272,-,6272,Chanayeharzan,MMR010002
+ Wooden house,6572,-,6572,Chanayeharzan,MMR010002
+ Bamboo,7113,-,7113,Chanayeharzan,MMR010002
+ Hut 2 - 3 years,104,-,104,Chanayeharzan,MMR010002
+ Hut 1 year,165,-,165,Chanayeharzan,MMR010002
+ Other,361,-,361,Chanayeharzan,MMR010002
+ Total,33281,-,33281,Chanayeharzan,MMR010002
+ Condominium/Apartment/Flat,1851,-,1851,Mahaaungmye,MMR010003
+ Bungalow/Brick house,7881,-,7881,Mahaaungmye,MMR010003
+ Semi-pacca house,7248,-,7248,Mahaaungmye,MMR010003
+ Wooden house,9912,-,9912,Mahaaungmye,MMR010003
+ Bamboo,13565,-,13565,Mahaaungmye,MMR010003
+ Hut 2 - 3 years,380,-,380,Mahaaungmye,MMR010003
+ Hut 1 year,747,-,747,Mahaaungmye,MMR010003
+ Other,343,-,343,Mahaaungmye,MMR010003
+ Total,41927,-,41927,Mahaaungmye,MMR010003
+ Condominium/Apartment/Flat,2650,-,2650,Chanmyatharzi,MMR010004
+ Bungalow/Brick house,7116,-,7116,Chanmyatharzi,MMR010004
+ Semi-pacca house,4461,-,4461,Chanmyatharzi,MMR010004
+ Wooden house,10553,-,10553,Chanmyatharzi,MMR010004
+ Bamboo,26950,-,26950,Chanmyatharzi,MMR010004
+ Hut 2 - 3 years,586,-,586,Chanmyatharzi,MMR010004
+ Hut 1 year,384,-,384,Chanmyatharzi,MMR010004
+ Other,347,-,347,Chanmyatharzi,MMR010004
+ Total,53047,-,53047,Chanmyatharzi,MMR010004
+ Condominium/Apartment/Flat,1524,-,1524,Pyigyidagun,MMR010005
+ Bungalow/Brick house,4062,-,4062,Pyigyidagun,MMR010005
+ Semi-pacca house,2895,-,2895,Pyigyidagun,MMR010005
+ Wooden house,9267,-,9267,Pyigyidagun,MMR010005
+ Bamboo,24283,-,24283,Pyigyidagun,MMR010005
+ Hut 2 - 3 years,1030,-,1030,Pyigyidagun,MMR010005
+ Hut 1 year,470,-,470,Pyigyidagun,MMR010005
+ Other,344,-,344,Pyigyidagun,MMR010005
+ Total,43875,-,43875,Pyigyidagun,MMR010005
+ Condominium/Apartment/Flat,562,468,1030,Amarapura,MMR010006
+ Bungalow/Brick house,1579,2902,4481,Amarapura,MMR010006
+ Semi-pacca house,1081,1505,2586,Amarapura,MMR010006
+ Wooden house,5285,8097,13382,Amarapura,MMR010006
+ Bamboo,7879,18664,26543,Amarapura,MMR010006
+ Hut 2 - 3 years,126,577,703,Amarapura,MMR010006
+ Hut 1 year,45,646,691,Amarapura,MMR010006
+ Other,73,137,210,Amarapura,MMR010006
+ Total,16630,32996,49626,Amarapura,MMR010006
+ Condominium/Apartment/Flat,54,1591,1645,Patheingyi,MMR010007
+ Bungalow/Brick house,506,2732,3238,Patheingyi,MMR010007
+ Semi-pacca house,219,2279,2498,Patheingyi,MMR010007
+ Wooden house,458,10266,10724,Patheingyi,MMR010007
+ Bamboo,1424,30995,32419,Patheingyi,MMR010007
+ Hut 2 - 3 years,23,1175,1198,Patheingyi,MMR010007
+ Hut 1 year,6,938,944,Patheingyi,MMR010007
+ Other,12,312,324,Patheingyi,MMR010007
+ Total,2702,50288,52990,Patheingyi,MMR010007
+ Condominium/Apartment/Flat,4964,1191,6155,Pyin Oo Lwin,MMR010008
+ Bungalow/Brick house,11106,6268,17374,Pyin Oo Lwin,MMR010008
+ Semi-pacca house,2630,2248,4878,Pyin Oo Lwin,MMR010008
+ Wooden house,2119,2397,4516,Pyin Oo Lwin,MMR010008
+ Bamboo,10170,8843,19013,Pyin Oo Lwin,MMR010008
+ Hut 2 - 3 years,561,213,774,Pyin Oo Lwin,MMR010008
+ Hut 1 year,68,116,184,Pyin Oo Lwin,MMR010008
+ Other,323,165,488,Pyin Oo Lwin,MMR010008
+ Total,31941,21441,53382,Pyin Oo Lwin,MMR010008
+ Condominium/Apartment/Flat,37,173,210,Madaya,MMR010009
+ Bungalow/Brick house,1067,1878,2945,Madaya,MMR010009
+ Semi-pacca house,379,1410,1789,Madaya,MMR010009
+ Wooden house,995,11698,12693,Madaya,MMR010009
+ Bamboo,2782,35450,38232,Madaya,MMR010009
+ Hut 2 - 3 years,43,1029,1072,Madaya,MMR010009
+ Hut 1 year,6,1098,1104,Madaya,MMR010009
+ Other,2,598,600,Madaya,MMR010009
+ Total,5311,53334,58645,Madaya,MMR010009
+ Condominium/Apartment/Flat,17,95,112,Sinku,MMR010010
+ Bungalow/Brick house,290,1255,1545,Sinku,MMR010010
+ Semi-pacca house,130,1286,1416,Sinku,MMR010010
+ Wooden house,336,7622,7958,Sinku,MMR010010
+ Bamboo,932,21352,22284,Sinku,MMR010010
+ Hut 2 - 3 years,8,571,579,Sinku,MMR010010
+ Hut 1 year,13,380,393,Sinku,MMR010010
+ Other,6,240,246,Sinku,MMR010010
+ Total,1732,32801,34533,Sinku,MMR010010
+ Condominium/Apartment/Flat,135,51,186,Mogok,MMR010011
+ Bungalow/Brick house,1893,1333,3226,Mogok,MMR010011
+ Semi-pacca house,2704,2138,4842,Mogok,MMR010011
+ Wooden house,2961,3641,6602,Mogok,MMR010011
+ Bamboo,8820,10479,19299,Mogok,MMR010011
+ Hut 2 - 3 years,41,189,230,Mogok,MMR010011
+ Hut 1 year,4,48,52,Mogok,MMR010011
+ Other,128,682,810,Mogok,MMR010011
+ Total,16686,18561,35247,Mogok,MMR010011
+ Condominium/Apartment/Flat,2,624,626,Thabeikkyin,MMR010012
+ Bungalow/Brick house,26,930,956,Thabeikkyin,MMR010012
+ Semi-pacca house,58,995,1053,Thabeikkyin,MMR010012
+ Wooden house,281,3651,3932,Thabeikkyin,MMR010012
+ Bamboo,737,17268,18005,Thabeikkyin,MMR010012
+ Hut 2 - 3 years,48,610,658,Thabeikkyin,MMR010012
+ Hut 1 year,17,239,256,Thabeikkyin,MMR010012
+ Other,19,244,263,Thabeikkyin,MMR010012
+ Total,1188,24561,25749,Thabeikkyin,MMR010012
+ Condominium/Apartment/Flat,14,1,15,Tagaung,MMR010012
+ Bungalow/Brick house,153,38,191,Tagaung,MMR010012
+ Semi-pacca house,70,62,132,Tagaung,MMR010012
+ Wooden house,298,996,1294,Tagaung,MMR010012
+ Bamboo,1223,4120,5343,Tagaung,MMR010012
+ Hut 2 - 3 years,12,192,204,Tagaung,MMR010012
+ Hut 1 year,9,133,142,Tagaung,MMR010012
+ Other,14,57,71,Tagaung,MMR010012
+ Total,1793,5599,7392,Tagaung,MMR010012
+ Condominium/Apartment/Flat,291,1291,1582,Kyaukse,MMR010013
+ Bungalow/Brick house,1718,3117,4835,Kyaukse,MMR010013
+ Semi-pacca house,648,1877,2525,Kyaukse,MMR010013
+ Wooden house,1070,4775,5845,Kyaukse,MMR010013
+ Bamboo,4718,37585,42303,Kyaukse,MMR010013
+ Hut 2 - 3 years,28,323,351,Kyaukse,MMR010013
+ Hut 1 year,8,162,170,Kyaukse,MMR010013
+ Other,10,144,154,Kyaukse,MMR010013
+ Total,8491,49274,57765,Kyaukse,MMR010013
+ Condominium/Apartment/Flat,33,973,1006,Singaing,MMR010014
+ Bungalow/Brick house,387,2930,3317,Singaing,MMR010014
+ Semi-pacca house,132,1326,1458,Singaing,MMR010014
+ Wooden house,166,3261,3427,Singaing,MMR010014
+ Bamboo,1015,22950,23965,Singaing,MMR010014
+ Hut 2 - 3 years,34,190,224,Singaing,MMR010014
+ Hut 1 year,4,74,78,Singaing,MMR010014
+ Other,9,95,104,Singaing,MMR010014
+ Total,1780,31799,33579,Singaing,MMR010014
+ Condominium/Apartment/Flat,61,435,496,Myitthar,MMR010015
+ Bungalow/Brick house,425,1969,2394,Myitthar,MMR010015
+ Semi-pacca house,312,1647,1959,Myitthar,MMR010015
+ Wooden house,433,4483,4916,Myitthar,MMR010015
+ Bamboo,3077,32690,35767,Myitthar,MMR010015
+ Hut 2 - 3 years,15,336,351,Myitthar,MMR010015
+ Hut 1 year,1,54,55,Myitthar,MMR010015
+ Other,22,57,79,Myitthar,MMR010015
+ Total,4346,41671,46017,Myitthar,MMR010015
+ Condominium/Apartment/Flat,30,113,143,Tada U,MMR010016
+ Bungalow/Brick house,471,2739,3210,Tada U,MMR010016
+ Semi-pacca house,136,1344,1480,Tada U,MMR010016
+ Wooden house,215,3636,3851,Tada U,MMR010016
+ Bamboo,1776,20792,22568,Tada U,MMR010016
+ Hut 2 - 3 years,9,853,862,Tada U,MMR010016
+ Hut 1 year,6,98,104,Tada U,MMR010016
+ Other,9,400,409,Tada U,MMR010016
+ Total,2652,29975,32627,Tada U,MMR010016
+ Condominium/Apartment/Flat,434,76,510,Myingyan,MMR010017
+ Bungalow/Brick house,1664,1557,3221,Myingyan,MMR010017
+ Semi-pacca house,764,1086,1850,Myingyan,MMR010017
+ Wooden house,2730,11671,14401,Myingyan,MMR010017
+ Bamboo,12985,27738,40723,Myingyan,MMR010017
+ Hut 2 - 3 years,156,969,1125,Myingyan,MMR010017
+ Hut 1 year,125,139,264,Myingyan,MMR010017
+ Other,39,207,246,Myingyan,MMR010017
+ Total,18897,43443,62340,Myingyan,MMR010017
+ Condominium/Apartment/Flat,83,139,222,Taungtha,MMR010018
+ Bungalow/Brick house,417,1963,2380,Taungtha,MMR010018
+ Semi-pacca house,212,2060,2272,Taungtha,MMR010018
+ Wooden house,400,6285,6685,Taungtha,MMR010018
+ Bamboo,2664,31958,34622,Taungtha,MMR010018
+ Hut 2 - 3 years,61,2849,2910,Taungtha,MMR010018
+ Hut 1 year,11,370,381,Taungtha,MMR010018
+ Other,15,365,380,Taungtha,MMR010018
+ Total,3863,45989,49852,Taungtha,MMR010018
+ Condominium/Apartment/Flat,12,52,64,Natogyi,MMR010019
+ Bungalow/Brick house,355,2777,3132,Natogyi,MMR010019
+ Semi-pacca house,138,2023,2161,Natogyi,MMR010019
+ Wooden house,97,2231,2328,Natogyi,MMR010019
+ Bamboo,2146,26780,28926,Natogyi,MMR010019
+ Hut 2 - 3 years,75,2971,3046,Natogyi,MMR010019
+ Hut 1 year,6,714,720,Natogyi,MMR010019
+ Other,13,575,588,Natogyi,MMR010019
+ Total,2842,38123,40965,Natogyi,MMR010019
+ Condominium/Apartment/Flat,71,323,394,Kyaukpadaung,MMR010020
+ Bungalow/Brick house,2071,2967,5038,Kyaukpadaung,MMR010020
+ Semi-pacca house,674,4401,5075,Kyaukpadaung,MMR010020
+ Wooden house,1377,23005,24382,Kyaukpadaung,MMR010020
+ Bamboo,4785,20815,25600,Kyaukpadaung,MMR010020
+ Hut 2 - 3 years,9,898,907,Kyaukpadaung,MMR010020
+ Hut 1 year,21,162,183,Kyaukpadaung,MMR010020
+ Other,5,377,382,Kyaukpadaung,MMR010020
+ Total,9013,52948,61961,Kyaukpadaung,MMR010020
+ Condominium/Apartment/Flat,40,18,58,Ngazun,MMR010021
+ Bungalow/Brick house,233,2112,2345,Ngazun,MMR010021
+ Semi-pacca house,102,1171,1273,Ngazun,MMR010021
+ Wooden house,185,3149,3334,Ngazun,MMR010021
+ Bamboo,1035,18041,19076,Ngazun,MMR010021
+ Hut 2 - 3 years,36,1238,1274,Ngazun,MMR010021
+ Hut 1 year,16,290,306,Ngazun,MMR010021
+ Other,10,162,172,Ngazun,MMR010021
+ Total,1657,26181,27838,Ngazun,MMR010021
+ Condominium/Apartment/Flat,175,207,382,Nyaung U,MMR010022
+ Bungalow/Brick house,1683,3014,4697,Nyaung U,MMR010022
+ Semi-pacca house,926,2331,3257,Nyaung U,MMR010022
+ Wooden house,703,4241,4944,Nyaung U,MMR010022
+ Bamboo,5861,21765,27626,Nyaung U,MMR010022
+ Hut 2 - 3 years,126,2338,2464,Nyaung U,MMR010022
+ Hut 1 year,25,317,342,Nyaung U,MMR010022
+ Other,16,934,950,Nyaung U,MMR010022
+ Total,9515,35147,44662,Nyaung U,MMR010022
+ Condominium/Apartment/Flat,130,454,584,Yame`thin,MMR010023
+ Bungalow/Brick house,1114,2884,3998,Yame`thin,MMR010023
+ Semi-pacca house,581,3139,3720,Yame`thin,MMR010023
+ Wooden house,1993,29733,31726,Yame`thin,MMR010023
+ Bamboo,1385,14904,16289,Yame`thin,MMR010023
+ Hut 2 - 3 years,50,558,608,Yame`thin,MMR010023
+ Hut 1 year,13,177,190,Yame`thin,MMR010023
+ Other,61,83,144,Yame`thin,MMR010023
+ Total,5327,51932,57259,Yame`thin,MMR010023
+ Condominium/Apartment/Flat,182,296,478,Pyawbwe,MMR010024
+ Bungalow/Brick house,1289,3097,4386,Pyawbwe,MMR010024
+ Semi-pacca house,506,3973,4479,Pyawbwe,MMR010024
+ Wooden house,1826,28768,30594,Pyawbwe,MMR010024
+ Bamboo,3041,15042,18083,Pyawbwe,MMR010024
+ Hut 2 - 3 years,12,269,281,Pyawbwe,MMR010024
+ Hut 1 year,6,64,70,Pyawbwe,MMR010024
+ Other,12,480,492,Pyawbwe,MMR010024
+ Total,6874,51989,58863,Pyawbwe,MMR010024
+ Condominium/Apartment/Flat,1963,1860,3823,Meiktila,MMR010028
+ Bungalow/Brick house,3770,3095,6865,Meiktila,MMR010028
+ Semi-pacca house,2564,3657,6221,Meiktila,MMR010028
+ Wooden house,4059,12285,16344,Meiktila,MMR010028
+ Bamboo,11327,22933,34260,Meiktila,MMR010028
+ Hut 2 - 3 years,42,476,518,Meiktila,MMR010028
+ Hut 1 year,168,108,276,Meiktila,MMR010028
+ Other,70,62,132,Meiktila,MMR010028
+ Total,23963,44476,68439,Meiktila,MMR010028
+ Condominium/Apartment/Flat,88,1249,1337,Thazi,MMR010030
+ Bungalow/Brick house,787,2447,3234,Thazi,MMR010030
+ Semi-pacca house,439,2680,3119,Thazi,MMR010030
+ Wooden house,2211,14901,17112,Thazi,MMR010030
+ Bamboo,1192,18408,19600,Thazi,MMR010030
+ Hut 2 - 3 years,-,342,342,Thazi,MMR010030
+ Hut 1 year,1,114,115,Thazi,MMR010030
+ Other,2,31,33,Thazi,MMR010030
+ Total,4720,40172,44892,Thazi,MMR010030
+ Condominium/Apartment/Flat,42,65,107,Wundwin,MMR010031
+ Bungalow/Brick house,1067,2907,3974,Wundwin,MMR010031
+ Semi-pacca house,334,2051,2385,Wundwin,MMR010031
+ Wooden house,1619,9780,11399,Wundwin,MMR010031
+ Bamboo,4185,31068,35253,Wundwin,MMR010031
+ Hut 2 - 3 years,28,230,258,Wundwin,MMR010031
+ Hut 1 year,9,87,96,Wundwin,MMR010031
+ Other,16,81,97,Wundwin,MMR010031
+ Total,7300,46269,53569,Wundwin,MMR010031
+ Condominium/Apartment/Flat,3214,154,3368,Mawlamyine,MMR011001
+ Bungalow/Brick house,8898,641,9539,Mawlamyine,MMR011001
+ Semi-pacca house,6088,1630,7718,Mawlamyine,MMR011001
+ Wooden house,26905,4184,31089,Mawlamyine,MMR011001
+ Bamboo,3837,893,4730,Mawlamyine,MMR011001
+ Hut 2 - 3 years,364,137,501,Mawlamyine,MMR011001
+ Hut 1 year,205,53,258,Mawlamyine,MMR011001
+ Other,223,31,254,Mawlamyine,MMR011001
+ Total,49734,7723,57457,Mawlamyine,MMR011001
+ Condominium/Apartment/Flat,11,258,269,Kyaikemaraw,MMR011002
+ Bungalow/Brick house,118,2775,2893,Kyaikemaraw,MMR011002
+ Semi-pacca house,246,4469,4715,Kyaikemaraw,MMR011002
+ Wooden house,1641,23060,24701,Kyaikemaraw,MMR011002
+ Bamboo,146,3464,3610,Kyaikemaraw,MMR011002
+ Hut 2 - 3 years,11,1601,1612,Kyaikemaraw,MMR011002
+ Hut 1 year,2,639,641,Kyaikemaraw,MMR011002
+ Other,1,446,447,Kyaikemaraw,MMR011002
+ Total,2176,36712,38888,Kyaikemaraw,MMR011002
+ Condominium/Apartment/Flat,17,18,35,Chaungzon,MMR011003
+ Bungalow/Brick house,254,1365,1619,Chaungzon,MMR011003
+ Semi-pacca house,226,3562,3788,Chaungzon,MMR011003
+ Wooden house,946,15042,15988,Chaungzon,MMR011003
+ Bamboo,289,5519,5808,Chaungzon,MMR011003
+ Hut 2 - 3 years,1,495,496,Chaungzon,MMR011003
+ Hut 1 year,2,175,177,Chaungzon,MMR011003
+ Other,9,24,33,Chaungzon,MMR011003
+ Total,1744,26200,27944,Chaungzon,MMR011003
+ Condominium/Apartment/Flat,124,319,443,Thanbyuzayat,MMR011004
+ Bungalow/Brick house,1156,1966,3122,Thanbyuzayat,MMR011004
+ Semi-pacca house,1565,2957,4522,Thanbyuzayat,MMR011004
+ Wooden house,6638,13485,20123,Thanbyuzayat,MMR011004
+ Bamboo,1700,3854,5554,Thanbyuzayat,MMR011004
+ Hut 2 - 3 years,381,1096,1477,Thanbyuzayat,MMR011004
+ Hut 1 year,101,629,730,Thanbyuzayat,MMR011004
+ Other,50,213,263,Thanbyuzayat,MMR011004
+ Total,11715,24519,36234,Thanbyuzayat,MMR011004
+ Condominium/Apartment/Flat,163,368,531,Mudon,MMR011005
+ Bungalow/Brick house,1759,2111,3870,Mudon,MMR011005
+ Semi-pacca house,2312,5014,7326,Mudon,MMR011005
+ Wooden house,4900,16810,21710,Mudon,MMR011005
+ Bamboo,1498,3653,5151,Mudon,MMR011005
+ Hut 2 - 3 years,99,426,525,Mudon,MMR011005
+ Hut 1 year,17,99,116,Mudon,MMR011005
+ Other,44,39,83,Mudon,MMR011005
+ Total,10792,28520,39312,Mudon,MMR011005
+ Condominium/Apartment/Flat,298,375,673,Ye,MMR011006
+ Bungalow/Brick house,544,864,1408,Ye,MMR011006
+ Semi-pacca house,552,1409,1961,Ye,MMR011006
+ Wooden house,3307,13614,16921,Ye,MMR011006
+ Bamboo,1215,6559,7774,Ye,MMR011006
+ Hut 2 - 3 years,70,676,746,Ye,MMR011006
+ Hut 1 year,17,311,328,Ye,MMR011006
+ Other,110,70,180,Ye,MMR011006
+ Total,6113,23878,29991,Ye,MMR011006
+ Condominium/Apartment/Flat,11,186,197,Lamine,MMR011006
+ Bungalow/Brick house,308,880,1188,Lamine,MMR011006
+ Semi-pacca house,301,2711,3012,Lamine,MMR011006
+ Wooden house,2090,9131,11221,Lamine,MMR011006
+ Bamboo,133,2308,2441,Lamine,MMR011006
+ Hut 2 - 3 years,106,320,426,Lamine,MMR011006
+ Hut 1 year,13,112,125,Lamine,MMR011006
+ Other,5,24,29,Lamine,MMR011006
+ Total,2967,15672,18639,Lamine,MMR011006
+ Condominium/Apartment/Flat,76,46,122,Khawzar,MMR011006
+ Bungalow/Brick house,76,255,331,Khawzar,MMR011006
+ Semi-pacca house,66,275,341,Khawzar,MMR011006
+ Wooden house,468,2536,3004,Khawzar,MMR011006
+ Bamboo,92,837,929,Khawzar,MMR011006
+ Hut 2 - 3 years,-,55,55,Khawzar,MMR011006
+ Hut 1 year,-,30,30,Khawzar,MMR011006
+ Other,-,6,6,Khawzar,MMR011006
+ Total,778,4040,4818,Khawzar,MMR011006
+ Condominium/Apartment/Flat,296,1043,1339,Thaton,MMR011007
+ Bungalow/Brick house,1317,1800,3117,Thaton,MMR011007
+ Semi-pacca house,1551,2869,4420,Thaton,MMR011007
+ Wooden house,5826,20993,26819,Thaton,MMR011007
+ Bamboo,1481,9287,10768,Thaton,MMR011007
+ Hut 2 - 3 years,96,1076,1172,Thaton,MMR011007
+ Hut 1 year,62,400,462,Thaton,MMR011007
+ Other,77,110,187,Thaton,MMR011007
+ Total,10706,37578,48284,Thaton,MMR011007
+ Condominium/Apartment/Flat,69,302,371,Paung,MMR011008
+ Bungalow/Brick house,681,2429,3110,Paung,MMR011008
+ Semi-pacca house,692,3240,3932,Paung,MMR011008
+ Wooden house,3942,23010,26952,Paung,MMR011008
+ Bamboo,356,6498,6854,Paung,MMR011008
+ Hut 2 - 3 years,77,1147,1224,Paung,MMR011008
+ Hut 1 year,47,548,595,Paung,MMR011008
+ Other,38,650,688,Paung,MMR011008
+ Total,5902,37824,43726,Paung,MMR011008
+ Condominium/Apartment/Flat,204,1171,1375,Kyaikto,MMR011009
+ Bungalow/Brick house,949,1338,2287,Kyaikto,MMR011009
+ Semi-pacca house,765,1916,2681,Kyaikto,MMR011009
+ Wooden house,3930,15143,19073,Kyaikto,MMR011009
+ Bamboo,1421,8985,10406,Kyaikto,MMR011009
+ Hut 2 - 3 years,142,1054,1196,Kyaikto,MMR011009
+ Hut 1 year,41,641,682,Kyaikto,MMR011009
+ Other,64,324,388,Kyaikto,MMR011009
+ Total,7516,30572,38088,Kyaikto,MMR011009
+ Condominium/Apartment/Flat,402,252,654,Bilin,MMR011010
+ Bungalow/Brick house,354,944,1298,Bilin,MMR011010
+ Semi-pacca house,255,1518,1773,Bilin,MMR011010
+ Wooden house,2154,21374,23528,Bilin,MMR011010
+ Bamboo,736,9617,10353,Bilin,MMR011010
+ Hut 2 - 3 years,63,834,897,Bilin,MMR011010
+ Hut 1 year,28,430,458,Bilin,MMR011010
+ Other,52,218,270,Bilin,MMR011010
+ Total,4044,35187,39231,Bilin,MMR011010
+ Condominium/Apartment/Flat,737,1452,2189,Sittway,MMR012001
+ Bungalow/Brick house,1739,138,1877,Sittway,MMR012001
+ Semi-pacca house,1944,158,2102,Sittway,MMR012001
+ Wooden house,7230,2921,10151,Sittway,MMR012001
+ Bamboo,7011,5194,12205,Sittway,MMR012001
+ Hut 2 - 3 years,143,128,271,Sittway,MMR012001
+ Hut 1 year,56,105,161,Sittway,MMR012001
+ Other,46,34,80,Sittway,MMR012001
+ Total,18906,10130,29036,Sittway,MMR012001
+ Condominium/Apartment/Flat,16,6,22,Ponnagyun,MMR012002
+ Bungalow/Brick house,221,69,290,Ponnagyun,MMR012002
+ Semi-pacca house,111,102,213,Ponnagyun,MMR012002
+ Wooden house,1098,10220,11318,Ponnagyun,MMR012002
+ Bamboo,958,12240,13198,Ponnagyun,MMR012002
+ Hut 2 - 3 years,30,149,179,Ponnagyun,MMR012002
+ Hut 1 year,11,56,67,Ponnagyun,MMR012002
+ Other,21,27,48,Ponnagyun,MMR012002
+ Total,2466,22869,25335,Ponnagyun,MMR012002
+ Condominium/Apartment/Flat,29,6,35,Pauktaw,MMR012007
+ Bungalow/Brick house,82,33,115,Pauktaw,MMR012007
+ Semi-pacca house,96,113,209,Pauktaw,MMR012007
+ Wooden house,1383,10826,12209,Pauktaw,MMR012007
+ Bamboo,877,15833,16710,Pauktaw,MMR012007
+ Hut 2 - 3 years,1,561,562,Pauktaw,MMR012007
+ Hut 1 year,-,311,311,Pauktaw,MMR012007
+ Other,2,391,393,Pauktaw,MMR012007
+ Total,2470,28074,30544,Pauktaw,MMR012007
+ Condominium/Apartment/Flat,6,247,253,Yethedaung,MMR012008
+ Bungalow/Brick house,65,116,181,Yethedaung,MMR012008
+ Semi-pacca house,195,202,397,Yethedaung,MMR012008
+ Wooden house,450,8511,8961,Yethedaung,MMR012008
+ Bamboo,786,13281,14067,Yethedaung,MMR012008
+ Hut 2 - 3 years,6,303,309,Yethedaung,MMR012008
+ Hut 1 year,2,106,108,Yethedaung,MMR012008
+ Other,-,65,65,Yethedaung,MMR012008
+ Total,1510,22831,24341,Yethedaung,MMR012008
+ Condominium/Apartment/Flat,206,217,423,Myauk U,MMR012003
+ Bungalow/Brick house,285,41,326,Myauk U,MMR012003
+ Semi-pacca house,178,76,254,Myauk U,MMR012003
+ Wooden house,2307,7981,10288,Myauk U,MMR012003
+ Bamboo,4223,25309,29532,Myauk U,MMR012003
+ Hut 2 - 3 years,45,373,418,Myauk U,MMR012003
+ Hut 1 year,26,179,205,Myauk U,MMR012003
+ Other,4,75,79,Myauk U,MMR012003
+ Total,7274,34251,41525,Myauk U,MMR012003
+ Condominium/Apartment/Flat,17,539,556,Kyauktaw,MMR012004
+ Bungalow/Brick house,265,162,427,Kyauktaw,MMR012004
+ Semi-pacca house,285,176,461,Kyauktaw,MMR012004
+ Wooden house,1440,10223,11663,Kyauktaw,MMR012004
+ Bamboo,1785,20922,22707,Kyauktaw,MMR012004
+ Hut 2 - 3 years,11,426,437,Kyauktaw,MMR012004
+ Hut 1 year,9,166,175,Kyauktaw,MMR012004
+ Other,27,42,69,Kyauktaw,MMR012004
+ Total,3839,32656,36495,Kyauktaw,MMR012004
+ Condominium/Apartment/Flat,22,460,482,Minbya,MMR012005
+ Bungalow/Brick house,167,65,232,Minbya,MMR012005
+ Semi-pacca house,124,102,226,Minbya,MMR012005
+ Wooden house,2296,13136,15432,Minbya,MMR012005
+ Bamboo,1937,17486,19423,Minbya,MMR012005
+ Hut 2 - 3 years,25,495,520,Minbya,MMR012005
+ Hut 1 year,13,195,208,Minbya,MMR012005
+ Other,31,74,105,Minbya,MMR012005
+ Total,4615,32013,36628,Minbya,MMR012005
+ Condominium/Apartment/Flat,8,9,17,Myebon,MMR012006
+ Bungalow/Brick house,256,147,403,Myebon,MMR012006
+ Semi-pacca house,91,250,341,Myebon,MMR012006
+ Wooden house,878,16042,16920,Myebon,MMR012006
+ Bamboo,869,11214,12083,Myebon,MMR012006
+ Hut 2 - 3 years,36,692,728,Myebon,MMR012006
+ Hut 1 year,52,232,284,Myebon,MMR012006
+ Other,428,135,563,Myebon,MMR012006
+ Total,2618,28721,31339,Myebon,MMR012006
+ Condominium/Apartment/Flat,242,195,437,Maungtaw,MMR012009
+ Bungalow/Brick house,179,49,228,Maungtaw,MMR012009
+ Semi-pacca house,230,81,311,Maungtaw,MMR012009
+ Wooden house,864,1898,2762,Maungtaw,MMR012009
+ Bamboo,684,2773,3457,Maungtaw,MMR012009
+ Hut 2 - 3 years,17,9,26,Maungtaw,MMR012009
+ Hut 1 year,33,32,65,Maungtaw,MMR012009
+ Other,65,39,104,Maungtaw,MMR012009
+ Total,2314,5076,7390,Maungtaw,MMR012009
+ Condominium/Apartment/Flat,113,1253,1366,Buthidaung,MMR012010
+ Bungalow/Brick house,147,47,194,Buthidaung,MMR012010
+ Semi-pacca house,133,214,347,Buthidaung,MMR012010
+ Wooden house,981,2035,3016,Buthidaung,MMR012010
+ Bamboo,638,5540,6178,Buthidaung,MMR012010
+ Hut 2 - 3 years,30,71,101,Buthidaung,MMR012010
+ Hut 1 year,7,29,36,Buthidaung,MMR012010
+ Other,13,13,26,Buthidaung,MMR012010
+ Total,2062,9202,11264,Buthidaung,MMR012010
+ Condominium/Apartment/Flat,24,-,24,Taungpyoletwe(ST),MMR012009
+ Bungalow/Brick house,-,4,4,Taungpyoletwe(ST),MMR012009
+ Semi-pacca house,5,5,10,Taungpyoletwe(ST),MMR012009
+ Wooden house,117,106,223,Taungpyoletwe(ST),MMR012009
+ Bamboo,7,210,217,Taungpyoletwe(ST),MMR012009
+ Hut 2 - 3 years,1,9,10,Taungpyoletwe(ST),MMR012009
+ Hut 1 year,-,1,1,Taungpyoletwe(ST),MMR012009
+ Other,4,13,17,Taungpyoletwe(ST),MMR012009
+ Total,158,348,506,Taungpyoletwe(ST),MMR012009
+ Condominium/Apartment/Flat,249,573,822,Kyaukpyu,MMR012011
+ Bungalow/Brick house,423,120,543,Kyaukpyu,MMR012011
+ Semi-pacca house,598,370,968,Kyaukpyu,MMR012011
+ Wooden house,2040,23837,25877,Kyaukpyu,MMR012011
+ Bamboo,922,7543,8465,Kyaukpyu,MMR012011
+ Hut 2 - 3 years,15,395,410,Kyaukpyu,MMR012011
+ Hut 1 year,3,108,111,Kyaukpyu,MMR012011
+ Other,4,64,68,Kyaukpyu,MMR012011
+ Total,4254,33010,37264,Kyaukpyu,MMR012011
+ Condominium/Apartment/Flat,16,16,32,Mannaung,MMR017011
+ Bungalow/Brick house,44,16,60,Mannaung,MMR017011
+ Semi-pacca house,226,203,429,Mannaung,MMR017011
+ Wooden house,839,11191,12030,Mannaung,MMR017011
+ Bamboo,171,1925,2096,Mannaung,MMR017011
+ Hut 2 - 3 years,2,57,59,Mannaung,MMR017011
+ Hut 1 year,7,12,19,Mannaung,MMR017011
+ Other,1,9,10,Mannaung,MMR017011
+ Total,1306,13429,14735,Mannaung,MMR017011
+ Condominium/Apartment/Flat,4,4,8,Yanbye,MMR012013
+ Bungalow/Brick house,14,30,44,Yanbye,MMR012013
+ Semi-pacca house,79,137,216,Yanbye,MMR012013
+ Wooden house,1898,17781,19679,Yanbye,MMR012013
+ Bamboo,244,2077,2321,Yanbye,MMR012013
+ Hut 2 - 3 years,7,94,101,Yanbye,MMR012013
+ Hut 1 year,1,37,38,Yanbye,MMR012013
+ Other,1,10,11,Yanbye,MMR012013
+ Total,2248,20170,22418,Yanbye,MMR012013
+ Condominium/Apartment/Flat,136,781,917,An,MMR012014
+ Bungalow/Brick house,99,119,218,An,MMR012014
+ Semi-pacca house,136,262,398,An,MMR012014
+ Wooden house,782,14471,15253,An,MMR012014
+ Bamboo,663,9265,9928,An,MMR012014
+ Hut 2 - 3 years,19,388,407,An,MMR012014
+ Hut 1 year,35,151,186,An,MMR012014
+ Other,8,44,52,An,MMR012014
+ Total,1878,25481,27359,An,MMR012014
+ Condominium/Apartment/Flat,83,334,417,Thandwe,MMR012015
+ Bungalow/Brick house,210,302,512,Thandwe,MMR012015
+ Semi-pacca house,377,759,1136,Thandwe,MMR012015
+ Wooden house,2498,21683,24181,Thandwe,MMR012015
+ Bamboo,120,3680,3800,Thandwe,MMR012015
+ Hut 2 - 3 years,19,580,599,Thandwe,MMR012015
+ Hut 1 year,12,288,300,Thandwe,MMR012015
+ Other,31,99,130,Thandwe,MMR012015
+ Total,3350,27725,31075,Thandwe,MMR012015
+ Condominium/Apartment/Flat,421,13,434,Toungup,MMR012016
+ Bungalow/Brick house,189,37,226,Toungup,MMR012016
+ Semi-pacca house,642,86,728,Toungup,MMR012016
+ Wooden house,4501,14956,19457,Toungup,MMR012016
+ Bamboo,351,2964,3315,Toungup,MMR012016
+ Hut 2 - 3 years,19,681,700,Toungup,MMR012016
+ Hut 1 year,5,202,207,Toungup,MMR012016
+ Other,50,122,172,Toungup,MMR012016
+ Total,6178,19061,25239,Toungup,MMR012016
+ Condominium/Apartment/Flat,169,12,181,Gwa,MMR012017
+ Bungalow/Brick house,97,43,140,Gwa,MMR012017
+ Semi-pacca house,138,96,234,Gwa,MMR012017
+ Wooden house,1478,6119,7597,Gwa,MMR012017
+ Bamboo,521,1914,2435,Gwa,MMR012017
+ Hut 2 - 3 years,53,314,367,Gwa,MMR012017
+ Hut 1 year,29,236,265,Gwa,MMR012017
+ Other,3,23,26,Gwa,MMR012017
+ Total,2488,8757,11245,Gwa,MMR012017
+ Condominium/Apartment/Flat,25,3,28,Maei(ST),MMR012016
+ Bungalow/Brick house,15,5,20,Maei(ST),MMR012016
+ Semi-pacca house,42,33,75,Maei(ST),MMR012016
+ Wooden house,819,7276,8095,Maei(ST),MMR012016
+ Bamboo,306,1204,1510,Maei(ST),MMR012016
+ Hut 2 - 3 years,1,170,171,Maei(ST),MMR012016
+ Hut 1 year,7,35,42,Maei(ST),MMR012016
+ Other,-,12,12,Maei(ST),MMR012016
+ Total,1215,8738,9953,Maei(ST),MMR012016
+ Condominium/Apartment/Flat,15,1,16,Kyeintali(ST),MMR012017
+ Bungalow/Brick house,26,6,32,Kyeintali(ST),MMR012017
+ Semi-pacca house,60,57,117,Kyeintali(ST),MMR012017
+ Wooden house,1192,3572,4764,Kyeintali(ST),MMR012017
+ Bamboo,160,755,915,Kyeintali(ST),MMR012017
+ Hut 2 - 3 years,13,138,151,Kyeintali(ST),MMR012017
+ Hut 1 year,3,68,71,Kyeintali(ST),MMR012017
+ Other,6,9,15,Kyeintali(ST),MMR012017
+ Total,1475,4606,6081,Kyeintali(ST),MMR012017
+ Condominium/Apartment/Flat,6174,-,6174,Insein,MMR013001
+ Bungalow/Brick house,6785,-,6785,Insein,MMR013001
+ Semi-pacca house,12274,-,12274,Insein,MMR013001
+ Wooden house,28627,-,28627,Insein,MMR013001
+ Bamboo,6746,-,6746,Insein,MMR013001
+ Hut 2 - 3 years,260,-,260,Insein,MMR013001
+ Hut 1 year,226,-,226,Insein,MMR013001
+ Other,584,-,584,Insein,MMR013001
+ Total,61676,-,61676,Insein,MMR013001
+ Condominium/Apartment/Flat,6631,1773,8404,Mingaladon,MMR013002
+ Bungalow/Brick house,4779,2666,7445,Mingaladon,MMR013002
+ Semi-pacca house,7341,2988,10329,Mingaladon,MMR013002
+ Wooden house,17296,11379,28675,Mingaladon,MMR013002
+ Bamboo,4600,5218,9818,Mingaladon,MMR013002
+ Hut 2 - 3 years,181,252,433,Mingaladon,MMR013002
+ Hut 1 year,103,113,216,Mingaladon,MMR013002
+ Other,710,273,983,Mingaladon,MMR013002
+ Total,41641,24662,66303,Mingaladon,MMR013002
+ Condominium/Apartment/Flat,64,4073,4137,Hmawby,MMR013003
+ Bungalow/Brick house,925,3255,4180,Hmawby,MMR013003
+ Semi-pacca house,622,3662,4284,Hmawby,MMR013003
+ Wooden house,3059,20868,23927,Hmawby,MMR013003
+ Bamboo,1137,17049,18186,Hmawby,MMR013003
+ Hut 2 - 3 years,57,581,638,Hmawby,MMR013003
+ Hut 1 year,24,552,576,Hmawby,MMR013003
+ Other,54,487,541,Hmawby,MMR013003
+ Total,5942,50527,56469,Hmawby,MMR013003
+ Condominium/Apartment/Flat,292,3687,3979,Hlegu,MMR013004
+ Bungalow/Brick house,1216,2594,3810,Hlegu,MMR013004
+ Semi-pacca house,1188,2552,3740,Hlegu,MMR013004
+ Wooden house,4265,22770,27035,Hlegu,MMR013004
+ Bamboo,1584,15329,16913,Hlegu,MMR013004
+ Hut 2 - 3 years,48,1102,1150,Hlegu,MMR013004
+ Hut 1 year,25,831,856,Hlegu,MMR013004
+ Other,131,409,540,Hlegu,MMR013004
+ Total,8749,49274,58023,Hlegu,MMR013004
+ Condominium/Apartment/Flat,608,929,1537,Taikkyi,MMR013005
+ Bungalow/Brick house,1590,670,2260,Taikkyi,MMR013005
+ Semi-pacca house,2159,1773,3932,Taikkyi,MMR013005
+ Wooden house,10064,23261,33325,Taikkyi,MMR013005
+ Bamboo,4954,17936,22890,Taikkyi,MMR013005
+ Hut 2 - 3 years,408,1010,1418,Taikkyi,MMR013005
+ Hut 1 year,421,902,1323,Taikkyi,MMR013005
+ Other,155,159,314,Taikkyi,MMR013005
+ Total,20359,46640,66999,Taikkyi,MMR013005
+ Condominium/Apartment/Flat,22,136,158,Htantabin,MMR013006
+ Bungalow/Brick house,109,511,620,Htantabin,MMR013006
+ Semi-pacca house,110,981,1091,Htantabin,MMR013006
+ Wooden house,1091,14850,15941,Htantabin,MMR013006
+ Bamboo,536,14671,15207,Htantabin,MMR013006
+ Hut 2 - 3 years,32,389,421,Htantabin,MMR013006
+ Hut 1 year,57,278,335,Htantabin,MMR013006
+ Other,99,339,438,Htantabin,MMR013006
+ Total,2056,32155,34211,Htantabin,MMR013006
+ Condominium/Apartment/Flat,1369,1331,2700,Shwepyitha,MMR013007
+ Bungalow/Brick house,4940,898,5838,Shwepyitha,MMR013007
+ Semi-pacca house,5436,1885,7321,Shwepyitha,MMR013007
+ Wooden house,31494,7285,38779,Shwepyitha,MMR013007
+ Bamboo,13032,3246,16278,Shwepyitha,MMR013007
+ Hut 2 - 3 years,990,84,1074,Shwepyitha,MMR013007
+ Hut 1 year,656,56,712,Shwepyitha,MMR013007
+ Other,594,479,1073,Shwepyitha,MMR013007
+ Total,58511,15264,73775,Shwepyitha,MMR013007
+ Condominium/Apartment/Flat,9725,4564,14289,Hlinethaya,MMR013008
+ Bungalow/Brick house,7907,1699,9606,Hlinethaya,MMR013008
+ Semi-pacca house,14241,2920,17161,Hlinethaya,MMR013008
+ Wooden house,52532,17006,69538,Hlinethaya,MMR013008
+ Bamboo,16788,15514,32302,Hlinethaya,MMR013008
+ Hut 2 - 3 years,769,1354,2123,Hlinethaya,MMR013008
+ Hut 1 year,561,1038,1599,Hlinethaya,MMR013008
+ Other,1284,809,2093,Hlinethaya,MMR013008
+ Total,103807,44904,148711,Hlinethaya,MMR013008
+ Condominium/Apartment/Flat,15549,-,15549,Thingangyun,MMR013009
+ Bungalow/Brick house,4792,-,4792,Thingangyun,MMR013009
+ Semi-pacca house,5110,-,5110,Thingangyun,MMR013009
+ Wooden house,15908,-,15908,Thingangyun,MMR013009
+ Bamboo,1028,-,1028,Thingangyun,MMR013009
+ Hut 2 - 3 years,231,-,231,Thingangyun,MMR013009
+ Hut 1 year,139,-,139,Thingangyun,MMR013009
+ Other,563,-,563,Thingangyun,MMR013009
+ Total,43320,-,43320,Thingangyun,MMR013009
+ Condominium/Apartment/Flat,6460,-,6460,Yankin,MMR013010
+ Bungalow/Brick house,1837,-,1837,Yankin,MMR013010
+ Semi-pacca house,1620,-,1620,Yankin,MMR013010
+ Wooden house,4290,-,4290,Yankin,MMR013010
+ Bamboo,194,-,194,Yankin,MMR013010
+ Hut 2 - 3 years,76,-,76,Yankin,MMR013010
+ Hut 1 year,23,-,23,Yankin,MMR013010
+ Other,137,-,137,Yankin,MMR013010
+ Total,14637,-,14637,Yankin,MMR013010
+ Condominium/Apartment/Flat,2299,-,2299,South Okkalapa,MMR013011
+ Bungalow/Brick house,5809,-,5809,South Okkalapa,MMR013011
+ Semi-pacca house,7093,-,7093,South Okkalapa,MMR013011
+ Wooden house,15829,-,15829,South Okkalapa,MMR013011
+ Bamboo,1348,-,1348,South Okkalapa,MMR013011
+ Hut 2 - 3 years,89,-,89,South Okkalapa,MMR013011
+ Hut 1 year,34,-,34,South Okkalapa,MMR013011
+ Other,224,-,224,South Okkalapa,MMR013011
+ Total,32725,-,32725,South Okkalapa,MMR013011
+ Condominium/Apartment/Flat,2096,-,2096,North Okkalapa,MMR013012
+ Bungalow/Brick house,8633,-,8633,North Okkalapa,MMR013012
+ Semi-pacca house,10642,-,10642,North Okkalapa,MMR013012
+ Wooden house,36459,-,36459,North Okkalapa,MMR013012
+ Bamboo,5679,-,5679,North Okkalapa,MMR013012
+ Hut 2 - 3 years,430,-,430,North Okkalapa,MMR013012
+ Hut 1 year,90,-,90,North Okkalapa,MMR013012
+ Other,727,-,727,North Okkalapa,MMR013012
+ Total,64756,-,64756,North Okkalapa,MMR013012
+ Condominium/Apartment/Flat,3868,-,3868,Thakayta,MMR013013
+ Bungalow/Brick house,3454,-,3454,Thakayta,MMR013013
+ Semi-pacca house,8015,-,8015,Thakayta,MMR013013
+ Wooden house,27030,-,27030,Thakayta,MMR013013
+ Bamboo,2174,-,2174,Thakayta,MMR013013
+ Hut 2 - 3 years,181,-,181,Thakayta,MMR013013
+ Hut 1 year,225,-,225,Thakayta,MMR013013
+ Other,509,-,509,Thakayta,MMR013013
+ Total,45456,-,45456,Thakayta,MMR013013
+ Condominium/Apartment/Flat,2356,-,2356,Dawbon,MMR013014
+ Bungalow/Brick house,948,-,948,Dawbon,MMR013014
+ Semi-pacca house,2263,-,2263,Dawbon,MMR013014
+ Wooden house,8088,-,8088,Dawbon,MMR013014
+ Bamboo,579,-,579,Dawbon,MMR013014
+ Hut 2 - 3 years,13,-,13,Dawbon,MMR013014
+ Hut 1 year,28,-,28,Dawbon,MMR013014
+ Other,134,-,134,Dawbon,MMR013014
+ Total,14409,-,14409,Dawbon,MMR013014
+ Condominium/Apartment/Flat,29261,-,29261,Tamway,MMR013015
+ Bungalow/Brick house,2022,-,2022,Tamway,MMR013015
+ Semi-pacca house,1340,-,1340,Tamway,MMR013015
+ Wooden house,2362,-,2362,Tamway,MMR013015
+ Bamboo,172,-,172,Tamway,MMR013015
+ Hut 2 - 3 years,58,-,58,Tamway,MMR013015
+ Hut 1 year,15,-,15,Tamway,MMR013015
+ Other,130,-,130,Tamway,MMR013015
+ Total,35360,-,35360,Tamway,MMR013015
+ Condominium/Apartment/Flat,8460,-,8460,Pazuntaung,MMR013016
+ Bungalow/Brick house,434,-,434,Pazuntaung,MMR013016
+ Semi-pacca house,769,-,769,Pazuntaung,MMR013016
+ Wooden house,480,-,480,Pazuntaung,MMR013016
+ Bamboo,107,-,107,Pazuntaung,MMR013016
+ Hut 2 - 3 years,6,-,6,Pazuntaung,MMR013016
+ Hut 1 year,1,-,1,Pazuntaung,MMR013016
+ Other,49,-,49,Pazuntaung,MMR013016
+ Total,10306,-,10306,Pazuntaung,MMR013016
+ Condominium/Apartment/Flat,6986,-,6986,Botahtaung,MMR013017
+ Bungalow/Brick house,277,-,277,Botahtaung,MMR013017
+ Semi-pacca house,290,-,290,Botahtaung,MMR013017
+ Wooden house,630,-,630,Botahtaung,MMR013017
+ Bamboo,159,-,159,Botahtaung,MMR013017
+ Hut 1 year,5,-,5,Botahtaung,MMR013017
+ Other,50,-,50,Botahtaung,MMR013017
+ Total,8397,-,8397,Botahtaung,MMR013017
+ Condominium/Apartment/Flat,3291,-,3291,Dagon Myothit(South),MMR013018
+ Bungalow/Brick house,4855,-,4855,Dagon Myothit(South),MMR013018
+ Semi-pacca house,7098,-,7098,Dagon Myothit(South),MMR013018
+ Wooden house,46860,-,46860,Dagon Myothit(South),MMR013018
+ Bamboo,11790,-,11790,Dagon Myothit(South),MMR013018
+ Hut 2 - 3 years,874,-,874,Dagon Myothit(South),MMR013018
+ Hut 1 year,685,-,685,Dagon Myothit(South),MMR013018
+ Other,1531,-,1531,Dagon Myothit(South),MMR013018
+ Total,76984,-,76984,Dagon Myothit(South),MMR013018
+ Condominium/Apartment/Flat,3274,-,3274,Dagon Myothit(North),MMR013019
+ Bungalow/Brick house,9769,-,9769,Dagon Myothit(North),MMR013019
+ Semi-pacca house,5323,-,5323,Dagon Myothit(North),MMR013019
+ Wooden house,19201,-,19201,Dagon Myothit(North),MMR013019
+ Bamboo,3761,-,3761,Dagon Myothit(North),MMR013019
+ Hut 2 - 3 years,326,-,326,Dagon Myothit(North),MMR013019
+ Hut 1 year,153,-,153,Dagon Myothit(North),MMR013019
+ Other,897,-,897,Dagon Myothit(North),MMR013019
+ Total,42704,-,42704,Dagon Myothit(North),MMR013019
+ Condominium/Apartment/Flat,775,16,791,Dagon Myothit(East),MMR013020
+ Bungalow/Brick house,3250,30,3280,Dagon Myothit(East),MMR013020
+ Semi-pacca house,2847,46,2893,Dagon Myothit(East),MMR013020
+ Wooden house,16689,772,17461,Dagon Myothit(East),MMR013020
+ Bamboo,6588,906,7494,Dagon Myothit(East),MMR013020
+ Hut 2 - 3 years,630,115,745,Dagon Myothit(East),MMR013020
+ Hut 1 year,484,89,573,Dagon Myothit(East),MMR013020
+ Other,632,44,676,Dagon Myothit(East),MMR013020
+ Total,31895,2018,33913,Dagon Myothit(East),MMR013020
+ Condominium/Apartment/Flat,8905,67,8972,Dagon Myothit(Seik),MMR013021
+ Bungalow/Brick house,686,94,780,Dagon Myothit(Seik),MMR013021
+ Semi-pacca house,1106,207,1313,Dagon Myothit(Seik),MMR013021
+ Wooden house,11312,1206,12518,Dagon Myothit(Seik),MMR013021
+ Bamboo,10689,2037,12726,Dagon Myothit(Seik),MMR013021
+ Hut 2 - 3 years,640,56,696,Dagon Myothit(Seik),MMR013021
+ Hut 1 year,528,22,550,Dagon Myothit(Seik),MMR013021
+ Other,306,44,350,Dagon Myothit(Seik),MMR013021
+ Total,34172,3733,37905,Dagon Myothit(Seik),MMR013021
+ Condominium/Apartment/Flat,19003,-,19003,Mingala Taungnyunt,MMR013022
+ Bungalow/Brick house,698,-,698,Mingala Taungnyunt,MMR013022
+ Semi-pacca house,1003,-,1003,Mingala Taungnyunt,MMR013022
+ Wooden house,4537,-,4537,Mingala Taungnyunt,MMR013022
+ Bamboo,433,-,433,Mingala Taungnyunt,MMR013022
+ Hut 2 - 3 years,56,-,56,Mingala Taungnyunt,MMR013022
+ Hut 1 year,45,-,45,Mingala Taungnyunt,MMR013022
+ Other,143,-,143,Mingala Taungnyunt,MMR013022
+ Total,25918,-,25918,Mingala Taungnyunt,MMR013022
+ Condominium/Apartment/Flat,1137,1960,3097,Thanlyin,MMR013023
+ Bungalow/Brick house,3055,2021,5076,Thanlyin,MMR013023
+ Semi-pacca house,2804,2765,5569,Thanlyin,MMR013023
+ Wooden house,8642,18209,26851,Thanlyin,MMR013023
+ Bamboo,2605,16960,19565,Thanlyin,MMR013023
+ Hut 2 - 3 years,76,436,512,Thanlyin,MMR013023
+ Hut 1 year,50,307,357,Thanlyin,MMR013023
+ Other,340,230,570,Thanlyin,MMR013023
+ Total,18709,42888,61597,Thanlyin,MMR013023
+ Condominium/Apartment/Flat,314,307,621,Kyauktan,MMR013024
+ Bungalow/Brick house,870,482,1352,Kyauktan,MMR013024
+ Semi-pacca house,1257,917,2174,Kyauktan,MMR013024
+ Wooden house,4274,8665,12939,Kyauktan,MMR013024
+ Bamboo,3032,11815,14847,Kyauktan,MMR013024
+ Hut 2 - 3 years,43,576,619,Kyauktan,MMR013024
+ Hut 1 year,41,276,317,Kyauktan,MMR013024
+ Other,33,74,107,Kyauktan,MMR013024
+ Total,9864,23112,32976,Kyauktan,MMR013024
+ Condominium/Apartment/Flat,49,10,59,Thongwa,MMR013025
+ Bungalow/Brick house,524,491,1015,Thongwa,MMR013025
+ Semi-pacca house,688,1273,1961,Thongwa,MMR013025
+ Wooden house,3566,14119,17685,Thongwa,MMR013025
+ Bamboo,1710,16453,18163,Thongwa,MMR013025
+ Hut 2 - 3 years,56,518,574,Thongwa,MMR013025
+ Hut 1 year,68,309,377,Thongwa,MMR013025
+ Other,95,158,253,Thongwa,MMR013025
+ Total,6756,33331,40087,Thongwa,MMR013025
+ Condominium/Apartment/Flat,80,21,101,Khayan,MMR013026
+ Bungalow/Brick house,500,342,842,Khayan,MMR013026
+ Semi-pacca house,767,1067,1834,Khayan,MMR013026
+ Wooden house,4306,14086,18392,Khayan,MMR013026
+ Bamboo,1914,15302,17216,Khayan,MMR013026
+ Hut 2 - 3 years,189,351,540,Khayan,MMR013026
+ Hut 1 year,95,246,341,Khayan,MMR013026
+ Other,27,21,48,Khayan,MMR013026
+ Total,7878,31436,39314,Khayan,MMR013026
+ Condominium/Apartment/Flat,36,172,208,Twantay,MMR013027
+ Bungalow/Brick house,985,681,1666,Twantay,MMR013027
+ Semi-pacca house,1026,1155,2181,Twantay,MMR013027
+ Wooden house,3664,14448,18112,Twantay,MMR013027
+ Bamboo,3417,24180,27597,Twantay,MMR013027
+ Hut 2 - 3 years,32,1114,1146,Twantay,MMR013027
+ Hut 1 year,24,579,603,Twantay,MMR013027
+ Other,13,76,89,Twantay,MMR013027
+ Total,9197,42405,51602,Twantay,MMR013027
+ Condominium/Apartment/Flat,40,79,119,Kawhmu,MMR013028
+ Bungalow/Brick house,105,534,639,Kawhmu,MMR013028
+ Semi-pacca house,120,662,782,Kawhmu,MMR013028
+ Wooden house,967,8318,9285,Kawhmu,MMR013028
+ Bamboo,942,16938,17880,Kawhmu,MMR013028
+ Hut 2 - 3 years,41,655,696,Kawhmu,MMR013028
+ Hut 1 year,9,310,319,Kawhmu,MMR013028
+ Other,7,65,72,Kawhmu,MMR013028
+ Total,2231,27561,29792,Kawhmu,MMR013028
+ Condominium/Apartment/Flat,83,12,95,Kungyangon,MMR013029
+ Bungalow/Brick house,586,311,897,Kungyangon,MMR013029
+ Semi-pacca house,250,506,756,Kungyangon,MMR013029
+ Wooden house,2090,9185,11275,Kungyangon,MMR013029
+ Bamboo,874,13783,14657,Kungyangon,MMR013029
+ Hut 2 - 3 years,46,266,312,Kungyangon,MMR013029
+ Hut 1 year,21,223,244,Kungyangon,MMR013029
+ Other,8,108,116,Kungyangon,MMR013029
+ Total,3958,24394,28352,Kungyangon,MMR013029
+ Condominium/Apartment/Flat,279,142,421,Dala,MMR013030
+ Bungalow/Brick house,582,54,636,Dala,MMR013030
+ Semi-pacca house,1104,174,1278,Dala,MMR013030
+ Wooden house,13623,5326,18949,Dala,MMR013030
+ Bamboo,8791,6407,15198,Dala,MMR013030
+ Hut 2 - 3 years,311,178,489,Dala,MMR013030
+ Hut 1 year,389,126,515,Dala,MMR013030
+ Other,252,174,426,Dala,MMR013030
+ Total,25331,12581,37912,Dala,MMR013030
+ Condominium/Apartment/Flat,49,-,49,Cocogyun,MMR013032
+ Bungalow/Brick house,14,-,14,Cocogyun,MMR013032
+ Semi-pacca house,9,-,9,Cocogyun,MMR013032
+ Wooden house,167,-,167,Cocogyun,MMR013032
+ Bamboo,5,-,5,Cocogyun,MMR013032
+ Hut 2 - 3 years,95,-,95,Cocogyun,MMR013032
+ Hut 1 year,2,-,2,Cocogyun,MMR013032
+ Other,10,-,10,Cocogyun,MMR013032
+ Total,351,-,351,Cocogyun,MMR013032
+ Condominium/Apartment/Flat,21,2,23,Tada(ST),MMR013024
+ Bungalow/Brick house,45,51,96,Tada(ST),MMR013024
+ Semi-pacca house,142,159,301,Tada(ST),MMR013024
+ Wooden house,1080,2194,3274,Tada(ST),MMR013024
+ Bamboo,1168,4179,5347,Tada(ST),MMR013024
+ Hut 2 - 3 years,23,281,304,Tada(ST),MMR013024
+ Hut 1 year,8,115,123,Tada(ST),MMR013024
+ Other,3,22,25,Tada(ST),MMR013024
+ Total,2490,7003,9493,Tada(ST),MMR013024
+ Condominium/Apartment/Flat,5913,-,5913,Kyauktada,MMR013033
+ Bungalow/Brick house,175,-,175,Kyauktada,MMR013033
+ Semi-pacca house,13,-,13,Kyauktada,MMR013033
+ Wooden house,8,-,8,Kyauktada,MMR013033
+ Hut 2 - 3 years,2,-,2,Kyauktada,MMR013033
+ Other,9,-,9,Kyauktada,MMR013033
+ Total,6120,-,6120,Kyauktada,MMR013033
+ Condominium/Apartment/Flat,5847,-,5847,Pabedan,MMR013034
+ Bungalow/Brick house,468,-,468,Pabedan,MMR013034
+ Semi-pacca house,229,-,229,Pabedan,MMR013034
+ Wooden house,10,-,10,Pabedan,MMR013034
+ Hut 2 - 3 years,1,-,1,Pabedan,MMR013034
+ Hut 1 year,1,-,1,Pabedan,MMR013034
+ Other,7,-,7,Pabedan,MMR013034
+ Total,6563,-,6563,Pabedan,MMR013034
+ Condominium/Apartment/Flat,7699,-,7699,Lanmadaw,MMR013035
+ Bungalow/Brick house,396,-,396,Lanmadaw,MMR013035
+ Semi-pacca house,188,-,188,Lanmadaw,MMR013035
+ Wooden house,247,-,247,Lanmadaw,MMR013035
+ Bamboo,33,-,33,Lanmadaw,MMR013035
+ Hut 2 - 3 years,16,-,16,Lanmadaw,MMR013035
+ Hut 1 year,6,-,6,Lanmadaw,MMR013035
+ Other,14,-,14,Lanmadaw,MMR013035
+ Total,8599,-,8599,Lanmadaw,MMR013035
+ Condominium/Apartment/Flat,3976,-,3976,Latha,MMR013036
+ Bungalow/Brick house,364,-,364,Latha,MMR013036
+ Semi-pacca house,79,-,79,Latha,MMR013036
+ Wooden house,54,-,54,Latha,MMR013036
+ Total,4473,-,4473,Latha,MMR013036
+ Condominium/Apartment/Flat,7556,-,7556,Ahlon,MMR013037
+ Bungalow/Brick house,531,-,531,Ahlon,MMR013037
+ Semi-pacca house,652,-,652,Ahlon,MMR013037
+ Wooden house,1770,-,1770,Ahlon,MMR013037
+ Bamboo,366,-,366,Ahlon,MMR013037
+ Hut 2 - 3 years,12,-,12,Ahlon,MMR013037
+ Hut 1 year,11,-,11,Ahlon,MMR013037
+ Other,45,-,45,Ahlon,MMR013037
+ Total,10943,-,10943,Ahlon,MMR013037
+ Condominium/Apartment/Flat,8522,-,8522,Kyimyindine,MMR013038
+ Bungalow/Brick house,1514,-,1514,Kyimyindine,MMR013038
+ Semi-pacca house,1687,-,1687,Kyimyindine,MMR013038
+ Wooden house,7761,-,7761,Kyimyindine,MMR013038
+ Bamboo,3064,-,3064,Kyimyindine,MMR013038
+ Hut 2 - 3 years,60,-,60,Kyimyindine,MMR013038
+ Hut 1 year,31,-,31,Kyimyindine,MMR013038
+ Other,423,-,423,Kyimyindine,MMR013038
+ Total,23062,-,23062,Kyimyindine,MMR013038
+ Condominium/Apartment/Flat,15372,-,15372,Sangyoung,MMR013039
+ Bungalow/Brick house,964,-,964,Sangyoung,MMR013039
+ Semi-pacca house,1585,-,1585,Sangyoung,MMR013039
+ Wooden house,2607,-,2607,Sangyoung,MMR013039
+ Bamboo,22,-,22,Sangyoung,MMR013039
+ Hut 2 - 3 years,39,-,39,Sangyoung,MMR013039
+ Hut 1 year,10,-,10,Sangyoung,MMR013039
+ Other,36,-,36,Sangyoung,MMR013039
+ Total,20635,-,20635,Sangyoung,MMR013039
+ Condominium/Apartment/Flat,17803,-,17803,Hline,MMR013040
+ Bungalow/Brick house,2665,-,2665,Hline,MMR013040
+ Semi-pacca house,3494,-,3494,Hline,MMR013040
+ Wooden house,7969,-,7969,Hline,MMR013040
+ Bamboo,538,-,538,Hline,MMR013040
+ Hut 2 - 3 years,52,-,52,Hline,MMR013040
+ Hut 1 year,41,-,41,Hline,MMR013040
+ Other,275,-,275,Hline,MMR013040
+ Total,32837,-,32837,Hline,MMR013040
+ Condominium/Apartment/Flat,12239,-,12239,Kamayut,MMR013041
+ Bungalow/Brick house,1353,-,1353,Kamayut,MMR013041
+ Semi-pacca house,1051,-,1051,Kamayut,MMR013041
+ Wooden house,1444,-,1444,Kamayut,MMR013041
+ Bamboo,139,-,139,Kamayut,MMR013041
+ Hut 2 - 3 years,15,-,15,Kamayut,MMR013041
+ Hut 1 year,17,-,17,Kamayut,MMR013041
+ Other,41,-,41,Kamayut,MMR013041
+ Total,16299,-,16299,Kamayut,MMR013041
+ Condominium/Apartment/Flat,11020,-,11020,Mayangon,MMR013042
+ Bungalow/Brick house,5069,-,5069,Mayangon,MMR013042
+ Semi-pacca house,6806,-,6806,Mayangon,MMR013042
+ Wooden house,14141,-,14141,Mayangon,MMR013042
+ Bamboo,1315,-,1315,Mayangon,MMR013042
+ Hut 2 - 3 years,157,-,157,Mayangon,MMR013042
+ Hut 1 year,73,-,73,Mayangon,MMR013042
+ Other,226,-,226,Mayangon,MMR013042
+ Total,38807,-,38807,Mayangon,MMR013042
+ Condominium/Apartment/Flat,3547,-,3547,Dagon,MMR013043
+ Bungalow/Brick house,250,-,250,Dagon,MMR013043
+ Semi-pacca house,196,-,196,Dagon,MMR013043
+ Wooden house,472,-,472,Dagon,MMR013043
+ Bamboo,38,-,38,Dagon,MMR013043
+ Hut 2 - 3 years,43,-,43,Dagon,MMR013043
+ Hut 1 year,9,-,9,Dagon,MMR013043
+ Other,53,-,53,Dagon,MMR013043
+ Total,4608,-,4608,Dagon,MMR013043
+ Condominium/Apartment/Flat,8336,-,8336,Bahan,MMR013044
+ Bungalow/Brick house,2769,-,2769,Bahan,MMR013044
+ Semi-pacca house,2688,-,2688,Bahan,MMR013044
+ Wooden house,3305,-,3305,Bahan,MMR013044
+ Bamboo,193,-,193,Bahan,MMR013044
+ Hut 2 - 3 years,22,-,22,Bahan,MMR013044
+ Hut 1 year,26,-,26,Bahan,MMR013044
+ Other,87,-,87,Bahan,MMR013044
+ Total,17426,-,17426,Bahan,MMR013044
+ Condominium/Apartment/Flat,175,-,175,Seikkan,MMR013045
+ Bungalow/Brick house,121,-,121,Seikkan,MMR013045
+ Semi-pacca house,38,-,38,Seikkan,MMR013045
+ Wooden house,53,-,53,Seikkan,MMR013045
+ Bamboo,6,-,6,Seikkan,MMR013045
+ Hut 2 - 3 years,3,-,3,Seikkan,MMR013045
+ Hut 1 year,5,-,5,Seikkan,MMR013045
+ Other,9,-,9,Seikkan,MMR013045
+ Total,410,-,410,Seikkan,MMR013045
+ Condominium/Apartment/Flat,4365,396,4761,Taunggyi,MMR014001
+ Bungalow/Brick house,17389,5499,22888,Taunggyi,MMR014001
+ Semi-pacca house,8015,2677,10692,Taunggyi,MMR014001
+ Wooden house,10576,3673,14249,Taunggyi,MMR014001
+ Bamboo,15575,13291,28866,Taunggyi,MMR014001
+ Hut 2 - 3 years,275,219,494,Taunggyi,MMR014001
+ Hut 1 year,133,63,196,Taunggyi,MMR014001
+ Other,320,138,458,Taunggyi,MMR014001
+ Total,56648,25956,82604,Taunggyi,MMR014001
+ Condominium/Apartment/Flat,68,67,135,Nyaungshwe,MMR014002
+ Bungalow/Brick house,677,2399,3076,Nyaungshwe,MMR014002
+ Semi-pacca house,397,2566,2963,Nyaungshwe,MMR014002
+ Wooden house,1175,17664,18839,Nyaungshwe,MMR014002
+ Bamboo,665,16272,16937,Nyaungshwe,MMR014002
+ Hut 2 - 3 years,27,287,314,Nyaungshwe,MMR014002
+ Hut 1 year,6,162,168,Nyaungshwe,MMR014002
+ Other,44,158,202,Nyaungshwe,MMR014002
+ Total,3059,39575,42634,Nyaungshwe,MMR014002
+ Condominium/Apartment/Flat,261,156,417,Hopon,MMR014003
+ Bungalow/Brick house,1676,1743,3419,Hopon,MMR014003
+ Semi-pacca house,800,1623,2423,Hopon,MMR014003
+ Wooden house,238,4759,4997,Hopon,MMR014003
+ Bamboo,1512,11792,13304,Hopon,MMR014003
+ Hut 2 - 3 years,35,62,97,Hopon,MMR014003
+ Hut 1 year,5,39,44,Hopon,MMR014003
+ Other,9,18,27,Hopon,MMR014003
+ Total,4536,20192,24728,Hopon,MMR014003
+ Condominium/Apartment/Flat,208,257,465,Hsihseng,MMR014004
+ Bungalow/Brick house,488,2914,3402,Hsihseng,MMR014004
+ Semi-pacca house,161,2039,2200,Hsihseng,MMR014004
+ Wooden house,1200,8681,9881,Hsihseng,MMR014004
+ Bamboo,533,15667,16200,Hsihseng,MMR014004
+ Hut 2 - 3 years,43,147,190,Hsihseng,MMR014004
+ Hut 1 year,8,34,42,Hsihseng,MMR014004
+ Other,8,383,391,Hsihseng,MMR014004
+ Total,2649,30122,32771,Hsihseng,MMR014004
+ Condominium/Apartment/Flat,803,640,1443,Kalaw,MMR014005
+ Bungalow/Brick house,4214,7314,11528,Kalaw,MMR014005
+ Semi-pacca house,1407,3611,5018,Kalaw,MMR014005
+ Wooden house,2173,3817,5990,Kalaw,MMR014005
+ Bamboo,3681,11898,15579,Kalaw,MMR014005
+ Hut 2 - 3 years,149,258,407,Kalaw,MMR014005
+ Hut 1 year,60,34,94,Kalaw,MMR014005
+ Other,111,1171,1282,Kalaw,MMR014005
+ Total,12598,28743,41341,Kalaw,MMR014005
+ Condominium/Apartment/Flat,21,12,33,Pindaya,MMR014006
+ Bungalow/Brick house,1347,6283,7630,Pindaya,MMR014006
+ Semi-pacca house,384,2761,3145,Pindaya,MMR014006
+ Wooden house,131,1162,1293,Pindaya,MMR014006
+ Bamboo,372,4968,5340,Pindaya,MMR014006
+ Hut 2 - 3 years,-,67,67,Pindaya,MMR014006
+ Hut 1 year,1,17,18,Pindaya,MMR014006
+ Other,3,15,18,Pindaya,MMR014006
+ Total,2259,15285,17544,Pindaya,MMR014006
+ Condominium/Apartment/Flat,23,4,27,Ywarngan,MMR014007
+ Bungalow/Brick house,509,4330,4839,Ywarngan,MMR014007
+ Semi-pacca house,245,2838,3083,Ywarngan,MMR014007
+ Wooden house,84,4616,4700,Ywarngan,MMR014007
+ Bamboo,284,5076,5360,Ywarngan,MMR014007
+ Hut 2 - 3 years,5,187,192,Ywarngan,MMR014007
+ Hut 1 year,2,44,46,Ywarngan,MMR014007
+ Other,3,98,101,Ywarngan,MMR014007
+ Total,1155,17193,18348,Ywarngan,MMR014007
+ Condominium/Apartment/Flat,1135,94,1229,Yatsauk,MMR014008
+ Bungalow/Brick house,1160,2961,4121,Yatsauk,MMR014008
+ Semi-pacca house,554,1851,2405,Yatsauk,MMR014008
+ Wooden house,1408,5836,7244,Yatsauk,MMR014008
+ Bamboo,1326,9120,10446,Yatsauk,MMR014008
+ Hut 2 - 3 years,61,240,301,Yatsauk,MMR014008
+ Hut 1 year,2,54,56,Yatsauk,MMR014008
+ Other,31,124,155,Yatsauk,MMR014008
+ Total,5677,20280,25957,Yatsauk,MMR014008
+ Condominium/Apartment/Flat,278,29,307,Pinlaung,MMR014009
+ Bungalow/Brick house,1790,7980,9770,Pinlaung,MMR014009
+ Semi-pacca house,291,2016,2307,Pinlaung,MMR014009
+ Wooden house,113,5088,5201,Pinlaung,MMR014009
+ Bamboo,277,7168,7445,Pinlaung,MMR014009
+ Hut 2 - 3 years,6,233,239,Pinlaung,MMR014009
+ Hut 1 year,6,79,85,Pinlaung,MMR014009
+ Other,9,141,150,Pinlaung,MMR014009
+ Total,2770,22734,25504,Pinlaung,MMR014009
+ Condominium/Apartment/Flat,433,180,613,Phekon,MMR014010
+ Bungalow/Brick house,1254,2752,4006,Phekon,MMR014010
+ Semi-pacca house,473,1930,2403,Phekon,MMR014010
+ Wooden house,747,8743,9490,Phekon,MMR014010
+ Bamboo,435,2670,3105,Phekon,MMR014010
+ Hut 2 - 3 years,63,110,173,Phekon,MMR014010
+ Hut 1 year,18,26,44,Phekon,MMR014010
+ Other,8,242,250,Phekon,MMR014010
+ Total,3431,16653,20084,Phekon,MMR014010
+ Condominium/Apartment/Flat,26,9,35,Kyauktalongyi(ST),MMR014001
+ Bungalow/Brick house,161,1468,1629,Kyauktalongyi(ST),MMR014001
+ Semi-pacca house,87,1329,1416,Kyauktalongyi(ST),MMR014001
+ Wooden house,91,2679,2770,Kyauktalongyi(ST),MMR014001
+ Bamboo,234,6104,6338,Kyauktalongyi(ST),MMR014001
+ Hut 2 - 3 years,2,64,66,Kyauktalongyi(ST),MMR014001
+ Hut 1 year,-,5,5,Kyauktalongyi(ST),MMR014001
+ Other,1,5,6,Kyauktalongyi(ST),MMR014001
+ Total,602,11663,12265,Kyauktalongyi(ST),MMR014001
+ Condominium/Apartment/Flat,1,93,94,Indaw(ST),MMR014008
+ Bungalow/Brick house,181,579,760,Indaw(ST),MMR014008
+ Semi-pacca house,260,708,968,Indaw(ST),MMR014008
+ Wooden house,584,1591,2175,Indaw(ST),MMR014008
+ Bamboo,773,3293,4066,Indaw(ST),MMR014008
+ Hut 2 - 3 years,6,23,29,Indaw(ST),MMR014008
+ Hut 1 year,2,17,19,Indaw(ST),MMR014008
+ Other,29,10,39,Indaw(ST),MMR014008
+ Total,1836,6314,8150,Indaw(ST),MMR014008
+ Condominium/Apartment/Flat,15,393,408,Naungtayar(ST),MMR014009
+ Bungalow/Brick house,586,2754,3340,Naungtayar(ST),MMR014009
+ Semi-pacca house,60,1426,1486,Naungtayar(ST),MMR014009
+ Wooden house,26,3709,3735,Naungtayar(ST),MMR014009
+ Bamboo,291,6756,7047,Naungtayar(ST),MMR014009
+ Hut 2 - 3 years,1,50,51,Naungtayar(ST),MMR014009
+ Hut 1 year,-,11,11,Naungtayar(ST),MMR014009
+ Other,-,501,501,Naungtayar(ST),MMR014009
+ Total,979,15600,16579,Naungtayar(ST),MMR014009
+ Condominium/Apartment/Flat,202,85,287,Loilem,MMR014011
+ Bungalow/Brick house,570,916,1486,Loilem,MMR014011
+ Semi-pacca house,370,335,705,Loilem,MMR014011
+ Wooden house,1376,2338,3714,Loilem,MMR014011
+ Bamboo,317,4275,4592,Loilem,MMR014011
+ Hut 2 - 3 years,3,43,46,Loilem,MMR014011
+ Hut 1 year,1,13,14,Loilem,MMR014011
+ Other,14,43,57,Loilem,MMR014011
+ Total,2853,8048,10901,Loilem,MMR014011
+ Condominium/Apartment/Flat,19,108,127,Le`char,MMR014012
+ Bungalow/Brick house,564,818,1382,Le`char,MMR014012
+ Semi-pacca house,220,621,841,Le`char,MMR014012
+ Wooden house,274,2411,2685,Le`char,MMR014012
+ Bamboo,212,3423,3635,Le`char,MMR014012
+ Hut 2 - 3 years,1,17,18,Le`char,MMR014012
+ Hut 1 year,3,12,15,Le`char,MMR014012
+ Other,37,50,87,Le`char,MMR014012
+ Total,1330,7460,8790,Le`char,MMR014012
+ Condominium/Apartment/Flat,423,488,911,Nanhsam(South),MMR014013
+ Bungalow/Brick house,1377,1311,2688,Nanhsam(South),MMR014013
+ Semi-pacca house,635,976,1611,Nanhsam(South),MMR014013
+ Wooden house,1319,3472,4791,Nanhsam(South),MMR014013
+ Bamboo,1023,7555,8578,Nanhsam(South),MMR014013
+ Hut 2 - 3 years,14,63,77,Nanhsam(South),MMR014013
+ Hut 1 year,1,32,33,Nanhsam(South),MMR014013
+ Other,49,125,174,Nanhsam(South),MMR014013
+ Total,4841,14022,18863,Nanhsam(South),MMR014013
+ Condominium/Apartment/Flat,23,143,166,Kunhing,MMR014014
+ Bungalow/Brick house,368,221,589,Kunhing,MMR014014
+ Semi-pacca house,435,297,732,Kunhing,MMR014014
+ Wooden house,250,552,802,Kunhing,MMR014014
+ Bamboo,439,1718,2157,Kunhing,MMR014014
+ Hut 2 - 3 years,22,48,70,Kunhing,MMR014014
+ Hut 1 year,2,28,30,Kunhing,MMR014014
+ Other,3,21,24,Kunhing,MMR014014
+ Total,1542,3028,4570,Kunhing,MMR014014
+ Condominium/Apartment/Flat,71,-,71,Kehsi,MMR014015
+ Bungalow/Brick house,269,393,662,Kehsi,MMR014015
+ Semi-pacca house,75,227,302,Kehsi,MMR014015
+ Wooden house,309,3620,3929,Kehsi,MMR014015
+ Bamboo,116,3778,3894,Kehsi,MMR014015
+ Hut 2 - 3 years,-,17,17,Kehsi,MMR014015
+ Hut 1 year,1,8,9,Kehsi,MMR014015
+ Other,1,16,17,Kehsi,MMR014015
+ Total,842,8059,8901,Kehsi,MMR014015
+ Condominium/Apartment/Flat,8,2,10,Mongkai,MMR014016
+ Bungalow/Brick house,506,393,899,Mongkai,MMR014016
+ Semi-pacca house,297,560,857,Mongkai,MMR014016
+ Wooden house,432,5810,6242,Mongkai,MMR014016
+ Bamboo,450,7032,7482,Mongkai,MMR014016
+ Hut 2 - 3 years,3,42,45,Mongkai,MMR014016
+ Hut 1 year,-,78,78,Mongkai,MMR014016
+ Other,523,196,719,Mongkai,MMR014016
+ Total,2219,14113,16332,Mongkai,MMR014016
+ Condominium/Apartment/Flat,23,4,27,Mineshu,MMR014017
+ Bungalow/Brick house,488,531,1019,Mineshu,MMR014017
+ Semi-pacca house,277,494,771,Mineshu,MMR014017
+ Wooden house,414,1860,2274,Mineshu,MMR014017
+ Bamboo,821,4010,4831,Mineshu,MMR014017
+ Hut 2 - 3 years,29,158,187,Mineshu,MMR014017
+ Hut 1 year,1,46,47,Mineshu,MMR014017
+ Other,30,15,45,Mineshu,MMR014017
+ Total,2083,7118,9201,Mineshu,MMR014017
+ Condominium/Apartment/Flat,119,91,210,Panglong(ST),MMR014011
+ Bungalow/Brick house,1524,156,1680,Panglong(ST),MMR014011
+ Semi-pacca house,990,315,1305,Panglong(ST),MMR014011
+ Wooden house,1752,4980,6732,Panglong(ST),MMR014011
+ Bamboo,712,3696,4408,Panglong(ST),MMR014011
+ Hut 2 - 3 years,13,15,28,Panglong(ST),MMR014011
+ Hut 1 year,-,8,8,Panglong(ST),MMR014011
+ Other,114,31,145,Panglong(ST),MMR014011
+ Total,5224,9292,14516,Panglong(ST),MMR014011
+ Condominium/Apartment/Flat,119,401,520,Kholan(ST),MMR014013
+ Bungalow/Brick house,648,83,731,Kholan(ST),MMR014013
+ Semi-pacca house,157,65,222,Kholan(ST),MMR014013
+ Wooden house,274,618,892,Kholan(ST),MMR014013
+ Bamboo,453,1370,1823,Kholan(ST),MMR014013
+ Hut 2 - 3 years,33,36,69,Kholan(ST),MMR014013
+ Hut 1 year,10,11,21,Kholan(ST),MMR014013
+ Other,54,32,86,Kholan(ST),MMR014013
+ Total,1748,2616,4364,Kholan(ST),MMR014013
+ Condominium/Apartment/Flat,90,77,167,Karli(ST),MMR014014
+ Bungalow/Brick house,685,273,958,Karli(ST),MMR014014
+ Semi-pacca house,167,270,437,Karli(ST),MMR014014
+ Wooden house,162,1790,1952,Karli(ST),MMR014014
+ Bamboo,526,2446,2972,Karli(ST),MMR014014
+ Hut 2 - 3 years,21,27,48,Karli(ST),MMR014014
+ Hut 1 year,4,17,21,Karli(ST),MMR014014
+ Other,10,2,12,Karli(ST),MMR014014
+ Total,1665,4902,6567,Karli(ST),MMR014014
+ Condominium/Apartment/Flat,-,245,245,Minenaung(ST),MMR014015
+ Bungalow/Brick house,181,153,334,Minenaung(ST),MMR014015
+ Semi-pacca house,88,229,317,Minenaung(ST),MMR014015
+ Wooden house,64,853,917,Minenaung(ST),MMR014015
+ Bamboo,402,3557,3959,Minenaung(ST),MMR014015
+ Hut 2 - 3 years,9,9,18,Minenaung(ST),MMR014015
+ Hut 1 year,4,12,16,Minenaung(ST),MMR014015
+ Other,4,1,5,Minenaung(ST),MMR014015
+ Total,752,5059,5811,Minenaung(ST),MMR014015
+ Condominium/Apartment/Flat,45,40,85,Minesan(Monsan)(ST),MMR014017
+ Bungalow/Brick house,11,104,115,Minesan(Monsan)(ST),MMR014017
+ Semi-pacca house,111,166,277,Minesan(Monsan)(ST),MMR014017
+ Wooden house,82,2042,2124,Minesan(Monsan)(ST),MMR014017
+ Bamboo,251,1529,1780,Minesan(Monsan)(ST),MMR014017
+ Hut 2 - 3 years,3,21,24,Minesan(Monsan)(ST),MMR014017
+ Hut 1 year,4,14,18,Minesan(Monsan)(ST),MMR014017
+ Other,-,2243,2243,Minesan(Monsan)(ST),MMR014017
+ Total,507,6159,6666,Minesan(Monsan)(ST),MMR014017
+ Condominium/Apartment/Flat,63,300,363,Linkhe`,MMR014018
+ Bungalow/Brick house,174,291,465,Linkhe`,MMR014018
+ Semi-pacca house,986,3549,4535,Linkhe`,MMR014018
+ Wooden house,247,1325,1572,Linkhe`,MMR014018
+ Bamboo,216,1072,1288,Linkhe`,MMR014018
+ Hut 2 - 3 years,25,81,106,Linkhe`,MMR014018
+ Hut 1 year,6,40,46,Linkhe`,MMR014018
+ Other,1,12,13,Linkhe`,MMR014018
+ Total,1718,6670,8388,Linkhe`,MMR014018
+ Condominium/Apartment/Flat,6,205,211,Mone`,MMR014019
+ Bungalow/Brick house,795,301,1096,Mone`,MMR014019
+ Semi-pacca house,590,329,919,Mone`,MMR014019
+ Wooden house,200,761,961,Mone`,MMR014019
+ Bamboo,490,2254,2744,Mone`,MMR014019
+ Hut 2 - 3 years,10,134,144,Mone`,MMR014019
+ Hut 1 year,4,14,18,Mone`,MMR014019
+ Other,8,123,131,Mone`,MMR014019
+ Total,2103,4121,6224,Mone`,MMR014019
+ Condominium/Apartment/Flat,72,8,80,Maukme`,MMR014020
+ Bungalow/Brick house,228,230,458,Maukme`,MMR014020
+ Semi-pacca house,375,457,832,Maukme`,MMR014020
+ Wooden house,349,1952,2301,Maukme`,MMR014020
+ Bamboo,153,3280,3433,Maukme`,MMR014020
+ Hut 2 - 3 years,7,25,32,Maukme`,MMR014020
+ Hut 1 year,8,4,12,Maukme`,MMR014020
+ Other,-,46,46,Maukme`,MMR014020
+ Total,1192,6002,7194,Maukme`,MMR014020
+ Condominium/Apartment/Flat,227,209,436,Minepan,MMR014021
+ Bungalow/Brick house,277,71,348,Minepan,MMR014021
+ Semi-pacca house,420,116,536,Minepan,MMR014021
+ Wooden house,734,1156,1890,Minepan,MMR014021
+ Bamboo,290,1758,2048,Minepan,MMR014021
+ Hut 2 - 3 years,8,75,83,Minepan,MMR014021
+ Hut 1 year,2,39,41,Minepan,MMR014021
+ Other,1,38,39,Minepan,MMR014021
+ Total,1959,3462,5421,Minepan,MMR014021
+ Condominium/Apartment/Flat,8,-,8,Homane(ST),MMR014018
+ Bungalow/Brick house,31,2,33,Homane(ST),MMR014018
+ Semi-pacca house,38,5,43,Homane(ST),MMR014018
+ Wooden house,495,217,712,Homane(ST),MMR014018
+ Bamboo,100,247,347,Homane(ST),MMR014018
+ Hut 2 - 3 years,2,-,2,Homane(ST),MMR014018
+ Other,-,15,15,Homane(ST),MMR014018
+ Total,674,486,1160,Homane(ST),MMR014018
+ Condominium/Apartment/Flat,314,-,314,Kengtaung(ST),MMR014019
+ Bungalow/Brick house,222,-,222,Kengtaung(ST),MMR014019
+ Semi-pacca house,190,-,190,Kengtaung(ST),MMR014019
+ Wooden house,1193,24,1217,Kengtaung(ST),MMR014019
+ Bamboo,97,138,235,Kengtaung(ST),MMR014019
+ Hut 2 - 3 years,25,1,26,Kengtaung(ST),MMR014019
+ Hut 1 year,9,1,10,Kengtaung(ST),MMR014019
+ Other,47,-,47,Kengtaung(ST),MMR014019
+ Total,2097,164,2261,Kengtaung(ST),MMR014019
+ Condominium/Apartment/Flat,4101,398,4499,Lashio,MMR015001
+ Bungalow/Brick house,15146,5763,20909,Lashio,MMR015001
+ Semi-pacca house,4486,2395,6881,Lashio,MMR015001
+ Wooden house,1702,3826,5528,Lashio,MMR015001
+ Bamboo,8045,17430,25475,Lashio,MMR015001
+ Hut 2 - 3 years,289,528,817,Lashio,MMR015001
+ Hut 1 year,137,137,274,Lashio,MMR015001
+ Other,193,356,549,Lashio,MMR015001
+ Total,34099,30833,64932,Lashio,MMR015001
+ Condominium/Apartment/Flat,69,505,574,Theinni,MMR015002
+ Bungalow/Brick house,1160,2257,3417,Theinni,MMR015002
+ Semi-pacca house,181,1381,1562,Theinni,MMR015002
+ Wooden house,91,375,466,Theinni,MMR015002
+ Bamboo,388,4738,5126,Theinni,MMR015002
+ Hut 2 - 3 years,9,132,141,Theinni,MMR015002
+ Hut 1 year,3,30,33,Theinni,MMR015002
+ Other,22,438,460,Theinni,MMR015002
+ Total,1923,9856,11779,Theinni,MMR015002
+ Condominium/Apartment/Flat,87,131,218,Mineye`,MMR015003
+ Bungalow/Brick house,433,249,682,Mineye`,MMR015003
+ Semi-pacca house,159,477,636,Mineye`,MMR015003
+ Wooden house,129,2978,3107,Mineye`,MMR015003
+ Bamboo,527,7755,8282,Mineye`,MMR015003
+ Hut 2 - 3 years,4,151,155,Mineye`,MMR015003
+ Hut 1 year,2,58,60,Mineye`,MMR015003
+ Other,129,59,188,Mineye`,MMR015003
+ Total,1470,11858,13328,Mineye`,MMR015003
+ Condominium/Apartment/Flat,239,240,479,Tantyan,MMR015004
+ Bungalow/Brick house,2013,1252,3265,Tantyan,MMR015004
+ Semi-pacca house,1031,773,1804,Tantyan,MMR015004
+ Wooden house,439,6102,6541,Tantyan,MMR015004
+ Bamboo,2990,19613,22603,Tantyan,MMR015004
+ Hut 2 - 3 years,37,235,272,Tantyan,MMR015004
+ Hut 1 year,4,58,62,Tantyan,MMR015004
+ Other,55,61,116,Tantyan,MMR015004
+ Total,6808,28334,35142,Tantyan,MMR015004
+ Condominium/Apartment/Flat,1945,370,2315,MuSe,MMR015009
+ Bungalow/Brick house,4385,1862,6247,MuSe,MMR015009
+ Semi-pacca house,1658,1011,2669,MuSe,MMR015009
+ Wooden house,503,481,984,MuSe,MMR015009
+ Bamboo,4616,4808,9424,MuSe,MMR015009
+ Hut 2 - 3 years,23,25,48,MuSe,MMR015009
+ Hut 1 year,12,6,18,MuSe,MMR015009
+ Other,192,317,509,MuSe,MMR015009
+ Total,13334,8880,22214,MuSe,MMR015009
+ Condominium/Apartment/Flat,44,95,139,Namkham,MMR015010
+ Bungalow/Brick house,1674,946,2620,Namkham,MMR015010
+ Semi-pacca house,1028,885,1913,Namkham,MMR015010
+ Wooden house,1211,4439,5650,Namkham,MMR015010
+ Bamboo,2101,8366,10467,Namkham,MMR015010
+ Hut 2 - 3 years,3,189,192,Namkham,MMR015010
+ Hut 1 year,2,37,39,Namkham,MMR015010
+ Other,69,328,397,Namkham,MMR015010
+ Total,6132,15285,21417,Namkham,MMR015010
+ Condominium/Apartment/Flat,263,89,352,Kukai,MMR015011
+ Bungalow/Brick house,1809,1358,3167,Kukai,MMR015011
+ Semi-pacca house,682,858,1540,Kukai,MMR015011
+ Wooden house,250,2106,2356,Kukai,MMR015011
+ Bamboo,475,8962,9437,Kukai,MMR015011
+ Hut 2 - 3 years,9,227,236,Kukai,MMR015011
+ Hut 1 year,7,118,125,Kukai,MMR015011
+ Other,1188,630,1818,Kukai,MMR015011
+ Total,4683,14348,19031,Kukai,MMR015011
+ Condominium/Apartment/Flat,181,20,201,Monekoe(ST),MMR015009
+ Bungalow/Brick house,572,177,749,Monekoe(ST),MMR015009
+ Semi-pacca house,269,511,780,Monekoe(ST),MMR015009
+ Wooden house,77,410,487,Monekoe(ST),MMR015009
+ Bamboo,141,1437,1578,Monekoe(ST),MMR015009
+ Hut 2 - 3 years,2,7,9,Monekoe(ST),MMR015009
+ Hut 1 year,2,4,6,Monekoe(ST),MMR015009
+ Other,225,323,548,Monekoe(ST),MMR015009
+ Total,1469,2889,4358,Monekoe(ST),MMR015009
+ Condominium/Apartment/Flat,27,10,37,Manhero(ST),MMR015009
+ Bungalow/Brick house,85,320,405,Manhero(ST),MMR015009
+ Semi-pacca house,36,71,107,Manhero(ST),MMR015009
+ Wooden house,9,106,115,Manhero(ST),MMR015009
+ Bamboo,125,419,544,Manhero(ST),MMR015009
+ Other,64,371,435,Manhero(ST),MMR015009
+ Total,346,1297,1643,Manhero(ST),MMR015009
+ Condominium/Apartment/Flat,168,22,190,Pansai(KyuKute)(ST),MMR015009
+ Bungalow/Brick house,960,532,1492,Pansai(KyuKute)(ST),MMR015009
+ Semi-pacca house,136,207,343,Pansai(KyuKute)(ST),MMR015009
+ Wooden house,54,183,237,Pansai(KyuKute)(ST),MMR015009
+ Bamboo,391,1731,2122,Pansai(KyuKute)(ST),MMR015009
+ Hut 2 - 3 years,9,6,15,Pansai(KyuKute)(ST),MMR015009
+ Hut 1 year,2,1,3,Pansai(KyuKute)(ST),MMR015009
+ Other,48,93,141,Pansai(KyuKute)(ST),MMR015009
+ Total,1768,2775,4543,Pansai(KyuKute)(ST),MMR015009
+ Condominium/Apartment/Flat,104,28,132,Tamoenye(ST),MMR015011
+ Bungalow/Brick house,806,591,1397,Tamoenye(ST),MMR015011
+ Semi-pacca house,415,663,1078,Tamoenye(ST),MMR015011
+ Wooden house,114,1005,1119,Tamoenye(ST),MMR015011
+ Bamboo,544,7234,7778,Tamoenye(ST),MMR015011
+ Hut 2 - 3 years,1,29,30,Tamoenye(ST),MMR015011
+ Hut 1 year,4,7,11,Tamoenye(ST),MMR015011
+ Other,499,1005,1504,Tamoenye(ST),MMR015011
+ Total,2487,10562,13049,Tamoenye(ST),MMR015011
+ Condominium/Apartment/Flat,402,284,686,Kyukme,MMR015012
+ Bungalow/Brick house,3368,3296,6664,Kyukme,MMR015012
+ Semi-pacca house,1321,1475,2796,Kyukme,MMR015012
+ Wooden house,563,3469,4032,Kyukme,MMR015012
+ Bamboo,2917,10428,13345,Kyukme,MMR015012
+ Hut 2 - 3 years,21,299,320,Kyukme,MMR015012
+ Hut 1 year,6,61,67,Kyukme,MMR015012
+ Other,55,406,461,Kyukme,MMR015012
+ Total,8653,19718,28371,Kyukme,MMR015012
+ Condominium/Apartment/Flat,61,782,843,Naungkhio,MMR015013
+ Bungalow/Brick house,1685,6184,7869,Naungkhio,MMR015013
+ Semi-pacca house,881,5793,6674,Naungkhio,MMR015013
+ Wooden house,215,3005,3220,Naungkhio,MMR015013
+ Bamboo,1295,11621,12916,Naungkhio,MMR015013
+ Hut 2 - 3 years,12,248,260,Naungkhio,MMR015013
+ Hut 1 year,4,133,137,Naungkhio,MMR015013
+ Other,18,287,305,Naungkhio,MMR015013
+ Total,4171,28053,32224,Naungkhio,MMR015013
+ Condominium/Apartment/Flat,137,738,875,Hsipaw,MMR015014
+ Bungalow/Brick house,1123,2721,3844,Hsipaw,MMR015014
+ Semi-pacca house,444,1785,2229,Hsipaw,MMR015014
+ Wooden house,480,9505,9985,Hsipaw,MMR015014
+ Bamboo,1807,18849,20656,Hsipaw,MMR015014
+ Hut 2 - 3 years,6,143,149,Hsipaw,MMR015014
+ Hut 1 year,2,53,55,Hsipaw,MMR015014
+ Other,10,103,113,Hsipaw,MMR015014
+ Total,4009,33897,37906,Hsipaw,MMR015014
+ Condominium/Apartment/Flat,258,31,289,Namtu,MMR015015
+ Bungalow/Brick house,337,795,1132,Namtu,MMR015015
+ Semi-pacca house,702,644,1346,Namtu,MMR015015
+ Wooden house,941,1344,2285,Namtu,MMR015015
+ Bamboo,916,5171,6087,Namtu,MMR015015
+ Hut 2 - 3 years,37,224,261,Namtu,MMR015015
+ Hut 1 year,7,32,39,Namtu,MMR015015
+ Other,59,143,202,Namtu,MMR015015
+ Total,3257,8384,11641,Namtu,MMR015015
+ Condominium/Apartment/Flat,26,9,35,Namsan(North),MMR015016
+ Bungalow/Brick house,50,157,207,Namsan(North),MMR015016
+ Semi-pacca house,115,467,582,Namsan(North),MMR015016
+ Wooden house,582,7931,8513,Namsan(North),MMR015016
+ Bamboo,155,3977,4132,Namsan(North),MMR015016
+ Hut 2 - 3 years,1,116,117,Namsan(North),MMR015016
+ Hut 1 year,1,35,36,Namsan(North),MMR015016
+ Other,5,58,63,Namsan(North),MMR015016
+ Total,935,12750,13685,Namsan(North),MMR015016
+ Condominium/Apartment/Flat,7,261,268,Momeik,MMR015017
+ Bungalow/Brick house,251,307,558,Momeik,MMR015017
+ Semi-pacca house,277,725,1002,Momeik,MMR015017
+ Wooden house,262,2334,2596,Momeik,MMR015017
+ Bamboo,1411,7603,9014,Momeik,MMR015017
+ Hut 2 - 3 years,15,115,130,Momeik,MMR015017
+ Hut 1 year,-,41,41,Momeik,MMR015017
+ Other,10,33,43,Momeik,MMR015017
+ Total,2233,11419,13652,Momeik,MMR015017
+ Condominium/Apartment/Flat,-,89,89,Mabane,MMR015018
+ Bungalow/Brick house,35,219,254,Mabane,MMR015018
+ Semi-pacca house,32,331,363,Mabane,MMR015018
+ Wooden house,557,4545,5102,Mabane,MMR015018
+ Bamboo,88,2672,2760,Mabane,MMR015018
+ Hut 2 - 3 years,2,40,42,Mabane,MMR015018
+ Hut 1 year,-,17,17,Mabane,MMR015018
+ Other,-,5,5,Mabane,MMR015018
+ Total,714,7918,8632,Mabane,MMR015018
+ Condominium/Apartment/Flat,61,1,62,Manton,MMR015019
+ Bungalow/Brick house,111,13,124,Manton,MMR015019
+ Semi-pacca house,75,32,107,Manton,MMR015019
+ Wooden house,207,1247,1454,Manton,MMR015019
+ Bamboo,234,5379,5613,Manton,MMR015019
+ Hut 2 - 3 years,57,183,240,Manton,MMR015019
+ Hut 1 year,8,24,32,Manton,MMR015019
+ Other,26,25,51,Manton,MMR015019
+ Total,779,6904,7683,Manton,MMR015019
+ Condominium/Apartment/Flat,9,-,9,Minengaw(ST),MMR015012
+ Bungalow/Brick house,123,74,197,Minengaw(ST),MMR015012
+ Semi-pacca house,61,161,222,Minengaw(ST),MMR015012
+ Wooden house,112,1294,1406,Minengaw(ST),MMR015012
+ Bamboo,305,1853,2158,Minengaw(ST),MMR015012
+ Hut 2 - 3 years,1,22,23,Minengaw(ST),MMR015012
+ Hut 1 year,-,6,6,Minengaw(ST),MMR015012
+ Other,2,6,8,Minengaw(ST),MMR015012
+ Total,613,3416,4029,Minengaw(ST),MMR015012
+ Condominium/Apartment/Flat,-,1,1,Minelon(ST),MMR015012
+ Bungalow/Brick house,32,14,46,Minelon(ST),MMR015012
+ Semi-pacca house,33,114,147,Minelon(ST),MMR015012
+ Wooden house,81,1690,1771,Minelon(ST),MMR015012
+ Bamboo,405,3406,3811,Minelon(ST),MMR015012
+ Hut 2 - 3 years,22,31,53,Minelon(ST),MMR015012
+ Hut 1 year,1,7,8,Minelon(ST),MMR015012
+ Other,12,7,19,Minelon(ST),MMR015012
+ Total,586,5270,5856,Minelon(ST),MMR015012
+ Condominium/Apartment/Flat,114,110,224,Kunlon,MMR015020
+ Bungalow/Brick house,292,1280,1572,Kunlon,MMR015020
+ Semi-pacca house,223,1045,1268,Kunlon,MMR015020
+ Wooden house,193,833,1026,Kunlon,MMR015020
+ Bamboo,313,5669,5982,Kunlon,MMR015020
+ Hut 2 - 3 years,2,20,22,Kunlon,MMR015020
+ Hut 1 year,2,8,10,Kunlon,MMR015020
+ Other,19,269,288,Kunlon,MMR015020
+ Total,1158,9234,10392,Kunlon,MMR015020
+ Condominium/Apartment/Flat,1226,792,2018,Laukine,MMR015022
+ Bungalow/Brick house,1280,2769,4049,Laukine,MMR015022
+ Semi-pacca house,395,3475,3870,Laukine,MMR015022
+ Wooden house,10,1231,1241,Laukine,MMR015022
+ Bamboo,14,1773,1787,Laukine,MMR015022
+ Hut 2 - 3 years,5,68,73,Laukine,MMR015022
+ Hut 1 year,5,18,23,Laukine,MMR015022
+ Other,6,1164,1170,Laukine,MMR015022
+ Total,2941,11290,14231,Laukine,MMR015022
+ Condominium/Apartment/Flat,46,2,48,Kongyan,MMR015023
+ Bungalow/Brick house,91,156,247,Kongyan,MMR015023
+ Semi-pacca house,26,763,789,Kongyan,MMR015023
+ Wooden house,9,954,963,Kongyan,MMR015023
+ Bamboo,15,2344,2359,Kongyan,MMR015023
+ Hut 2 - 3 years,-,15,15,Kongyan,MMR015023
+ Other,7,1034,1041,Kongyan,MMR015023
+ Total,194,5268,5462,Kongyan,MMR015023
+ Condominium/Apartment/Flat,247,-,247,Chinshwehaw(ST),MMR015022
+ Bungalow/Brick house,148,203,351,Chinshwehaw(ST),MMR015022
+ Semi-pacca house,7,15,22,Chinshwehaw(ST),MMR015022
+ Wooden house,12,18,30,Chinshwehaw(ST),MMR015022
+ Bamboo,40,92,132,Chinshwehaw(ST),MMR015022
+ Hut 2 - 3 years,14,1,15,Chinshwehaw(ST),MMR015022
+ Hut 1 year,13,1,14,Chinshwehaw(ST),MMR015022
+ Other,138,1,139,Chinshwehaw(ST),MMR015022
+ Total,619,331,950,Chinshwehaw(ST),MMR015022
+ Condominium/Apartment/Flat,31,44,75,Mawhtike(ST),MMR015023
+ Bungalow/Brick house,5,186,191,Mawhtike(ST),MMR015023
+ Semi-pacca house,20,1130,1150,Mawhtike(ST),MMR015023
+ Wooden house,22,531,553,Mawhtike(ST),MMR015023
+ Bamboo,-,789,789,Mawhtike(ST),MMR015023
+ Hut 2 - 3 years,-,19,19,Mawhtike(ST),MMR015023
+ Hut 1 year,-,6,6,Mawhtike(ST),MMR015023
+ Other,7,1413,1420,Mawhtike(ST),MMR015023
+ Total,85,4118,4203,Mawhtike(ST),MMR015023
+ Condominium/Apartment/Flat,357,219,576,Hopan,MMR015021
+ Bungalow/Brick house,1639,915,2554,Hopan,MMR015021
+ Semi-pacca house,359,555,914,Hopan,MMR015021
+ Wooden house,128,1045,1173,Hopan,MMR015021
+ Bamboo,849,3842,4691,Hopan,MMR015021
+ Hut 2 - 3 years,8,38,46,Hopan,MMR015021
+ Hut 1 year,14,25,39,Hopan,MMR015021
+ Other,24,14,38,Hopan,MMR015021
+ Total,3378,6653,10031,Hopan,MMR015021
+ Condominium/Apartment/Flat,107,30,137,Minemaw,MMR015008
+ Bungalow/Brick house,215,276,491,Minemaw,MMR015008
+ Semi-pacca house,188,354,542,Minemaw,MMR015008
+ Wooden house,236,6649,6885,Minemaw,MMR015008
+ Bamboo,84,2271,2355,Minemaw,MMR015008
+ Hut 2 - 3 years,9,8,17,Minemaw,MMR015008
+ Hut 1 year,2,2,4,Minemaw,MMR015008
+ Other,12,2,14,Minemaw,MMR015008
+ Total,853,9592,10445,Minemaw,MMR015008
+ Condominium/Apartment/Flat,9,53,62,Panwine,MMR015007
+ Bungalow/Brick house,70,415,485,Panwine,MMR015007
+ Semi-pacca house,34,517,551,Panwine,MMR015007
+ Wooden house,254,6766,7020,Panwine,MMR015007
+ Bamboo,96,5478,5574,Panwine,MMR015007
+ Hut 2 - 3 years,6,159,165,Panwine,MMR015007
+ Hut 1 year,-,6,6,Panwine,MMR015007
+ Other,-,106,106,Panwine,MMR015007
+ Total,469,13500,13969,Panwine,MMR015007
+ Condominium/Apartment/Flat,20,-,20,Panlon(ST),MMR015021
+ Bungalow/Brick house,131,6,137,Panlon(ST),MMR015021
+ Semi-pacca house,82,53,135,Panlon(ST),MMR015021
+ Wooden house,19,62,81,Panlon(ST),MMR015021
+ Bamboo,356,383,739,Panlon(ST),MMR015021
+ Hut 2 - 3 years,8,1,9,Panlon(ST),MMR015021
+ Hut 1 year,6,-,6,Panlon(ST),MMR015021
+ Other,39,19,58,Panlon(ST),MMR015021
+ Total,661,524,1185,Panlon(ST),MMR015021
+ Condominium/Apartment/Flat,6,178,184,Makman,MMR015024
+ Bungalow/Brick house,6,1,7,Makman,MMR015024
+ Semi-pacca house,-,4,4,Makman,MMR015024
+ Wooden house,43,543,586,Makman,MMR015024
+ Bamboo,11,2300,2311,Makman,MMR015024
+ Hut 2 - 3 years,-,189,189,Makman,MMR015024
+ Hut 1 year,-,16,16,Makman,MMR015024
+ Other,1,20,21,Makman,MMR015024
+ Total,67,3251,3318,Makman,MMR015024
+ Condominium/Apartment/Flat,1291,692,1983,Pan San(Pan Kham),MMR015005
+ Bungalow/Brick house,284,1508,1792,Pan San(Pan Kham),MMR015005
+ Semi-pacca house,318,702,1020,Pan San(Pan Kham),MMR015005
+ Wooden house,126,3624,3750,Pan San(Pan Kham),MMR015005
+ Bamboo,1,6994,6995,Pan San(Pan Kham),MMR015005
+ Hut 2 - 3 years,-,368,368,Pan San(Pan Kham),MMR015005
+ Hut 1 year,-,24,24,Pan San(Pan Kham),MMR015005
+ Other,2,208,210,Pan San(Pan Kham),MMR015005
+ Total,2022,14120,16142,Pan San(Pan Kham),MMR015005
+ Condominium/Apartment/Flat,2,48,50,Naphang,MMR015006
+ Bungalow/Brick house,41,280,321,Naphang,MMR015006
+ Semi-pacca house,67,563,630,Naphang,MMR015006
+ Wooden house,38,7760,7798,Naphang,MMR015006
+ Bamboo,3,7431,7434,Naphang,MMR015006
+ Hut 2 - 3 years,4,194,198,Naphang,MMR015006
+ Hut 1 year,-,6,6,Naphang,MMR015006
+ Other,-,37,37,Naphang,MMR015006
+ Total,155,16319,16474,Naphang,MMR015006
+ Condominium/Apartment/Flat,29,-,29,ManKan(ST),MMR015005
+ Semi-pacca house,2,3,5,ManKan(ST),MMR015005
+ Wooden house,9,34,43,ManKan(ST),MMR015005
+ Bamboo,41,196,237,ManKan(ST),MMR015005
+ Hut 2 - 3 years,-,1,1,ManKan(ST),MMR015005
+ Total,81,234,315,ManKan(ST),MMR015005
+ Condominium/Apartment/Flat,1095,1499,2594,Kengtung,MMR016001
+ Bungalow/Brick house,4951,3391,8342,Kengtung,MMR016001
+ Semi-pacca house,1212,2240,3452,Kengtung,MMR016001
+ Wooden house,876,9964,10840,Kengtung,MMR016001
+ Bamboo,148,6209,6357,Kengtung,MMR016001
+ Hut 2 - 3 years,96,314,410,Kengtung,MMR016001
+ Hut 1 year,44,86,130,Kengtung,MMR016001
+ Other,680,1291,1971,Kengtung,MMR016001
+ Total,9102,24994,34096,Kengtung,MMR016001
+ Condominium/Apartment/Flat,202,17,219,Minekat,MMR016002
+ Bungalow/Brick house,212,163,375,Minekat,MMR016002
+ Semi-pacca house,15,84,99,Minekat,MMR016002
+ Wooden house,41,3569,3610,Minekat,MMR016002
+ Bamboo,17,3032,3049,Minekat,MMR016002
+ Hut 2 - 3 years,68,362,430,Minekat,MMR016002
+ Hut 1 year,3,189,192,Minekat,MMR016002
+ Other,-,51,51,Minekat,MMR016002
+ Total,558,7467,8025,Minekat,MMR016002
+ Condominium/Apartment/Flat,198,26,224,Mineyan,MMR016003
+ Bungalow/Brick house,337,1246,1583,Mineyan,MMR016003
+ Semi-pacca house,125,732,857,Mineyan,MMR016003
+ Wooden house,237,4952,5189,Mineyan,MMR016003
+ Bamboo,82,1760,1842,Mineyan,MMR016003
+ Hut 2 - 3 years,4,122,126,Mineyan,MMR016003
+ Hut 1 year,2,2,4,Mineyan,MMR016003
+ Other,4,290,294,Mineyan,MMR016003
+ Total,989,9130,10119,Mineyan,MMR016003
+ Condominium/Apartment/Flat,104,18,122,Minelar,MMR016005
+ Bungalow/Brick house,618,127,745,Minelar,MMR016005
+ Semi-pacca house,202,73,275,Minelar,MMR016005
+ Wooden house,630,3062,3692,Minelar,MMR016005
+ Bamboo,5,343,348,Minelar,MMR016005
+ Hut 2 - 3 years,-,5,5,Minelar,MMR016005
+ Hut 1 year,1,-,1,Minelar,MMR016005
+ Other,-,20,20,Minelar,MMR016005
+ Total,1560,3648,5208,Minelar,MMR016005
+ Condominium/Apartment/Flat,-,222,222,Mine Pauk(ST),MMR016003
+ Bungalow/Brick house,-,1656,1656,Mine Pauk(ST),MMR016003
+ Semi-pacca house,-,932,932,Mine Pauk(ST),MMR016003
+ Wooden house,-,4114,4114,Mine Pauk(ST),MMR016003
+ Bamboo,-,2186,2186,Mine Pauk(ST),MMR016003
+ Hut 2 - 3 years,-,31,31,Mine Pauk(ST),MMR016003
+ Hut 1 year,-,6,6,Mine Pauk(ST),MMR016003
+ Other,-,138,138,Mine Pauk(ST),MMR016003
+ Total,-,9285,9285,Mine Pauk(ST),MMR016003
+ Condominium/Apartment/Flat,330,744,1074,Minesat,MMR016006
+ Bungalow/Brick house,561,2397,2958,Minesat,MMR016006
+ Semi-pacca house,160,978,1138,Minesat,MMR016006
+ Wooden house,212,1697,1909,Minesat,MMR016006
+ Bamboo,227,7777,8004,Minesat,MMR016006
+ Hut 2 - 3 years,66,534,600,Minesat,MMR016006
+ Hut 1 year,3,61,64,Minesat,MMR016006
+ Other,2,160,162,Minesat,MMR016006
+ Total,1561,14348,15909,Minesat,MMR016006
+ Condominium/Apartment/Flat,133,16,149,Minepyin,MMR016007
+ Bungalow/Brick house,172,257,429,Minepyin,MMR016007
+ Semi-pacca house,274,445,719,Minepyin,MMR016007
+ Wooden house,275,2617,2892,Minepyin,MMR016007
+ Bamboo,408,5750,6158,Minepyin,MMR016007
+ Hut 2 - 3 years,7,144,151,Minepyin,MMR016007
+ Hut 1 year,1,20,21,Minepyin,MMR016007
+ Other,63,23,86,Minepyin,MMR016007
+ Total,1333,9272,10605,Minepyin,MMR016007
+ Condominium/Apartment/Flat,127,121,248,Minetung,MMR016008
+ Bungalow/Brick house,123,74,197,Minetung,MMR016008
+ Semi-pacca house,186,79,265,Minetung,MMR016008
+ Wooden house,500,630,1130,Minetung,MMR016008
+ Bamboo,182,2067,2249,Minetung,MMR016008
+ Hut 2 - 3 years,1,157,158,Minetung,MMR016008
+ Hut 1 year,-,1,1,Minetung,MMR016008
+ Other,-,10,10,Minetung,MMR016008
+ Total,1119,3139,4258,Minetung,MMR016008
+ Condominium/Apartment/Flat,6,104,110,Minekoke(ST),MMR016006
+ Bungalow/Brick house,27,59,86,Minekoke(ST),MMR016006
+ Semi-pacca house,17,35,52,Minekoke(ST),MMR016006
+ Wooden house,135,396,531,Minekoke(ST),MMR016006
+ Bamboo,76,2094,2170,Minekoke(ST),MMR016006
+ Hut 2 - 3 years,6,227,233,Minekoke(ST),MMR016006
+ Hut 1 year,6,2,8,Minekoke(ST),MMR016006
+ Other,11,1,12,Minekoke(ST),MMR016006
+ Total,284,2918,3202,Minekoke(ST),MMR016006
+ Condominium/Apartment/Flat,47,23,70,Tontar(ST),MMR016007
+ Bungalow/Brick house,39,21,60,Tontar(ST),MMR016007
+ Semi-pacca house,72,10,82,Tontar(ST),MMR016007
+ Wooden house,128,600,728,Tontar(ST),MMR016007
+ Bamboo,134,1435,1569,Tontar(ST),MMR016007
+ Hut 2 - 3 years,1,151,152,Tontar(ST),MMR016007
+ Hut 1 year,1,18,19,Tontar(ST),MMR016007
+ Other,5,9,14,Tontar(ST),MMR016007
+ Total,427,2267,2694,Tontar(ST),MMR016007
+ Condominium/Apartment/Flat,86,167,253,Ponparkyin(ST),MMR016008
+ Bungalow/Brick house,78,546,624,Ponparkyin(ST),MMR016008
+ Semi-pacca house,58,327,385,Ponparkyin(ST),MMR016008
+ Wooden house,386,1663,2049,Ponparkyin(ST),MMR016008
+ Bamboo,111,3698,3809,Ponparkyin(ST),MMR016008
+ Hut 2 - 3 years,2,188,190,Ponparkyin(ST),MMR016008
+ Hut 1 year,-,14,14,Ponparkyin(ST),MMR016008
+ Other,-,10,10,Ponparkyin(ST),MMR016008
+ Total,721,6613,7334,Ponparkyin(ST),MMR016008
+ Condominium/Apartment/Flat,20,-,20,Monehta(ST),MMR016008
+ Bungalow/Brick house,2,1,3,Monehta(ST),MMR016008
+ Semi-pacca house,6,4,10,Monehta(ST),MMR016008
+ Wooden house,8,33,41,Monehta(ST),MMR016008
+ Bamboo,39,711,750,Monehta(ST),MMR016008
+ Hut 2 - 3 years,9,78,87,Monehta(ST),MMR016008
+ Hut 1 year,5,-,5,Monehta(ST),MMR016008
+ Other,2,11,13,Monehta(ST),MMR016008
+ Total,91,838,929,Monehta(ST),MMR016008
+ Condominium/Apartment/Flat,4701,3506,8207,Tachileik,MMR016009
+ Bungalow/Brick house,4422,6689,11111,Tachileik,MMR016009
+ Semi-pacca house,1023,2531,3554,Tachileik,MMR016009
+ Wooden house,411,2895,3306,Tachileik,MMR016009
+ Bamboo,336,4156,4492,Tachileik,MMR016009
+ Hut 2 - 3 years,85,144,229,Tachileik,MMR016009
+ Hut 1 year,17,47,64,Tachileik,MMR016009
+ Other,99,117,216,Tachileik,MMR016009
+ Total,11094,20085,31179,Tachileik,MMR016009
+ Condominium/Apartment/Flat,86,33,119,Talay(ST),MMR016009
+ Bungalow/Brick house,333,649,982,Talay(ST),MMR016009
+ Semi-pacca house,208,539,747,Talay(ST),MMR016009
+ Wooden house,126,901,1027,Talay(ST),MMR016009
+ Bamboo,99,940,1039,Talay(ST),MMR016009
+ Hut 2 - 3 years,17,41,58,Talay(ST),MMR016009
+ Hut 1 year,4,12,16,Talay(ST),MMR016009
+ Other,-,30,30,Talay(ST),MMR016009
+ Total,873,3145,4018,Talay(ST),MMR016009
+ Condominium/Apartment/Flat,27,8,35,Kenglat(ST),MMR016009
+ Bungalow/Brick house,230,186,416,Kenglat(ST),MMR016009
+ Semi-pacca house,241,238,479,Kenglat(ST),MMR016009
+ Wooden house,173,718,891,Kenglat(ST),MMR016009
+ Bamboo,29,550,579,Kenglat(ST),MMR016009
+ Hut 2 - 3 years,4,8,12,Kenglat(ST),MMR016009
+ Hut 1 year,46,6,52,Kenglat(ST),MMR016009
+ Other,12,-,12,Kenglat(ST),MMR016009
+ Total,762,1714,2476,Kenglat(ST),MMR016009
+ Condominium/Apartment/Flat,186,413,599,Minephyat,MMR016010
+ Bungalow/Brick house,569,346,915,Minephyat,MMR016010
+ Semi-pacca house,184,341,525,Minephyat,MMR016010
+ Wooden house,211,1818,2029,Minephyat,MMR016010
+ Bamboo,159,1804,1963,Minephyat,MMR016010
+ Hut 2 - 3 years,8,76,84,Minephyat,MMR016010
+ Hut 1 year,-,12,12,Minephyat,MMR016010
+ Other,6,32,38,Minephyat,MMR016010
+ Total,1323,4842,6165,Minephyat,MMR016010
+ Condominium/Apartment/Flat,10,227,237,Mineyaung,MMR016011
+ Bungalow/Brick house,399,838,1237,Mineyaung,MMR016011
+ Semi-pacca house,250,948,1198,Mineyaung,MMR016011
+ Wooden house,458,2670,3128,Mineyaung,MMR016011
+ Bamboo,65,429,494,Mineyaung,MMR016011
+ Hut 2 - 3 years,4,16,20,Mineyaung,MMR016011
+ Hut 1 year,3,8,11,Mineyaung,MMR016011
+ Other,1,3,4,Mineyaung,MMR016011
+ Total,1190,5139,6329,Mineyaung,MMR016011
+ Condominium/Apartment/Flat,14,361,375,Mineyu(ST),MMR016011
+ Bungalow/Brick house,55,450,505,Mineyu(ST),MMR016011
+ Semi-pacca house,49,867,916,Mineyu(ST),MMR016011
+ Wooden house,76,6634,6710,Mineyu(ST),MMR016011
+ Bamboo,30,2087,2117,Mineyu(ST),MMR016011
+ Hut 2 - 3 years,1,94,95,Mineyu(ST),MMR016011
+ Hut 1 year,-,36,36,Mineyu(ST),MMR016011
+ Other,6,107,113,Mineyu(ST),MMR016011
+ Total,231,10636,10867,Mineyu(ST),MMR016011
+ Condominium/Apartment/Flat,25,70,95,Kangyidaunt,MMR017002
+ Bungalow/Brick house,168,482,650,Kangyidaunt,MMR017002
+ Semi-pacca house,203,1139,1342,Kangyidaunt,MMR017002
+ Wooden house,1357,17605,18962,Kangyidaunt,MMR017002
+ Bamboo,879,19804,20683,Kangyidaunt,MMR017002
+ Hut 2 - 3 years,21,642,663,Kangyidaunt,MMR017002
+ Hut 1 year,17,258,275,Kangyidaunt,MMR017002
+ Other,4,292,296,Kangyidaunt,MMR017002
+ Total,2674,40292,42966,Kangyidaunt,MMR017002
+ Condominium/Apartment/Flat,15,28,43,Kyaungon,MMR017007
+ Bungalow/Brick house,284,518,802,Kyaungon,MMR017007
+ Semi-pacca house,242,780,1022,Kyaungon,MMR017007
+ Wooden house,2003,11674,13677,Kyaungon,MMR017007
+ Bamboo,1352,23967,25319,Kyaungon,MMR017007
+ Hut 2 - 3 years,12,258,270,Kyaungon,MMR017007
+ Hut 1 year,16,183,199,Kyaungon,MMR017007
+ Other,26,44,70,Kyaungon,MMR017007
+ Total,3950,37452,41402,Kyaungon,MMR017007
+ Condominium/Apartment/Flat,111,6,117,Kyonpyaw,MMR017005
+ Bungalow/Brick house,530,895,1425,Kyonpyaw,MMR017005
+ Semi-pacca house,261,1309,1570,Kyonpyaw,MMR017005
+ Wooden house,2495,15154,17649,Kyonpyaw,MMR017005
+ Bamboo,2562,35583,38145,Kyonpyaw,MMR017005
+ Hut 2 - 3 years,12,254,266,Kyonpyaw,MMR017005
+ Hut 1 year,20,188,208,Kyonpyaw,MMR017005
+ Other,8,100,108,Kyonpyaw,MMR017005
+ Total,5999,53489,59488,Kyonpyaw,MMR017005
+ Condominium/Apartment/Flat,10,22,32,Ngaputaw,MMR017004
+ Bungalow/Brick house,60,107,167,Ngaputaw,MMR017004
+ Semi-pacca house,165,639,804,Ngaputaw,MMR017004
+ Wooden house,1471,18574,20045,Ngaputaw,MMR017004
+ Bamboo,791,11154,11945,Ngaputaw,MMR017004
+ Hut 2 - 3 years,31,2144,2175,Ngaputaw,MMR017004
+ Hut 1 year,11,1101,1112,Ngaputaw,MMR017004
+ Other,2,1094,1096,Ngaputaw,MMR017004
+ Total,2541,34835,37376,Ngaputaw,MMR017004
+ Condominium/Apartment/Flat,2959,654,3613,Pathein,MMR017001
+ Bungalow/Brick house,3598,281,3879,Pathein,MMR017001
+ Semi-pacca house,2894,578,3472,Pathein,MMR017001
+ Wooden house,21194,14311,35505,Pathein,MMR017001
+ Bamboo,5619,11255,16874,Pathein,MMR017001
+ Hut 2 - 3 years,344,646,990,Pathein,MMR017001
+ Hut 1 year,195,350,545,Pathein,MMR017001
+ Other,638,520,1158,Pathein,MMR017001
+ Total,37441,28595,66036,Pathein,MMR017001
+ Condominium/Apartment/Flat,16,26,42,Yekyi,MMR017006
+ Bungalow/Brick house,228,163,391,Yekyi,MMR017006
+ Semi-pacca house,150,363,513,Yekyi,MMR017006
+ Wooden house,1583,10283,11866,Yekyi,MMR017006
+ Bamboo,781,14049,14830,Yekyi,MMR017006
+ Hut 2 - 3 years,3,69,72,Yekyi,MMR017006
+ Hut 1 year,4,70,74,Yekyi,MMR017006
+ Other,1,13,14,Yekyi,MMR017006
+ Total,2766,25036,27802,Yekyi,MMR017006
+ Condominium/Apartment/Flat,24,563,587,Thapaung,MMR017003
+ Bungalow/Brick house,73,168,241,Thapaung,MMR017003
+ Semi-pacca house,153,312,465,Thapaung,MMR017003
+ Wooden house,1149,20357,21506,Thapaung,MMR017003
+ Bamboo,302,12201,12503,Thapaung,MMR017003
+ Hut 2 - 3 years,21,1082,1103,Thapaung,MMR017003
+ Hut 1 year,12,609,621,Thapaung,MMR017003
+ Other,6,205,211,Thapaung,MMR017003
+ Total,1740,35497,37237,Thapaung,MMR017003
+ Condominium/Apartment/Flat,-,1,1,Ngayokaung(ST),MMR017004
+ Bungalow/Brick house,18,12,30,Ngayokaung(ST),MMR017004
+ Semi-pacca house,42,89,131,Ngayokaung(ST),MMR017004
+ Wooden house,549,5839,6388,Ngayokaung(ST),MMR017004
+ Bamboo,218,1761,1979,Ngayokaung(ST),MMR017004
+ Hut 2 - 3 years,2,792,794,Ngayokaung(ST),MMR017004
+ Hut 1 year,4,417,421,Ngayokaung(ST),MMR017004
+ Other,-,457,457,Ngayokaung(ST),MMR017004
+ Total,833,9368,10201,Ngayokaung(ST),MMR017004
+ Condominium/Apartment/Flat,297,17,314,Hainggyikyun(ST),MMR017004
+ Bungalow/Brick house,26,52,78,Hainggyikyun(ST),MMR017004
+ Semi-pacca house,48,225,273,Hainggyikyun(ST),MMR017004
+ Wooden house,2354,17706,20060,Hainggyikyun(ST),MMR017004
+ Bamboo,672,5778,6450,Hainggyikyun(ST),MMR017004
+ Hut 2 - 3 years,28,956,984,Hainggyikyun(ST),MMR017004
+ Hut 1 year,40,600,640,Hainggyikyun(ST),MMR017004
+ Other,84,192,276,Hainggyikyun(ST),MMR017004
+ Total,3549,25526,29075,Hainggyikyun(ST),MMR017004
+ Condominium/Apartment/Flat,3,58,61,Shwethaungyan(ST),MMR017001
+ Bungalow/Brick house,13,155,168,Shwethaungyan(ST),MMR017001
+ Semi-pacca house,24,272,296,Shwethaungyan(ST),MMR017001
+ Wooden house,519,5682,6201,Shwethaungyan(ST),MMR017001
+ Bamboo,124,1638,1762,Shwethaungyan(ST),MMR017001
+ Hut 2 - 3 years,89,772,861,Shwethaungyan(ST),MMR017001
+ Hut 1 year,24,318,342,Shwethaungyan(ST),MMR017001
+ Other,23,467,490,Shwethaungyan(ST),MMR017001
+ Total,819,9362,10181,Shwethaungyan(ST),MMR017001
+ Condominium/Apartment/Flat,47,20,67,Ngwehsaung(ST),MMR017001
+ Bungalow/Brick house,95,53,148,Ngwehsaung(ST),MMR017001
+ Semi-pacca house,147,146,293,Ngwehsaung(ST),MMR017001
+ Wooden house,1658,3677,5335,Ngwehsaung(ST),MMR017001
+ Bamboo,577,2144,2721,Ngwehsaung(ST),MMR017001
+ Hut 2 - 3 years,30,304,334,Ngwehsaung(ST),MMR017001
+ Hut 1 year,38,370,408,Ngwehsaung(ST),MMR017001
+ Other,83,81,164,Ngwehsaung(ST),MMR017001
+ Total,2675,6795,9470,Ngwehsaung(ST),MMR017001
+ Condominium/Apartment/Flat,13,52,65,Ngathaingchaung(ST),MMR017006
+ Bungalow/Brick house,312,33,345,Ngathaingchaung(ST),MMR017006
+ Semi-pacca house,319,203,522,Ngathaingchaung(ST),MMR017006
+ Wooden house,2322,9505,11827,Ngathaingchaung(ST),MMR017006
+ Bamboo,1481,7884,9365,Ngathaingchaung(ST),MMR017006
+ Hut 2 - 3 years,46,269,315,Ngathaingchaung(ST),MMR017006
+ Hut 1 year,84,236,320,Ngathaingchaung(ST),MMR017006
+ Other,20,134,154,Ngathaingchaung(ST),MMR017006
+ Total,4597,18316,22913,Ngathaingchaung(ST),MMR017006
+ Condominium/Apartment/Flat,69,31,100,Kyaiklatt,MMR017025
+ Bungalow/Brick house,507,343,850,Kyaiklatt,MMR017025
+ Semi-pacca house,448,612,1060,Kyaiklatt,MMR017025
+ Wooden house,2606,12251,14857,Kyaiklatt,MMR017025
+ Bamboo,1664,22579,24243,Kyaiklatt,MMR017025
+ Hut 2 - 3 years,77,1387,1464,Kyaiklatt,MMR017025
+ Hut 1 year,34,901,935,Kyaiklatt,MMR017025
+ Other,12,227,239,Kyaiklatt,MMR017025
+ Total,5417,38331,43748,Kyaiklatt,MMR017025
+ Condominium/Apartment/Flat,29,28,57,Daydaye,MMR017026
+ Bungalow/Brick house,247,262,509,Daydaye,MMR017026
+ Semi-pacca house,301,710,1011,Daydaye,MMR017026
+ Wooden house,1726,12309,14035,Daydaye,MMR017026
+ Bamboo,1192,29002,30194,Daydaye,MMR017026
+ Hut 2 - 3 years,27,1557,1584,Daydaye,MMR017026
+ Hut 1 year,6,744,750,Daydaye,MMR017026
+ Other,38,432,470,Daydaye,MMR017026
+ Total,3566,45044,48610,Daydaye,MMR017026
+ Condominium/Apartment/Flat,573,48,621,Phyapon,MMR017023
+ Bungalow/Brick house,1117,315,1432,Phyapon,MMR017023
+ Semi-pacca house,637,366,1003,Phyapon,MMR017023
+ Wooden house,3949,7328,11277,Phyapon,MMR017023
+ Bamboo,3259,19655,22914,Phyapon,MMR017023
+ Hut 2 - 3 years,157,1875,2032,Phyapon,MMR017023
+ Hut 1 year,108,1372,1480,Phyapon,MMR017023
+ Other,254,617,871,Phyapon,MMR017023
+ Total,10054,31576,41630,Phyapon,MMR017023
+ Condominium/Apartment/Flat,151,27,178,Bogale,MMR017024
+ Bungalow/Brick house,832,425,1257,Bogale,MMR017024
+ Semi-pacca house,637,745,1382,Bogale,MMR017024
+ Wooden house,4637,18473,23110,Bogale,MMR017024
+ Bamboo,2936,24771,27707,Bogale,MMR017024
+ Hut 2 - 3 years,402,10981,11383,Bogale,MMR017024
+ Hut 1 year,229,7697,7926,Bogale,MMR017024
+ Other,291,2753,3044,Bogale,MMR017024
+ Total,10115,65872,75987,Bogale,MMR017024
+ Condominium/Apartment/Flat,24,21,45,Ahmar(ST),MMR017023
+ Bungalow/Brick house,26,89,115,Ahmar(ST),MMR017023
+ Semi-pacca house,27,170,197,Ahmar(ST),MMR017023
+ Wooden house,456,5475,5931,Ahmar(ST),MMR017023
+ Bamboo,170,15103,15273,Ahmar(ST),MMR017023
+ Hut 2 - 3 years,44,3060,3104,Ahmar(ST),MMR017023
+ Hut 1 year,24,2315,2339,Ahmar(ST),MMR017023
+ Other,6,776,782,Ahmar(ST),MMR017023
+ Total,777,27009,27786,Ahmar(ST),MMR017023
+ Condominium/Apartment/Flat,111,200,311,Nyaungdon,MMR017021
+ Bungalow/Brick house,508,895,1403,Nyaungdon,MMR017021
+ Semi-pacca house,480,1357,1837,Nyaungdon,MMR017021
+ Wooden house,3276,17618,20894,Nyaungdon,MMR017021
+ Bamboo,1359,24417,25776,Nyaungdon,MMR017021
+ Hut 2 - 3 years,63,344,407,Nyaungdon,MMR017021
+ Hut 1 year,80,273,353,Nyaungdon,MMR017021
+ Other,23,197,220,Nyaungdon,MMR017021
+ Total,5900,45301,51201,Nyaungdon,MMR017021
+ Condominium/Apartment/Flat,36,43,79,Danubyu,MMR017022
+ Bungalow/Brick house,420,629,1049,Danubyu,MMR017022
+ Semi-pacca house,389,954,1343,Danubyu,MMR017022
+ Wooden house,2663,14011,16674,Danubyu,MMR017022
+ Bamboo,1606,23691,25297,Danubyu,MMR017022
+ Hut 2 - 3 years,29,168,197,Danubyu,MMR017022
+ Hut 1 year,30,84,114,Danubyu,MMR017022
+ Other,7,37,44,Danubyu,MMR017022
+ Total,5180,39617,44797,Danubyu,MMR017022
+ Condominium/Apartment/Flat,90,35,125,Pantanaw,MMR017020
+ Bungalow/Brick house,211,692,903,Pantanaw,MMR017020
+ Semi-pacca house,143,1249,1392,Pantanaw,MMR017020
+ Wooden house,2239,17405,19644,Pantanaw,MMR017020
+ Bamboo,1544,35936,37480,Pantanaw,MMR017020
+ Hut 2 - 3 years,38,247,285,Pantanaw,MMR017020
+ Hut 1 year,17,350,367,Pantanaw,MMR017020
+ Other,10,71,81,Pantanaw,MMR017020
+ Total,4292,55985,60277,Pantanaw,MMR017020
+ Condominium/Apartment/Flat,272,158,430,Maubin,MMR017019
+ Bungalow/Brick house,917,623,1540,Maubin,MMR017019
+ Semi-pacca house,996,1154,2150,Maubin,MMR017019
+ Wooden house,4635,23776,28411,Maubin,MMR017019
+ Bamboo,2050,35529,37579,Maubin,MMR017019
+ Hut 2 - 3 years,74,669,743,Maubin,MMR017019
+ Hut 1 year,89,585,674,Maubin,MMR017019
+ Other,104,173,277,Maubin,MMR017019
+ Total,9137,62667,71804,Maubin,MMR017019
+ Condominium/Apartment/Flat,210,286,496,Myaungmya,MMR017014
+ Bungalow/Brick house,1005,610,1615,Myaungmya,MMR017014
+ Semi-pacca house,968,1166,2134,Myaungmya,MMR017014
+ Wooden house,6766,26311,33077,Myaungmya,MMR017014
+ Bamboo,2944,22196,25140,Myaungmya,MMR017014
+ Hut 2 - 3 years,280,1754,2034,Myaungmya,MMR017014
+ Hut 1 year,149,781,930,Myaungmya,MMR017014
+ Other,191,555,746,Myaungmya,MMR017014
+ Total,12513,53659,66172,Myaungmya,MMR017014
+ Condominium/Apartment/Flat,31,61,92,Wakema,MMR017017
+ Bungalow/Brick house,254,664,918,Wakema,MMR017017
+ Semi-pacca house,271,1361,1632,Wakema,MMR017017
+ Wooden house,3128,27764,30892,Wakema,MMR017017
+ Bamboo,1307,29651,30958,Wakema,MMR017017
+ Hut 2 - 3 years,50,1403,1453,Wakema,MMR017017
+ Hut 1 year,36,894,930,Wakema,MMR017017
+ Other,228,345,573,Wakema,MMR017017
+ Total,5305,62143,67448,Wakema,MMR017017
+ Condominium/Apartment/Flat,79,49,128,Einme,MMR017015
+ Bungalow/Brick house,261,591,852,Einme,MMR017015
+ Semi-pacca house,237,932,1169,Einme,MMR017015
+ Wooden house,1713,16500,18213,Einme,MMR017015
+ Bamboo,720,24677,25397,Einme,MMR017015
+ Hut 2 - 3 years,4,349,353,Einme,MMR017015
+ Hut 1 year,3,202,205,Einme,MMR017015
+ Other,29,109,138,Einme,MMR017015
+ Total,3046,43409,46455,Einme,MMR017015
+ Condominium/Apartment/Flat,97,171,268,Mawlamyinegyun,MMR017018
+ Bungalow/Brick house,417,468,885,Mawlamyinegyun,MMR017018
+ Semi-pacca house,592,1108,1700,Mawlamyinegyun,MMR017018
+ Wooden house,4276,28107,32383,Mawlamyinegyun,MMR017018
+ Bamboo,1244,27959,29203,Mawlamyinegyun,MMR017018
+ Hut 2 - 3 years,421,4789,5210,Mawlamyinegyun,MMR017018
+ Hut 1 year,285,3566,3851,Mawlamyinegyun,MMR017018
+ Other,251,1135,1386,Mawlamyinegyun,MMR017018
+ Total,7583,67303,74886,Mawlamyinegyun,MMR017018
+ Condominium/Apartment/Flat,84,125,209,Labutta,MMR017016
+ Bungalow/Brick house,469,239,708,Labutta,MMR017016
+ Semi-pacca house,302,487,789,Labutta,MMR017016
+ Wooden house,4369,21544,25913,Labutta,MMR017016
+ Bamboo,1756,21003,22759,Labutta,MMR017016
+ Hut 2 - 3 years,128,1958,2086,Labutta,MMR017016
+ Hut 1 year,65,1988,2053,Labutta,MMR017016
+ Other,30,599,629,Labutta,MMR017016
+ Total,7203,47943,55146,Labutta,MMR017016
+ Condominium/Apartment/Flat,18,14,32,Pyinsalu(ST),MMR017016
+ Bungalow/Brick house,-,25,25,Pyinsalu(ST),MMR017016
+ Semi-pacca house,5,64,69,Pyinsalu(ST),MMR017016
+ Wooden house,460,12003,12463,Pyinsalu(ST),MMR017016
+ Bamboo,16,4700,4716,Pyinsalu(ST),MMR017016
+ Hut 2 - 3 years,-,1238,1238,Pyinsalu(ST),MMR017016
+ Hut 1 year,1,1562,1563,Pyinsalu(ST),MMR017016
+ Other,1,330,331,Pyinsalu(ST),MMR017016
+ Total,501,19936,20437,Pyinsalu(ST),MMR017016
+ Condominium/Apartment/Flat,9,142,151,Kyangin,MMR017012
+ Bungalow/Brick house,564,160,724,Kyangin,MMR017012
+ Semi-pacca house,369,436,805,Kyangin,MMR017012
+ Wooden house,3504,15085,18589,Kyangin,MMR017012
+ Bamboo,798,4691,5489,Kyangin,MMR017012
+ Hut 2 - 3 years,9,562,571,Kyangin,MMR017012
+ Hut 1 year,4,378,382,Kyangin,MMR017012
+ Other,49,97,146,Kyangin,MMR017012
+ Total,5306,21551,26857,Kyangin,MMR017012
+ Condominium/Apartment/Flat,24,14,38,Zalun,MMR017009
+ Bungalow/Brick house,250,349,599,Zalun,MMR017009
+ Semi-pacca house,380,699,1079,Zalun,MMR017009
+ Wooden house,2367,14083,16450,Zalun,MMR017009
+ Bamboo,2183,20967,23150,Zalun,MMR017009
+ Hut 2 - 3 years,26,453,479,Zalun,MMR017009
+ Hut 1 year,18,202,220,Zalun,MMR017009
+ Other,9,49,58,Zalun,MMR017009
+ Total,5257,36816,42073,Zalun,MMR017009
+ Condominium/Apartment/Flat,17,68,85,Myanaung,MMR017011
+ Bungalow/Brick house,546,497,1043,Myanaung,MMR017011
+ Semi-pacca house,581,1695,2276,Myanaung,MMR017011
+ Wooden house,3675,30130,33805,Myanaung,MMR017011
+ Bamboo,1186,19568,20754,Myanaung,MMR017011
+ Hut 2 - 3 years,17,1107,1124,Myanaung,MMR017011
+ Hut 1 year,21,692,713,Myanaung,MMR017011
+ Other,6,114,120,Myanaung,MMR017011
+ Total,6049,53871,59920,Myanaung,MMR017011
+ Condominium/Apartment/Flat,5,6,11,Laymyethna,MMR017010
+ Bungalow/Brick house,26,95,121,Laymyethna,MMR017010
+ Semi-pacca house,95,345,440,Laymyethna,MMR017010
+ Wooden house,414,12217,12631,Laymyethna,MMR017010
+ Bamboo,199,11928,12127,Laymyethna,MMR017010
+ Hut 2 - 3 years,6,510,516,Laymyethna,MMR017010
+ Hut 1 year,16,318,334,Laymyethna,MMR017010
+ Other,9,55,64,Laymyethna,MMR017010
+ Total,770,25474,26244,Laymyethna,MMR017010
+ Condominium/Apartment/Flat,221,222,443,Hinthada,MMR017008
+ Bungalow/Brick house,1839,723,2562,Hinthada,MMR017008
+ Semi-pacca house,1167,940,2107,Hinthada,MMR017008
+ Wooden house,9161,19560,28721,Hinthada,MMR017008
+ Bamboo,7112,44174,51286,Hinthada,MMR017008
+ Hut 2 - 3 years,155,335,490,Hinthada,MMR017008
+ Hut 1 year,71,295,366,Hinthada,MMR017008
+ Other,103,51,154,Hinthada,MMR017008
+ Total,19829,66300,86129,Hinthada,MMR017008
+ Condominium/Apartment/Flat,23,202,225,Ingapu,MMR017013
+ Bungalow/Brick house,148,239,387,Ingapu,MMR017013
+ Semi-pacca house,230,483,713,Ingapu,MMR017013
+ Wooden house,2227,26967,29194,Ingapu,MMR017013
+ Bamboo,856,24647,25503,Ingapu,MMR017013
+ Hut 2 - 3 years,8,573,581,Ingapu,MMR017013
+ Hut 1 year,15,432,447,Ingapu,MMR017013
+ Other,71,108,179,Ingapu,MMR017013
+ Total,3578,53651,57229,Ingapu,MMR017013
+ Condominium/Apartment/Flat,385,1927,2312,Tatkon,MMR018003
+ Bungalow/Brick house,1112,1055,2167,Tatkon,MMR018003
+ Semi-pacca house,745,1480,2225,Tatkon,MMR018003
+ Wooden house,3443,22581,26024,Tatkon,MMR018003
+ Bamboo,3254,14566,17820,Tatkon,MMR018003
+ Hut 2 - 3 years,75,654,729,Tatkon,MMR018003
+ Hut 1 year,16,192,208,Tatkon,MMR018003
+ Other,116,146,262,Tatkon,MMR018003
+ Total,9146,42601,51747,Tatkon,MMR018003
+ Condominium/Apartment/Flat,6127,570,6697,Zeyarthiri,MMR018001
+ Bungalow/Brick house,244,709,953,Zeyarthiri,MMR018001
+ Semi-pacca house,434,851,1285,Zeyarthiri,MMR018001
+ Wooden house,799,9730,10529,Zeyarthiri,MMR018001
+ Bamboo,523,5579,6102,Zeyarthiri,MMR018001
+ Hut 2 - 3 years,14,181,195,Zeyarthiri,MMR018001
+ Hut 1 year,29,29,58,Zeyarthiri,MMR018001
+ Other,76,180,256,Zeyarthiri,MMR018001
+ Total,8246,17829,26075,Zeyarthiri,MMR018001
+ Condominium/Apartment/Flat,483,905,1388,Ottarathiri,MMR018008
+ Bungalow/Brick house,766,387,1153,Ottarathiri,MMR018008
+ Semi-pacca house,812,531,1343,Ottarathiri,MMR018008
+ Wooden house,1029,5845,6874,Ottarathiri,MMR018008
+ Bamboo,1440,5542,6982,Ottarathiri,MMR018008
+ Hut 2 - 3 years,118,340,458,Ottarathiri,MMR018008
+ Hut 1 year,205,178,383,Ottarathiri,MMR018008
+ Other,42,38,80,Ottarathiri,MMR018008
+ Total,4895,13766,18661,Ottarathiri,MMR018008
+ Condominium/Apartment/Flat,2651,990,3641,Pobbathiri,MMR018005
+ Bungalow/Brick house,1409,588,1997,Pobbathiri,MMR018005
+ Semi-pacca house,530,715,1245,Pobbathiri,MMR018005
+ Wooden house,4509,9118,13627,Pobbathiri,MMR018005
+ Bamboo,913,5444,6357,Pobbathiri,MMR018005
+ Hut 2 - 3 years,131,225,356,Pobbathiri,MMR018005
+ Hut 1 year,76,169,245,Pobbathiri,MMR018005
+ Other,29,119,148,Pobbathiri,MMR018005
+ Total,10248,17368,27616,Pobbathiri,MMR018005
+ Condominium/Apartment/Flat,860,963,1823,Pyinmana,MMR018006
+ Bungalow/Brick house,2478,821,3299,Pyinmana,MMR018006
+ Semi-pacca house,1683,1121,2804,Pyinmana,MMR018006
+ Wooden house,6514,13063,19577,Pyinmana,MMR018006
+ Bamboo,2573,8512,11085,Pyinmana,MMR018006
+ Hut 2 - 3 years,117,378,495,Pyinmana,MMR018006
+ Hut 1 year,50,127,177,Pyinmana,MMR018006
+ Other,181,222,403,Pyinmana,MMR018006
+ Total,14456,25207,39663,Pyinmana,MMR018006
+ Condominium/Apartment/Flat,119,1419,1538,Lewe,MMR018007
+ Bungalow/Brick house,631,1185,1816,Lewe,MMR018007
+ Semi-pacca house,710,2041,2751,Lewe,MMR018007
+ Wooden house,3231,31690,34921,Lewe,MMR018007
+ Bamboo,1338,21077,22415,Lewe,MMR018007
+ Hut 2 - 3 years,26,742,768,Lewe,MMR018007
+ Hut 1 year,8,299,307,Lewe,MMR018007
+ Other,60,598,658,Lewe,MMR018007
+ Total,6123,59051,65174,Lewe,MMR018007
+ Condominium/Apartment/Flat,17383,23,17406,Zabuthiri,MMR018002
+ Bungalow/Brick house,980,29,1009,Zabuthiri,MMR018002
+ Semi-pacca house,988,62,1050,Zabuthiri,MMR018002
+ Wooden house,2368,478,2846,Zabuthiri,MMR018002
+ Bamboo,2503,1003,3506,Zabuthiri,MMR018002
+ Hut 2 - 3 years,252,1,253,Zabuthiri,MMR018002
+ Hut 1 year,126,-,126,Zabuthiri,MMR018002
+ Other,122,2,124,Zabuthiri,MMR018002
+ Total,24722,1598,26320,Zabuthiri,MMR018002
+ Condominium/Apartment/Flat,212,19,231,Dekkhinathiri,MMR018004
+ Bungalow/Brick house,145,109,254,Dekkhinathiri,MMR018004
+ Semi-pacca house,46,201,247,Dekkhinathiri,MMR018004
+ Wooden house,292,3422,3714,Dekkhinathiri,MMR018004
+ Bamboo,146,2230,2376,Dekkhinathiri,MMR018004
+ Hut 2 - 3 years,9,75,84,Dekkhinathiri,MMR018004
+ Hut 1 year,24,19,43,Dekkhinathiri,MMR018004
+ Other,34,14,48,Dekkhinathiri,MMR018004
+ Total,908,6089,6997,Dekkhinathiri,MMR018004
+ Condominium/Apartment/Flat,376874,111611,488485,Dekkhinathiri,MMR018004
+ Bungalow/Brick house,405629,332594,738223,Dekkhinathiri,MMR018004
+ Semi-pacca house,335333,375742,711075,Dekkhinathiri,MMR018004
+ Wooden house,1141465,3340919,4482384,Dekkhinathiri,MMR018004
+ Bamboo,720166,3344690,4064856,Dekkhinathiri,MMR018004
+ Hut 2 - 3 years,25678,181095,206773,Dekkhinathiri,MMR018004
+ Hut 1 year,15076,81263,96339,Dekkhinathiri,MMR018004
+ Other,29212,60485,89697,Dekkhinathiri,MMR018004
+ Total,3049433,7828399,10877832,Dekkhinathiri,MMR018004

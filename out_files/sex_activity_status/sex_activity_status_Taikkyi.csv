@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),4516,2732,7248,Taikkyi,MMR013005
+" Employee (Private, Org)",35368,16736,52104,Taikkyi,MMR013005
+ Employer,5469,1712,7181,Taikkyi,MMR013005
+ Own account worker,23706,10636,34342,Taikkyi,MMR013005
+ Contributing family worker,6191,7267,13458,Taikkyi,MMR013005
+ Sought work,2788,1772,4560,Taikkyi,MMR013005
+ Did not seek work,509,316,825,Taikkyi,MMR013005
+ Full time student,14456,14113,28569,Taikkyi,MMR013005
+ Household work,1159,48888,50047,Taikkyi,MMR013005
+" Pensioner, retired, elderly person",4350,7103,11453,Taikkyi,MMR013005
+" Ill, disabled",780,805,1585,Taikkyi,MMR013005
+ Other,9590,5515,15105,Taikkyi,MMR013005
+ Total,108882,117595,226477,Taikkyi,MMR013005

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),5236,3279,8515,Kalay,MMR014005
+" Employee (Private, Org)",28679,13213,41892,Kalay,MMR014005
+ Employer,3842,1510,5352,Kalay,MMR014005
+ Own account worker,39097,17637,56734,Kalay,MMR014005
+ Contributing family worker,8715,16419,25134,Kalay,MMR014005
+ Sought work,5850,4306,10156,Kalay,MMR014005
+ Did not seek work,756,471,1227,Kalay,MMR014005
+ Full time student,25181,26125,51306,Kalay,MMR014005
+ Household work,2219,50769,52988,Kalay,MMR014005
+" Pensioner, retired, elderly person",7513,9281,16794,Kalay,MMR014005
+" Ill, disabled",1268,1208,2476,Kalay,MMR014005
+ Other,4352,2175,6527,Kalay,MMR014005
+ Total,132708,146393,279101,Kalay,MMR014005

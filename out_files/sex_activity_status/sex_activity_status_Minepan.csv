@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1551,218,1769,Minepan,MMR014021
+" Employee (Private, Org)",1726,694,2420,Minepan,MMR014021
+ Employer,111,77,188,Minepan,MMR014021
+ Own account worker,4661,2905,7566,Minepan,MMR014021
+ Contributing family worker,1006,1654,2660,Minepan,MMR014021
+ Sought work,246,200,446,Minepan,MMR014021
+ Did not seek work,128,102,230,Minepan,MMR014021
+ Full time student,906,963,1869,Minepan,MMR014021
+ Household work,143,2207,2350,Minepan,MMR014021
+" Pensioner, retired, elderly person",439,452,891,Minepan,MMR014021
+" Ill, disabled",64,40,104,Minepan,MMR014021
+ Other,574,391,965,Minepan,MMR014021
+ Total,11555,9903,21458,Minepan,MMR014021

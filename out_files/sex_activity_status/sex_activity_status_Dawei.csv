@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),3347,3039,6386,Dawei,MMR006001
+" Employee (Private, Org)",14043,5864,19907,Dawei,MMR006001
+ Employer,1254,645,1899,Dawei,MMR006001
+ Own account worker,11553,8703,20256,Dawei,MMR006001
+ Contributing family worker,2113,2909,5022,Dawei,MMR006001
+ Sought work,1797,1045,2842,Dawei,MMR006001
+ Did not seek work,371,230,601,Dawei,MMR006001
+ Full time student,7152,8244,15396,Dawei,MMR006001
+ Household work,1091,17945,19036,Dawei,MMR006001
+" Pensioner, retired, elderly person",2800,4177,6977,Dawei,MMR006001
+" Ill, disabled",592,519,1111,Dawei,MMR006001
+ Other,2931,1718,4649,Dawei,MMR006001
+ Total,49044,55038,104082,Dawei,MMR006001

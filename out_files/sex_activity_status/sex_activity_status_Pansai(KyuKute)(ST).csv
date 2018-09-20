@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),179,127,306,Pansai(KyuKute)(ST),MMR015009
+" Employee (Private, Org)",1449,712,2161,Pansai(KyuKute)(ST),MMR015009
+ Employer,501,136,637,Pansai(KyuKute)(ST),MMR015009
+ Own account worker,3115,1682,4797,Pansai(KyuKute)(ST),MMR015009
+ Contributing family worker,1753,4219,5972,Pansai(KyuKute)(ST),MMR015009
+ Sought work,85,63,148,Pansai(KyuKute)(ST),MMR015009
+ Did not seek work,6,6,12,Pansai(KyuKute)(ST),MMR015009
+ Full time student,1399,1358,2757,Pansai(KyuKute)(ST),MMR015009
+ Household work,21,186,207,Pansai(KyuKute)(ST),MMR015009
+" Pensioner, retired, elderly person",292,458,750,Pansai(KyuKute)(ST),MMR015009
+" Ill, disabled",62,55,117,Pansai(KyuKute)(ST),MMR015009
+ Other,209,186,395,Pansai(KyuKute)(ST),MMR015009
+ Total,9071,9188,18259,Pansai(KyuKute)(ST),MMR015009

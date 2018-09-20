@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),57,42,99,Homane(ST),MMR014018
+" Employee (Private, Org)",489,198,687,Homane(ST),MMR014018
+ Employer,44,23,67,Homane(ST),MMR014018
+ Own account worker,1371,882,2253,Homane(ST),MMR014018
+ Contributing family worker,414,476,890,Homane(ST),MMR014018
+ Sought work,74,52,126,Homane(ST),MMR014018
+ Did not seek work,81,80,161,Homane(ST),MMR014018
+ Full time student,138,131,269,Homane(ST),MMR014018
+ Household work,53,630,683,Homane(ST),MMR014018
+" Pensioner, retired, elderly person",64,101,165,Homane(ST),MMR014018
+" Ill, disabled",17,12,29,Homane(ST),MMR014018
+ Other,130,46,176,Homane(ST),MMR014018
+ Total,2932,2673,5605,Homane(ST),MMR014018

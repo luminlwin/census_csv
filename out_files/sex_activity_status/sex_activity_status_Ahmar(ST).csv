@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),310,296,606,Ahmar(ST),MMR017023
+" Employee (Private, Org)",16702,4850,21552,Ahmar(ST),MMR017023
+ Employer,1292,315,1607,Ahmar(ST),MMR017023
+ Own account worker,13909,4693,18602,Ahmar(ST),MMR017023
+ Contributing family worker,2700,1693,4393,Ahmar(ST),MMR017023
+ Sought work,1007,609,1616,Ahmar(ST),MMR017023
+ Did not seek work,289,213,502,Ahmar(ST),MMR017023
+ Full time student,6984,6960,13944,Ahmar(ST),MMR017023
+ Household work,525,23340,23865,Ahmar(ST),MMR017023
+" Pensioner, retired, elderly person",1316,2182,3498,Ahmar(ST),MMR017023
+" Ill, disabled",518,396,914,Ahmar(ST),MMR017023
+ Other,2557,1999,4556,Ahmar(ST),MMR017023
+ Total,48109,47546,95655,Ahmar(ST),MMR017023

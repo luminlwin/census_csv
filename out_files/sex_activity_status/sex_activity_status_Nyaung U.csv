@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2440,2183,4623,Nyaung U,MMR010022
+" Employee (Private, Org)",21094,13729,34823,Nyaung U,MMR010022
+ Employer,1620,784,2404,Nyaung U,MMR010022
+ Own account worker,22840,12716,35556,Nyaung U,MMR010022
+ Contributing family worker,4408,10814,15222,Nyaung U,MMR010022
+ Sought work,1605,1353,2958,Nyaung U,MMR010022
+ Did not seek work,238,125,363,Nyaung U,MMR010022
+ Full time student,10707,10769,21476,Nyaung U,MMR010022
+ Household work,720,28527,29247,Nyaung U,MMR010022
+" Pensioner, retired, elderly person",4277,5933,10210,Nyaung U,MMR010022
+" Ill, disabled",663,631,1294,Nyaung U,MMR010022
+ Other,5001,3773,8774,Nyaung U,MMR010022
+ Total,75613,91337,166950,Nyaung U,MMR010022

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),171,98,269,Kyaidon(ST),MMR003007
+" Employee (Private, Org)",1234,343,1577,Kyaidon(ST),MMR003007
+ Employer,152,49,201,Kyaidon(ST),MMR003007
+ Own account worker,9594,2854,12448,Kyaidon(ST),MMR003007
+ Contributing family worker,4720,6487,11207,Kyaidon(ST),MMR003007
+ Sought work,306,143,449,Kyaidon(ST),MMR003007
+ Did not seek work,76,44,120,Kyaidon(ST),MMR003007
+ Full time student,2687,2918,5605,Kyaidon(ST),MMR003007
+ Household work,363,6341,6704,Kyaidon(ST),MMR003007
+" Pensioner, retired, elderly person",471,646,1117,Kyaidon(ST),MMR003007
+" Ill, disabled",122,145,267,Kyaidon(ST),MMR003007
+ Other,1372,704,2076,Kyaidon(ST),MMR003007
+ Total,21268,20772,42040,Kyaidon(ST),MMR003007

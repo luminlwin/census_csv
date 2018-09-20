@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1492,906,2398,Kyunsu,MMR006006
+" Employee (Private, Org)",21154,6448,27602,Kyunsu,MMR006006
+ Employer,2264,385,2649,Kyunsu,MMR006006
+ Own account worker,18592,6887,25479,Kyunsu,MMR006006
+ Contributing family worker,5945,7959,13904,Kyunsu,MMR006006
+ Sought work,969,838,1807,Kyunsu,MMR006006
+ Did not seek work,535,583,1118,Kyunsu,MMR006006
+ Full time student,9634,10574,20208,Kyunsu,MMR006006
+ Household work,917,23362,24279,Kyunsu,MMR006006
+" Pensioner, retired, elderly person",1613,2411,4024,Kyunsu,MMR006006
+" Ill, disabled",500,406,906,Kyunsu,MMR006006
+ Other,1883,950,2833,Kyunsu,MMR006006
+ Total,65498,61709,127207,Kyunsu,MMR006006

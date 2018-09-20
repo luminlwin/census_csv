@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2263,365,2628,Minesat,MMR016006
+" Employee (Private, Org)",8621,4604,13225,Minesat,MMR016006
+ Employer,347,122,469,Minesat,MMR016006
+ Own account worker,10921,4834,15755,Minesat,MMR016006
+ Contributing family worker,3091,4411,7502,Minesat,MMR016006
+ Sought work,365,223,588,Minesat,MMR016006
+ Did not seek work,357,175,532,Minesat,MMR016006
+ Full time student,4179,3807,7986,Minesat,MMR016006
+ Household work,995,7959,8954,Minesat,MMR016006
+" Pensioner, retired, elderly person",741,1275,2016,Minesat,MMR016006
+" Ill, disabled",172,154,326,Minesat,MMR016006
+ Other,1708,1198,2906,Minesat,MMR016006
+ Total,33760,29127,62887,Minesat,MMR016006

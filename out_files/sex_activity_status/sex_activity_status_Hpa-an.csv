@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),6389,4978,11367,Hpa-an,MMR003001
+" Employee (Private, Org)",22894,9406,32300,Hpa-an,MMR003001
+ Employer,3324,1266,4590,Hpa-an,MMR003001
+ Own account worker,44730,21673,66403,Hpa-an,MMR003001
+ Contributing family worker,10064,13337,23401,Hpa-an,MMR003001
+ Sought work,9089,4235,13324,Hpa-an,MMR003001
+ Did not seek work,1764,868,2632,Hpa-an,MMR003001
+ Full time student,26898,29061,55959,Hpa-an,MMR003001
+ Household work,3217,65714,68931,Hpa-an,MMR003001
+" Pensioner, retired, elderly person",8241,11143,19384,Hpa-an,MMR003001
+" Ill, disabled",1717,1572,3289,Hpa-an,MMR003001
+ Other,17453,7934,25387,Hpa-an,MMR003001
+ Total,155780,171187,326967,Hpa-an,MMR003001

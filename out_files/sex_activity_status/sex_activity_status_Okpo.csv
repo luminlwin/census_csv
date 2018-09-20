@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1057,1180,2237,Okpo,MMR008010
+" Employee (Private, Org)",14680,4268,18948,Okpo,MMR008010
+ Employer,3181,579,3760,Okpo,MMR008010
+ Own account worker,13741,4038,17779,Okpo,MMR008010
+ Contributing family worker,3470,1988,5458,Okpo,MMR008010
+ Sought work,2204,1630,3834,Okpo,MMR008010
+ Did not seek work,248,214,462,Okpo,MMR008010
+ Full time student,5643,5722,11365,Okpo,MMR008010
+ Household work,572,30599,31171,Okpo,MMR008010
+" Pensioner, retired, elderly person",2809,4160,6969,Okpo,MMR008010
+" Ill, disabled",406,363,769,Okpo,MMR008010
+ Other,2100,1000,3100,Okpo,MMR008010
+ Total,50111,55741,105852,Okpo,MMR008010

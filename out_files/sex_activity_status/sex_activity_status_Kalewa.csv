@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),524,530,1054,Kalewa,MMR005028
+" Employee (Private, Org)",4089,1735,5824,Kalewa,MMR005028
+ Employer,631,231,862,Kalewa,MMR005028
+ Own account worker,9230,5721,14951,Kalewa,MMR005028
+ Contributing family worker,3336,7613,10949,Kalewa,MMR005028
+ Sought work,249,256,505,Kalewa,MMR005028
+ Did not seek work,15,3,18,Kalewa,MMR005028
+ Full time student,2917,3236,6153,Kalewa,MMR005028
+ Household work,140,3035,3175,Kalewa,MMR005028
+" Pensioner, retired, elderly person",669,946,1615,Kalewa,MMR005028
+" Ill, disabled",103,111,214,Kalewa,MMR005028
+ Other,398,60,458,Kalewa,MMR005028
+ Total,22301,23477,45778,Kalewa,MMR005028

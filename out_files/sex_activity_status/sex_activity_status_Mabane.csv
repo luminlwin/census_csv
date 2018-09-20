@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),500,424,924,Mabane,MMR015018
+" Employee (Private, Org)",3020,1306,4326,Mabane,MMR015018
+ Employer,865,329,1194,Mabane,MMR015018
+ Own account worker,8457,2828,11285,Mabane,MMR015018
+ Contributing family worker,2353,3041,5394,Mabane,MMR015018
+ Sought work,686,258,944,Mabane,MMR015018
+ Did not seek work,46,24,70,Mabane,MMR015018
+ Full time student,2482,2576,5058,Mabane,MMR015018
+ Household work,279,6487,6766,Mabane,MMR015018
+" Pensioner, retired, elderly person",668,1045,1713,Mabane,MMR015018
+" Ill, disabled",94,140,234,Mabane,MMR015018
+ Other,489,183,672,Mabane,MMR015018
+ Total,19939,18641,38580,Mabane,MMR015018

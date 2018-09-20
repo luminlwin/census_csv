@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),328,80,408,Seikkan,MMR013045
+" Employee (Private, Org)",598,136,734,Seikkan,MMR013045
+ Employer,28,5,33,Seikkan,MMR013045
+ Own account worker,118,117,235,Seikkan,MMR013045
+ Contributing family worker,50,94,144,Seikkan,MMR013045
+ Sought work,13,5,18,Seikkan,MMR013045
+ Did not seek work,4,3,7,Seikkan,MMR013045
+ Full time student,315,129,444,Seikkan,MMR013045
+ Household work,34,344,378,Seikkan,MMR013045
+" Pensioner, retired, elderly person",41,19,60,Seikkan,MMR013045
+" Ill, disabled",1,2,3,Seikkan,MMR013045
+ Other,19,41,60,Seikkan,MMR013045
+ Total,1549,975,2524,Seikkan,MMR013045

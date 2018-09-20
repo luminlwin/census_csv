@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),881,131,1012,Kaleinaung(ST),MMR006004
+" Employee (Private, Org)",2393,755,3148,Kaleinaung(ST),MMR006004
+ Employer,186,59,245,Kaleinaung(ST),MMR006004
+ Own account worker,2556,1135,3691,Kaleinaung(ST),MMR006004
+ Contributing family worker,922,768,1690,Kaleinaung(ST),MMR006004
+ Sought work,184,73,257,Kaleinaung(ST),MMR006004
+ Did not seek work,31,13,44,Kaleinaung(ST),MMR006004
+ Full time student,1182,1294,2476,Kaleinaung(ST),MMR006004
+ Household work,82,3059,3141,Kaleinaung(ST),MMR006004
+" Pensioner, retired, elderly person",165,310,475,Kaleinaung(ST),MMR006004
+" Ill, disabled",63,40,103,Kaleinaung(ST),MMR006004
+ Other,542,317,859,Kaleinaung(ST),MMR006004
+ Total,9187,7954,17141,Kaleinaung(ST),MMR006004

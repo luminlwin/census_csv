@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1373,1402,2775,Katha,MMR005020
+" Employee (Private, Org)",10657,6541,17198,Katha,MMR005020
+ Employer,1974,814,2788,Katha,MMR005020
+ Own account worker,26257,16425,42682,Katha,MMR005020
+ Contributing family worker,8322,13728,22050,Katha,MMR005020
+ Sought work,690,556,1246,Katha,MMR005020
+ Did not seek work,84,38,122,Katha,MMR005020
+ Full time student,10201,10662,20863,Katha,MMR005020
+ Household work,549,13648,14197,Katha,MMR005020
+" Pensioner, retired, elderly person",2076,3392,5468,Katha,MMR005020
+" Ill, disabled",325,365,690,Katha,MMR005020
+ Other,1926,442,2368,Katha,MMR005020
+ Total,64434,68013,132447,Katha,MMR005020

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),7431,6756,14187,Taunggyi,MMR014001
+" Employee (Private, Org)",43069,22627,65696,Taunggyi,MMR014001
+ Employer,4910,2261,7171,Taunggyi,MMR014001
+ Own account worker,39853,30014,69867,Taunggyi,MMR014001
+ Contributing family worker,10011,17238,27249,Taunggyi,MMR014001
+ Sought work,3309,1983,5292,Taunggyi,MMR014001
+ Did not seek work,641,288,929,Taunggyi,MMR014001
+ Full time student,24997,27536,52533,Taunggyi,MMR014001
+ Household work,1487,40776,42263,Taunggyi,MMR014001
+" Pensioner, retired, elderly person",7307,10094,17401,Taunggyi,MMR014001
+" Ill, disabled",1098,918,2016,Taunggyi,MMR014001
+ Other,9121,3134,12255,Taunggyi,MMR014001
+ Total,153234,163625,316859,Taunggyi,MMR014001

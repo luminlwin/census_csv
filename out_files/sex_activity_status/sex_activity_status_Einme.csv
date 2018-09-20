@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1081,1360,2441,Einme,MMR017015
+" Employee (Private, Org)",20222,8995,29217,Einme,MMR017015
+ Employer,6335,1551,7886,Einme,MMR017015
+ Own account worker,19830,8036,27866,Einme,MMR017015
+ Contributing family worker,6121,5518,11639,Einme,MMR017015
+ Sought work,1310,856,2166,Einme,MMR017015
+ Did not seek work,334,224,558,Einme,MMR017015
+ Full time student,10154,10299,20453,Einme,MMR017015
+ Household work,835,35870,36705,Einme,MMR017015
+" Pensioner, retired, elderly person",2779,4236,7015,Einme,MMR017015
+" Ill, disabled",704,714,1418,Einme,MMR017015
+ Other,5363,2783,8146,Einme,MMR017015
+ Total,75068,80442,155510,Einme,MMR017015

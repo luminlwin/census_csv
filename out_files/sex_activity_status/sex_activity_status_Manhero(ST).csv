@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),42,32,74,Manhero(ST),MMR015009
+" Employee (Private, Org)",148,67,215,Manhero(ST),MMR015009
+ Employer,10,7,17,Manhero(ST),MMR015009
+ Own account worker,1233,747,1980,Manhero(ST),MMR015009
+ Contributing family worker,833,1648,2481,Manhero(ST),MMR015009
+ Sought work,14,13,27,Manhero(ST),MMR015009
+ Did not seek work,33,21,54,Manhero(ST),MMR015009
+ Full time student,88,100,188,Manhero(ST),MMR015009
+ Household work,12,86,98,Manhero(ST),MMR015009
+" Pensioner, retired, elderly person",112,192,304,Manhero(ST),MMR015009
+" Ill, disabled",7,7,14,Manhero(ST),MMR015009
+ Other,182,76,258,Manhero(ST),MMR015009
+ Total,2714,2996,5710,Manhero(ST),MMR015009

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),3213,4291,7504,Hinthada,MMR017008
+" Employee (Private, Org)",33886,18135,52021,Hinthada,MMR017008
+ Employer,12697,4451,17148,Hinthada,MMR017008
+ Own account worker,36542,23566,60108,Hinthada,MMR017008
+ Contributing family worker,8135,13719,21854,Hinthada,MMR017008
+ Sought work,3225,2411,5636,Hinthada,MMR017008
+ Did not seek work,513,321,834,Hinthada,MMR017008
+ Full time student,17720,18031,35751,Hinthada,MMR017008
+ Household work,1218,50435,51653,Hinthada,MMR017008
+" Pensioner, retired, elderly person",7145,10544,17689,Hinthada,MMR017008
+" Ill, disabled",1432,1459,2891,Hinthada,MMR017008
+ Other,5339,2922,8261,Hinthada,MMR017008
+ Total,131065,150285,281350,Hinthada,MMR017008

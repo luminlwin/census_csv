@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1878,1677,3555,Ingapu,MMR017013
+" Employee (Private, Org)",15760,8614,24374,Ingapu,MMR017013
+ Employer,4507,1466,5973,Ingapu,MMR017013
+ Own account worker,26274,11916,38190,Ingapu,MMR017013
+ Contributing family worker,4963,6419,11382,Ingapu,MMR017013
+ Sought work,3689,2162,5851,Ingapu,MMR017013
+ Did not seek work,228,176,404,Ingapu,MMR017013
+ Full time student,9938,10028,19966,Ingapu,MMR017013
+ Household work,795,36628,37423,Ingapu,MMR017013
+" Pensioner, retired, elderly person",4287,6662,10949,Ingapu,MMR017013
+" Ill, disabled",826,905,1731,Ingapu,MMR017013
+ Other,10676,7115,17791,Ingapu,MMR017013
+ Total,83821,93768,177589,Ingapu,MMR017013

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1101,822,1923,Ponnagyun,MMR012002
+" Employee (Private, Org)",3712,795,4507,Ponnagyun,MMR012002
+ Employer,2016,254,2270,Ponnagyun,MMR012002
+ Own account worker,13318,3680,16998,Ponnagyun,MMR012002
+ Contributing family worker,2807,3072,5879,Ponnagyun,MMR012002
+ Sought work,4641,3163,7804,Ponnagyun,MMR012002
+ Did not seek work,571,510,1081,Ponnagyun,MMR012002
+ Full time student,8865,8094,16959,Ponnagyun,MMR012002
+ Household work,1108,28413,29521,Ponnagyun,MMR012002
+" Pensioner, retired, elderly person",2128,3608,5736,Ponnagyun,MMR012002
+" Ill, disabled",281,295,576,Ponnagyun,MMR012002
+ Other,6022,4100,10122,Ponnagyun,MMR012002
+ Total,46570,56806,103376,Ponnagyun,MMR012002

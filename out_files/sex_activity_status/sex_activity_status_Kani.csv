@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1100,1178,2278,Kani,MMR005017
+" Employee (Private, Org)",5891,4288,10179,Kani,MMR005017
+ Employer,2039,652,2691,Kani,MMR005017
+ Own account worker,17716,7890,25606,Kani,MMR005017
+ Contributing family worker,7683,12660,20343,Kani,MMR005017
+ Sought work,1549,1511,3060,Kani,MMR005017
+ Did not seek work,191,138,329,Kani,MMR005017
+ Full time student,8599,9409,18008,Kani,MMR005017
+ Household work,301,16600,16901,Kani,MMR005017
+" Pensioner, retired, elderly person",2857,4285,7142,Kani,MMR005017
+" Ill, disabled",462,428,890,Kani,MMR005017
+ Other,1524,799,2323,Kani,MMR005017
+ Total,49912,59838,109750,Kani,MMR005017

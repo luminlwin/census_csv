@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1023,841,1864,Shwegu,MMR001011
+" Employee (Private, Org)",6354,2861,9215,Shwegu,MMR001011
+ Employer,1140,494,1634,Shwegu,MMR001011
+ Own account worker,12420,5908,18328,Shwegu,MMR001011
+ Contributing family worker,5091,6802,11893,Shwegu,MMR001011
+ Sought work,580,572,1152,Shwegu,MMR001011
+ Did not seek work,60,28,88,Shwegu,MMR001011
+ Full time student,5813,6273,12086,Shwegu,MMR001011
+ Household work,305,9612,9917,Shwegu,MMR001011
+" Pensioner, retired, elderly person",1380,2427,3807,Shwegu,MMR001011
+" Ill, disabled",226,205,431,Shwegu,MMR001011
+ Other,1110,290,1400,Shwegu,MMR001011
+ Total,35502,36313,71815,Shwegu,MMR001011

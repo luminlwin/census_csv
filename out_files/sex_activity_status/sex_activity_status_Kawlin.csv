@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1315,1187,2502,Kawlin,MMR005024
+" Employee (Private, Org)",10907,5341,16248,Kawlin,MMR005024
+ Employer,2870,906,3776,Kawlin,MMR005024
+ Own account worker,21441,10477,31918,Kawlin,MMR005024
+ Contributing family worker,6656,13327,19983,Kawlin,MMR005024
+ Sought work,999,929,1928,Kawlin,MMR005024
+ Did not seek work,85,48,133,Kawlin,MMR005024
+ Full time student,7321,7630,14951,Kawlin,MMR005024
+ Household work,642,17667,18309,Kawlin,MMR005024
+" Pensioner, retired, elderly person",3231,4953,8184,Kawlin,MMR005024
+" Ill, disabled",345,374,719,Kawlin,MMR005024
+ Other,1392,532,1924,Kawlin,MMR005024
+ Total,57204,63371,120575,Kawlin,MMR005024

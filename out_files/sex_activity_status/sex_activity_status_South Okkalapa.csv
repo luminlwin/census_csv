@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2567,3791,6358,South Okkalapa,MMR013011
+" Employee (Private, Org)",22580,13433,36013,South Okkalapa,MMR013011
+ Employer,1824,802,2626,South Okkalapa,MMR013011
+ Own account worker,13492,8643,22135,South Okkalapa,MMR013011
+ Contributing family worker,1229,1189,2418,South Okkalapa,MMR013011
+ Sought work,2843,1437,4280,South Okkalapa,MMR013011
+ Did not seek work,573,207,780,South Okkalapa,MMR013011
+ Full time student,10363,10121,20484,South Okkalapa,MMR013011
+ Household work,811,28395,29206,South Okkalapa,MMR013011
+" Pensioner, retired, elderly person",6214,7279,13493,South Okkalapa,MMR013011
+" Ill, disabled",590,496,1086,South Okkalapa,MMR013011
+ Other,3867,1469,5336,South Okkalapa,MMR013011
+ Total,66953,77262,144215,South Okkalapa,MMR013011

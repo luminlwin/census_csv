@@ -1,0 +1,27 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),616,343,959,Dekkhinathiri,MMR018004
+" Employee (Private, Org)",13077,5668,18745,Dekkhinathiri,MMR018004
+ Employer,495,174,669,Dekkhinathiri,MMR018004
+ Own account worker,2788,1195,3983,Dekkhinathiri,MMR018004
+ Contributing family worker,857,1645,2502,Dekkhinathiri,MMR018004
+ Sought work,229,116,345,Dekkhinathiri,MMR018004
+ Did not seek work,59,24,83,Dekkhinathiri,MMR018004
+ Full time student,2755,2451,5206,Dekkhinathiri,MMR018004
+ Household work,172,6867,7039,Dekkhinathiri,MMR018004
+" Pensioner, retired, elderly person",386,628,1014,Dekkhinathiri,MMR018004
+" Ill, disabled",79,78,157,Dekkhinathiri,MMR018004
+ Other,1054,825,1879,Dekkhinathiri,MMR018004
+ Total,22567,20014,42581,Dekkhinathiri,MMR018004
+ Employee (Government),771320,575766,1347086,Dekkhinathiri,MMR018004
+" Employee (Private, Org)",4819128,2565464,7384592,Dekkhinathiri,MMR018004
+ Employer,775197,267038,1042235,Dekkhinathiri,MMR018004
+ Own account worker,5659633,3058659,8718292,Dekkhinathiri,MMR018004
+ Contributing family worker,1570015,2353359,3923374,Dekkhinathiri,MMR018004
+ Sought work,567329,387177,954506,Dekkhinathiri,MMR018004
+ Did not seek work,105905,66609,172514,Dekkhinathiri,MMR018004
+ Full time student,2775423,2865951,5641374,Dekkhinathiri,MMR018004
+ Household work,268148,7233494,7501642,Dekkhinathiri,MMR018004
+" Pensioner, retired, elderly person",969097,1365301,2334398,Dekkhinathiri,MMR018004
+" Ill, disabled",161950,150929,312879,Dekkhinathiri,MMR018004
+ Other,1084414,571387,1655801,Dekkhinathiri,MMR018004
+ Total,19527559,21461134,40988693,Dekkhinathiri,MMR018004

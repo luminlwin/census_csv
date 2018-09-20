@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1762,1393,3155,HaKa,MMR004002
+" Employee (Private, Org)",1825,389,2214,HaKa,MMR004002
+ Employer,169,90,259,HaKa,MMR004002
+ Own account worker,3869,1456,5325,HaKa,MMR004002
+ Contributing family worker,2103,2014,4117,HaKa,MMR004002
+ Sought work,526,409,935,HaKa,MMR004002
+ Did not seek work,266,119,385,HaKa,MMR004002
+ Full time student,4121,4399,8520,HaKa,MMR004002
+ Household work,466,7584,8050,HaKa,MMR004002
+" Pensioner, retired, elderly person",1037,1078,2115,HaKa,MMR004002
+" Ill, disabled",333,359,692,HaKa,MMR004002
+ Other,868,419,1287,HaKa,MMR004002
+ Total,17345,19709,37054,HaKa,MMR004002

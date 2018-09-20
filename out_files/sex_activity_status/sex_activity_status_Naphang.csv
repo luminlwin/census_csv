@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),243,55,298,Naphang,MMR015006
+" Employee (Private, Org)",1498,1142,2640,Naphang,MMR015006
+ Employer,398,355,753,Naphang,MMR015006
+ Own account worker,21192,15214,36406,Naphang,MMR015006
+ Contributing family worker,7750,8738,16488,Naphang,MMR015006
+ Sought work,1326,1088,2414,Naphang,MMR015006
+ Did not seek work,506,422,928,Naphang,MMR015006
+ Full time student,4478,3267,7745,Naphang,MMR015006
+ Household work,1361,5796,7157,Naphang,MMR015006
+" Pensioner, retired, elderly person",1967,2449,4416,Naphang,MMR015006
+" Ill, disabled",187,209,396,Naphang,MMR015006
+ Other,3201,3183,6384,Naphang,MMR015006
+ Total,44107,41918,86025,Naphang,MMR015006

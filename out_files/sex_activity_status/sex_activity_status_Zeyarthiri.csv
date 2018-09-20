@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),11417,3308,14725,Zeyarthiri,MMR018001
+" Employee (Private, Org)",10779,5104,15883,Zeyarthiri,MMR018001
+ Employer,602,284,886,Zeyarthiri,MMR018001
+ Own account worker,6790,3802,10592,Zeyarthiri,MMR018001
+ Contributing family worker,1763,2586,4349,Zeyarthiri,MMR018001
+ Sought work,1099,652,1751,Zeyarthiri,MMR018001
+ Did not seek work,92,57,149,Zeyarthiri,MMR018001
+ Full time student,6794,6948,13742,Zeyarthiri,MMR018001
+ Household work,408,17506,17914,Zeyarthiri,MMR018001
+" Pensioner, retired, elderly person",1478,2271,3749,Zeyarthiri,MMR018001
+" Ill, disabled",167,181,348,Zeyarthiri,MMR018001
+ Other,3234,2288,5522,Zeyarthiri,MMR018001
+ Total,44623,44987,89610,Zeyarthiri,MMR018001

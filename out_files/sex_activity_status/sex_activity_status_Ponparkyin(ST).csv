@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),462,72,534,Ponparkyin(ST),MMR016008
+" Employee (Private, Org)",5155,2255,7410,Ponparkyin(ST),MMR016008
+ Employer,202,73,275,Ponparkyin(ST),MMR016008
+ Own account worker,6213,3929,10142,Ponparkyin(ST),MMR016008
+ Contributing family worker,2822,2555,5377,Ponparkyin(ST),MMR016008
+ Sought work,302,132,434,Ponparkyin(ST),MMR016008
+ Did not seek work,208,135,343,Ponparkyin(ST),MMR016008
+ Full time student,2208,1988,4196,Ponparkyin(ST),MMR016008
+ Household work,236,3051,3287,Ponparkyin(ST),MMR016008
+" Pensioner, retired, elderly person",400,628,1028,Ponparkyin(ST),MMR016008
+" Ill, disabled",105,86,191,Ponparkyin(ST),MMR016008
+ Other,258,163,421,Ponparkyin(ST),MMR016008
+ Total,18571,15067,33638,Ponparkyin(ST),MMR016008

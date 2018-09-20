@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),445,507,952,Kyaukhtu(ST),MMR009025
+" Employee (Private, Org)",1474,980,2454,Kyaukhtu(ST),MMR009025
+ Employer,183,43,226,Kyaukhtu(ST),MMR009025
+ Own account worker,5531,3640,9171,Kyaukhtu(ST),MMR009025
+ Contributing family worker,2004,4307,6311,Kyaukhtu(ST),MMR009025
+ Sought work,239,384,623,Kyaukhtu(ST),MMR009025
+ Did not seek work,7,6,13,Kyaukhtu(ST),MMR009025
+ Full time student,1664,1752,3416,Kyaukhtu(ST),MMR009025
+ Household work,60,2143,2203,Kyaukhtu(ST),MMR009025
+" Pensioner, retired, elderly person",1036,1184,2220,Kyaukhtu(ST),MMR009025
+" Ill, disabled",175,179,354,Kyaukhtu(ST),MMR009025
+ Other,142,109,251,Kyaukhtu(ST),MMR009025
+ Total,12960,15234,28194,Kyaukhtu(ST),MMR009025

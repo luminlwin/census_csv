@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),818,188,1006,Kunhing,MMR014014
+" Employee (Private, Org)",779,219,998,Kunhing,MMR014014
+ Employer,177,99,276,Kunhing,MMR014014
+ Own account worker,4042,2842,6884,Kunhing,MMR014014
+ Contributing family worker,840,1390,2230,Kunhing,MMR014014
+ Sought work,159,141,300,Kunhing,MMR014014
+ Did not seek work,38,29,67,Kunhing,MMR014014
+ Full time student,563,806,1369,Kunhing,MMR014014
+ Household work,223,2283,2506,Kunhing,MMR014014
+" Pensioner, retired, elderly person",476,821,1297,Kunhing,MMR014014
+" Ill, disabled",75,56,131,Kunhing,MMR014014
+ Other,740,113,853,Kunhing,MMR014014
+ Total,8930,8987,17917,Kunhing,MMR014014

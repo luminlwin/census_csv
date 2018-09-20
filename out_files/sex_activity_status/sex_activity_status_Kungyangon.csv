@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),708,1051,1759,Kungyangon,MMR013029
+" Employee (Private, Org)",10857,2968,13825,Kungyangon,MMR013029
+ Employer,3167,732,3899,Kungyangon,MMR013029
+ Own account worker,9838,4753,14591,Kungyangon,MMR013029
+ Contributing family worker,2004,2709,4713,Kungyangon,MMR013029
+ Sought work,1281,859,2140,Kungyangon,MMR013029
+ Did not seek work,168,86,254,Kungyangon,MMR013029
+ Full time student,6693,6557,13250,Kungyangon,MMR013029
+ Household work,494,21978,22472,Kungyangon,MMR013029
+" Pensioner, retired, elderly person",1864,2748,4612,Kungyangon,MMR013029
+" Ill, disabled",518,430,948,Kungyangon,MMR013029
+ Other,6078,2589,8667,Kungyangon,MMR013029
+ Total,43670,47460,91130,Kungyangon,MMR013029

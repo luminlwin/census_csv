@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2409,1738,4147,Thandwe,MMR012015
+" Employee (Private, Org)",14496,5052,19548,Thandwe,MMR012015
+ Employer,1255,467,1722,Thandwe,MMR012015
+ Own account worker,18262,6737,24999,Thandwe,MMR012015
+ Contributing family worker,2635,3773,6408,Thandwe,MMR012015
+ Sought work,1855,1084,2939,Thandwe,MMR012015
+ Did not seek work,397,209,606,Thandwe,MMR012015
+ Full time student,6577,6781,13358,Thandwe,MMR012015
+ Household work,544,25691,26235,Thandwe,MMR012015
+" Pensioner, retired, elderly person",3693,5437,9130,Thandwe,MMR012015
+" Ill, disabled",426,391,817,Thandwe,MMR012015
+ Other,2470,1144,3614,Thandwe,MMR012015
+ Total,55019,58504,113523,Thandwe,MMR012015

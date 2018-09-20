@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),3056,1676,4732,Kyaukpyu,MMR012011
+" Employee (Private, Org)",9671,3981,13652,Kyaukpyu,MMR012011
+ Employer,1674,581,2255,Kyaukpyu,MMR012011
+ Own account worker,23784,10675,34459,Kyaukpyu,MMR012011
+ Contributing family worker,2682,5531,8213,Kyaukpyu,MMR012011
+ Sought work,3384,2520,5904,Kyaukpyu,MMR012011
+ Did not seek work,669,565,1234,Kyaukpyu,MMR012011
+ Full time student,10555,9917,20472,Kyaukpyu,MMR012011
+ Household work,687,27404,28091,Kyaukpyu,MMR012011
+" Pensioner, retired, elderly person",3144,5547,8691,Kyaukpyu,MMR012011
+" Ill, disabled",414,514,928,Kyaukpyu,MMR012011
+ Other,2941,2106,5047,Kyaukpyu,MMR012011
+ Total,62661,71017,133678,Kyaukpyu,MMR012011

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),239,63,302,Hsinbo(ST),MMR001001
+" Employee (Private, Org)",386,145,531,Hsinbo(ST),MMR001001
+ Employer,136,18,154,Hsinbo(ST),MMR001001
+ Own account worker,1817,811,2628,Hsinbo(ST),MMR001001
+ Contributing family worker,717,462,1179,Hsinbo(ST),MMR001001
+ Sought work,77,22,99,Hsinbo(ST),MMR001001
+ Did not seek work,7,2,9,Hsinbo(ST),MMR001001
+ Full time student,650,668,1318,Hsinbo(ST),MMR001001
+ Household work,47,1406,1453,Hsinbo(ST),MMR001001
+" Pensioner, retired, elderly person",111,218,329,Hsinbo(ST),MMR001001
+" Ill, disabled",30,18,48,Hsinbo(ST),MMR001001
+ Other,181,118,299,Hsinbo(ST),MMR001001
+ Total,4398,3951,8349,Hsinbo(ST),MMR001001

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),896,799,1695,Hopin(ST),MMR001007
+" Employee (Private, Org)",2876,935,3811,Hopin(ST),MMR001007
+ Employer,639,264,903,Hopin(ST),MMR001007
+ Own account worker,6142,3542,9684,Hopin(ST),MMR001007
+ Contributing family worker,1610,2160,3770,Hopin(ST),MMR001007
+ Sought work,563,485,1048,Hopin(ST),MMR001007
+ Did not seek work,53,27,80,Hopin(ST),MMR001007
+ Full time student,3679,4332,8011,Hopin(ST),MMR001007
+ Household work,272,6944,7216,Hopin(ST),MMR001007
+" Pensioner, retired, elderly person",705,1443,2148,Hopin(ST),MMR001007
+" Ill, disabled",131,175,306,Hopin(ST),MMR001007
+ Other,544,291,835,Hopin(ST),MMR001007
+ Total,18110,21397,39507,Hopin(ST),MMR001007

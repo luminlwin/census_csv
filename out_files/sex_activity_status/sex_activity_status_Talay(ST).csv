@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),624,115,739,Talay(ST),MMR016009
+" Employee (Private, Org)",962,316,1278,Talay(ST),MMR016009
+ Employer,78,23,101,Talay(ST),MMR016009
+ Own account worker,3384,2364,5748,Talay(ST),MMR016009
+ Contributing family worker,958,967,1925,Talay(ST),MMR016009
+ Sought work,65,47,112,Talay(ST),MMR016009
+ Did not seek work,21,28,49,Talay(ST),MMR016009
+ Full time student,806,892,1698,Talay(ST),MMR016009
+ Household work,127,1462,1589,Talay(ST),MMR016009
+" Pensioner, retired, elderly person",299,500,799,Talay(ST),MMR016009
+" Ill, disabled",51,57,108,Talay(ST),MMR016009
+ Other,319,136,455,Talay(ST),MMR016009
+ Total,7694,6907,14601,Talay(ST),MMR016009

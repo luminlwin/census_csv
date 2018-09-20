@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1038,881,1919,Palae,MMR005019
+" Employee (Private, Org)",7880,4611,12491,Palae,MMR005019
+ Employer,3065,772,3837,Palae,MMR005019
+ Own account worker,18807,8827,27634,Palae,MMR005019
+ Contributing family worker,6916,14062,20978,Palae,MMR005019
+ Sought work,1400,1246,2646,Palae,MMR005019
+ Did not seek work,144,79,223,Palae,MMR005019
+ Full time student,8322,8614,16936,Palae,MMR005019
+ Household work,645,19514,20159,Palae,MMR005019
+" Pensioner, retired, elderly person",3564,4776,8340,Palae,MMR005019
+" Ill, disabled",453,483,936,Palae,MMR005019
+ Other,1431,444,1875,Palae,MMR005019
+ Total,53665,64309,117974,Palae,MMR005019

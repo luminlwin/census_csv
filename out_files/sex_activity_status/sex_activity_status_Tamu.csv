@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),637,666,1303,Tamu,MMR005030
+" Employee (Private, Org)",4266,1425,5691,Tamu,MMR005030
+ Employer,706,224,930,Tamu,MMR005030
+ Own account worker,8244,4077,12321,Tamu,MMR005030
+ Contributing family worker,1543,1787,3330,Tamu,MMR005030
+ Sought work,541,307,848,Tamu,MMR005030
+ Did not seek work,81,46,127,Tamu,MMR005030
+ Full time student,4145,4360,8505,Tamu,MMR005030
+ Household work,376,8806,9182,Tamu,MMR005030
+" Pensioner, retired, elderly person",1023,1495,2518,Tamu,MMR005030
+" Ill, disabled",119,124,243,Tamu,MMR005030
+ Other,1076,469,1545,Tamu,MMR005030
+ Total,22757,23786,46543,Tamu,MMR005030

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1140,783,1923,Phaungpyin,MMR005032
+" Employee (Private, Org)",4675,2971,7646,Phaungpyin,MMR005032
+ Employer,1879,803,2682,Phaungpyin,MMR005032
+ Own account worker,16336,9816,26152,Phaungpyin,MMR005032
+ Contributing family worker,5425,12490,17915,Phaungpyin,MMR005032
+ Sought work,868,1097,1965,Phaungpyin,MMR005032
+ Did not seek work,61,28,89,Phaungpyin,MMR005032
+ Full time student,7081,7197,14278,Phaungpyin,MMR005032
+ Household work,475,7179,7654,Phaungpyin,MMR005032
+" Pensioner, retired, elderly person",1455,2612,4067,Phaungpyin,MMR005032
+" Ill, disabled",195,204,399,Phaungpyin,MMR005032
+ Other,503,152,655,Phaungpyin,MMR005032
+ Total,40093,45332,85425,Phaungpyin,MMR005032

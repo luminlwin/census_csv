@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),875,1421,2296,Thayetchaung,MMR006003
+" Employee (Private, Org)",9824,2619,12443,Thayetchaung,MMR006003
+ Employer,630,230,860,Thayetchaung,MMR006003
+ Own account worker,10297,5753,16050,Thayetchaung,MMR006003
+ Contributing family worker,2319,2675,4994,Thayetchaung,MMR006003
+ Sought work,1932,1088,3020,Thayetchaung,MMR006003
+ Did not seek work,292,179,471,Thayetchaung,MMR006003
+ Full time student,6984,7769,14753,Thayetchaung,MMR006003
+ Household work,1257,18203,19460,Thayetchaung,MMR006003
+" Pensioner, retired, elderly person",2119,3093,5212,Thayetchaung,MMR006003
+" Ill, disabled",723,623,1346,Thayetchaung,MMR006003
+ Other,1368,552,1920,Thayetchaung,MMR006003
+ Total,38620,44205,82825,Thayetchaung,MMR006003

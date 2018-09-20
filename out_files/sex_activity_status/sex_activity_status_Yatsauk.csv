@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),5674,1180,6854,Yatsauk,MMR014008
+" Employee (Private, Org)",6185,2752,8937,Yatsauk,MMR014008
+ Employer,680,239,919,Yatsauk,MMR014008
+ Own account worker,19272,10040,29312,Yatsauk,MMR014008
+ Contributing family worker,7971,12297,20268,Yatsauk,MMR014008
+ Sought work,579,493,1072,Yatsauk,MMR014008
+ Did not seek work,86,38,124,Yatsauk,MMR014008
+ Full time student,6569,7362,13931,Yatsauk,MMR014008
+ Household work,450,11194,11644,Yatsauk,MMR014008
+" Pensioner, retired, elderly person",1852,2457,4309,Yatsauk,MMR014008
+" Ill, disabled",265,226,491,Yatsauk,MMR014008
+ Other,2288,580,2868,Yatsauk,MMR014008
+ Total,51871,48858,100729,Yatsauk,MMR014008

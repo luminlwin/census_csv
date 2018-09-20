@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),909,796,1705,Waingmaw,MMR001002
+" Employee (Private, Org)",6091,2444,8535,Waingmaw,MMR001002
+ Employer,801,294,1095,Waingmaw,MMR001002
+ Own account worker,15076,7267,22343,Waingmaw,MMR001002
+ Contributing family worker,3778,3970,7748,Waingmaw,MMR001002
+ Sought work,1335,654,1989,Waingmaw,MMR001002
+ Did not seek work,127,72,199,Waingmaw,MMR001002
+ Full time student,8161,8851,17012,Waingmaw,MMR001002
+ Household work,1043,13309,14352,Waingmaw,MMR001002
+" Pensioner, retired, elderly person",1346,2598,3944,Waingmaw,MMR001002
+" Ill, disabled",325,339,664,Waingmaw,MMR001002
+ Other,1513,1010,2523,Waingmaw,MMR001002
+ Total,40505,41604,82109,Waingmaw,MMR001002

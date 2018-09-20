@@ -1,0 +1,2899 @@
+Read_and_write,Sex_Male,Sex_Female,Sex_Total
+AREA # 010101,Myitkyina,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,110647,121936,232583
+ Illiterate,5565,10252,15817
+ Total,116212,132188,248400
+NotApp :,58549,*,*
+AREA # 010102,Waingmaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,37429,37275,74704
+ Illiterate,5601,8520,14121
+ Total,43030,45795,88825
+NotApp :,17541,*,*
+AREA # 010103,Ingyanyan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,507,483,990
+ Illiterate,104,139,243
+ Total,611,622,1233
+NotApp :,499,*,*
+AREA # 010104,Tanaing,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,15258,13684,28942
+ Illiterate,1550,2566,4116
+ Total,16808,16250,33058
+NotApp :,15508,*,*
+AREA # 010105,Chiphwe,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,3185,2720,5905
+ Illiterate,1512,1910,3422
+ Total,4697,4630,9327
+NotApp :,1976,*,*
+AREA # 010106,Hsotlaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2156,1864,4020
+ Illiterate,686,833,1519
+ Total,2842,2697,5539
+NotApp :,979,*,*
+AREA # 010151,Hsinbo(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,4125,3882,8007
+ Illiterate,238,371,609
+ Total,4363,4253,8616
+NotApp :,2039,*,*
+AREA # 010152,Hsadone(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,3650,3627,7277
+ Illiterate,838,1034,1872
+ Total,4488,4661,9149
+NotApp :,1347,*,*
+AREA # 010153,Kanpaikti(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2757,2418,5175
+ Illiterate,971,1179,2150
+ Total,3728,3597,7325
+NotApp :,1357,*,*
+AREA # 010154,Shinbwayyan(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,4713,3500,8213
+ Illiterate,661,989,1650
+ Total,5374,4489,9863
+NotApp :,1590,*,*
+AREA # 010155,Panwa(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2279,1800,4079
+ Illiterate,1282,1803,3085
+ Total,3561,3603,7164
+NotApp :,1572,*,*
+AREA # 010201,Mohnyin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,59831,67203,127034
+ Illiterate,2334,4660,6994
+ Total,62165,71863,134028
+NotApp :,26570,*,*
+AREA # 010202,Mogaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,49668,56475,106143
+ Illiterate,2869,5003,7872
+ Total,52537,61478,114015
+NotApp :,18593,*,*
+AREA # 010203,Phakant,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,69007,57603,126610
+ Illiterate,3899,4981,8880
+ Total,72906,62584,135490
+NotApp :,176788,*,*
+AREA # 010251,Hopin(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,18611,22295,40906
+ Illiterate,673,1219,1892
+ Total,19284,23514,42798
+NotApp :,5896,*,*
+AREA # 010252,Kamine(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,6774,7007,13781
+ Illiterate,596,858,1454
+ Total,7370,7865,15235
+NotApp :,4195,*,*
+AREA # 010301,Bhamo,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,48134,52534,100668
+ Illiterate,2271,4047,6318
+ Total,50405,56581,106986
+NotApp :,28891,*,*
+AREA # 010302,Shwegu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,33520,36075,69595
+ Illiterate,1082,1630,2712
+ Total,34602,37705,72307
+NotApp :,18384,*,*
+AREA # 010303,Momauk,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,15367,16118,31485
+ Illiterate,1755,3010,4765
+ Total,17122,19128,36250
+NotApp :,5312,*,*
+AREA # 010304,Mansi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,20597,20783,41380
+ Illiterate,2027,2953,4980
+ Total,22624,23736,46360
+NotApp :,6585,*,*
+AREA # 010351,Myohla(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,1708,1597,3305
+ Illiterate,91,112,203
+ Total,1799,1709,3508
+NotApp :,585,*,*
+AREA # 010352,Lwe`ge`(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2696,2849,5545
+ Illiterate,703,836,1539
+ Total,3399,3685,7084
+NotApp :,2955,*,*
+AREA # 010353,Dotphoneyan(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,4040,3650,7690
+ Illiterate,738,1191,1929
+ Total,4778,4841,9619
+NotApp :,1694,*,*
+AREA # 010401,Putao,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,22312,22381,44693
+ Illiterate,2151,3802,5953
+ Total,24463,26183,50646
+NotApp :,10429,*,*
+AREA # 010402,Sumprabum,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,877,814,1691
+ Illiterate,155,255,410
+ Total,1032,1069,2101
+NotApp :,445,*,*
+AREA # 010403,Machanbaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,3137,3137,6274
+ Illiterate,335,507,842
+ Total,3472,3644,7116
+NotApp :,1742,*,*
+AREA # 010404,Khaunglanphoo,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,4665,4458,9123
+ Illiterate,817,937,1754
+ Total,5482,5395,10877
+NotApp :,778,*,*
+AREA # 010405,Naungmoon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2090,2003,4093
+ Illiterate,167,276,443
+ Total,2257,2279,4536
+NotApp :,829,*,*
+AREA # 010451,Pannandin(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,661,507,1168
+ Illiterate,105,185,290
+ Total,766,692,1458
+NotApp :,300,*,*
+AREA # 020101,Loikaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,46726,47876,94602
+ Illiterate,5075,9398,14473
+ Total,51801,57274,109075
+NotApp :,19326,*,*
+AREA # 020102,Dimawso,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,28303,27353,55656
+ Illiterate,4397,7631,12028
+ Total,32700,34984,67684
+NotApp :,11517,*,*
+AREA # 020103,Phruso,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,9039,8732,17771
+ Illiterate,2492,3926,6418
+ Total,11531,12658,24189
+NotApp :,5185,*,*
+AREA # 020104,Shardaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,1641,1494,3135
+ Illiterate,1143,1436,2579
+ Total,2784,2930,5714
+NotApp :,1028,*,*
+AREA # 020201,Bawlakhe,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2799,2725,5524
+ Illiterate,266,456,722
+ Total,3065,3181,6246
+NotApp :,2234,*,*
+AREA # 020202,Parsaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,8857,8603,17460
+ Illiterate,1167,1182,2349
+ Total,10024,9785,19809
+NotApp :,5785,*,*
+AREA # 020203,Meisi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2281,2149,4430
+ Illiterate,215,250,465
+ Total,2496,2399,4895
+NotApp :,1424,*,*
+AREA # 020251,Ywathit(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,836,701,1537
+ Illiterate,124,209,333
+ Total,960,910,1870
+NotApp :,646,*,*
+AREA # 030101,Hpa-an,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,142100,150610,292710
+ Illiterate,26143,40695,66838
+ Total,168243,191305,359548
+NotApp :,62027,*,*
+AREA # 030102,Hlaingbwe,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,44789,47007,91796
+ Illiterate,17923,22715,40638
+ Total,62712,69722,132434
+NotApp :,23110,*,*
+AREA # 030103,Thandaunggyi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,12120,12327,24447
+ Illiterate,726,783,1509
+ Total,12846,13110,25956
+NotApp :,4253,*,*
+AREA # 030151,Paingkyon(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,19475,19528,39003
+ Illiterate,16335,20448,36783
+ Total,35810,39976,75786
+NotApp :,12818,*,*
+AREA # 030152,Shan Ywathit(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2435,2630,5065
+ Illiterate,6402,6449,12851
+ Total,8837,9079,17916
+NotApp :,3819,*,*
+AREA # 030153,Leiktho(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,17934,17139,35073
+ Illiterate,2622,2996,5618
+ Total,20556,20135,40691
+NotApp :,7915,*,*
+AREA # 030154,Bawgali(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,6872,7143,14015
+ Illiterate,539,546,1085
+ Total,7411,7689,15100
+NotApp :,2137,*,*
+AREA # 030201,Pharpon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,5047,4992,10039
+ Illiterate,588,774,1362
+ Total,5635,5766,11401
+NotApp :,2789,*,*
+AREA # 030251,Kamamaung(ST},*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,6821,7171,13992
+ Illiterate,1374,1957,3331
+ Total,8195,9128,17323
+NotApp :,3572,*,*
+AREA # 030301,Myawady,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,70091,68847,138938
+ Illiterate,11272,14278,25550
+ Total,81363,83125,164488
+NotApp :,31136,*,*
+AREA # 030351,Sugali(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,1448,1198,2646
+ Illiterate,1013,1102,2115
+ Total,2461,2300,4761
+NotApp :,942,*,*
+AREA # 030352,Wawlaymyaing(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2565,2280,4845
+ Illiterate,1448,1408,2856
+ Total,4013,3688,7701
+NotApp :,1512,*,*
+AREA # 030401,Kawkareik,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,70447,74111,144558
+ Illiterate,17325,27250,44575
+ Total,87772,101361,189133
+NotApp :,31209,*,*
+AREA # 030402,Kyarinseikkyi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,33285,34969,68254
+ Illiterate,9995,13204,23199
+ Total,43280,48173,91453
+NotApp :,14974,*,*
+AREA # 030451,Payarthonezu(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,27970,29541,57511
+ Illiterate,8846,10047,18893
+ Total,36816,39588,76404
+NotApp :,14080,*,*
+AREA # 030452,Kyaidon(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,13179,11603,24782
+ Illiterate,10849,12926,23775
+ Total,24028,24529,48557
+NotApp :,9381,*,*
+AREA # 040101,HaKa,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,16692,18917,35609
+ Illiterate,1999,3277,5276
+ Total,18691,22194,40885
+NotApp :,7467,*,*
+AREA # 040102,Thantlang,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,17660,18052,35712
+ Illiterate,2888,4293,7181
+ Total,20548,22345,42893
+NotApp :,7481,*,*
+AREA # 040201,Falam,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,15620,15383,31003
+ Illiterate,1310,2519,3829
+ Total,16930,17902,34832
+NotApp :,6625,*,*
+AREA # 040202,Tedim,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,32077,32386,64463
+ Illiterate,3367,6996,10363
+ Total,35444,39382,74826
+NotApp :,12797,*,*
+AREA # 040203,Tonzaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,7282,7307,14589
+ Illiterate,857,1521,2378
+ Total,8139,8828,16967
+NotApp :,3755,*,*
+AREA # 040251,Rihkhuadal(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2634,2565,5199
+ Illiterate,168,336,504
+ Total,2802,2901,5703
+NotApp :,917,*,*
+AREA # 040252,Cikha(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,4370,3863,8233
+ Illiterate,381,936,1317
+ Total,4751,4799,9550
+NotApp :,1606,*,*
+AREA # 040301,Mindat,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,13052,12627,25679
+ Illiterate,2714,6706,9420
+ Total,15766,19333,35099
+NotApp :,7501,*,*
+AREA # 040302,Matupi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,13093,12905,25998
+ Illiterate,2380,4854,7234
+ Total,15473,17759,33232
+NotApp :,5854,*,*
+AREA # 040303,Kanpalet,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,6800,6152,12952
+ Illiterate,1166,3154,4320
+ Total,7966,9306,17272
+NotApp :,4221,*,*
+AREA # 040304,Paletwat,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,20174,17361,37535
+ Illiterate,5955,12178,18133
+ Total,26129,29539,55668
+NotApp :,9303,*,*
+AREA # 040351,Reazu(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,3835,4430,8265
+ Illiterate,707,1520,2227
+ Total,4542,5950,10492
+NotApp :,1773,*,*
+AREA # 040352,Sami(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,10206,8169,18375
+ Illiterate,2175,5453,7628
+ Total,12381,13622,26003
+NotApp :,6079,*,*
+AREA # 050101,Sagaing,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,113144,135942,249086
+ Illiterate,3079,6914,9993
+ Total,116223,142856,259079
+NotApp :,48115,*,*
+AREA # 050102,Myinmu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,41943,50319,92262
+ Illiterate,1479,3551,5030
+ Total,43422,53870,97292
+NotApp :,9694,*,*
+AREA # 050103,Myaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,40403,50772,91175
+ Illiterate,1177,2482,3659
+ Total,41580,53254,94834
+NotApp :,11577,*,*
+AREA # 050201,Shwebo,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,90643,108460,199103
+ Illiterate,3438,7571,11009
+ Total,94081,116031,210112
+NotApp :,25430,*,*
+AREA # 050202,Khin U,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,57987,67678,125665
+ Illiterate,1850,4327,6177
+ Total,59837,72005,131842
+NotApp :,14615,*,*
+AREA # 050203,Wetlet,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,77066,90682,167748
+ Illiterate,2653,7730,10383
+ Total,79719,98412,178131
+NotApp :,18085,*,*
+AREA # 050204,Kambalu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,118461,132696,251157
+ Illiterate,3930,8706,12636
+ Total,122391,141402,263793
+NotApp :,31768,*,*
+AREA # 050205,Kyunhlau,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,42569,43565,86134
+ Illiterate,1338,3711,5049
+ Total,43907,47276,91183
+NotApp :,12904,*,*
+AREA # 050206,Ye U,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,41552,56928,98480
+ Illiterate,1259,3377,4636
+ Total,42811,60305,103116
+NotApp :,15174,*,*
+AREA # 050207,Depayin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,53051,60889,113940
+ Illiterate,2588,8654,11242
+ Total,55639,69543,125182
+NotApp :,15633,*,*
+AREA # 050208,Tasei,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,60800,79402,140202
+ Illiterate,1743,5055,6798
+ Total,62543,84457,147000
+NotApp :,18110,*,*
+AREA # 050251,Kyaukmyaung(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,12326,13819,26145
+ Illiterate,618,1387,2005
+ Total,12944,15206,28150
+NotApp :,3115,*,*
+AREA # 050301,Monywa,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,138887,164945,303832
+ Illiterate,5366,14138,19504
+ Total,144253,179083,323336
+NotApp :,48759,*,*
+AREA # 050302,Butalin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,45708,57367,103075
+ Illiterate,1598,4822,6420
+ Total,47306,62189,109495
+NotApp :,14044,*,*
+AREA # 050303,Ayartaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,59029,69055,128084
+ Illiterate,2962,9556,12518
+ Total,61991,78611,140602
+NotApp :,15167,*,*
+AREA # 050304,Chaung Oo,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,40244,48720,88964
+ Illiterate,1613,3333,4946
+ Total,41857,52053,93910
+NotApp :,12045,*,*
+AREA # 050401,Katha,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,66575,71595,138170
+ Illiterate,1985,3737,5722
+ Total,68560,75332,143892
+NotApp :,23842,*,*
+AREA # 050402,Indaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,47018,53429,100447
+ Illiterate,1372,3190,4562
+ Total,48390,56619,105009
+NotApp :,15257,*,*
+AREA # 050403,Tigyaing,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,51573,55516,107089
+ Illiterate,1562,2798,4360
+ Total,53135,58314,111449
+NotApp :,18506,*,*
+AREA # 050404,Banmauk,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,39805,39648,79453
+ Illiterate,2180,7556,9736
+ Total,41985,47204,89189
+NotApp :,23479,*,*
+AREA # 050405,Kawlin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,58327,64671,122998
+ Illiterate,1444,3660,5104
+ Total,59771,68331,128102
+NotApp :,17195,*,*
+AREA # 050406,Wuntho,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,28224,31371,59595
+ Illiterate,866,1813,2679
+ Total,29090,33184,62274
+NotApp :,11121,*,*
+AREA # 050407,Pinlebu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,42498,48623,91121
+ Illiterate,1628,4608,6236
+ Total,44126,53231,97357
+NotApp :,14611,*,*
+AREA # 050501,Kalay,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,138002,150097,288099
+ Illiterate,6411,11504,17915
+ Total,144413,161601,306014
+NotApp :,42559,*,*
+AREA # 050502,Kalewa,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,23364,25309,48673
+ Illiterate,506,570,1076
+ Total,23870,25879,49749
+NotApp :,6683,*,*
+AREA # 050503,Mingin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,42077,46374,88451
+ Illiterate,1265,2509,3774
+ Total,43342,48883,92225
+NotApp :,12138,*,*
+AREA # 050601,Tamu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,24153,25188,49341
+ Illiterate,869,1564,2433
+ Total,25022,26752,51774
+NotApp :,7569,*,*
+AREA # 050651,Myothit(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,6674,6212,12886
+ Illiterate,345,684,1029
+ Total,7019,6896,13915
+NotApp :,2883,*,*
+AREA # 050652,Khampat(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,14925,14908,29833
+ Illiterate,1141,1946,3087
+ Total,16066,16854,32920
+NotApp :,5808,*,*
+AREA # 050701,Mawlaik,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,20615,22774,43389
+ Illiterate,538,777,1315
+ Total,21153,23551,44704
+NotApp :,6610,*,*
+AREA # 050702,Phaungpyin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,43373,49013,92386
+ Illiterate,1723,2849,4572
+ Total,45096,51862,96958
+NotApp :,15736,*,*
+AREA # 050801,Hkamti,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,13674,12802,26476
+ Illiterate,2412,3677,6089
+ Total,16086,16479,32565
+NotApp :,15093,*,*
+AREA # 050802,Homalin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,76774,81765,158539
+ Illiterate,3795,9623,13418
+ Total,80569,91388,171957
+NotApp :,86249,*,*
+AREA # 050803,Leshi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2595,2383,4978
+ Illiterate,690,1359,2049
+ Total,3285,3742,7027
+NotApp :,2034,*,*
+AREA # 050804,Lahe,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,5494,4031,9525
+ Illiterate,12702,14822,27524
+ Total,18196,18853,37049
+NotApp :,6142,*,*
+AREA # 050805,Nanyun,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2769,2259,5028
+ Illiterate,1147,1556,2703
+ Total,3916,3815,7731
+NotApp :,2783,*,*
+AREA # 050851,Mobaingluk(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,526,474,1000
+ Illiterate,37,115,152
+ Total,563,589,1152
+NotApp :,278,*,*
+AREA # 050852,Sonemara(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,1746,1573,3319
+ Illiterate,389,1068,1457
+ Total,2135,2641,4776
+NotApp :,1055,*,*
+AREA # 050853,Htanparkway(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,1171,1070,2241
+ Illiterate,1039,1049,2088
+ Total,2210,2119,4329
+NotApp :,1006,*,*
+AREA # 050854,Pansaung(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,4636,3538,8174
+ Illiterate,2316,3097,5413
+ Total,6952,6635,13587
+NotApp :,2110,*,*
+AREA # 050855,Donhee(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,3921,2630,6551
+ Illiterate,6589,8380,14969
+ Total,10510,11010,21520
+NotApp :,4249,*,*
+AREA # 050901,Yinmarpin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,57115,63514,120629
+ Illiterate,1703,6003,7706
+ Total,58818,69517,128335
+NotApp :,13145,*,*
+AREA # 050902,Salingyi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,45486,55627,101113
+ Illiterate,1857,4931,6788
+ Total,47343,60558,107901
+NotApp :,13907,*,*
+AREA # 050903,Palae,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,54386,59815,114201
+ Illiterate,3540,10344,13884
+ Total,57926,70159,128085
+NotApp :,15921,*,*
+AREA # 050904,Kani,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,52054,60373,112427
+ Illiterate,2305,5186,7491
+ Total,54359,65559,119918
+NotApp :,14623,*,*
+AREA # 060101,Dawei,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,45539,53340,98879
+ Illiterate,2731,4127,6858
+ Total,48270,57467,105737
+NotApp :,19868,*,*
+AREA # 060102,Lounglon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,43861,50323,94184
+ Illiterate,3326,5989,9315
+ Total,47187,56312,103499
+NotApp :,14818,*,*
+AREA # 060103,Thayetchaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,40459,46182,86641
+ Illiterate,2615,3637,6252
+ Total,43074,49819,92893
+NotApp :,12769,*,*
+AREA # 060104,Yebyu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,36402,36353,72755
+ Illiterate,4720,8135,12855
+ Total,41122,44488,85610
+NotApp :,15158,*,*
+AREA # 060151,Myitta(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,7456,7901,15357
+ Illiterate,1077,1279,2356
+ Total,8533,9180,17713
+NotApp :,3646,*,*
+AREA # 060152,Kaleinaung(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,7369,6951,14320
+ Illiterate,1360,1900,3260
+ Total,8729,8851,17580
+NotApp :,4285,*,*
+AREA # 060201,Myeik,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,111600,121222,232822
+ Illiterate,5660,7843,13503
+ Total,117260,129065,246325
+NotApp :,38164,*,*
+AREA # 060202,Kyunsu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,66201,63430,129631
+ Illiterate,8086,9335,17421
+ Total,74287,72765,147052
+NotApp :,24701,*,*
+AREA # 060203,Palaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,36382,39777,76159
+ Illiterate,2890,3249,6139
+ Total,39272,43026,82298
+NotApp :,11140,*,*
+AREA # 060204,Tanintharyi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,40392,40122,80514
+ Illiterate,4755,5020,9775
+ Total,45147,45142,90289
+NotApp :,16564,*,*
+AREA # 060251,Palauk(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,13542,14434,27976
+ Illiterate,1746,1831,3577
+ Total,15288,16265,31553
+NotApp :,5001,*,*
+AREA # 060301,Kawthoung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,46560,46585,93145
+ Illiterate,3162,4321,7483
+ Total,49722,50906,100628
+NotApp :,16352,*,*
+AREA # 060302,Bokepyin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,17103,15999,33102
+ Illiterate,2105,2509,4614
+ Total,19208,18508,37716
+NotApp :,9105,*,*
+AREA # 060351,Khamaukgyi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,8669,7689,16358
+ Illiterate,903,1153,2056
+ Total,9572,8842,18414
+NotApp :,4626,*,*
+AREA # 060352,Pyigyimandaing,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,6013,5489,11502
+ Illiterate,826,1007,1833
+ Total,6839,6496,13335
+NotApp :,3269,*,*
+AREA # 060353,Karathuri(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,7377,6654,14031
+ Illiterate,473,601,1074
+ Total,7850,7255,15105
+NotApp :,3188,*,*
+AREA # 070101,Bago,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,184170,206615,390785
+ Illiterate,11805,22557,34362
+ Total,195975,229172,425147
+NotApp :,66287,*,*
+AREA # 070102,Tanatpin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,55743,60875,116618
+ Illiterate,3658,7568,11226
+ Total,59401,68443,127844
+NotApp :,17443,*,*
+AREA # 070103,Kawa,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,77813,86409,164222
+ Illiterate,4172,7470,11642
+ Total,81985,93879,175864
+NotApp :,21499,*,*
+AREA # 070104,Waw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,66780,74276,141056
+ Illiterate,3661,7981,11642
+ Total,70441,82257,152698
+NotApp :,23316,*,*
+AREA # 070105,Nyaunglebin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,78484,89154,167638
+ Illiterate,3360,6077,9437
+ Total,81844,95231,177075
+NotApp :,22408,*,*
+AREA # 070106,Kyauktaga,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,97105,103753,200858
+ Illiterate,7638,14399,22037
+ Total,104743,118152,222895
+NotApp :,28317,*,*
+AREA # 070107,Daik U,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,78761,86673,165434
+ Illiterate,4228,9035,13263
+ Total,82989,95708,178697
+NotApp :,23833,*,*
+AREA # 070108,Shwegyin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,41412,43379,84791
+ Illiterate,3051,4484,7535
+ Total,44463,47863,92326
+NotApp :,15136,*,*
+AREA # 070201,Toungoo,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,98277,110445,208722
+ Illiterate,5490,10522,16012
+ Total,103767,120967,224734
+NotApp :,37322,*,*
+AREA # 070202,Yaedashe,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,83278,88398,171676
+ Illiterate,4641,10238,14879
+ Total,87919,98636,186555
+NotApp :,27038,*,*
+AREA # 070203,Kyaukkyi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,41697,46508,88205
+ Illiterate,4653,6162,10815
+ Total,46350,52670,99020
+NotApp :,14309,*,*
+AREA # 070204,Pyu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,98104,107767,205871
+ Illiterate,6826,14795,21621
+ Total,104930,122562,227492
+NotApp :,29781,*,*
+AREA # 070205,Oatwin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,60886,67144,128030
+ Illiterate,4226,9294,13520
+ Total,65112,76438,141550
+NotApp :,18278,*,*
+AREA # 070206,Htantapin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,44927,50346,95273
+ Illiterate,3059,5498,8557
+ Total,47986,55844,103830
+NotApp :,13446,*,*
+AREA # 070301,Pyay,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,97965,112513,210478
+ Illiterate,3369,6476,9845
+ Total,101334,118989,220323
+NotApp :,31320,*,*
+AREA # 070302,Paukkhaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,52049,53226,105275
+ Illiterate,2812,5640,8452
+ Total,54861,58866,113727
+NotApp :,11129,*,*
+AREA # 070303,Padaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,58850,64222,123072
+ Illiterate,2779,5104,7883
+ Total,61629,69326,130955
+NotApp :,13259,*,*
+AREA # 070304,Paunde,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,56629,60926,117555
+ Illiterate,2758,4931,7689
+ Total,59387,65857,125244
+NotApp :,12317,*,*
+AREA # 070305,Thegon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,54818,62604,117422
+ Illiterate,1390,2459,3849
+ Total,56208,65063,121271
+NotApp :,9686,*,*
+AREA # 070306,Shwedaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,48903,57728,106631
+ Illiterate,1485,2768,4253
+ Total,50388,60496,110884
+NotApp :,10787,*,*
+AREA # 070401,Tharyarwaddy,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,59816,66081,125897
+ Illiterate,3169,5312,8481
+ Total,62985,71393,134378
+NotApp :,16726,*,*
+AREA # 070402,Letpadan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,70634,78404,149038
+ Illiterate,3571,6378,9949
+ Total,74205,84782,158987
+NotApp :,18420,*,*
+AREA # 070403,Minhla,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,50384,55862,106246
+ Illiterate,1733,2741,4474
+ Total,52117,58603,110720
+NotApp :,11771,*,*
+AREA # 070404,Okpo,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,51703,56861,108564
+ Illiterate,2413,3695,6108
+ Total,54116,60556,114672
+NotApp :,11990,*,*
+AREA # 070405,Zigon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,28129,31265,59394
+ Illiterate,966,1602,2568
+ Total,29095,32867,61962
+NotApp :,5561,*,*
+AREA # 070406,Nattalin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,72127,80151,152278
+ Illiterate,2468,3701,6169
+ Total,74595,83852,158447
+NotApp :,13694,*,*
+AREA # 070407,Monyo,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,52221,58336,110557
+ Illiterate,1986,3297,5283
+ Total,54207,61633,115840
+NotApp :,11730,*,*
+AREA # 070408,Gyobingauk,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,48967,55127,104094
+ Illiterate,1457,2252,3709
+ Total,50424,57379,107803
+NotApp :,9630,*,*
+AREA # 080101,Magway,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,108258,123246,231504
+ Illiterate,5178,14123,19301
+ Total,113436,137369,250805
+NotApp :,38442,*,*
+AREA # 080102,Yenangyoung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,49369,59661,109030
+ Illiterate,2464,7731,10195
+ Total,51833,67392,119225
+NotApp :,15002,*,*
+AREA # 080103,Chauk,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,69342,84353,153695
+ Illiterate,3128,10172,13300
+ Total,72470,94525,166995
+NotApp :,18194,*,*
+AREA # 080104,Taungdwingyi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,101939,112784,214723
+ Illiterate,5125,12302,17427
+ Total,107064,125086,232150
+NotApp :,27710,*,*
+AREA # 080105,Myothit,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,60437,64714,125151
+ Illiterate,3871,12925,16796
+ Total,64308,77639,141947
+NotApp :,17564,*,*
+AREA # 080106,Natmauk,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,76031,87431,163462
+ Illiterate,3993,17130,21123
+ Total,80024,104561,184585
+NotApp :,22411,*,*
+AREA # 080201,Minbu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,69341,78169,147510
+ Illiterate,3211,7860,11071
+ Total,72552,86029,158581
+NotApp :,29601,*,*
+AREA # 080202,Pwint Phyu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,63764,70889,134653
+ Illiterate,3292,8256,11548
+ Total,67056,79145,146201
+NotApp :,17491,*,*
+AREA # 080203,Ngape,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,19752,21590,41342
+ Illiterate,1289,2519,3808
+ Total,21041,24109,45150
+NotApp :,6992,*,*
+AREA # 080204,Salin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,92421,109697,202118
+ Illiterate,3297,7675,10972
+ Total,95718,117372,213090
+NotApp :,22943,*,*
+AREA # 080205,Saytottara,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,18863,20151,39014
+ Illiterate,661,1506,2167
+ Total,19524,21657,41181
+NotApp :,6345,*,*
+AREA # 080301,Thayet,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,40563,45367,85930
+ Illiterate,1714,4955,6669
+ Total,42277,50322,92599
+NotApp :,11748,*,*
+AREA # 080302,Minhla,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,51371,53897,105268
+ Illiterate,2376,5942,8318
+ Total,53747,59839,113586
+NotApp :,32496,*,*
+AREA # 080303,Mindon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,23645,25215,48860
+ Illiterate,1430,3997,5427
+ Total,25075,29212,54287
+NotApp :,5070,*,*
+AREA # 080304,Kamma,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,30495,33680,64175
+ Illiterate,1578,2758,4336
+ Total,32073,36438,68511
+NotApp :,6684,*,*
+AREA # 080305,Aunglan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,93755,102763,196518
+ Illiterate,4631,10761,15392
+ Total,98386,113524,211910
+NotApp :,23312,*,*
+AREA # 080306,Sinpaungwe`,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,47043,52533,99576
+ Illiterate,1689,3987,5676
+ Total,48732,56520,105252
+NotApp :,12592,*,*
+AREA # 080401,Pakokku,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,105827,128593,234420
+ Illiterate,6179,16573,22752
+ Total,112006,145166,257172
+NotApp :,32967,*,*
+AREA # 080402,Yesagyo,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,78620,100908,179528
+ Illiterate,3498,10151,13649
+ Total,82118,111059,193177
+NotApp :,22175,*,*
+AREA # 080403,Myaing,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,82312,95995,178307
+ Illiterate,5546,17939,23485
+ Total,87858,113934,201792
+NotApp :,23979,*,*
+AREA # 080404,Pauk,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,63822,73240,137062
+ Illiterate,4381,10317,14698
+ Total,68203,83557,151760
+NotApp :,19754,*,*
+AREA # 080405,Seikphyu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,37640,44119,81759
+ Illiterate,2525,5513,8038
+ Total,40165,49632,89797
+NotApp :,12972,*,*
+AREA # 080501,Gangaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,52659,59905,112564
+ Illiterate,1960,3630,5590
+ Total,54619,63535,118154
+NotApp :,15141,*,*
+AREA # 080502,Htilin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,19773,22942,42715
+ Illiterate,541,1143,1684
+ Total,20314,24085,44399
+NotApp :,4467,*,*
+AREA # 080503,Saw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,13999,15370,29369
+ Illiterate,669,1516,2185
+ Total,14668,16886,31554
+NotApp :,4278,*,*
+AREA # 080551,Kyaukhtu(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,13236,15217,28453
+ Illiterate,482,1168,1650
+ Total,13718,16385,30103
+NotApp :,2762,*,*
+AREA # 090101,Aungmyetharzan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,101132,115053,216185
+ Illiterate,2720,6074,8794
+ Total,103852,121127,224979
+NotApp :,40800,*,*
+AREA # 090102,Chanayeharzan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,65984,80528,146512
+ Illiterate,1286,2973,4259
+ Total,67270,83501,150771
+NotApp :,46404,*,*
+AREA # 090103,Mahaaungmye,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,91127,103471,194598
+ Illiterate,2661,5540,8201
+ Total,93788,109011,202799
+NotApp :,38314,*,*
+AREA # 090104,Chanmyatharzi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,111736,123540,235276
+ Illiterate,3593,7666,11259
+ Total,115329,131206,246535
+NotApp :,37246,*,*
+AREA # 090105,Pyigyidagun,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,94617,96625,191242
+ Illiterate,2958,5819,8777
+ Total,97575,102444,200019
+NotApp :,37679,*,*
+AREA # 090106,Amarapura,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,91262,102773,194035
+ Illiterate,3629,7470,11099
+ Total,94891,110243,205134
+NotApp :,32484,*,*
+AREA # 090107,Patheingyi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,100062,105739,205801
+ Illiterate,5566,11758,17324
+ Total,105628,117497,223125
+NotApp :,40600,*,*
+AREA # 090201,Pyin Oo Lwin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,97576,101672,199248
+ Illiterate,3549,7376,10925
+ Total,101125,109048,210173
+NotApp :,45335,*,*
+AREA # 090202,Madaya,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,100939,111256,212195
+ Illiterate,5047,11234,16281
+ Total,105986,122490,228476
+NotApp :,29525,*,*
+AREA # 090203,Sinku,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,63593,69107,132700
+ Illiterate,2390,3963,6353
+ Total,65983,73070,139053
+NotApp :,18532,*,*
+AREA # 090204,Mogok,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,62831,64873,127704
+ Illiterate,5928,9441,15369
+ Total,68759,74314,143073
+NotApp :,24076,*,*
+AREA # 090205,Thabeikkyin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,48572,48052,96624
+ Illiterate,2710,5048,7758
+ Total,51282,53100,104382
+NotApp :,23450,*,*
+AREA # 090251,Tagaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,13740,14089,27829
+ Illiterate,754,1435,2189
+ Total,14494,15524,30018
+NotApp :,5852,*,*
+AREA # 090301,Kyaukse,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,103252,114247,217499
+ Illiterate,3337,5564,8901
+ Total,106589,119811,226400
+NotApp :,31507,*,*
+AREA # 090302,Singaing,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,57702,65723,123425
+ Illiterate,2140,4176,6316
+ Total,59842,69899,129741
+NotApp :,19177,*,*
+AREA # 090303,Myitthar,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,77732,85134,162866
+ Illiterate,3614,9165,12779
+ Total,81346,94299,175645
+NotApp :,19984,*,*
+AREA # 090304,Tada U,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,53983,62565,116548
+ Illiterate,1971,5330,7301
+ Total,55954,67895,123849
+NotApp :,14768,*,*
+AREA # 090401,Myingyan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,102502,126932,229434
+ Illiterate,4969,13494,18463
+ Total,107471,140426,247897
+NotApp :,28199,*,*
+AREA # 090402,Taungtha,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,82175,100304,182479
+ Illiterate,3645,9954,13599
+ Total,85820,110258,196078
+NotApp :,20564,*,*
+AREA # 090403,Natogyi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,69121,82811,151932
+ Illiterate,2385,6107,8492
+ Total,71506,88918,160424
+NotApp :,16654,*,*
+AREA # 090404,Kyaukpadaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,96704,116314,213018
+ Illiterate,4495,17023,21518
+ Total,101199,133337,234536
+NotApp :,27372,*,*
+AREA # 090405,Ngazun,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,47409,57136,104545
+ Illiterate,2175,5185,7360
+ Total,49584,62321,111905
+NotApp :,12328,*,*
+AREA # 090501,Nyaung U,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,74604,84910,159514
+ Illiterate,4323,12252,16575
+ Total,78927,97162,176089
+NotApp :,22096,*,*
+AREA # 090551,Ngat,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,15038,18721,33759
+ Illiterate,1009,3423,4432
+ Total,16047,22144,38191
+NotApp :,3571,*,*
+AREA # 090601,Yame`thin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,93968,99575,193543
+ Illiterate,5553,18863,24416
+ Total,99521,118438,217959
+NotApp :,40132,*,*
+AREA # 090602,Pyawbwe,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,98728,109911,208639
+ Illiterate,4869,19229,24098
+ Total,103597,129140,232737
+NotApp :,27556,*,*
+AREA # 090701,Meiktila,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,112033,131473,243506
+ Illiterate,4853,18194,23047
+ Total,116886,149667,266553
+NotApp :,43110,*,*
+AREA # 090702,MahlYaing,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,53566,64166,117732
+ Illiterate,1754,5524,7278
+ Total,55320,69690,125010
+NotApp :,14417,*,*
+AREA # 090703,Thazi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,76560,85525,162085
+ Illiterate,3769,10751,14520
+ Total,80329,96276,176605
+NotApp :,26075,*,*
+AREA # 090704,Wundwin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,88930,99469,188399
+ Illiterate,5105,14460,19565
+ Total,94035,113929,207964
+NotApp :,21796,*,*
+AREA # 100101,Mawlamyine,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,108535,126057,234592
+ Illiterate,4687,8515,13202
+ Total,113222,134572,247794
+NotApp :,41594,*,*
+AREA # 100102,Kyaikemaraw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,60425,66382,126807
+ Illiterate,14265,22350,36615
+ Total,74690,88732,163422
+NotApp :,32388,*,*
+AREA # 100103,Chaungzon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,43542,54305,97847
+ Illiterate,4664,6766,11430
+ Total,48206,61071,109277
+NotApp :,12849,*,*
+AREA # 100104,Thanbyuzayat,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,60147,66988,127135
+ Illiterate,8265,12051,20316
+ Total,68412,79039,147451
+NotApp :,23085,*,*
+AREA # 100105,Mudon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,68528,80883,149411
+ Illiterate,5975,8230,14205
+ Total,74503,89113,163616
+NotApp :,27121,*,*
+AREA # 100106,Ye,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,55694,56220,111914
+ Illiterate,7563,11860,19423
+ Total,63257,68080,131337
+NotApp :,21148,*,*
+AREA # 100151,Lamine,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,27665,30832,58497
+ Illiterate,7024,10956,17980
+ Total,34689,41788,76477
+NotApp :,11999,*,*
+AREA # 100152,Khawzar,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,6798,6863,13661
+ Illiterate,2309,3362,5671
+ Total,9107,10225,19332
+NotApp :,3331,*,*
+AREA # 100201,Thaton,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,84570,90778,175348
+ Illiterate,11870,17251,29121
+ Total,96440,108029,204469
+NotApp :,33637,*,*
+AREA # 100202,Paung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,76150,82526,158676
+ Illiterate,12877,18906,31783
+ Total,89027,101432,190459
+NotApp :,28000,*,*
+AREA # 100203,Kyaikto,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,65592,71327,136919
+ Illiterate,4632,7903,12535
+ Total,70224,79230,149454
+NotApp :,35078,*,*
+AREA # 100204,Bilin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,64372,69631,134003
+ Illiterate,8614,13279,21893
+ Total,72986,82910,155896
+NotApp :,25179,*,*
+AREA # 110101,Sittway,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,53418,60263,113681
+ Illiterate,4724,10640,15364
+ Total,58142,70903,129045
+NotApp :,18854,*,*
+AREA # 110102,Ponnagyun,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,48094,51190,99284
+ Illiterate,4350,12789,17139
+ Total,52444,63979,116423
+NotApp :,13330,*,*
+AREA # 110103,Pauktaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,54456,56751,111207
+ Illiterate,5430,14640,20070
+ Total,59886,71391,131277
+NotApp :,14680,*,*
+AREA # 110104,Yethedaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,39638,45353,84991
+ Illiterate,4160,11939,16099
+ Total,43798,57292,101090
+NotApp :,10884,*,*
+AREA # 110201,Myauk U,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,69759,76614,146373
+ Illiterate,7139,17051,24190
+ Total,76898,93665,170563
+NotApp :,19067,*,*
+AREA # 110202,Kyauktaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,61944,70435,132379
+ Illiterate,6354,16759,23113
+ Total,68298,87194,155492
+NotApp :,17608,*,*
+AREA # 110203,Minbya,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,60205,63617,123822
+ Illiterate,8117,18788,26905
+ Total,68322,82405,150727
+NotApp :,18481,*,*
+AREA # 110204,Myebon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,50835,46017,96852
+ Illiterate,5994,18508,24502
+ Total,56829,64525,121354
+NotApp :,15839,*,*
+AREA # 110301,Maungtaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,10858,10051,20909
+ Illiterate,4171,6307,10478
+ Total,15029,16358,31387
+NotApp :,6812,*,*
+AREA # 110302,Buthidaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,16327,16219,32546
+ Illiterate,5052,8617,13669
+ Total,21379,24836,46215
+NotApp :,9330,*,*
+AREA # 110351,Taungpyoletwe(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,619,463,1082
+ Illiterate,457,602,1059
+ Total,1076,1065,2141
+NotApp :,445,*,*
+AREA # 110401,Kyaukpyu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,57726,54715,112441
+ Illiterate,7017,22520,29537
+ Total,64743,77235,141978
+NotApp :,23374,*,*
+AREA # 110402,Mannaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,21213,27557,48770
+ Illiterate,1052,2492,3544
+ Total,22265,30049,52314
+NotApp :,4652,*,*
+AREA # 110403,Yanbye,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,36051,41339,77390
+ Illiterate,2889,7357,10246
+ Total,38940,48696,87636
+NotApp :,10255,*,*
+AREA # 110404,An,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,42671,39824,82495
+ Illiterate,6537,14088,20625
+ Total,49208,53912,103120
+NotApp :,16594,*,*
+AREA # 110501,Thandwe,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,51817,55615,107432
+ Illiterate,2911,5361,8272
+ Total,54728,60976,115704
+NotApp :,17780,*,*
+AREA # 110502,Toungup,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,44534,47335,91869
+ Illiterate,3077,6092,9169
+ Total,47611,53427,101038
+NotApp :,13399,*,*
+AREA # 110503,Gwa,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,17910,18262,36172
+ Illiterate,821,1342,2163
+ Total,18731,19604,38335
+NotApp :,4099,*,*
+AREA # 110551,Maei(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,17366,16636,34002
+ Illiterate,1553,3574,5127
+ Total,18919,20210,39129
+NotApp :,4775,*,*
+AREA # 110552,Kyeintali(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,9887,10587,20474
+ Illiterate,481,700,1181
+ Total,10368,11287,21655
+NotApp :,1926,*,*
+AREA # 120101,Insein,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,116322,134998,251320
+ Illiterate,3117,5517,8634
+ Total,119439,140515,259954
+NotApp :,45329,*,*
+AREA # 120102,Mingaladon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,121214,139712,260926
+ Illiterate,3118,5504,8622
+ Total,124332,145216,269548
+NotApp :,62038,*,*
+AREA # 120103,Hmawby,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,95766,102693,198459
+ Illiterate,4475,7939,12414
+ Total,100241,110632,210873
+NotApp :,33734,*,*
+AREA # 120104,Hlegu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,101454,107817,209271
+ Illiterate,5892,9962,15854
+ Total,107346,117779,225125
+NotApp :,45616,*,*
+AREA # 120105,Taikkyi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,111131,118141,229272
+ Illiterate,6134,11286,17420
+ Total,117265,129427,246692
+NotApp :,30576,*,*
+AREA # 120106,Htantabin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,60113,62134,122247
+ Illiterate,3001,4877,7878
+ Total,63114,67011,130125
+NotApp :,15667,*,*
+AREA # 120107,Shwepyitha,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,137120,151806,288926
+ Illiterate,4757,8335,13092
+ Total,141877,160141,302018
+NotApp :,41508,*,*
+AREA # 120108,Hlinethaya,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,272767,308083,580850
+ Illiterate,10330,17863,28193
+ Total,283097,325946,609043
+NotApp :,78824,*,*
+AREA # 120201,Thingangyun,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,84445,97590,182035
+ Illiterate,2456,4804,7260
+ Total,86901,102394,189295
+NotApp :,20191,*,*
+AREA # 120202,Yankin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,27274,34206,61480
+ Illiterate,584,1283,1867
+ Total,27858,35489,63347
+NotApp :,7599,*,*
+AREA # 120203,South Okkalapa,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,65049,77344,142393
+ Illiterate,1054,2262,3316
+ Total,66103,79606,145709
+NotApp :,15417,*,*
+AREA # 120204,North Okkalapa,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,133177,150800,283977
+ Illiterate,3139,5817,8956
+ Total,136316,156617,292933
+NotApp :,40360,*,*
+AREA # 120205,Thakayta,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,92063,100680,192743
+ Illiterate,2211,4523,6734
+ Total,94274,105203,199477
+NotApp :,21079,*,*
+AREA # 120206,Dawbon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,30548,33244,63792
+ Illiterate,1234,2239,3473
+ Total,31782,35483,67265
+NotApp :,8060,*,*
+AREA # 120207,Tamway,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,63519,81107,144626
+ Illiterate,1151,2273,3424
+ Total,64670,83380,148050
+NotApp :,17263,*,*
+AREA # 120208,Pazuntaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,18447,23523,41970
+ Illiterate,354,834,1188
+ Total,18801,24357,43158
+NotApp :,5297,*,*
+AREA # 120209,Botahtaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,15286,18587,33873
+ Illiterate,248,559,807
+ Total,15534,19146,34680
+NotApp :,6315,*,*
+AREA # 120210,Dagon Myothit(South),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,150894,160001,310895
+ Illiterate,6549,11889,18438
+ Total,157443,171890,329333
+NotApp :,42313,*,*
+AREA # 120211,Dagon Myothit(North),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,86289,97407,183696
+ Illiterate,1861,3100,4961
+ Total,88150,100507,188657
+NotApp :,15291,*,*
+AREA # 120212,Dagon Myothit(East),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,65441,70044,135485
+ Illiterate,2678,4569,7247
+ Total,68119,74613,142732
+NotApp :,22896,*,*
+AREA # 120213,Dagon Myothit(Seik),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,66717,68456,135173
+ Illiterate,3574,5878,9452
+ Total,70291,74334,144625
+NotApp :,22823,*,*
+AREA # 120214,Mingala Taungnyunt,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,52875,61386,114261
+ Illiterate,1273,2543,3816
+ Total,54148,63929,118077
+NotApp :,14417,*,*
+AREA # 120301,Thanlyin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,106922,116759,223681
+ Illiterate,3577,5418,8995
+ Total,110499,122177,232676
+NotApp :,35387,*,*
+AREA # 120302,Kyauktan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,53574,57858,111432
+ Illiterate,2561,4133,6694
+ Total,56135,61991,118126
+NotApp :,14639,*,*
+AREA # 120303,Thongwa,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,62385,68403,130788
+ Illiterate,4639,7211,11850
+ Total,67024,75614,142638
+NotApp :,15238,*,*
+AREA # 120304,Khayan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,64346,71445,135791
+ Illiterate,2568,4223,6791
+ Total,66914,75668,142582
+NotApp :,15437,*,*
+AREA # 120305,Twantay,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,91722,96275,187997
+ Illiterate,5221,7804,13025
+ Total,96943,104079,201022
+NotApp :,25814,*,*
+AREA # 120306,Kawhmu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,48216,51662,99878
+ Illiterate,2639,3886,6525
+ Total,50855,55548,106403
+NotApp :,12647,*,*
+AREA # 120307,Kungyangon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,46724,51158,97882
+ Illiterate,1006,1391,2397
+ Total,47730,52549,100279
+NotApp :,11353,*,*
+AREA # 120308,Dala,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,69551,72166,141717
+ Illiterate,4885,7999,12884
+ Total,74436,80165,154601
+NotApp :,18256,*,*
+AREA # 120309,Seikkyi/Khanaungto,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,14204,14532,28736
+ Illiterate,513,812,1325
+ Total,14717,15344,30061
+NotApp :,3942,*,*
+AREA # 120310,Cocogyun,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,508,442,950
+ Illiterate,38,48,86
+ Total,546,490,1036
+NotApp :,904,*,*
+AREA # 120351,Tada(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,14289,15048,29337
+ Illiterate,812,1257,2069
+ Total,15101,16305,31406
+NotApp :,3277,*,*
+AREA # 120401,Kyauktada,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,10463,13507,23970
+ Illiterate,179,470,649
+ Total,10642,13977,24619
+NotApp :,5234,*,*
+AREA # 120402,Pabedan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,12907,15772,28679
+ Illiterate,301,675,976
+ Total,13208,16447,29655
+NotApp :,3681,*,*
+AREA # 120403,Lanmadaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,14373,20090,34463
+ Illiterate,182,411,593
+ Total,14555,20501,35056
+NotApp :,12104,*,*
+AREA # 120404,Latha,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,7251,9853,17104
+ Illiterate,104,356,460
+ Total,7355,10209,17564
+NotApp :,7493,*,*
+AREA # 120405,Ahlon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,19778,25429,45207
+ Illiterate,345,702,1047
+ Total,20123,26131,46254
+NotApp :,9228,*,*
+AREA # 120406,Kyimyindine,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,43769,50561,94330
+ Illiterate,1641,3150,4791
+ Total,45410,53711,99121
+NotApp :,12393,*,*
+AREA # 120407,Sangyoung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,34560,47364,81924
+ Illiterate,482,984,1466
+ Total,35042,48348,83390
+NotApp :,16229,*,*
+AREA # 120408,Hline,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,62004,74018,136022
+ Illiterate,1133,2309,3442
+ Total,63137,76327,139464
+NotApp :,20843,*,*
+AREA # 120409,Kamayut,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,29184,39437,68621
+ Illiterate,340,640,980
+ Total,29524,40077,69601
+NotApp :,14968,*,*
+AREA # 120410,Mayangon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,75570,89173,164743
+ Illiterate,1463,2884,4347
+ Total,77033,92057,169090
+NotApp :,29023,*,*
+AREA # 120411,Dagon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,8136,10935,19071
+ Illiterate,115,252,367
+ Total,8251,11187,19438
+NotApp :,5644,*,*
+AREA # 120412,Bahan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,32132,41528,73660
+ Illiterate,441,1006,1447
+ Total,32573,42534,75107
+NotApp :,21625,*,*
+AREA # 120413,Seikkan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,903,910,1813
+ Illiterate,20,14,34
+ Total,923,924,1847
+NotApp :,979,*,*
+AREA # 130101,Taunggyi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,143694,152082,295776
+ Illiterate,8661,20863,29524
+ Total,152355,172945,325300
+NotApp :,56339,*,*
+AREA # 130102,Nyaungshwe,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,74007,72214,146221
+ Illiterate,5021,11541,16562
+ Total,79028,83755,162783
+NotApp :,26624,*,*
+AREA # 130103,Hopon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,36205,35171,71376
+ Illiterate,7050,14926,21976
+ Total,43255,50097,93352
+NotApp :,18996,*,*
+AREA # 130104,Hsihseng,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,52296,50894,103190
+ Illiterate,8514,17466,25980
+ Total,60810,68360,129170
+NotApp :,23862,*,*
+AREA # 130105,Kalaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,72111,69003,141114
+ Illiterate,5710,14590,20300
+ Total,77821,83593,161414
+NotApp :,24669,*,*
+AREA # 130106,Pindaya,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,31090,33647,64737
+ Illiterate,1541,3270,4811
+ Total,32631,36917,69548
+NotApp :,9755,*,*
+AREA # 130107,Ywarngan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,32740,33552,66292
+ Illiterate,2001,3291,5292
+ Total,34741,36843,71584
+NotApp :,10948,*,*
+AREA # 130108,Yatsauk,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,46962,46000,92962
+ Illiterate,4930,9022,13952
+ Total,51892,55022,106914
+NotApp :,19653,*,*
+AREA # 130109,Pinlaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,43812,40323,84135
+ Illiterate,4500,11314,15814
+ Total,48312,51637,99949
+NotApp :,15098,*,*
+AREA # 130110,Phekon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,38041,34689,72730
+ Illiterate,5464,9448,14912
+ Total,43505,44137,87642
+NotApp :,15948,*,*
+AREA # 130151,Kyauktalongyi(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,20536,18903,39439
+ Illiterate,2871,7161,10032
+ Total,23407,26064,49471
+NotApp :,6946,*,*
+AREA # 130152,Indaw(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,12459,11050,23509
+ Illiterate,3493,5466,8959
+ Total,15952,16516,32468
+NotApp :,5695,*,*
+AREA # 130153,Naungtayar(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,27463,23971,51434
+ Illiterate,3643,11080,14723
+ Total,31106,35051,66157
+NotApp :,11053,*,*
+AREA # 130201,Loilem,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,16143,15675,31818
+ Illiterate,4113,8302,12415
+ Total,20256,23977,44233
+NotApp :,8138,*,*
+AREA # 130202,Le`char,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,14115,13643,27758
+ Illiterate,6054,9426,15480
+ Total,20169,23069,43238
+NotApp :,5593,*,*
+AREA # 130203,Nanhsam(South),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,28169,26121,54290
+ Illiterate,9957,14277,24234
+ Total,38126,40398,78524
+NotApp :,13778,*,*
+AREA # 130204,Kunhing,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,5690,5419,11109
+ Illiterate,2597,4406,7003
+ Total,8287,9825,18112
+NotApp :,3711,*,*
+AREA # 130205,Kehsi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,10230,10516,20746
+ Illiterate,6641,10342,16983
+ Total,16871,20858,37729
+NotApp :,6771,*,*
+AREA # 130206,Mongkai,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,13930,12121,26051
+ Illiterate,15022,22723,37745
+ Total,28952,34844,63796
+NotApp :,10498,*,*
+AREA # 130207,Mineshu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,9655,9610,19265
+ Illiterate,7158,10563,17721
+ Total,16813,20173,36986
+NotApp :,5709,*,*
+AREA # 130251,Panglong(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,22016,20180,42196
+ Illiterate,6115,12570,18685
+ Total,28131,32750,60881
+NotApp :,11305,*,*
+AREA # 130252,Kholan(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,5806,5136,10942
+ Illiterate,3710,5159,8869
+ Total,9516,10295,19811
+NotApp :,4848,*,*
+AREA # 130253,Karli(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,7676,6916,14592
+ Illiterate,5315,7351,12666
+ Total,12991,14267,27258
+NotApp :,4322,*,*
+AREA # 130254,Minenaung(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,5691,5832,11523
+ Illiterate,5768,7880,13648
+ Total,11459,13712,25171
+NotApp :,4693,*,*
+AREA # 130255,Minesan(Monsan)(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,8307,7135,15442
+ Illiterate,3825,5322,9147
+ Total,12132,12457,24589
+NotApp :,5468,*,*
+AREA # 130301,Linkhe`,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,9935,9606,19541
+ Illiterate,4316,5945,10261
+ Total,14251,15551,29802
+NotApp :,3679,*,*
+AREA # 130302,Mone`,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,7610,7517,15127
+ Illiterate,3979,5600,9579
+ Total,11589,13117,24706
+NotApp :,3934,*,*
+AREA # 130303,Maukme`,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,8253,6989,15242
+ Illiterate,4745,8052,12797
+ Total,12998,15041,28039
+NotApp :,5771,*,*
+AREA # 130304,Minepan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,6692,5568,12260
+ Illiterate,3835,5202,9037
+ Total,10527,10770,21297
+NotApp :,4629,*,*
+AREA # 130351,Homane(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,1697,1406,3103
+ Illiterate,1184,1495,2679
+ Total,2881,2901,5782
+NotApp :,1048,*,*
+AREA # 130352,Kengtaung(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2987,2511,5498
+ Illiterate,1106,1724,2830
+ Total,4093,4235,8328
+NotApp :,2468,*,*
+AREA # 130401,Lashio,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,99219,102528,201747
+ Illiterate,31213,42505,73718
+ Total,130432,145033,275465
+NotApp :,47940,*,*
+AREA # 130402,Theinni,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,16371,16360,32731
+ Illiterate,7130,8625,15755
+ Total,23501,24985,48486
+NotApp :,8176,*,*
+AREA # 130403,Mineye`,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,12980,13366,26346
+ Illiterate,9990,14557,24547
+ Total,22970,27923,50893
+NotApp :,8483,*,*
+AREA # 130404,Tantyan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,32182,29248,61430
+ Illiterate,36754,49347,86101
+ Total,68936,78595,147531
+NotApp :,25274,*,*
+AREA # 130501,MuSe,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,37706,37483,75189
+ Illiterate,6900,9267,16167
+ Total,44606,46750,91356
+NotApp :,26151,*,*
+AREA # 130502,Namkham,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,35088,35110,70198
+ Illiterate,8708,14470,23178
+ Total,43796,49580,93376
+NotApp :,13658,*,*
+AREA # 130503,Kukai,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,32960,31761,64721
+ Illiterate,8889,12763,21652
+ Total,41849,44524,86373
+NotApp :,14961,*,*
+AREA # 130551,Monekoe(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,7192,6202,13394
+ Illiterate,4008,4272,8280
+ Total,11200,10474,21674
+NotApp :,2891,*,*
+AREA # 130552,Manhero(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,1926,1878,3804
+ Illiterate,857,1373,2230
+ Total,2783,3251,6034
+NotApp :,753,*,*
+AREA # 130553,Pansai(KyuKute)(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,7491,7241,14732
+ Illiterate,2285,2945,5230
+ Total,9776,10186,19962
+NotApp :,2988,*,*
+AREA # 130554,Tamoenye(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,19520,16999,36519
+ Illiterate,12879,14816,27695
+ Total,32399,31815,64214
+NotApp :,9104,*,*
+AREA # 130601,Kyukme,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,42455,44914,87369
+ Illiterate,8085,13513,21598
+ Total,50540,58427,108967
+NotApp :,18593,*,*
+AREA # 130602,Naungkhio,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,56649,57857,114506
+ Illiterate,4407,7344,11751
+ Total,61056,65201,126257
+NotApp :,23585,*,*
+AREA # 130603,Hsipaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,50598,51462,102060
+ Illiterate,19510,28131,47641
+ Total,70108,79593,149701
+NotApp :,26457,*,*
+AREA # 130604,Namtu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,14692,15581,30273
+ Illiterate,5522,7401,12923
+ Total,20214,22982,43196
+NotApp :,7227,*,*
+AREA # 130605,Namsan(North),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,21605,23069,44674
+ Illiterate,4603,9284,13887
+ Total,26208,32353,58561
+NotApp :,13643,*,*
+AREA # 130606,Momeik,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,23273,24805,48078
+ Illiterate,2016,2921,4937
+ Total,25289,27726,53015
+NotApp :,10315,*,*
+AREA # 130607,Mabane,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,17966,18103,36069
+ Illiterate,515,866,1381
+ Total,18481,18969,37450
+NotApp :,9948,*,*
+AREA # 130608,Manton,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,10349,9473,19822
+ Illiterate,4586,7735,12321
+ Total,14935,17208,32143
+NotApp :,6458,*,*
+AREA # 130651,Minengaw(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,5187,5140,10327
+ Illiterate,1826,3312,5138
+ Total,7013,8452,15465
+NotApp :,3436,*,*
+AREA # 130652,Minelon(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,7068,7634,14702
+ Illiterate,2707,4104,6811
+ Total,9775,11738,21513
+NotApp :,4135,*,*
+AREA # 130701,Kunlon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,12215,9558,21773
+ Illiterate,12497,13866,26363
+ Total,24712,23424,48136
+NotApp :,10638,*,*
+AREA # 130801,Laukine,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,21563,16182,37745
+ Illiterate,14549,17865,32414
+ Total,36112,34047,70159
+NotApp :,19802,*,*
+AREA # 130802,Kongyan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,5459,3480,8939
+ Illiterate,9655,10702,20357
+ Total,15114,14182,29296
+NotApp :,4476,*,*
+AREA # 130851,Chinshwehaw(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,1596,1111,2707
+ Illiterate,521,706,1227
+ Total,2117,1817,3934
+NotApp :,955,*,*
+AREA # 130852,Mawhtike(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,5204,3720,8924
+ Illiterate,7066,7750,14816
+ Total,12270,11470,23740
+NotApp :,2550,*,*
+AREA # 130901,Hopan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,10870,9209,20079
+ Illiterate,12964,14144,27108
+ Total,23834,23353,47187
+NotApp :,7707,*,*
+AREA # 130902,Minemaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,9808,7312,17120
+ Illiterate,21235,22307,43542
+ Total,31043,29619,60662
+NotApp :,10021,*,*
+AREA # 130903,Panwine,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,11369,9056,20425
+ Illiterate,31875,33472,65347
+ Total,43244,42528,85772
+NotApp :,11325,*,*
+AREA # 130952,Panlon(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,1220,1078,2298
+ Illiterate,1338,1481,2819
+ Total,2558,2559,5117
+NotApp :,1089,*,*
+AREA # 131001,Makman,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2412,1691,4103
+ Illiterate,5490,6417,11907
+ Total,7902,8108,16010
+NotApp :,3722,*,*
+AREA # 131002,Pan San(Pan Kham),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,15382,11291,26673
+ Illiterate,21795,26639,48434
+ Total,37177,37930,75107
+NotApp :,29222,*,*
+AREA # 131003,Naphang,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,12769,9345,22114
+ Illiterate,38450,40152,78602
+ Total,51219,49497,100716
+NotApp :,15464,*,*
+AREA # 131051,ManKan(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,168,193,361
+ Illiterate,327,453,780
+ Total,495,646,1141
+NotApp :,502,*,*
+AREA # 131101,Kengtung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,41832,38804,80636
+ Illiterate,29363,35544,64907
+ Total,71195,74348,145543
+NotApp :,26077,*,*
+AREA # 131102,Minekat,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2732,2038,4770
+ Illiterate,15887,16976,32863
+ Total,18619,19014,37633
+NotApp :,6895,*,*
+AREA # 131103,Mineyan,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,7840,4762,12602
+ Illiterate,14614,17949,32563
+ Total,22454,22711,45165
+NotApp :,7426,*,*
+AREA # 131104,Minelar,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,6372,4164,10536
+ Illiterate,5938,8487,14425
+ Total,12310,12651,24961
+NotApp :,18107,*,*
+AREA # 131151,Mine Pauk(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,6511,5318,11829
+ Illiterate,16914,17658,34572
+ Total,23425,22976,46401
+NotApp :,8653,*,*
+AREA # 131201,Minesat,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,14704,11979,26683
+ Illiterate,19868,21714,41582
+ Total,34572,33693,68265
+NotApp :,18288,*,*
+AREA # 131202,Minepyin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,8296,6939,15235
+ Illiterate,13633,16149,29782
+ Total,21929,23088,45017
+NotApp :,9132,*,*
+AREA # 131203,Minetung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,4599,3796,8395
+ Illiterate,4407,4641,9048
+ Total,9006,8437,17443
+NotApp :,4551,*,*
+AREA # 131251,Minekoke(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,1331,1253,2584
+ Illiterate,6149,5885,12034
+ Total,7480,7138,14618
+NotApp :,3478,*,*
+AREA # 131252,Tontar(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,1555,1318,2873
+ Illiterate,4421,4688,9109
+ Total,5976,6006,11982
+NotApp :,2702,*,*
+AREA # 131253,Ponparkyin(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,7530,5911,13441
+ Illiterate,9287,9847,19134
+ Total,16817,15758,32575
+NotApp :,11244,*,*
+AREA # 131254,Monehta(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,900,343,1243
+ Illiterate,1272,1129,2401
+ Total,2172,1472,3644
+NotApp :,632,*,*
+AREA # 131301,Tachileik,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,44054,41886,85940
+ Illiterate,17676,22601,40277
+ Total,61730,64487,126217
+NotApp :,21804,*,*
+AREA # 131351,Talay(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,4866,4214,9080
+ Illiterate,2905,3610,6515
+ Total,7771,7824,15595
+NotApp :,2653,*,*
+AREA # 131352,Kenglat(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,2646,1738,4384
+ Illiterate,2222,2959,5181
+ Total,4868,4697,9565
+NotApp :,1479,*,*
+AREA # 131401,Minephyat,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,6593,5385,11978
+ Illiterate,5602,6848,12450
+ Total,12195,12233,24428
+NotApp :,6128,*,*
+AREA # 131402,Mineyaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,7064,3859,10923
+ Illiterate,4507,8067,12574
+ Total,11571,11926,23497
+NotApp :,4062,*,*
+AREA # 131451,Mineyu(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,9875,5210,15085
+ Illiterate,13059,16632,29691
+ Total,22934,21842,44776
+NotApp :,7555,*,*
+AREA # 140101,Kangyidaunt,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,71438,74700,146138
+ Illiterate,5241,7749,12990
+ Total,76679,82449,159128
+NotApp :,18862,*,*
+AREA # 140102,Kyaungon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,64844,69531,134375
+ Illiterate,4787,7176,11963
+ Total,69631,76707,146338
+NotApp :,16697,*,*
+AREA # 140103,Kyonpyaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,93662,99868,193530
+ Illiterate,7233,10935,18168
+ Total,100895,110803,211698
+NotApp :,24029,*,*
+AREA # 140104,Ngaputaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,67424,67989,135413
+ Illiterate,6662,7713,14375
+ Total,74086,75702,149788
+NotApp :,18988,*,*
+AREA # 140105,Pathein,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,112015,125335,237350
+ Illiterate,5287,8707,13994
+ Total,117302,134042,251344
+NotApp :,35727,*,*
+AREA # 140106,Yekyi,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,42319,47070,89389
+ Illiterate,1948,3616,5564
+ Total,44267,50686,94953
+NotApp :,10117,*,*
+AREA # 140107,Thapaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,62597,64295,126892
+ Illiterate,4042,6380,10422
+ Total,66639,70675,137314
+NotApp :,17086,*,*
+AREA # 140151,Ngayokaung(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,17728,16723,34451
+ Illiterate,1017,1691,2708
+ Total,18745,18414,37159
+NotApp :,4035,*,*
+AREA # 140152,Hainggyikyun(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,48623,47856,96479
+ Illiterate,2337,3499,5836
+ Total,50960,51355,102315
+NotApp :,12194,*,*
+AREA # 140153,Shwethaungyan(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,17071,17404,34475
+ Illiterate,1339,1665,3004
+ Total,18410,19069,37479
+NotApp :,12059,*,*
+AREA # 140154,Ngwehsaung(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,15755,15595,31350
+ Illiterate,1736,2088,3824
+ Total,17491,17683,35174
+NotApp :,9202,*,*
+AREA # 140155,Ngathaingchaung(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,35781,38930,74711
+ Illiterate,1879,3492,5371
+ Total,37660,42422,80082
+NotApp :,8948,*,*
+AREA # 140201,Kyaiklatt,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,77611,81210,158821
+ Illiterate,3673,5659,9332
+ Total,81284,86869,168153
+NotApp :,25187,*,*
+AREA # 140202,Daydaye,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,82502,86249,168751
+ Illiterate,4315,6326,10641
+ Total,86817,92575,179392
+NotApp :,23534,*,*
+AREA # 140203,Phyapon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,74958,78863,153821
+ Illiterate,4579,7261,11840
+ Total,79537,86124,165661
+NotApp :,21682,*,*
+AREA # 140204,Bogale,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,126970,128247,255217
+ Illiterate,10390,16284,26674
+ Total,137360,144531,281891
+NotApp :,40774,*,*
+AREA # 140251,Ahmar(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,49074,48070,97144
+ Illiterate,4815,7189,12004
+ Total,53889,55259,109148
+NotApp :,17631,*,*
+AREA # 140301,Nyaungdon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,86101,90583,176684
+ Illiterate,5137,8601,13738
+ Total,91238,99184,190422
+NotApp :,25484,*,*
+AREA # 140302,Danubyu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,72405,80418,152823
+ Illiterate,3305,5416,8721
+ Total,75710,85834,161544
+NotApp :,17809,*,*
+AREA # 140303,Pantanaw,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,105157,111490,216647
+ Illiterate,7723,12059,19782
+ Total,112880,123549,236429
+NotApp :,28167,*,*
+AREA # 140304,Maubin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,125740,133633,259373
+ Illiterate,7154,11129,18283
+ Total,132894,144762,277656
+NotApp :,36437,*,*
+AREA # 140401,Myaungmya,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,116398,122051,238449
+ Illiterate,10755,14709,25464
+ Total,127153,136760,263913
+NotApp :,34724,*,*
+AREA # 140402,Wakema,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,113121,118243,231364
+ Illiterate,10141,15801,25942
+ Total,123262,134044,257306
+NotApp :,31800,*,*
+AREA # 140403,Einme,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,75822,79099,154921
+ Illiterate,7965,11126,19091
+ Total,83787,90225,174012
+NotApp :,20089,*,*
+AREA # 140501,Mawlamyinegyun,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,126257,127921,254178
+ Illiterate,7855,14046,21901
+ Total,134112,141967,276079
+NotApp :,35261,*,*
+AREA # 140502,Labutta,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,91053,88980,180033
+ Illiterate,8178,13123,21301
+ Total,99231,102103,201334
+NotApp :,28595,*,*
+AREA # 140551,Pyinsalu(ST),*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,33310,29676,62986
+ Illiterate,3339,4592,7931
+ Total,36649,34268,70917
+NotApp :,14372,*,*
+AREA # 140601,Kyangin,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,39719,44768,84487
+ Illiterate,1173,2162,3335
+ Total,40892,46930,87822
+NotApp :,8261,*,*
+AREA # 140602,Zalun,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,67248,75166,142414
+ Illiterate,2944,5738,8682
+ Total,70192,80904,151096
+NotApp :,17107,*,*
+AREA # 140603,Myanaung,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,87828,100136,187964
+ Illiterate,3463,7128,10591
+ Total,91291,107264,198555
+NotApp :,20026,*,*
+AREA # 140604,Laymyethna,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,41618,45046,86664
+ Illiterate,2071,3548,5619
+ Total,43689,48594,92283
+NotApp :,10741,*,*
+AREA # 140605,Hinthada,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,135235,152965,288200
+ Illiterate,5311,10535,15846
+ Total,140546,163500,304046
+NotApp :,34389,*,*
+AREA # 140606,Ingapu,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,87011,95943,182954
+ Illiterate,3286,6426,9712
+ Total,90297,102369,192666
+NotApp :,21718,*,*
+AREA # 150101,Tatkon,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,85380,91327,176707
+ Illiterate,3643,11716,15359
+ Total,89023,103043,192066
+NotApp :,25027,*,*
+AREA # 150102,Zeyarthiri,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,43430,45749,89179
+ Illiterate,1428,3108,4536
+ Total,44858,48857,93715
+NotApp :,17578,*,*
+AREA # 150103,Ottarathiri,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,31265,30051,61316
+ Illiterate,1753,4549,6302
+ Total,33018,34600,67618
+NotApp :,14002,*,*
+AREA # 150104,Pobbathiri,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,44604,46464,91068
+ Illiterate,1843,4953,6796
+ Total,46447,51417,97864
+NotApp :,18627,*,*
+AREA # 150201,Pyinmana,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,72370,79857,152227
+ Illiterate,3028,6243,9271
+ Total,75398,86100,161498
+NotApp :,26067,*,*
+AREA # 150202,Lewe,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,114064,119926,233990
+ Illiterate,4499,11536,16035
+ Total,118563,131462,250025
+NotApp :,34368,*,*
+AREA # 150203,Zabuthiri,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,37939,43077,81016
+ Illiterate,831,1577,2408
+ Total,38770,44654,83424
+NotApp :,27035,*,*
+AREA # 150204,Dekkhinathiri,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,11460,11599,23059
+ Illiterate,472,1223,1695
+ Total,11932,12822,24754
+NotApp :,26574,*,*
+SUMMARY,*,*,*
+Read and write,Sex,*,*
+*,Male,Female,Total
+ Literate,18512796,20150546,38663342
+ Illiterate,1809611,3044194,4853805
+ Total,20322407,23194740,43517147
+NotApp :,6762753,*,*

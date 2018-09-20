@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),49,26,75,Myohla(ST),MMR001011
+" Employee (Private, Org)",214,28,242,Myohla(ST),MMR001011
+ Employer,16,3,19,Myohla(ST),MMR001011
+ Own account worker,668,220,888,Myohla(ST),MMR001011
+ Contributing family worker,270,475,745,Myohla(ST),MMR001011
+ Sought work,18,15,33,Myohla(ST),MMR001011
+ Did not seek work,1,-,1,Myohla(ST),MMR001011
+ Full time student,269,307,576,Myohla(ST),MMR001011
+ Household work,2,332,334,Myohla(ST),MMR001011
+" Pensioner, retired, elderly person",47,100,147,Myohla(ST),MMR001011
+" Ill, disabled",14,6,20,Myohla(ST),MMR001011
+ Other,39,13,52,Myohla(ST),MMR001011
+ Total,1607,1525,3132,Myohla(ST),MMR001011

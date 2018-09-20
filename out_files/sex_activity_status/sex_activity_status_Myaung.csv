@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),896,1339,2235,Myaung,MMR005003
+" Employee (Private, Org)",7950,7395,15345,Myaung,MMR005003
+ Employer,1320,439,1759,Myaung,MMR005003
+ Own account worker,13604,7669,21273,Myaung,MMR005003
+ Contributing family worker,3951,7236,11187,Myaung,MMR005003
+ Sought work,1201,1063,2264,Myaung,MMR005003
+ Did not seek work,672,571,1243,Myaung,MMR005003
+ Full time student,5111,5738,10849,Myaung,MMR005003
+ Household work,732,14254,14986,Myaung,MMR005003
+" Pensioner, retired, elderly person",2418,3782,6200,Myaung,MMR005003
+" Ill, disabled",365,409,774,Myaung,MMR005003
+ Other,1259,949,2208,Myaung,MMR005003
+ Total,39479,50844,90323,Myaung,MMR005003

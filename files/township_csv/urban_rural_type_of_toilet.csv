@@ -1,0 +1,4524 @@
+Toilet,Urban_Rural_Urban,Urban_Rural_Rural,Urban_Rural_Total
+AREA # 010101,Myitkyina,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,442,75,517
+ Water seal (Improved pit latrine),35299,6411,41710
+ Pit (Traditional pit latrine),3772,4105,7877
+ Bucket (Surface latrine),71,71,142
+ Other,29,57,86
+ No toilet,55,196,251
+ Total,39668,10915,50583
+NotApp :,1258,*,*
+AREA # 010102,Waingmaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,51,100,151
+ Water seal (Improved pit latrine),3523,12949,16472
+ Pit (Traditional pit latrine),205,2002,2207
+ Bucket (Surface latrine),1,69,70
+ Other,24,366,390
+ No toilet,16,474,490
+ Total,3820,15960,19780
+NotApp :,241,*,*
+AREA # 010103,Ingyanyan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Water seal (Improved pit latrine),41,89,130
+ Pit (Traditional pit latrine),32,84,116
+ Bucket (Surface latrine),-,9,9
+ No toilet,5,25,30
+ Total,78,207,285
+NotApp :,35,*,*
+AREA # 010104,Tanaing,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,165,9,174
+ Water seal (Improved pit latrine),3413,2205,5618
+ Pit (Traditional pit latrine),94,425,519
+ Bucket (Surface latrine),1,29,30
+ Other,3,13,16
+ No toilet,18,23,41
+ Total,3694,2704,6398
+NotApp :,303,*,*
+AREA # 010105,Chiphwe,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5,6,11
+ Water seal (Improved pit latrine),292,650,942
+ Pit (Traditional pit latrine),13,359,372
+ Bucket (Surface latrine),1,299,300
+ Other,6,156,162
+ No toilet,12,132,144
+ Total,329,1602,1931
+NotApp :,11,*,*
+AREA # 010106,Hsotlaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,4,4
+ Water seal (Improved pit latrine),41,216,257
+ Pit (Traditional pit latrine),23,544,567
+ Bucket (Surface latrine),-,91,91
+ Other,1,63,64
+ No toilet,1,89,90
+ Total,66,1007,1073
+NotApp :,4,*,*
+AREA # 010151,Hsinbo(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,1,1
+ Water seal (Improved pit latrine),677,1064,1741
+ Pit (Traditional pit latrine),12,153,165
+ Bucket (Surface latrine),1,5,6
+ Other,3,10,13
+ No toilet,11,71,82
+ Total,704,1304,2008
+NotApp :,80,*,*
+AREA # 010152,Hsadone(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,7,2,9
+ Water seal (Improved pit latrine),478,765,1243
+ Pit (Traditional pit latrine),16,220,236
+ Bucket (Surface latrine),2,16,18
+ Other,2,3,5
+ No toilet,5,94,99
+ Total,510,1100,1610
+NotApp :,9,*,*
+AREA # 010153,Kanpaikti(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,1,2
+ Water seal (Improved pit latrine),163,489,652
+ Pit (Traditional pit latrine),8,500,508
+ Bucket (Surface latrine),-,48,48
+ Other,-,70,70
+ No toilet,2,188,190
+ Total,174,1296,1470
+NotApp :,20,*,*
+AREA # 010154,Shinbwayyan(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,19,4,23
+ Water seal (Improved pit latrine),898,773,1671
+ Pit (Traditional pit latrine),64,317,381
+ Bucket (Surface latrine),1,4,5
+ Other,9,1,10
+ No toilet,34,6,40
+ Total,1025,1105,2130
+NotApp :,15,*,*
+AREA # 010155,Panwa(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,9,4,13
+ Water seal (Improved pit latrine),141,271,412
+ Pit (Traditional pit latrine),27,495,522
+ Bucket (Surface latrine),2,194,196
+ Other,7,26,33
+ No toilet,10,189,199
+ Total,196,1179,1375
+NotApp :,41,*,*
+AREA # 010201,Mohnyin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,129,153,282
+ Water seal (Improved pit latrine),5865,22051,27916
+ Pit (Traditional pit latrine),335,1347,1682
+ Bucket (Surface latrine),2,19,21
+ Other,9,98,107
+ No toilet,13,169,182
+ Total,6353,23837,30190
+NotApp :,542,*,*
+AREA # 010202,Mogaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,22,81,103
+ Water seal (Improved pit latrine),3662,19151,22813
+ Pit (Traditional pit latrine),733,1078,1811
+ Bucket (Surface latrine),5,17,22
+ Other,8,33,41
+ No toilet,18,90,108
+ Total,4448,20450,24898
+NotApp :,208,*,*
+AREA # 010203,Phakant,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,18,617,635
+ Water seal (Improved pit latrine),6426,21514,27940
+ Pit (Traditional pit latrine),329,3527,3856
+ Bucket (Surface latrine),6,114,120
+ Other,11,85,96
+ No toilet,66,421,487
+ Total,6856,26278,33134
+NotApp :,1665,*,*
+AREA # 010251,Hopin(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,98,46,144
+ Water seal (Improved pit latrine),4282,4716,8998
+ Pit (Traditional pit latrine),140,98,238
+ Bucket (Surface latrine),4,2,6
+ Other,3,6,9
+ No toilet,14,23,37
+ Total,4541,4891,9432
+NotApp :,114,*,*
+AREA # 010252,Kamine(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,7,7
+ Water seal (Improved pit latrine),918,2157,3075
+ Pit (Traditional pit latrine),90,235,325
+ Bucket (Surface latrine),2,9,11
+ Other,-,35,35
+ No toilet,20,25,45
+ Total,1030,2468,3498
+NotApp :,131,*,*
+AREA # 010301,Bhamo,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,166,114,280
+ Water seal (Improved pit latrine),8666,12869,21535
+ Pit (Traditional pit latrine),637,1032,1669
+ Bucket (Surface latrine),5,20,25
+ Other,3,110,113
+ No toilet,38,501,539
+ Total,9515,14646,24161
+NotApp :,571,*,*
+AREA # 010302,Shwegu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,28,28,56
+ Water seal (Improved pit latrine),3277,9173,12450
+ Pit (Traditional pit latrine),13,2031,2044
+ Bucket (Surface latrine),1,132,133
+ Other,5,64,69
+ No toilet,78,998,1076
+ Total,3402,12426,15828
+NotApp :,336,*,*
+AREA # 010303,Momauk,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,12,18,30
+ Water seal (Improved pit latrine),1918,5733,7651
+ Pit (Traditional pit latrine),142,267,409
+ Bucket (Surface latrine),1,18,19
+ Other,6,49,55
+ No toilet,11,459,470
+ Total,2090,6544,8634
+NotApp :,144,*,*
+AREA # 010304,Mansi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,19,78,97
+ Water seal (Improved pit latrine),1534,7963,9497
+ Pit (Traditional pit latrine),42,532,574
+ Bucket (Surface latrine),1,28,29
+ Other,1,71,72
+ No toilet,21,264,285
+ Total,1618,8936,10554
+NotApp :,82,*,*
+AREA # 010351,Myohla(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,-,1
+ Water seal (Improved pit latrine),280,385,665
+ Pit (Traditional pit latrine),5,17,22
+ No toilet,75,30,105
+ Total,361,432,793
+NotApp :,11,*,*
+AREA # 010352,Lwe`ge`(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3,-,3
+ Water seal (Improved pit latrine),1158,261,1419
+ Pit (Traditional pit latrine),51,4,55
+ Bucket (Surface latrine),4,5,9
+ Other,5,3,8
+ No toilet,4,5,9
+ Total,1225,278,1503
+NotApp :,24,*,*
+AREA # 010353,Dotphoneyan(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,23,23
+ Water seal (Improved pit latrine),261,1295,1556
+ Pit (Traditional pit latrine),42,207,249
+ Bucket (Surface latrine),1,8,9
+ Other,2,19,21
+ No toilet,5,370,375
+ Total,311,1922,2233
+NotApp :,65,*,*
+AREA # 010401,Putao,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,4,86,90
+ Water seal (Improved pit latrine),2725,6264,8989
+ Pit (Traditional pit latrine),67,1436,1503
+ Bucket (Surface latrine),2,64,66
+ Other,7,51,58
+ No toilet,6,31,37
+ Total,2811,7932,10743
+NotApp :,94,*,*
+AREA # 010402,Sumprabum,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,2,2
+ Water seal (Improved pit latrine),130,112,242
+ Pit (Traditional pit latrine),33,108,141
+ Bucket (Surface latrine),1,17,18
+ Other,6,57,63
+ No toilet,2,11,13
+ Total,172,307,479
+NotApp :,18,*,*
+AREA # 010403,Machanbaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2,67,69
+ Water seal (Improved pit latrine),334,949,1283
+ Pit (Traditional pit latrine),63,280,343
+ Bucket (Surface latrine),2,5,7
+ No toilet,7,10,17
+ Total,408,1311,1719
+NotApp :,31,*,*
+AREA # 010404,Khaunglanphoo,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,13,13
+ Water seal (Improved pit latrine),5,74,79
+ Pit (Traditional pit latrine),64,1507,1571
+ Bucket (Surface latrine),1,41,42
+ Other,-,6,6
+ Total,70,1641,1711
+NotApp :,2,*,*
+AREA # 010405,Naungmoon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Water seal (Improved pit latrine),219,276,495
+ Pit (Traditional pit latrine),139,301,440
+ Bucket (Surface latrine),2,5,7
+ No toilet,-,1,1
+ Total,360,583,943
+NotApp :,4,*,*
+AREA # 010451,Pannandin(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Water seal (Improved pit latrine),11,74,85
+ Pit (Traditional pit latrine),13,166,179
+ Bucket (Surface latrine),-,4,4
+ No toilet,-,1,1
+ Total,24,245,269
+NotApp :,1,*,*
+AREA # 020101,Loikaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,279,144,423
+ Water seal (Improved pit latrine),9673,15108,24781
+ Pit (Traditional pit latrine),401,247,648
+ Bucket (Surface latrine),3,19,22
+ Other,9,32,41
+ No toilet,57,523,580
+ Total,10422,16073,26495
+NotApp :,304,*,*
+AREA # 020102,Dimawso,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5,47,52
+ Water seal (Improved pit latrine),1065,13018,14083
+ Pit (Traditional pit latrine),20,330,350
+ Bucket (Surface latrine),1,37,38
+ Other,2,30,32
+ No toilet,44,748,792
+ Total,1137,14210,15347
+NotApp :,105,*,*
+AREA # 020103,Phruso,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,6,7
+ Water seal (Improved pit latrine),814,3329,4143
+ Pit (Traditional pit latrine),21,292,313
+ Bucket (Surface latrine),-,95,95
+ Other,-,78,78
+ No toilet,17,1257,1274
+ Total,853,5057,5910
+NotApp :,78,*,*
+AREA # 020104,Shardaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,-,1
+ Water seal (Improved pit latrine),261,575,836
+ Pit (Traditional pit latrine),41,299,340
+ Bucket (Surface latrine),1,17,18
+ Other,11,25,36
+ No toilet,21,154,175
+ Total,336,1070,1406
+NotApp :,28,*,*
+AREA # 020201,Bawlakhe,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5,-,5
+ Water seal (Improved pit latrine),791,689,1480
+ Pit (Traditional pit latrine),29,17,46
+ Bucket (Surface latrine),1,1,2
+ Other,1,-,1
+ No toilet,12,43,55
+ Total,839,750,1589
+NotApp :,81,*,*
+AREA # 020202,Parsaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,39,40
+ Water seal (Improved pit latrine),581,2851,3432
+ Pit (Traditional pit latrine),4,79,83
+ Bucket (Surface latrine),3,318,321
+ Other,-,14,14
+ No toilet,5,838,843
+ Total,594,4139,4733
+NotApp :,302,*,*
+AREA # 020203,Meisi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,13,13
+ Water seal (Improved pit latrine),182,883,1065
+ Pit (Traditional pit latrine),3,69,72
+ Bucket (Surface latrine),-,2,2
+ Other,-,1,1
+ No toilet,10,139,149
+ Total,195,1107,1302
+NotApp :,55,*,*
+AREA # 020251,Ywathit(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,1,1
+ Water seal (Improved pit latrine),223,152,375
+ Pit (Traditional pit latrine),61,22,83
+ Bucket (Surface latrine),1,1,2
+ Other,1,9,10
+ No toilet,6,15,21
+ Total,292,200,492
+NotApp :,30,*,*
+AREA # 030101,Hpa-an,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,256,1500,1756
+ Water seal (Improved pit latrine),13610,51199,64809
+ Pit (Traditional pit latrine),533,3281,3814
+ Bucket (Surface latrine),12,410,422
+ Other,16,779,795
+ No toilet,341,17260,17601
+ Total,14768,74429,89197
+NotApp :,1176,*,*
+AREA # 030102,Hlaingbwe,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,12,327,339
+ Water seal (Improved pit latrine),2164,19807,21971
+ Pit (Traditional pit latrine),21,1270,1291
+ Bucket (Surface latrine),1,81,82
+ Other,2,136,138
+ No toilet,79,7686,7765
+ Total,2279,29307,31586
+NotApp :,379,*,*
+AREA # 030103,Thandaunggyi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,33,8,41
+ Water seal (Improved pit latrine),2598,2118,4716
+ Pit (Traditional pit latrine),230,99,329
+ Bucket (Surface latrine),25,29,54
+ Other,5,12,17
+ No toilet,171,481,652
+ Total,3062,2747,5809
+NotApp :,36,*,*
+AREA # 030151,Paingkyon(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,275,275
+ Water seal (Improved pit latrine),671,6447,7118
+ Pit (Traditional pit latrine),2,591,593
+ Bucket (Surface latrine),-,111,111
+ Other,3,34,37
+ No toilet,131,9513,9644
+ Total,807,16971,17778
+NotApp :,210,*,*
+AREA # 030152,Shan Ywathit(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,5,5
+ Water seal (Improved pit latrine),23,633,656
+ Pit (Traditional pit latrine),-,5,5
+ Bucket (Surface latrine),-,4,4
+ Other,-,17,17
+ No toilet,60,3009,3069
+ Total,83,3673,3756
+NotApp :,29,*,*
+AREA # 030153,Leiktho(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5,8,13
+ Water seal (Improved pit latrine),563,5097,5660
+ Pit (Traditional pit latrine),19,1548,1567
+ Bucket (Surface latrine),2,440,442
+ Other,1,101,102
+ No toilet,17,2125,2142
+ Total,607,9319,9926
+NotApp :,73,*,*
+AREA # 030154,Bawgali(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,8,1,9
+ Water seal (Improved pit latrine),404,1562,1966
+ Pit (Traditional pit latrine),18,304,322
+ Bucket (Surface latrine),3,326,329
+ Other,1,17,18
+ No toilet,2,759,761
+ Total,436,2969,3405
+NotApp :,7,*,*
+AREA # 030201,Pharpon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,17,18
+ Water seal (Improved pit latrine),544,1490,2034
+ Pit (Traditional pit latrine),27,120,147
+ Bucket (Surface latrine),19,31,50
+ Other,2,8,10
+ No toilet,40,245,285
+ Total,633,1911,2544
+NotApp :,108,*,*
+AREA # 030251,Kamamaung(ST},*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3,-,3
+ Water seal (Improved pit latrine),2261,592,2853
+ Pit (Traditional pit latrine),181,53,234
+ Bucket (Surface latrine),5,27,32
+ Other,3,6,9
+ No toilet,296,531,827
+ Total,2749,1209,3958
+NotApp :,52,*,*
+AREA # 030301,Myawady,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,208,365,573
+ Water seal (Improved pit latrine),23385,11902,35287
+ Pit (Traditional pit latrine),125,280,405
+ Bucket (Surface latrine),6,220,226
+ Other,25,255,280
+ No toilet,267,4220,4487
+ Total,24016,17242,41258
+NotApp :,937,*,*
+AREA # 030351,Sugali(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2,5,7
+ Water seal (Improved pit latrine),42,415,457
+ Pit (Traditional pit latrine),-,138,138
+ Bucket (Surface latrine),-,10,10
+ Other,-,4,4
+ No toilet,31,414,445
+ Total,75,986,1061
+NotApp :,24,*,*
+AREA # 030352,Wawlaymyaing(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,4,5
+ Water seal (Improved pit latrine),501,460,961
+ Pit (Traditional pit latrine),9,243,252
+ Bucket (Surface latrine),8,51,59
+ Other,1,8,9
+ No toilet,57,354,411
+ Total,577,1120,1697
+NotApp :,44,*,*
+AREA # 030401,Kawkareik,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,92,696,788
+ Water seal (Improved pit latrine),7927,23380,31307
+ Pit (Traditional pit latrine),72,1198,1270
+ Bucket (Surface latrine),23,364,387
+ Other,9,348,357
+ No toilet,359,11030,11389
+ Total,8482,37016,45498
+NotApp :,393,*,*
+AREA # 030402,Kyarinseikkyi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5,141,146
+ Water seal (Improved pit latrine),1687,11697,13384
+ Pit (Traditional pit latrine),21,2519,2540
+ Bucket (Surface latrine),4,251,255
+ Other,8,340,348
+ No toilet,92,5275,5367
+ Total,1817,20223,22040
+NotApp :,270,*,*
+AREA # 030451,Payarthonezu(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,89,89,178
+ Water seal (Improved pit latrine),5775,5738,11513
+ Pit (Traditional pit latrine),32,1173,1205
+ Bucket (Surface latrine),28,359,387
+ Other,5,147,152
+ No toilet,167,4193,4360
+ Total,6096,11699,17795
+NotApp :,271,*,*
+AREA # 030452,Kyaidon(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,32,32
+ Water seal (Improved pit latrine),614,2787,3401
+ Pit (Traditional pit latrine),7,816,823
+ Bucket (Surface latrine),3,201,204
+ Other,-,113,113
+ No toilet,56,6104,6160
+ Total,680,10053,10733
+NotApp :,114,*,*
+AREA # 040101,HaKa,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,35,3,38
+ Water seal (Improved pit latrine),5141,4479,9620
+ Pit (Traditional pit latrine),22,162,184
+ Bucket (Surface latrine),4,7,11
+ Other,11,20,31
+ No toilet,8,25,33
+ Total,5221,4696,9917
+NotApp :,107,*,*
+AREA # 040102,Thantlang,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,21,23,44
+ Water seal (Improved pit latrine),1476,7188,8664
+ Pit (Traditional pit latrine),5,335,340
+ Bucket (Surface latrine),4,20,24
+ Other,-,11,11
+ No toilet,1,698,699
+ Total,1507,8275,9782
+NotApp :,38,*,*
+AREA # 040201,Falam,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,15,31,46
+ Water seal (Improved pit latrine),1975,6007,7982
+ Pit (Traditional pit latrine),8,126,134
+ Bucket (Surface latrine),-,30,30
+ Other,2,20,22
+ No toilet,2,212,214
+ Total,2002,6426,8428
+NotApp :,60,*,*
+AREA # 040202,Tedim,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,15,70,85
+ Water seal (Improved pit latrine),2213,11430,13643
+ Pit (Traditional pit latrine),13,581,594
+ Bucket (Surface latrine),1,45,46
+ Other,1,25,26
+ No toilet,7,282,289
+ Total,2250,12433,14683
+NotApp :,65,*,*
+AREA # 040203,Tonzaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2,71,73
+ Water seal (Improved pit latrine),631,2096,2727
+ Pit (Traditional pit latrine),-,118,118
+ Bucket (Surface latrine),-,52,52
+ Other,1,9,10
+ No toilet,6,425,431
+ Total,640,2771,3411
+NotApp :,37,*,*
+AREA # 040251,Rihkhuadal(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3,-,3
+ Water seal (Improved pit latrine),664,466,1130
+ Pit (Traditional pit latrine),1,39,40
+ Other,-,2,2
+ No toilet,2,21,23
+ Total,670,528,1198
+NotApp :,12,*,*
+AREA # 040252,Cikha(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,13,23,36
+ Water seal (Improved pit latrine),196,1037,1233
+ Pit (Traditional pit latrine),2,79,81
+ Bucket (Surface latrine),-,12,12
+ Other,-,7,7
+ No toilet,4,157,161
+ Total,215,1315,1530
+NotApp :,6,*,*
+AREA # 040301,Mindat,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2,46,48
+ Water seal (Improved pit latrine),2043,5147,7190
+ Pit (Traditional pit latrine),218,701,919
+ Bucket (Surface latrine),9,15,24
+ Other,48,47,95
+ No toilet,23,223,246
+ Total,2343,6179,8522
+NotApp :,95,*,*
+AREA # 040302,Matupi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,50,25,75
+ Water seal (Improved pit latrine),1600,4333,5933
+ Pit (Traditional pit latrine),16,1103,1119
+ Bucket (Surface latrine),2,51,53
+ Other,1,68,69
+ No toilet,1,386,387
+ Total,1670,5966,7636
+NotApp :,43,*,*
+AREA # 040303,Kanpalet,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,4,1,5
+ Water seal (Improved pit latrine),677,1465,2142
+ Pit (Traditional pit latrine),102,771,873
+ Bucket (Surface latrine),-,68,68
+ Other,1,99,100
+ No toilet,23,766,789
+ Total,807,3170,3977
+NotApp :,66,*,*
+AREA # 040304,Paletwat,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,6,31,37
+ Water seal (Improved pit latrine),999,2689,3688
+ Pit (Traditional pit latrine),144,1682,1826
+ Bucket (Surface latrine),6,504,510
+ Other,4,74,78
+ No toilet,191,6963,7154
+ Total,1350,11943,13293
+NotApp :,86,*,*
+AREA # 040351,Reazu(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,2,2
+ Water seal (Improved pit latrine),429,2038,2467
+ Pit (Traditional pit latrine),25,5,30
+ Bucket (Surface latrine),1,1,2
+ Other,-,5,5
+ No toilet,7,8,15
+ Total,462,2059,2521
+NotApp :,14,*,*
+AREA # 040352,Sami(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,7,5,12
+ Water seal (Improved pit latrine),174,829,1003
+ Pit (Traditional pit latrine),121,847,968
+ Bucket (Surface latrine),5,212,217
+ Other,-,57,57
+ No toilet,326,3640,3966
+ Total,633,5590,6223
+NotApp :,100,*,*
+AREA # 050101,Sagaing,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,668,816,1484
+ Water seal (Improved pit latrine),14648,36677,51325
+ Pit (Traditional pit latrine),419,1476,1895
+ Bucket (Surface latrine),17,73,90
+ Other,37,190,227
+ No toilet,707,9415,10122
+ Total,16496,48647,65143
+NotApp :,1842,*,*
+AREA # 050102,Myinmu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,49,813,862
+ Water seal (Improved pit latrine),3035,12952,15987
+ Pit (Traditional pit latrine),304,749,1053
+ Bucket (Surface latrine),24,58,82
+ Other,31,85,116
+ No toilet,188,7016,7204
+ Total,3631,21673,25304
+NotApp :,264,*,*
+AREA # 050103,Myaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,31,453,484
+ Water seal (Improved pit latrine),1615,12375,13990
+ Pit (Traditional pit latrine),100,1428,1528
+ Bucket (Surface latrine),9,158,167
+ Other,5,57,62
+ No toilet,193,7838,8031
+ Total,1953,22309,24262
+NotApp :,350,*,*
+AREA # 050201,Shwebo,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,137,501,638
+ Water seal (Improved pit latrine),12726,27238,39964
+ Pit (Traditional pit latrine),192,474,666
+ Bucket (Surface latrine),13,69,82
+ Other,22,150,172
+ No toilet,441,8284,8725
+ Total,13531,36716,50247
+NotApp :,467,*,*
+AREA # 050202,Khin U,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,40,413,453
+ Water seal (Improved pit latrine),2118,17318,19436
+ Pit (Traditional pit latrine),1,4661,4662
+ Bucket (Surface latrine),1,67,68
+ Other,3,38,41
+ No toilet,128,7836,7964
+ Total,2291,30333,32624
+NotApp :,271,*,*
+AREA # 050203,Wetlet,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,55,552,607
+ Water seal (Improved pit latrine),2133,25617,27750
+ Pit (Traditional pit latrine),13,2789,2802
+ Bucket (Surface latrine),-,46,46
+ Other,2,131,133
+ No toilet,103,15271,15374
+ Total,2306,44406,46712
+NotApp :,437,*,*
+AREA # 050204,Kambalu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,84,703,787
+ Water seal (Improved pit latrine),4481,34588,39069
+ Pit (Traditional pit latrine),375,12437,12812
+ Bucket (Surface latrine),1,261,262
+ Other,5,775,780
+ No toilet,237,7379,7616
+ Total,5183,56143,61326
+NotApp :,537,*,*
+AREA # 050205,Kyunhlau,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,30,23,53
+ Water seal (Improved pit latrine),2439,16527,18966
+ Pit (Traditional pit latrine),7,350,357
+ Bucket (Surface latrine),2,38,40
+ Other,-,141,141
+ No toilet,21,1285,1306
+ Total,2499,18364,20863
+NotApp :,224,*,*
+AREA # 050206,Ye U,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,62,160,222
+ Water seal (Improved pit latrine),3556,17662,21218
+ Pit (Traditional pit latrine),110,1016,1126
+ Bucket (Surface latrine),4,49,53
+ Other,3,101,104
+ No toilet,230,3420,3650
+ Total,3965,22408,26373
+NotApp :,308,*,*
+AREA # 050207,Depayin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,116,197,313
+ Water seal (Improved pit latrine),793,18205,18998
+ Pit (Traditional pit latrine),15,803,818
+ Bucket (Surface latrine),-,92,92
+ Other,1,53,54
+ No toilet,30,10040,10070
+ Total,955,29390,30345
+NotApp :,367,*,*
+AREA # 050208,Tasei,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,106,314,420
+ Water seal (Improved pit latrine),2701,26224,28925
+ Pit (Traditional pit latrine),111,2098,2209
+ Bucket (Surface latrine),-,36,36
+ Other,-,62,62
+ No toilet,54,4231,4285
+ Total,2972,32965,35937
+NotApp :,328,*,*
+AREA # 050251,Kyaukmyaung(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,28,112,140
+ Water seal (Improved pit latrine),1727,2228,3955
+ Pit (Traditional pit latrine),17,187,204
+ Bucket (Surface latrine),2,90,92
+ Other,2,-,2
+ No toilet,530,2127,2657
+ Total,2306,4744,7050
+NotApp :,65,*,*
+AREA # 050301,Monywa,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1310,338,1648
+ Water seal (Improved pit latrine),35920,25392,61312
+ Pit (Traditional pit latrine),1764,1038,2802
+ Bucket (Surface latrine),36,28,64
+ Other,49,72,121
+ No toilet,1327,8688,10015
+ Total,40406,35556,75962
+NotApp :,1167,*,*
+AREA # 050302,Butalin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,14,280,294
+ Water seal (Improved pit latrine),1111,18125,19236
+ Pit (Traditional pit latrine),2,372,374
+ Bucket (Surface latrine),1,55,56
+ Other,19,22,41
+ No toilet,46,8569,8615
+ Total,1193,27423,28616
+NotApp :,389,*,*
+AREA # 050303,Ayartaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,16,237,253
+ Water seal (Improved pit latrine),1986,21895,23881
+ Pit (Traditional pit latrine),31,2005,2036
+ Bucket (Surface latrine),5,172,177
+ Other,1,202,203
+ No toilet,116,8925,9041
+ Total,2155,33436,35591
+NotApp :,378,*,*
+AREA # 050304,Chaung Oo,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,93,432,525
+ Water seal (Improved pit latrine),4229,13551,17780
+ Pit (Traditional pit latrine),27,196,223
+ Bucket (Surface latrine),8,22,30
+ Other,6,31,37
+ No toilet,718,4063,4781
+ Total,5081,18295,23376
+NotApp :,254,*,*
+AREA # 050401,Katha,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,177,78,255
+ Water seal (Improved pit latrine),4811,18489,23300
+ Pit (Traditional pit latrine),159,4261,4420
+ Bucket (Surface latrine),7,164,171
+ Other,6,207,213
+ No toilet,103,3499,3602
+ Total,5263,26698,31961
+NotApp :,447,*,*
+AREA # 050402,Indaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,26,39,65
+ Water seal (Improved pit latrine),729,6616,7345
+ Pit (Traditional pit latrine),1077,14121,15198
+ Bucket (Surface latrine),4,109,113
+ Other,1,201,202
+ No toilet,5,302,307
+ Total,1842,21388,23230
+NotApp :,320,*,*
+AREA # 050403,Tigyaing,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,24,296,320
+ Water seal (Improved pit latrine),2698,17536,20234
+ Pit (Traditional pit latrine),106,1509,1615
+ Bucket (Surface latrine),3,87,90
+ Other,3,66,69
+ No toilet,236,3825,4061
+ Total,3070,23319,26389
+NotApp :,279,*,*
+AREA # 050404,Banmauk,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,51,42,93
+ Water seal (Improved pit latrine),1148,11910,13058
+ Pit (Traditional pit latrine),10,4879,4889
+ Bucket (Surface latrine),1,100,101
+ Other,-,201,201
+ No toilet,2,524,526
+ Total,1212,17656,18868
+NotApp :,678,*,*
+AREA # 050405,Kawlin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,109,276,385
+ Water seal (Improved pit latrine),4086,20195,24281
+ Pit (Traditional pit latrine),362,4654,5016
+ Bucket (Surface latrine),1,58,59
+ Other,-,30,30
+ No toilet,11,1621,1632
+ Total,4569,26834,31403
+NotApp :,408,*,*
+AREA # 050406,Wuntho,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,30,44,74
+ Water seal (Improved pit latrine),2493,9360,11853
+ Pit (Traditional pit latrine),49,1783,1832
+ Bucket (Surface latrine),-,12,12
+ Other,2,25,27
+ No toilet,16,391,407
+ Total,2590,11615,14205
+NotApp :,321,*,*
+AREA # 050407,Pinlebu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,19,1,20
+ Water seal (Improved pit latrine),329,824,1153
+ Pit (Traditional pit latrine),1104,18398,19502
+ Bucket (Surface latrine),6,183,189
+ Other,6,352,358
+ No toilet,5,673,678
+ Total,1469,20431,21900
+NotApp :,382,*,*
+AREA # 050501,Kalay,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,445,300,745
+ Water seal (Improved pit latrine),21741,36541,58282
+ Pit (Traditional pit latrine),3356,8438,11794
+ Bucket (Surface latrine),23,148,171
+ Other,53,299,352
+ No toilet,103,1322,1425
+ Total,25721,47048,72769
+NotApp :,551,*,*
+AREA # 050502,Kalewa,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,11,23,34
+ Water seal (Improved pit latrine),1790,8269,10059
+ Pit (Traditional pit latrine),21,362,383
+ Bucket (Surface latrine),11,27,38
+ Other,16,29,45
+ No toilet,104,1072,1176
+ Total,1953,9782,11735
+NotApp :,183,*,*
+AREA # 050503,Mingin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,11,74,85
+ Water seal (Improved pit latrine),765,15151,15916
+ Pit (Traditional pit latrine),6,563,569
+ Bucket (Surface latrine),1,86,87
+ Other,-,90,90
+ No toilet,53,5258,5311
+ Total,836,21222,22058
+NotApp :,359,*,*
+AREA # 050601,Tamu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,164,2,166
+ Water seal (Improved pit latrine),8673,2694,11367
+ Pit (Traditional pit latrine),72,223,295
+ Bucket (Surface latrine),1,8,9
+ Other,18,11,29
+ No toilet,61,59,120
+ Total,8989,2997,11986
+NotApp :,97,*,*
+AREA # 050651,Myothit(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,2,2
+ Water seal (Improved pit latrine),296,2610,2906
+ Pit (Traditional pit latrine),8,77,85
+ Bucket (Surface latrine),-,16,16
+ Other,-,10,10
+ No toilet,4,74,78
+ Total,308,2789,3097
+NotApp :,38,*,*
+AREA # 050652,Khampat(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,55,-,55
+ Water seal (Improved pit latrine),2622,4234,6856
+ Pit (Traditional pit latrine),75,238,313
+ Bucket (Surface latrine),1,5,6
+ Other,4,22,26
+ No toilet,81,171,252
+ Total,2838,4670,7508
+NotApp :,25,*,*
+AREA # 050701,Mawlaik,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,10,36,46
+ Water seal (Improved pit latrine),1718,7582,9300
+ Pit (Traditional pit latrine),44,306,350
+ Bucket (Surface latrine),1,79,80
+ Other,-,14,14
+ No toilet,51,504,555
+ Total,1824,8521,10345
+NotApp :,173,*,*
+AREA # 050702,Phaungpyin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3,126,129
+ Water seal (Improved pit latrine),1765,13607,15372
+ Pit (Traditional pit latrine),161,3907,4068
+ Bucket (Surface latrine),3,136,139
+ Other,6,62,68
+ No toilet,4,466,470
+ Total,1942,18304,20246
+NotApp :,277,*,*
+AREA # 050801,Hkamti,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,42,163,205
+ Water seal (Improved pit latrine),1999,3047,5046
+ Pit (Traditional pit latrine),90,866,956
+ Bucket (Surface latrine),7,149,156
+ Other,4,166,170
+ No toilet,41,787,828
+ Total,2183,5178,7361
+NotApp :,521,*,*
+AREA # 050802,Homalin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,56,378,434
+ Water seal (Improved pit latrine),3437,23058,26495
+ Pit (Traditional pit latrine),39,6791,6830
+ Bucket (Surface latrine),7,294,301
+ Other,11,344,355
+ No toilet,25,1303,1328
+ Total,3575,32168,35743
+NotApp :,1266,*,*
+AREA # 050803,Leshi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,4,4
+ Water seal (Improved pit latrine),205,689,894
+ Pit (Traditional pit latrine),36,501,537
+ Bucket (Surface latrine),4,53,57
+ Other,3,17,20
+ No toilet,5,139,144
+ Total,253,1403,1656
+NotApp :,53,*,*
+AREA # 050804,Lahe,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,80,81
+ Water seal (Improved pit latrine),465,542,1007
+ Pit (Traditional pit latrine),64,1603,1667
+ Bucket (Surface latrine),2,1622,1624
+ Other,1,425,426
+ No toilet,5,2167,2172
+ Total,538,6439,6977
+NotApp :,37,*,*
+AREA # 050805,Nanyun,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2,1,3
+ Water seal (Improved pit latrine),348,374,722
+ Pit (Traditional pit latrine),25,718,743
+ Bucket (Surface latrine),-,62,62
+ Other,-,7,7
+ No toilet,-,31,31
+ Total,375,1193,1568
+NotApp :,17,*,*
+AREA # 050851,Mobaingluk(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Water seal (Improved pit latrine),194,78,272
+ Pit (Traditional pit latrine),6,-,6
+ Bucket (Surface latrine),-,1,1
+ Other,10,1,11
+ No toilet,-,20,20
+ Total,210,100,310
+NotApp :,2,*,*
+AREA # 050852,Sonemara(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,26,2,28
+ Water seal (Improved pit latrine),166,594,760
+ Pit (Traditional pit latrine),75,140,215
+ Bucket (Surface latrine),1,82,83
+ Other,-,3,3
+ No toilet,18,87,105
+ Total,286,908,1194
+NotApp :,10,*,*
+AREA # 050853,Htanparkway(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Water seal (Improved pit latrine),36,231,267
+ Pit (Traditional pit latrine),3,80,83
+ Bucket (Surface latrine),1,2,3
+ No toilet,88,320,408
+ Total,128,633,761
+NotApp :,9,*,*
+AREA # 050854,Pansaung(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,20,20
+ Water seal (Improved pit latrine),251,496,747
+ Pit (Traditional pit latrine),51,1205,1256
+ Bucket (Surface latrine),17,229,246
+ Other,16,42,58
+ No toilet,3,19,22
+ Total,338,2011,2349
+NotApp :,5,*,*
+AREA # 050855,Donhee(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,2,2
+ Water seal (Improved pit latrine),83,169,252
+ Pit (Traditional pit latrine),86,1396,1482
+ Bucket (Surface latrine),-,1013,1013
+ Other,-,194,194
+ No toilet,-,980,980
+ Total,169,3754,3923
+NotApp :,10,*,*
+AREA # 050901,Yinmarpin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,20,84,104
+ Water seal (Improved pit latrine),1027,20010,21037
+ Pit (Traditional pit latrine),8,369,377
+ Bucket (Surface latrine),1,29,30
+ Other,3,177,180
+ No toilet,18,7786,7804
+ Total,1077,28455,29532
+NotApp :,265,*,*
+AREA # 050902,Salingyi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,14,459,473
+ Water seal (Improved pit latrine),1091,17515,18606
+ Pit (Traditional pit latrine),3,213,216
+ Bucket (Surface latrine),2,19,21
+ Other,24,142,166
+ No toilet,88,6897,6985
+ Total,1222,25245,26467
+NotApp :,384,*,*
+AREA # 050903,Palae,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,7,72,79
+ Water seal (Improved pit latrine),868,19812,20680
+ Pit (Traditional pit latrine),4,715,719
+ Bucket (Surface latrine),1,82,83
+ Other,-,153,153
+ No toilet,51,10597,10648
+ Total,931,31431,32362
+NotApp :,338,*,*
+AREA # 050904,Kani,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2,253,255
+ Water seal (Improved pit latrine),1053,20695,21748
+ Pit (Traditional pit latrine),25,891,916
+ Bucket (Surface latrine),1,142,143
+ Other,1,100,101
+ No toilet,56,6004,6060
+ Total,1138,28085,29223
+NotApp :,351,*,*
+AREA # 060101,Dawei,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,933,161,1094
+ Water seal (Improved pit latrine),14043,6713,20756
+ Pit (Traditional pit latrine),114,1401,1515
+ Bucket (Surface latrine),51,144,195
+ Other,61,55,116
+ No toilet,180,1087,1267
+ Total,15382,9561,24943
+NotApp :,551,*,*
+AREA # 060102,Lounglon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,20,293,313
+ Water seal (Improved pit latrine),1077,15591,16668
+ Pit (Traditional pit latrine),75,2092,2167
+ Bucket (Surface latrine),15,781,796
+ Other,-,71,71
+ No toilet,53,5667,5720
+ Total,1240,24495,25735
+NotApp :,291,*,*
+AREA # 060103,Thayetchaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,107,147,254
+ Water seal (Improved pit latrine),2169,15474,17643
+ Pit (Traditional pit latrine),42,1498,1540
+ Bucket (Surface latrine),34,382,416
+ Other,-,132,132
+ No toilet,55,2834,2889
+ Total,2407,20467,22874
+NotApp :,255,*,*
+AREA # 060104,Yebyu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,20,197,217
+ Water seal (Improved pit latrine),937,13521,14458
+ Pit (Traditional pit latrine),94,2213,2307
+ Bucket (Surface latrine),2,228,230
+ Other,6,117,123
+ No toilet,18,4720,4738
+ Total,1077,20996,22073
+NotApp :,316,*,*
+AREA # 060151,Myitta(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5,28,33
+ Water seal (Improved pit latrine),403,2264,2667
+ Pit (Traditional pit latrine),37,654,691
+ Bucket (Surface latrine),10,27,37
+ Other,2,27,29
+ No toilet,39,694,733
+ Total,496,3694,4190
+NotApp :,72,*,*
+AREA # 060152,Kaleinaung(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,17,17,34
+ Water seal (Improved pit latrine),533,2608,3141
+ Pit (Traditional pit latrine),10,363,373
+ Bucket (Surface latrine),2,13,15
+ Other,2,27,29
+ No toilet,60,625,685
+ Total,624,3653,4277
+NotApp :,141,*,*
+AREA # 060201,Myeik,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,309,253,562
+ Water seal (Improved pit latrine),19401,25004,44405
+ Pit (Traditional pit latrine),599,1733,2332
+ Bucket (Surface latrine),1129,2043,3172
+ Other,33,241,274
+ No toilet,77,3527,3604
+ Total,21548,32801,54349
+NotApp :,763,*,*
+AREA # 060202,Kyunsu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,6,108,114
+ Water seal (Improved pit latrine),920,8368,9288
+ Pit (Traditional pit latrine),35,2183,2218
+ Bucket (Surface latrine),139,10176,10315
+ Other,11,859,870
+ No toilet,31,10152,10183
+ Total,1142,31846,32988
+NotApp :,330,*,*
+AREA # 060203,Palaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,70,172,242
+ Water seal (Improved pit latrine),2898,7192,10090
+ Pit (Traditional pit latrine),244,3065,3309
+ Bucket (Surface latrine),95,1623,1718
+ Other,2,326,328
+ No toilet,262,2576,2838
+ Total,3571,14954,18525
+NotApp :,178,*,*
+AREA # 060204,Tanintharyi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,16,65,81
+ Water seal (Improved pit latrine),1041,12615,13656
+ Pit (Traditional pit latrine),30,3176,3206
+ Bucket (Surface latrine),8,315,323
+ Other,5,234,239
+ No toilet,26,2398,2424
+ Total,1126,18803,19929
+NotApp :,325,*,*
+AREA # 060251,Palauk(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,32,102,134
+ Water seal (Improved pit latrine),834,3041,3875
+ Pit (Traditional pit latrine),191,801,992
+ Bucket (Surface latrine),20,298,318
+ Other,-,90,90
+ No toilet,134,1585,1719
+ Total,1211,5917,7128
+NotApp :,45,*,*
+AREA # 060301,Kawthoung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,269,81,350
+ Water seal (Improved pit latrine),11522,8076,19598
+ Pit (Traditional pit latrine),104,839,943
+ Bucket (Surface latrine),357,1002,1359
+ Other,131,248,379
+ No toilet,197,2655,2852
+ Total,12580,12901,25481
+NotApp :,367,*,*
+AREA # 060302,Bokepyin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,13,44,57
+ Water seal (Improved pit latrine),661,2767,3428
+ Pit (Traditional pit latrine),25,368,393
+ Bucket (Surface latrine),261,2600,2861
+ Other,46,117,163
+ No toilet,41,1933,1974
+ Total,1047,7829,8876
+NotApp :,187,*,*
+AREA # 060351,Khamaukgyi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,13,37,50
+ Water seal (Improved pit latrine),1177,1566,2743
+ Pit (Traditional pit latrine),911,319,1230
+ Bucket (Surface latrine),54,28,82
+ Other,17,11,28
+ No toilet,183,549,732
+ Total,2355,2510,4865
+NotApp :,126,*,*
+AREA # 060352,Pyigyimandaing,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,11,11
+ Water seal (Improved pit latrine),270,694,964
+ Pit (Traditional pit latrine),276,274,550
+ Bucket (Surface latrine),66,687,753
+ Other,3,69,72
+ No toilet,100,654,754
+ Total,715,2389,3104
+NotApp :,91,*,*
+AREA # 060353,Karathuri(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,21,9,30
+ Water seal (Improved pit latrine),225,1462,1687
+ Pit (Traditional pit latrine),1,39,40
+ Bucket (Surface latrine),3,1052,1055
+ Other,1,232,233
+ No toilet,35,682,717
+ Total,286,3476,3762
+NotApp :,102,*,*
+AREA # 070101,Bago,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1085,303,1388
+ Water seal (Improved pit latrine),49927,37977,87904
+ Pit (Traditional pit latrine),2187,1854,4041
+ Bucket (Surface latrine),536,3800,4336
+ Other,193,1005,1198
+ No toilet,964,7301,8265
+ Total,54892,52240,107132
+NotApp :,1161,*,*
+AREA # 070102,Tanatpin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,43,103,146
+ Water seal (Improved pit latrine),2284,7315,9599
+ Pit (Traditional pit latrine),70,734,804
+ Bucket (Surface latrine),1095,13967,15062
+ Other,13,851,864
+ No toilet,124,5928,6052
+ Total,3629,28898,32527
+NotApp :,222,*,*
+AREA # 070103,Kawa,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,187,173,360
+ Water seal (Improved pit latrine),2855,21710,24565
+ Pit (Traditional pit latrine),76,1231,1307
+ Bucket (Surface latrine),884,12054,12938
+ Other,33,992,1025
+ No toilet,219,5661,5880
+ Total,4254,41821,46075
+NotApp :,248,*,*
+AREA # 070104,Waw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,59,49,108
+ Water seal (Improved pit latrine),4010,17463,21473
+ Pit (Traditional pit latrine),77,2358,2435
+ Bucket (Surface latrine),561,5571,6132
+ Other,18,442,460
+ No toilet,321,6154,6475
+ Total,5046,32037,37083
+NotApp :,296,*,*
+AREA # 070105,Nyaunglebin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,225,70,295
+ Water seal (Improved pit latrine),11324,25589,36913
+ Pit (Traditional pit latrine),461,2076,2537
+ Bucket (Surface latrine),347,1280,1627
+ Other,61,161,222
+ No toilet,644,2524,3168
+ Total,13062,31700,44762
+NotApp :,311,*,*
+AREA # 070106,Kyauktaga,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,85,230,315
+ Water seal (Improved pit latrine),6091,33309,39400
+ Pit (Traditional pit latrine),425,5426,5851
+ Bucket (Surface latrine),15,865,880
+ Other,22,403,425
+ No toilet,235,4542,4777
+ Total,6873,44775,51648
+NotApp :,363,*,*
+AREA # 070107,Daik U,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,151,343,494
+ Water seal (Improved pit latrine),7716,26898,34614
+ Pit (Traditional pit latrine),481,4887,5368
+ Bucket (Surface latrine),80,1912,1992
+ Other,7,50,57
+ No toilet,305,2923,3228
+ Total,8740,37013,45753
+NotApp :,339,*,*
+AREA # 070108,Shwegyin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,65,73,138
+ Water seal (Improved pit latrine),4386,10651,15037
+ Pit (Traditional pit latrine),198,1492,1690
+ Bucket (Surface latrine),68,766,834
+ Other,13,434,447
+ No toilet,135,3501,3636
+ Total,4865,16917,21782
+NotApp :,240,*,*
+AREA # 070201,Toungoo,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,570,195,765
+ Water seal (Improved pit latrine),18917,25022,43939
+ Pit (Traditional pit latrine),1925,3285,5210
+ Bucket (Surface latrine),32,1191,1223
+ Other,47,238,285
+ No toilet,409,5629,6038
+ Total,21900,35560,57460
+NotApp :,871,*,*
+AREA # 070202,Yaedashe,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,117,512,629
+ Water seal (Improved pit latrine),4849,27918,32767
+ Pit (Traditional pit latrine),681,1828,2509
+ Bucket (Surface latrine),18,1712,1730
+ Other,50,860,910
+ No toilet,240,11742,11982
+ Total,5955,44572,50527
+NotApp :,460,*,*
+AREA # 070203,Kyaukkyi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,17,41,58
+ Water seal (Improved pit latrine),1945,14576,16521
+ Pit (Traditional pit latrine),31,342,373
+ Bucket (Surface latrine),15,697,712
+ Other,8,374,382
+ No toilet,242,4595,4837
+ Total,2258,20625,22883
+NotApp :,203,*,*
+AREA # 070204,Pyu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,187,408,595
+ Water seal (Improved pit latrine),12011,33901,45912
+ Pit (Traditional pit latrine),914,1504,2418
+ Bucket (Surface latrine),68,771,839
+ Other,75,643,718
+ No toilet,572,3877,4449
+ Total,13827,41104,54931
+NotApp :,386,*,*
+AREA # 070205,Oatwin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,40,339,379
+ Water seal (Improved pit latrine),2823,25417,28240
+ Pit (Traditional pit latrine),175,1515,1690
+ Bucket (Surface latrine),35,574,609
+ Other,18,342,360
+ No toilet,118,5474,5592
+ Total,3209,33661,36870
+NotApp :,276,*,*
+AREA # 070206,Htantapin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,18,56,74
+ Water seal (Improved pit latrine),2199,20210,22409
+ Pit (Traditional pit latrine),19,680,699
+ Bucket (Surface latrine),23,654,677
+ Other,8,156,164
+ No toilet,109,2649,2758
+ Total,2376,24405,26781
+NotApp :,169,*,*
+AREA # 070301,Pyay,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,637,98,735
+ Water seal (Improved pit latrine),25625,25018,50643
+ Pit (Traditional pit latrine),1785,1052,2837
+ Bucket (Surface latrine),33,147,180
+ Other,96,48,144
+ No toilet,639,3379,4018
+ Total,28815,29742,58557
+NotApp :,1014,*,*
+AREA # 070302,Paukkhaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,60,175,235
+ Water seal (Improved pit latrine),3499,20480,23979
+ Pit (Traditional pit latrine),6,1115,1121
+ Bucket (Surface latrine),-,238,238
+ Other,4,68,72
+ No toilet,37,6665,6702
+ Total,3606,28741,32347
+NotApp :,302,*,*
+AREA # 070303,Padaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,62,383,445
+ Water seal (Improved pit latrine),3958,29639,33597
+ Pit (Traditional pit latrine),292,1082,1374
+ Bucket (Surface latrine),22,421,443
+ Other,5,95,100
+ No toilet,129,2804,2933
+ Total,4468,34424,38892
+NotApp :,412,*,*
+AREA # 070304,Paunde,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,99,121,220
+ Water seal (Improved pit latrine),6086,21520,27606
+ Pit (Traditional pit latrine),210,3977,4187
+ Bucket (Surface latrine),6,649,655
+ Other,1,285,286
+ No toilet,79,3667,3746
+ Total,6481,30219,36700
+NotApp :,296,*,*
+AREA # 070305,Thegon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,25,122,147
+ Water seal (Improved pit latrine),3975,25208,29183
+ Pit (Traditional pit latrine),151,3133,3284
+ Bucket (Surface latrine),4,602,606
+ Other,20,220,240
+ No toilet,91,2399,2490
+ Total,4266,31684,35950
+NotApp :,304,*,*
+AREA # 070306,Shwedaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,72,88,160
+ Water seal (Improved pit latrine),4045,22837,26882
+ Pit (Traditional pit latrine),311,1179,1490
+ Bucket (Surface latrine),6,928,934
+ Other,-,82,82
+ No toilet,84,3932,4016
+ Total,4518,29046,33564
+NotApp :,368,*,*
+AREA # 070401,Tharyarwaddy,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,97,107,204
+ Water seal (Improved pit latrine),7382,21354,28736
+ Pit (Traditional pit latrine),463,1791,2254
+ Bucket (Surface latrine),20,1164,1184
+ Other,31,299,330
+ No toilet,171,3747,3918
+ Total,8164,28462,36626
+NotApp :,285,*,*
+AREA # 070402,Letpadan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,112,202,314
+ Water seal (Improved pit latrine),5127,25225,30352
+ Pit (Traditional pit latrine),302,7435,7737
+ Bucket (Surface latrine),14,1443,1457
+ Other,15,187,202
+ No toilet,165,3257,3422
+ Total,5735,37749,43484
+NotApp :,336,*,*
+AREA # 070403,Minhla,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,40,145,185
+ Water seal (Improved pit latrine),2380,17653,20033
+ Pit (Traditional pit latrine),231,6752,6983
+ Bucket (Surface latrine),7,1287,1294
+ Other,12,113,125
+ No toilet,32,2242,2274
+ Total,2702,28192,30894
+NotApp :,231,*,*
+AREA # 070404,Okpo,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,35,107,142
+ Water seal (Improved pit latrine),2014,19032,21046
+ Pit (Traditional pit latrine),712,5007,5719
+ Bucket (Surface latrine),11,1714,1725
+ Other,2,109,111
+ No toilet,26,3125,3151
+ Total,2800,29094,31894
+NotApp :,283,*,*
+AREA # 070405,Zigon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,22,137,159
+ Water seal (Improved pit latrine),3798,11893,15691
+ Pit (Traditional pit latrine),83,411,494
+ Bucket (Surface latrine),1,514,515
+ Other,4,72,76
+ No toilet,59,1216,1275
+ Total,3967,14243,18210
+NotApp :,160,*,*
+AREA # 070406,Nattalin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,71,196,267
+ Water seal (Improved pit latrine),4208,30686,34894
+ Pit (Traditional pit latrine),255,6233,6488
+ Bucket (Surface latrine),9,971,980
+ Other,13,260,273
+ No toilet,86,2781,2867
+ Total,4642,41127,45769
+NotApp :,317,*,*
+AREA # 070407,Monyo,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,12,159,171
+ Water seal (Improved pit latrine),1961,16973,18934
+ Pit (Traditional pit latrine),273,6182,6455
+ Bucket (Surface latrine),38,4611,4649
+ Other,48,399,447
+ No toilet,48,2583,2631
+ Total,2380,30907,33287
+NotApp :,232,*,*
+AREA # 070408,Gyobingauk,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,92,29,121
+ Water seal (Improved pit latrine),5028,18264,23292
+ Pit (Traditional pit latrine),315,2290,2605
+ Bucket (Surface latrine),15,2666,2681
+ Other,8,133,141
+ No toilet,126,1620,1746
+ Total,5584,25002,30586
+NotApp :,233,*,*
+AREA # 080101,Magway,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,510,101,611
+ Water seal (Improved pit latrine),18862,35833,54695
+ Pit (Traditional pit latrine),256,2694,2950
+ Bucket (Surface latrine),12,190,202
+ Other,25,112,137
+ No toilet,205,9877,10082
+ Total,19870,48807,68677
+NotApp :,1053,*,*
+AREA # 080102,Yenangyoung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,131,48,179
+ Water seal (Improved pit latrine),9149,13714,22863
+ Pit (Traditional pit latrine),238,463,701
+ Bucket (Surface latrine),27,114,141
+ Other,6,59,65
+ No toilet,1125,7426,8551
+ Total,10676,21824,32500
+NotApp :,490,*,*
+AREA # 080103,Chauk,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,101,140,241
+ Water seal (Improved pit latrine),9144,26178,35322
+ Pit (Traditional pit latrine),225,412,637
+ Bucket (Surface latrine),54,80,134
+ Other,82,58,140
+ No toilet,795,7349,8144
+ Total,10401,34217,44618
+NotApp :,539,*,*
+AREA # 080104,Taungdwingyi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,188,186,374
+ Water seal (Improved pit latrine),8641,39048,47689
+ Pit (Traditional pit latrine),1011,5217,6228
+ Bucket (Surface latrine),10,264,274
+ Other,18,214,232
+ No toilet,187,5279,5466
+ Total,10055,50208,60263
+NotApp :,426,*,*
+AREA # 080105,Myothit,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,40,139,179
+ Water seal (Improved pit latrine),1663,25095,26758
+ Pit (Traditional pit latrine),7,846,853
+ Bucket (Surface latrine),7,115,122
+ Other,3,129,132
+ No toilet,26,8878,8904
+ Total,1746,35202,36948
+NotApp :,339,*,*
+AREA # 080106,Natmauk,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,44,241,285
+ Water seal (Improved pit latrine),3088,35640,38728
+ Pit (Traditional pit latrine),19,1258,1277
+ Bucket (Surface latrine),-,125,125
+ Other,-,68,68
+ No toilet,23,7920,7943
+ Total,3174,45252,48426
+NotApp :,396,*,*
+AREA # 080201,Minbu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,266,180,446
+ Water seal (Improved pit latrine),8490,29151,37641
+ Pit (Traditional pit latrine),107,278,385
+ Bucket (Surface latrine),3,19,22
+ Other,11,70,81
+ No toilet,313,4929,5242
+ Total,9190,34627,43817
+NotApp :,551,*,*
+AREA # 080202,Pwint Phyu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,28,269,297
+ Water seal (Improved pit latrine),1313,31397,32710
+ Pit (Traditional pit latrine),15,824,839
+ Bucket (Surface latrine),-,40,40
+ Other,1,66,67
+ No toilet,97,5714,5811
+ Total,1454,38310,39764
+NotApp :,475,*,*
+AREA # 080203,Ngape,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,11,63,74
+ Water seal (Improved pit latrine),953,9528,10481
+ Pit (Traditional pit latrine),-,907,907
+ Bucket (Surface latrine),1,46,47
+ Other,1,94,95
+ No toilet,13,840,853
+ Total,979,11478,12457
+NotApp :,159,*,*
+AREA # 080204,Salin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,72,410,482
+ Water seal (Improved pit latrine),2642,39170,41812
+ Pit (Traditional pit latrine),15,1374,1389
+ Bucket (Surface latrine),2,148,150
+ Other,25,247,272
+ No toilet,30,11470,11500
+ Total,2786,52819,55605
+NotApp :,631,*,*
+AREA # 080205,Saytottara,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,43,14,57
+ Water seal (Improved pit latrine),1261,6888,8149
+ Pit (Traditional pit latrine),176,1449,1625
+ Bucket (Surface latrine),1,40,41
+ Other,-,116,116
+ No toilet,44,748,792
+ Total,1525,9255,10780
+NotApp :,279,*,*
+AREA # 080301,Thayet,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,74,320,394
+ Water seal (Improved pit latrine),1437,3007,4444
+ Pit (Traditional pit latrine),2858,14488,17346
+ Bucket (Surface latrine),68,155,223
+ Other,37,546,583
+ No toilet,89,2893,2982
+ Total,4563,21409,25972
+NotApp :,302,*,*
+AREA # 080302,Minhla,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,35,138,173
+ Water seal (Improved pit latrine),839,3791,4630
+ Pit (Traditional pit latrine),1932,19448,21380
+ Bucket (Surface latrine),23,570,593
+ Other,6,1483,1489
+ No toilet,146,3211,3357
+ Total,2981,28641,31622
+NotApp :,346,*,*
+AREA # 080303,Mindon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3,4,7
+ Water seal (Improved pit latrine),1262,13584,14846
+ Pit (Traditional pit latrine),-,389,389
+ Bucket (Surface latrine),2,55,57
+ Other,1,82,83
+ No toilet,2,1425,1427
+ Total,1270,15539,16809
+NotApp :,207,*,*
+AREA # 080304,Kamma,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,121,122
+ Water seal (Improved pit latrine),1206,15367,16573
+ Pit (Traditional pit latrine),15,559,574
+ Bucket (Surface latrine),1,78,79
+ Other,4,102,106
+ No toilet,67,1622,1689
+ Total,1294,17849,19143
+NotApp :,208,*,*
+AREA # 080305,Aunglan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,300,156,456
+ Water seal (Improved pit latrine),3504,6673,10177
+ Pit (Traditional pit latrine),6955,27006,33961
+ Bucket (Surface latrine),132,907,1039
+ Other,125,1247,1372
+ No toilet,609,9995,10604
+ Total,11625,45984,57609
+NotApp :,479,*,*
+AREA # 080306,Sinpaungwe`,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,10,120,130
+ Water seal (Improved pit latrine),825,10415,11240
+ Pit (Traditional pit latrine),313,10717,11030
+ Bucket (Surface latrine),6,377,383
+ Other,9,294,303
+ No toilet,118,5480,5598
+ Total,1281,27403,28684
+NotApp :,290,*,*
+AREA # 080401,Pakokku,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,247,385,632
+ Water seal (Improved pit latrine),17010,33101,50111
+ Pit (Traditional pit latrine),577,934,1511
+ Bucket (Surface latrine),69,110,179
+ Other,45,98,143
+ No toilet,1121,12643,13764
+ Total,19069,47271,66340
+NotApp :,723,*,*
+AREA # 080402,Yesagyo,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,81,528,609
+ Water seal (Improved pit latrine),4366,27728,32094
+ Pit (Traditional pit latrine),155,2527,2682
+ Bucket (Surface latrine),3,202,205
+ Other,5,133,138
+ No toilet,289,11315,11604
+ Total,4899,42433,47332
+NotApp :,485,*,*
+AREA # 080403,Myaing,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,14,260,274
+ Water seal (Improved pit latrine),1742,30858,32600
+ Pit (Traditional pit latrine),7,3958,3965
+ Bucket (Surface latrine),1,137,138
+ Other,2,319,321
+ No toilet,35,16308,16343
+ Total,1801,51840,53641
+NotApp :,502,*,*
+AREA # 080404,Pauk,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,13,75,88
+ Water seal (Improved pit latrine),1573,21105,22678
+ Pit (Traditional pit latrine),23,4004,4027
+ Bucket (Surface latrine),2,158,160
+ Other,6,141,147
+ No toilet,84,11781,11865
+ Total,1701,37264,38965
+NotApp :,326,*,*
+AREA # 080405,Seikphyu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,9,125,134
+ Water seal (Improved pit latrine),1931,12940,14871
+ Pit (Traditional pit latrine),16,161,177
+ Bucket (Surface latrine),21,44,65
+ Other,3,110,113
+ No toilet,149,7918,8067
+ Total,2129,21298,23427
+NotApp :,208,*,*
+AREA # 080501,Gangaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,35,167,202
+ Water seal (Improved pit latrine),3168,24697,27865
+ Pit (Traditional pit latrine),45,1388,1433
+ Bucket (Surface latrine),1,62,63
+ Other,-,90,90
+ No toilet,9,250,259
+ Total,3258,26654,29912
+NotApp :,303,*,*
+AREA # 080502,Htilin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,3,4
+ Water seal (Improved pit latrine),1100,9269,10369
+ Pit (Traditional pit latrine),10,107,117
+ Bucket (Surface latrine),-,4,4
+ Other,-,5,5
+ No toilet,12,21,33
+ Total,1123,9409,10532
+NotApp :,182,*,*
+AREA # 080503,Saw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,36,36
+ Water seal (Improved pit latrine),1188,6065,7253
+ Pit (Traditional pit latrine),43,602,645
+ Bucket (Surface latrine),1,11,12
+ Other,14,5,19
+ No toilet,15,345,360
+ Total,1261,7064,8325
+NotApp :,212,*,*
+AREA # 080551,Kyaukhtu(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,4,69,73
+ Water seal (Improved pit latrine),1097,5083,6180
+ Pit (Traditional pit latrine),24,1119,1143
+ Bucket (Surface latrine),2,12,14
+ Other,1,145,146
+ No toilet,12,41,53
+ Total,1140,6469,7609
+NotApp :,103,*,*
+AREA # 090101,Aungmyetharzan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1673,-,1673
+ Water seal (Improved pit latrine),45103,-,45103
+ Pit (Traditional pit latrine),844,-,844
+ Bucket (Surface latrine),381,-,381
+ Other,296,-,296
+ No toilet,1434,-,1434
+ Total,49731,-,49731
+NotApp :,971,*,*
+AREA # 090102,Chanayeharzan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2157,-,2157
+ Water seal (Improved pit latrine),29741,-,29741
+ Pit (Traditional pit latrine),735,-,735
+ Bucket (Surface latrine),25,-,25
+ Other,64,-,64
+ No toilet,559,-,559
+ Total,33281,-,33281
+NotApp :,1883,*,*
+AREA # 090103,Mahaaungmye,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2123,-,2123
+ Water seal (Improved pit latrine),36617,-,36617
+ Pit (Traditional pit latrine),1159,-,1159
+ Bucket (Surface latrine),84,-,84
+ Other,288,-,288
+ No toilet,1656,-,1656
+ Total,41927,-,41927
+NotApp :,754,*,*
+AREA # 090104,Chanmyatharzi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2060,-,2060
+ Water seal (Improved pit latrine),45685,-,45685
+ Pit (Traditional pit latrine),3297,-,3297
+ Bucket (Surface latrine),173,-,173
+ Other,310,-,310
+ No toilet,1522,-,1522
+ Total,53047,-,53047
+NotApp :,901,*,*
+AREA # 090105,Pyigyidagun,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1529,-,1529
+ Water seal (Improved pit latrine),38940,-,38940
+ Pit (Traditional pit latrine),1419,-,1419
+ Bucket (Surface latrine),58,-,58
+ Other,107,-,107
+ No toilet,1822,-,1822
+ Total,43875,-,43875
+NotApp :,1032,*,*
+AREA # 090106,Amarapura,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,308,1072,1380
+ Water seal (Improved pit latrine),14838,24955,39793
+ Pit (Traditional pit latrine),373,962,1335
+ Bucket (Surface latrine),5,204,209
+ Other,51,95,146
+ No toilet,1055,5708,6763
+ Total,16630,32996,49626
+NotApp :,572,*,*
+AREA # 090107,Patheingyi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,56,654,710
+ Water seal (Improved pit latrine),2484,37189,39673
+ Pit (Traditional pit latrine),102,2623,2725
+ Bucket (Surface latrine),-,150,150
+ Other,1,384,385
+ No toilet,59,9288,9347
+ Total,2702,50288,52990
+NotApp :,902,*,*
+AREA # 090201,Pyin Oo Lwin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1376,300,1676
+ Water seal (Improved pit latrine),29762,19672,49434
+ Pit (Traditional pit latrine),519,320,839
+ Bucket (Surface latrine),11,15,26
+ Other,52,89,141
+ No toilet,221,1045,1266
+ Total,31941,21441,53382
+NotApp :,962,*,*
+AREA # 090202,Madaya,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,100,802,902
+ Water seal (Improved pit latrine),5034,33014,38048
+ Pit (Traditional pit latrine),44,6326,6370
+ Bucket (Surface latrine),1,390,391
+ Other,-,228,228
+ No toilet,132,12574,12706
+ Total,5311,53334,58645
+NotApp :,508,*,*
+AREA # 090203,Sinku,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,149,596,745
+ Water seal (Improved pit latrine),1199,22255,23454
+ Pit (Traditional pit latrine),306,4320,4626
+ Bucket (Surface latrine),-,175,175
+ Other,4,179,183
+ No toilet,74,5276,5350
+ Total,1732,32801,34533
+NotApp :,281,*,*
+AREA # 090204,Mogok,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,418,275,693
+ Water seal (Improved pit latrine),15332,15620,30952
+ Pit (Traditional pit latrine),683,1854,2537
+ Bucket (Surface latrine),17,43,60
+ Other,43,62,105
+ No toilet,193,707,900
+ Total,16686,18561,35247
+NotApp :,586,*,*
+AREA # 090205,Thabeikkyin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,258,259
+ Water seal (Improved pit latrine),584,17036,17620
+ Pit (Traditional pit latrine),232,1962,2194
+ Bucket (Surface latrine),2,174,176
+ Other,-,162,162
+ No toilet,369,4969,5338
+ Total,1188,24561,25749
+NotApp :,297,*,*
+AREA # 090251,Tagaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,12,14,26
+ Water seal (Improved pit latrine),1422,2937,4359
+ Pit (Traditional pit latrine),61,254,315
+ Bucket (Surface latrine),3,41,44
+ Other,38,4,42
+ No toilet,257,2349,2606
+ Total,1793,5599,7392
+NotApp :,96,*,*
+AREA # 090301,Kyaukse,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,168,1172,1340
+ Water seal (Improved pit latrine),7990,39020,47010
+ Pit (Traditional pit latrine),246,964,1210
+ Bucket (Surface latrine),1,132,133
+ Other,6,152,158
+ No toilet,80,7834,7914
+ Total,8491,49274,57765
+NotApp :,526,*,*
+AREA # 090302,Singaing,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,39,827,866
+ Water seal (Improved pit latrine),1590,25769,27359
+ Pit (Traditional pit latrine),123,983,1106
+ Bucket (Surface latrine),1,37,38
+ Other,3,63,66
+ No toilet,24,4120,4144
+ Total,1780,31799,33579
+NotApp :,464,*,*
+AREA # 090303,Myitthar,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,56,587,643
+ Water seal (Improved pit latrine),4000,29783,33783
+ Pit (Traditional pit latrine),181,1500,1681
+ Bucket (Surface latrine),2,148,150
+ Other,2,27,29
+ No toilet,105,9626,9731
+ Total,4346,41671,46017
+NotApp :,399,*,*
+AREA # 090304,Tada U,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,61,492,553
+ Water seal (Improved pit latrine),2489,21972,24461
+ Pit (Traditional pit latrine),25,1016,1041
+ Bucket (Surface latrine),1,16,17
+ Other,8,52,60
+ No toilet,68,6427,6495
+ Total,2652,29975,32627
+NotApp :,340,*,*
+AREA # 090401,Myingyan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,479,1433,1912
+ Water seal (Improved pit latrine),16122,25882,42004
+ Pit (Traditional pit latrine),989,513,1502
+ Bucket (Surface latrine),84,253,337
+ Other,86,240,326
+ No toilet,1137,15122,16259
+ Total,18897,43443,62340
+NotApp :,622,*,*
+AREA # 090402,Taungtha,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,32,851,883
+ Water seal (Improved pit latrine),3300,22276,25576
+ Pit (Traditional pit latrine),53,1577,1630
+ Bucket (Surface latrine),8,133,141
+ Other,10,180,190
+ No toilet,460,20972,21432
+ Total,3863,45989,49852
+NotApp :,425,*,*
+AREA # 090403,Natogyi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,20,272,292
+ Water seal (Improved pit latrine),2643,27350,29993
+ Pit (Traditional pit latrine),51,1561,1612
+ Bucket (Surface latrine),2,103,105
+ Other,19,276,295
+ No toilet,107,8561,8668
+ Total,2842,38123,40965
+NotApp :,349,*,*
+AREA # 090404,Kyaukpadaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,412,915,1327
+ Water seal (Improved pit latrine),8497,41795,50292
+ Pit (Traditional pit latrine),25,217,242
+ Bucket (Surface latrine),12,59,71
+ Other,7,62,69
+ No toilet,60,9900,9960
+ Total,9013,52948,61961
+NotApp :,497,*,*
+AREA # 090405,Ngazun,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,6,756,762
+ Water seal (Improved pit latrine),1524,14131,15655
+ Pit (Traditional pit latrine),5,491,496
+ Bucket (Surface latrine),-,33,33
+ Other,14,113,127
+ No toilet,108,10657,10765
+ Total,1657,26181,27838
+NotApp :,295,*,*
+AREA # 090501,Nyaung U,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,290,503,793
+ Water seal (Improved pit latrine),8423,21282,29705
+ Pit (Traditional pit latrine),76,496,572
+ Bucket (Surface latrine),4,35,39
+ Other,10,109,119
+ No toilet,712,12722,13434
+ Total,9515,35147,44662
+NotApp :,603,*,*
+AREA # 090551,Ngat,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,53,53
+ Water seal (Improved pit latrine),768,3786,4554
+ Pit (Traditional pit latrine),4,161,165
+ Bucket (Surface latrine),-,2,2
+ Other,-,112,112
+ No toilet,667,4258,4925
+ Total,1439,8372,9811
+NotApp :,69,*,*
+AREA # 090601,Yame`thin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,63,545,608
+ Water seal (Improved pit latrine),4363,40424,44787
+ Pit (Traditional pit latrine),825,1724,2549
+ Bucket (Surface latrine),31,79,110
+ Other,5,22,27
+ No toilet,40,9138,9178
+ Total,5327,51932,57259
+NotApp :,559,*,*
+AREA # 090602,Pyawbwe,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,93,351,444
+ Water seal (Improved pit latrine),5738,42021,47759
+ Pit (Traditional pit latrine),860,2759,3619
+ Bucket (Surface latrine),2,67,69
+ Other,13,40,53
+ No toilet,168,6751,6919
+ Total,6874,51989,58863
+NotApp :,497,*,*
+AREA # 090701,Meiktila,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,611,313,924
+ Water seal (Improved pit latrine),22167,36866,59033
+ Pit (Traditional pit latrine),913,1002,1915
+ Bucket (Surface latrine),18,37,55
+ Other,103,31,134
+ No toilet,151,6227,6378
+ Total,23963,44476,68439
+NotApp :,998,*,*
+AREA # 090702,MahlYaing,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,27,279,306
+ Water seal (Improved pit latrine),2917,25034,27951
+ Pit (Traditional pit latrine),57,930,987
+ Bucket (Surface latrine),3,189,192
+ Other,2,89,91
+ No toilet,105,3695,3800
+ Total,3111,30216,33327
+NotApp :,382,*,*
+AREA # 090703,Thazi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,26,927,953
+ Water seal (Improved pit latrine),4528,29981,34509
+ Pit (Traditional pit latrine),64,2787,2851
+ Bucket (Surface latrine),6,124,130
+ Other,17,162,179
+ No toilet,79,6191,6270
+ Total,4720,40172,44892
+NotApp :,484,*,*
+AREA # 090704,Wundwin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,123,258,381
+ Water seal (Improved pit latrine),6646,36090,42736
+ Pit (Traditional pit latrine),66,563,629
+ Bucket (Surface latrine),2,54,56
+ Other,14,101,115
+ No toilet,449,9203,9652
+ Total,7300,46269,53569
+NotApp :,474,*,*
+AREA # 100101,Mawlamyine,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1017,147,1164
+ Water seal (Improved pit latrine),46592,6294,52886
+ Pit (Traditional pit latrine),765,383,1148
+ Bucket (Surface latrine),271,39,310
+ Other,61,18,79
+ No toilet,1028,842,1870
+ Total,49734,7723,57457
+NotApp :,954,*,*
+AREA # 100102,Kyaikemaraw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,108,374,482
+ Water seal (Improved pit latrine),1790,25240,27030
+ Pit (Traditional pit latrine),92,1365,1457
+ Bucket (Surface latrine),7,183,190
+ Other,12,201,213
+ No toilet,167,9349,9516
+ Total,2176,36712,38888
+NotApp :,478,*,*
+AREA # 100103,Chaungzon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,18,110,128
+ Water seal (Improved pit latrine),1622,20127,21749
+ Pit (Traditional pit latrine),13,863,876
+ Bucket (Surface latrine),8,696,704
+ Other,2,166,168
+ No toilet,81,4238,4319
+ Total,1744,26200,27944
+NotApp :,292,*,*
+AREA # 100104,Thanbyuzayat,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,159,200,359
+ Water seal (Improved pit latrine),10151,18430,28581
+ Pit (Traditional pit latrine),271,792,1063
+ Bucket (Surface latrine),112,201,313
+ Other,219,240,459
+ No toilet,803,4656,5459
+ Total,11715,24519,36234
+NotApp :,470,*,*
+AREA # 100105,Mudon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,124,298,422
+ Water seal (Improved pit latrine),10361,25003,35364
+ Pit (Traditional pit latrine),106,723,829
+ Bucket (Surface latrine),8,93,101
+ Other,11,162,173
+ No toilet,182,2241,2423
+ Total,10792,28520,39312
+NotApp :,541,*,*
+AREA # 100106,Ye,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,81,424,505
+ Water seal (Improved pit latrine),5391,15175,20566
+ Pit (Traditional pit latrine),396,1974,2370
+ Bucket (Surface latrine),29,500,529
+ Other,29,266,295
+ No toilet,187,5539,5726
+ Total,6113,23878,29991
+NotApp :,508,*,*
+AREA # 100151,Lamine,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,31,69,100
+ Water seal (Improved pit latrine),2729,11856,14585
+ Pit (Traditional pit latrine),37,263,300
+ Bucket (Surface latrine),5,58,63
+ Other,4,97,101
+ No toilet,161,3329,3490
+ Total,2967,15672,18639
+NotApp :,149,*,*
+AREA # 100152,Khawzar,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,73,182,255
+ Water seal (Improved pit latrine),596,2452,3048
+ Pit (Traditional pit latrine),2,170,172
+ Bucket (Surface latrine),2,19,21
+ Other,1,15,16
+ No toilet,104,1202,1306
+ Total,778,4040,4818
+NotApp :,70,*,*
+AREA # 100201,Thaton,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,126,388,514
+ Water seal (Improved pit latrine),9660,25996,35656
+ Pit (Traditional pit latrine),100,774,874
+ Bucket (Surface latrine),166,349,515
+ Other,36,307,343
+ No toilet,618,9764,10382
+ Total,10706,37578,48284
+NotApp :,603,*,*
+AREA # 100202,Paung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,70,238,308
+ Water seal (Improved pit latrine),5080,27107,32187
+ Pit (Traditional pit latrine),58,890,948
+ Bucket (Surface latrine),85,1614,1699
+ Other,11,407,418
+ No toilet,598,7568,8166
+ Total,5902,37824,43726
+NotApp :,460,*,*
+AREA # 100203,Kyaikto,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,123,266,389
+ Water seal (Improved pit latrine),6288,23196,29484
+ Pit (Traditional pit latrine),149,1381,1530
+ Bucket (Surface latrine),172,474,646
+ Other,44,253,297
+ No toilet,740,5002,5742
+ Total,7516,30572,38088
+NotApp :,848,*,*
+AREA # 100204,Bilin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,55,519,574
+ Water seal (Improved pit latrine),3635,22727,26362
+ Pit (Traditional pit latrine),189,694,883
+ Bucket (Surface latrine),6,730,736
+ Other,19,403,422
+ No toilet,140,10114,10254
+ Total,4044,35187,39231
+NotApp :,544,*,*
+AREA # 110101,Sittway,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,345,44,389
+ Water seal (Improved pit latrine),15469,4451,19920
+ Pit (Traditional pit latrine),237,33,270
+ Bucket (Surface latrine),303,59,362
+ Other,64,31,95
+ No toilet,2488,5512,8000
+ Total,18906,10130,29036
+NotApp :,377,*,*
+AREA # 110102,Ponnagyun,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,8,77,85
+ Water seal (Improved pit latrine),1524,1840,3364
+ Pit (Traditional pit latrine),32,98,130
+ Bucket (Surface latrine),66,400,466
+ Other,11,175,186
+ No toilet,825,20279,21104
+ Total,2466,22869,25335
+NotApp :,246,*,*
+AREA # 110103,Pauktaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,17,83,100
+ Water seal (Improved pit latrine),1261,2070,3331
+ Pit (Traditional pit latrine),17,123,140
+ Bucket (Surface latrine),157,1591,1748
+ Other,83,234,317
+ No toilet,935,23973,24908
+ Total,2470,28074,30544
+NotApp :,349,*,*
+AREA # 110104,Yethedaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,45,106,151
+ Water seal (Improved pit latrine),920,2700,3620
+ Pit (Traditional pit latrine),14,122,136
+ Bucket (Surface latrine),7,79,86
+ Other,12,142,154
+ No toilet,512,19682,20194
+ Total,1510,22831,24341
+NotApp :,255,*,*
+AREA # 110201,Myauk U,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,29,180,209
+ Water seal (Improved pit latrine),4119,4073,8192
+ Pit (Traditional pit latrine),111,361,472
+ Bucket (Surface latrine),307,2179,2486
+ Other,5,200,205
+ No toilet,2703,27258,29961
+ Total,7274,34251,41525
+NotApp :,517,*,*
+AREA # 110202,Kyauktaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,67,199,266
+ Water seal (Improved pit latrine),2560,5083,7643
+ Pit (Traditional pit latrine),87,360,447
+ Bucket (Surface latrine),314,947,1261
+ Other,12,334,346
+ No toilet,799,25733,26532
+ Total,3839,32656,36495
+NotApp :,327,*,*
+AREA # 110203,Minbya,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,10,55,65
+ Water seal (Improved pit latrine),2879,2999,5878
+ Pit (Traditional pit latrine),81,196,277
+ Bucket (Surface latrine),488,1451,1939
+ Other,30,320,350
+ No toilet,1127,26992,28119
+ Total,4615,32013,36628
+NotApp :,359,*,*
+AREA # 110204,Myebon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,14,168,182
+ Water seal (Improved pit latrine),1885,3047,4932
+ Pit (Traditional pit latrine),6,100,106
+ Bucket (Surface latrine),71,466,537
+ Other,1,1234,1235
+ No toilet,641,23706,24347
+ Total,2618,28721,31339
+NotApp :,244,*,*
+AREA # 110301,Maungtaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,38,61,99
+ Water seal (Improved pit latrine),1822,2891,4713
+ Pit (Traditional pit latrine),82,81,163
+ Bucket (Surface latrine),13,85,98
+ Other,12,40,52
+ No toilet,347,1918,2265
+ Total,2314,5076,7390
+NotApp :,142,*,*
+AREA # 110302,Buthidaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,31,34,65
+ Water seal (Improved pit latrine),1689,2617,4306
+ Pit (Traditional pit latrine),21,24,45
+ Bucket (Surface latrine),7,25,32
+ Other,15,229,244
+ No toilet,299,6273,6572
+ Total,2062,9202,11264
+NotApp :,178,*,*
+AREA # 110351,Taungpyoletwe(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2,-,2
+ Water seal (Improved pit latrine),148,39,187
+ Pit (Traditional pit latrine),-,6,6
+ Bucket (Surface latrine),-,3,3
+ Other,-,1,1
+ No toilet,8,299,307
+ Total,158,348,506
+NotApp :,17,*,*
+AREA # 110401,Kyaukpyu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,69,139,208
+ Water seal (Improved pit latrine),3571,6633,10204
+ Pit (Traditional pit latrine),102,303,405
+ Bucket (Surface latrine),70,493,563
+ Other,46,275,321
+ No toilet,396,25167,25563
+ Total,4254,33010,37264
+NotApp :,491,*,*
+AREA # 110402,Mannaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5,68,73
+ Water seal (Improved pit latrine),1011,3158,4169
+ Pit (Traditional pit latrine),6,373,379
+ Bucket (Surface latrine),69,346,415
+ Other,2,56,58
+ No toilet,213,9428,9641
+ Total,1306,13429,14735
+NotApp :,186,*,*
+AREA # 110403,Yanbye,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,6,217,223
+ Water seal (Improved pit latrine),1142,3365,4507
+ Pit (Traditional pit latrine),26,102,128
+ Bucket (Surface latrine),197,115,312
+ Other,5,85,90
+ No toilet,872,16286,17158
+ Total,2248,20170,22418
+NotApp :,325,*,*
+AREA # 110404,An,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,7,141,148
+ Water seal (Improved pit latrine),1609,8625,10234
+ Pit (Traditional pit latrine),193,960,1153
+ Bucket (Surface latrine),13,1369,1382
+ Other,5,562,567
+ No toilet,51,13824,13875
+ Total,1878,25481,27359
+NotApp :,324,*,*
+AREA # 110501,Thandwe,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,44,153,197
+ Water seal (Improved pit latrine),3251,18297,21548
+ Pit (Traditional pit latrine),9,785,794
+ Bucket (Surface latrine),6,450,456
+ Other,2,136,138
+ No toilet,38,7904,7942
+ Total,3350,27725,31075
+NotApp :,580,*,*
+AREA # 110502,Toungup,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,68,207,275
+ Water seal (Improved pit latrine),5591,7129,12720
+ Pit (Traditional pit latrine),146,905,1051
+ Bucket (Surface latrine),69,489,558
+ Other,41,60,101
+ No toilet,263,10271,10534
+ Total,6178,19061,25239
+NotApp :,343,*,*
+AREA # 110503,Gwa,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,43,61,104
+ Water seal (Improved pit latrine),1797,4358,6155
+ Pit (Traditional pit latrine),40,189,229
+ Bucket (Surface latrine),67,301,368
+ Other,28,36,64
+ No toilet,513,3812,4325
+ Total,2488,8757,11245
+NotApp :,115,*,*
+AREA # 110551,Maei(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,13,22,35
+ Water seal (Improved pit latrine),660,2902,3562
+ Pit (Traditional pit latrine),24,96,120
+ Bucket (Surface latrine),61,171,232
+ Other,1,52,53
+ No toilet,456,5495,5951
+ Total,1215,8738,9953
+NotApp :,96,*,*
+AREA # 110552,Kyeintali(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,27,12,39
+ Water seal (Improved pit latrine),1356,2933,4289
+ Pit (Traditional pit latrine),9,35,44
+ Bucket (Surface latrine),3,17,20
+ Other,-,7,7
+ No toilet,80,1602,1682
+ Total,1475,4606,6081
+NotApp :,76,*,*
+AREA # 120101,Insein,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3350,-,3350
+ Water seal (Improved pit latrine),54590,-,54590
+ Pit (Traditional pit latrine),933,-,933
+ Bucket (Surface latrine),2217,-,2217
+ Other,230,-,230
+ No toilet,356,-,356
+ Total,61676,-,61676
+NotApp :,993,*,*
+AREA # 120102,Mingaladon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1769,626,2395
+ Water seal (Improved pit latrine),39008,23524,62532
+ Pit (Traditional pit latrine),464,334,798
+ Bucket (Surface latrine),50,24,74
+ Other,79,28,107
+ No toilet,271,126,397
+ Total,41641,24662,66303
+NotApp :,1749,*,*
+AREA # 120103,Hmawby,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,174,756,930
+ Water seal (Improved pit latrine),5591,45427,51018
+ Pit (Traditional pit latrine),102,1511,1613
+ Bucket (Surface latrine),4,278,282
+ Other,7,403,410
+ No toilet,64,2152,2216
+ Total,5942,50527,56469
+NotApp :,902,*,*
+AREA # 120104,Hlegu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,165,457,622
+ Water seal (Improved pit latrine),8448,42269,50717
+ Pit (Traditional pit latrine),24,1942,1966
+ Bucket (Surface latrine),12,977,989
+ Other,8,501,509
+ No toilet,92,3128,3220
+ Total,8749,49274,58023
+NotApp :,1175,*,*
+AREA # 120105,Taikkyi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,299,221,520
+ Water seal (Improved pit latrine),17561,38026,55587
+ Pit (Traditional pit latrine),1619,2298,3917
+ Bucket (Surface latrine),43,444,487
+ Other,251,245,496
+ No toilet,586,5406,5992
+ Total,20359,46640,66999
+NotApp :,614,*,*
+AREA # 120106,Htantabin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,28,198,226
+ Water seal (Improved pit latrine),1612,24796,26408
+ Pit (Traditional pit latrine),309,3299,3608
+ Bucket (Surface latrine),16,876,892
+ Other,7,109,116
+ No toilet,84,2877,2961
+ Total,2056,32155,34211
+NotApp :,229,*,*
+AREA # 120107,Shwepyitha,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1268,102,1370
+ Water seal (Improved pit latrine),53344,14325,67669
+ Pit (Traditional pit latrine),2497,696,3193
+ Bucket (Surface latrine),452,10,462
+ Other,174,7,181
+ No toilet,776,124,900
+ Total,58511,15264,73775
+NotApp :,834,*,*
+AREA # 120108,Hlinethaya,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2063,462,2525
+ Water seal (Improved pit latrine),98655,39000,137655
+ Pit (Traditional pit latrine),1645,1542,3187
+ Bucket (Surface latrine),431,714,1145
+ Other,286,348,634
+ No toilet,727,2838,3565
+ Total,103807,44904,148711
+NotApp :,1246,*,*
+AREA # 120201,Thingangyun,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5796,-,5796
+ Water seal (Improved pit latrine),36523,-,36523
+ Pit (Traditional pit latrine),639,-,639
+ Bucket (Surface latrine),35,-,35
+ Other,88,-,88
+ No toilet,239,-,239
+ Total,43320,-,43320
+NotApp :,265,*,*
+AREA # 120202,Yankin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5069,-,5069
+ Water seal (Improved pit latrine),9428,-,9428
+ Pit (Traditional pit latrine),35,-,35
+ Bucket (Surface latrine),12,-,12
+ Other,13,-,13
+ No toilet,80,-,80
+ Total,14637,-,14637
+NotApp :,149,*,*
+AREA # 120203,South Okkalapa,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3279,-,3279
+ Water seal (Improved pit latrine),28663,-,28663
+ Pit (Traditional pit latrine),642,-,642
+ Bucket (Surface latrine),56,-,56
+ Other,12,-,12
+ No toilet,73,-,73
+ Total,32725,-,32725
+NotApp :,418,*,*
+AREA # 120204,North Okkalapa,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2789,-,2789
+ Water seal (Improved pit latrine),59204,-,59204
+ Pit (Traditional pit latrine),2152,-,2152
+ Bucket (Surface latrine),319,-,319
+ Other,25,-,25
+ No toilet,267,-,267
+ Total,64756,-,64756
+NotApp :,946,*,*
+AREA # 120205,Thakayta,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1810,-,1810
+ Water seal (Improved pit latrine),41344,-,41344
+ Pit (Traditional pit latrine),1686,-,1686
+ Bucket (Surface latrine),386,-,386
+ Other,28,-,28
+ No toilet,202,-,202
+ Total,45456,-,45456
+NotApp :,451,*,*
+AREA # 120206,Dawbon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,307,-,307
+ Water seal (Improved pit latrine),13655,-,13655
+ Pit (Traditional pit latrine),187,-,187
+ Bucket (Surface latrine),152,-,152
+ Other,72,-,72
+ No toilet,36,-,36
+ Total,14409,-,14409
+NotApp :,154,*,*
+AREA # 120207,Tamway,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,6140,-,6140
+ Water seal (Improved pit latrine),29127,-,29127
+ Pit (Traditional pit latrine),52,-,52
+ Bucket (Surface latrine),1,-,1
+ Other,17,-,17
+ No toilet,23,-,23
+ Total,35360,-,35360
+NotApp :,633,*,*
+AREA # 120208,Pazuntaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3011,-,3011
+ Water seal (Improved pit latrine),7260,-,7260
+ Pit (Traditional pit latrine),12,-,12
+ Other,4,-,4
+ No toilet,19,-,19
+ Total,10306,-,10306
+NotApp :,215,*,*
+AREA # 120209,Botahtaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2427,-,2427
+ Water seal (Improved pit latrine),5932,-,5932
+ Pit (Traditional pit latrine),8,-,8
+ Other,2,-,2
+ No toilet,28,-,28
+ Total,8397,-,8397
+NotApp :,295,*,*
+AREA # 120210,Dagon Myothit(South),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1172,-,1172
+ Water seal (Improved pit latrine),72608,-,72608
+ Pit (Traditional pit latrine),2083,-,2083
+ Bucket (Surface latrine),138,-,138
+ Other,33,-,33
+ No toilet,950,-,950
+ Total,76984,-,76984
+NotApp :,751,*,*
+AREA # 120211,Dagon Myothit(North),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,4807,-,4807
+ Water seal (Improved pit latrine),36584,-,36584
+ Pit (Traditional pit latrine),953,-,953
+ Bucket (Surface latrine),208,-,208
+ Other,41,-,41
+ No toilet,111,-,111
+ Total,42704,-,42704
+NotApp :,126,*,*
+AREA # 120212,Dagon Myothit(East),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,879,47,926
+ Water seal (Improved pit latrine),29474,1612,31086
+ Pit (Traditional pit latrine),959,66,1025
+ Bucket (Surface latrine),83,183,266
+ Other,15,4,19
+ No toilet,485,106,591
+ Total,31895,2018,33913
+NotApp :,814,*,*
+AREA # 120213,Dagon Myothit(Seik),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,457,32,489
+ Water seal (Improved pit latrine),31411,3231,34642
+ Pit (Traditional pit latrine),1057,100,1157
+ Bucket (Surface latrine),143,93,236
+ Other,88,7,95
+ No toilet,1016,270,1286
+ Total,34172,3733,37905
+NotApp :,383,*,*
+AREA # 120214,Mingala Taungnyunt,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3402,-,3402
+ Water seal (Improved pit latrine),21985,-,21985
+ Pit (Traditional pit latrine),52,-,52
+ Bucket (Surface latrine),60,-,60
+ Other,176,-,176
+ No toilet,243,-,243
+ Total,25918,-,25918
+NotApp :,325,*,*
+AREA # 120301,Thanlyin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,813,721,1534
+ Water seal (Improved pit latrine),17161,38551,55712
+ Pit (Traditional pit latrine),488,1030,1518
+ Bucket (Surface latrine),40,1503,1543
+ Other,17,161,178
+ No toilet,190,922,1112
+ Total,18709,42888,61597
+NotApp :,594,*,*
+AREA # 120302,Kyauktan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,136,40,176
+ Water seal (Improved pit latrine),8319,15247,23566
+ Pit (Traditional pit latrine),377,305,682
+ Bucket (Surface latrine),458,5810,6268
+ Other,45,27,72
+ No toilet,529,1683,2212
+ Total,9864,23112,32976
+NotApp :,324,*,*
+AREA # 120303,Thongwa,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,131,108,239
+ Water seal (Improved pit latrine),5011,22280,27291
+ Pit (Traditional pit latrine),342,479,821
+ Bucket (Surface latrine),667,4755,5422
+ Other,63,181,244
+ No toilet,542,5528,6070
+ Total,6756,33331,40087
+NotApp :,287,*,*
+AREA # 120304,Khayan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,83,98,181
+ Water seal (Improved pit latrine),7478,29735,37213
+ Pit (Traditional pit latrine),46,132,178
+ Bucket (Surface latrine),32,210,242
+ Other,7,52,59
+ No toilet,232,1209,1441
+ Total,7878,31436,39314
+NotApp :,203,*,*
+AREA # 120305,Twantay,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,132,256,388
+ Water seal (Improved pit latrine),7355,29942,37297
+ Pit (Traditional pit latrine),1277,3430,4707
+ Bucket (Surface latrine),153,4384,4537
+ Other,15,55,70
+ No toilet,265,4338,4603
+ Total,9197,42405,51602
+NotApp :,365,*,*
+AREA # 120306,Kawhmu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3,114,117
+ Water seal (Improved pit latrine),1970,18677,20647
+ Pit (Traditional pit latrine),14,1379,1393
+ Bucket (Surface latrine),78,3239,3317
+ Other,2,281,283
+ No toilet,164,3871,4035
+ Total,2231,27561,29792
+NotApp :,220,*,*
+AREA # 120307,Kungyangon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,61,84,145
+ Water seal (Improved pit latrine),3655,20078,23733
+ Pit (Traditional pit latrine),25,133,158
+ Bucket (Surface latrine),50,603,653
+ Other,3,57,60
+ No toilet,164,3439,3603
+ Total,3958,24394,28352
+NotApp :,207,*,*
+AREA # 120308,Dala,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,115,107,222
+ Water seal (Improved pit latrine),23039,8913,31952
+ Pit (Traditional pit latrine),382,476,858
+ Bucket (Surface latrine),476,1684,2160
+ Other,31,68,99
+ No toilet,1288,1333,2621
+ Total,25331,12581,37912
+NotApp :,211,*,*
+AREA # 120309,Seikkyi/Khanaungto,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,14,-,14
+ Water seal (Improved pit latrine),6658,-,6658
+ Pit (Traditional pit latrine),60,-,60
+ Bucket (Surface latrine),697,-,697
+ Other,2,-,2
+ No toilet,298,-,298
+ Total,7729,-,7729
+NotApp :,39,*,*
+AREA # 120310,Cocogyun,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3,-,3
+ Water seal (Improved pit latrine),322,-,322
+ No toilet,26,-,26
+ Total,351,-,351
+NotApp :,8,*,*
+AREA # 120351,Tada(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,57,14,71
+ Water seal (Improved pit latrine),1478,2170,3648
+ Pit (Traditional pit latrine),220,438,658
+ Bucket (Surface latrine),573,3279,3852
+ Other,6,86,92
+ No toilet,156,1016,1172
+ Total,2490,7003,9493
+NotApp :,57,*,*
+AREA # 120401,Kyauktada,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1979,-,1979
+ Water seal (Improved pit latrine),4130,-,4130
+ Pit (Traditional pit latrine),7,-,7
+ Other,2,-,2
+ No toilet,2,-,2
+ Total,6120,-,6120
+NotApp :,412,*,*
+AREA # 120402,Pabedan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1848,-,1848
+ Water seal (Improved pit latrine),4704,-,4704
+ Pit (Traditional pit latrine),7,-,7
+ Other,2,-,2
+ No toilet,2,-,2
+ Total,6563,-,6563
+NotApp :,145,*,*
+AREA # 120403,Lanmadaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2940,-,2940
+ Water seal (Improved pit latrine),5620,-,5620
+ Pit (Traditional pit latrine),8,-,8
+ Other,3,-,3
+ No toilet,28,-,28
+ Total,8599,-,8599
+NotApp :,607,*,*
+AREA # 120404,Latha,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1651,-,1651
+ Water seal (Improved pit latrine),2821,-,2821
+ Pit (Traditional pit latrine),1,-,1
+ Total,4473,-,4473
+NotApp :,510,*,*
+AREA # 120405,Ahlon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2802,-,2802
+ Water seal (Improved pit latrine),7880,-,7880
+ Pit (Traditional pit latrine),10,-,10
+ Bucket (Surface latrine),173,-,173
+ Other,30,-,30
+ No toilet,48,-,48
+ Total,10943,-,10943
+NotApp :,503,*,*
+AREA # 120406,Kyimyindine,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2164,-,2164
+ Water seal (Improved pit latrine),15167,-,15167
+ Pit (Traditional pit latrine),395,-,395
+ Bucket (Surface latrine),5007,-,5007
+ Other,67,-,67
+ No toilet,262,-,262
+ Total,23062,-,23062
+NotApp :,182,*,*
+AREA # 120407,Sangyoung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5858,-,5858
+ Water seal (Improved pit latrine),14746,-,14746
+ Pit (Traditional pit latrine),21,-,21
+ Bucket (Surface latrine),1,-,1
+ Other,5,-,5
+ No toilet,4,-,4
+ Total,20635,-,20635
+NotApp :,1228,*,*
+AREA # 120408,Hline,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,4804,-,4804
+ Water seal (Improved pit latrine),27809,-,27809
+ Pit (Traditional pit latrine),86,-,86
+ Bucket (Surface latrine),24,-,24
+ Other,9,-,9
+ No toilet,105,-,105
+ Total,32837,-,32837
+NotApp :,851,*,*
+AREA # 120409,Kamayut,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5079,-,5079
+ Water seal (Improved pit latrine),11185,-,11185
+ Pit (Traditional pit latrine),25,-,25
+ Other,3,-,3
+ No toilet,7,-,7
+ Total,16299,-,16299
+NotApp :,1002,*,*
+AREA # 120410,Mayangon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,6367,-,6367
+ Water seal (Improved pit latrine),31819,-,31819
+ Pit (Traditional pit latrine),344,-,344
+ Bucket (Surface latrine),142,-,142
+ Other,57,-,57
+ No toilet,78,-,78
+ Total,38807,-,38807
+NotApp :,891,*,*
+AREA # 120411,Dagon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2171,-,2171
+ Water seal (Improved pit latrine),2412,-,2412
+ Pit (Traditional pit latrine),10,-,10
+ Bucket (Surface latrine),1,-,1
+ Other,2,-,2
+ No toilet,12,-,12
+ Total,4608,-,4608
+NotApp :,176,*,*
+AREA # 120412,Bahan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5200,-,5200
+ Water seal (Improved pit latrine),11947,-,11947
+ Pit (Traditional pit latrine),46,-,46
+ Bucket (Surface latrine),8,-,8
+ Other,92,-,92
+ No toilet,133,-,133
+ Total,17426,-,17426
+NotApp :,1076,*,*
+AREA # 120413,Seikkan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3,-,3
+ Water seal (Improved pit latrine),406,-,406
+ Other,1,-,1
+ Total,410,-,410
+NotApp :,67,*,*
+AREA # 130101,Taunggyi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1903,453,2356
+ Water seal (Improved pit latrine),52233,20680,72913
+ Pit (Traditional pit latrine),2132,3825,5957
+ Bucket (Surface latrine),27,82,109
+ Other,69,206,275
+ No toilet,284,710,994
+ Total,56648,25956,82604
+NotApp :,922,*,*
+AREA # 130102,Nyaungshwe,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,101,421,522
+ Water seal (Improved pit latrine),2938,22228,25166
+ Pit (Traditional pit latrine),5,4604,4609
+ Bucket (Surface latrine),1,7921,7922
+ Other,3,1135,1138
+ No toilet,11,3266,3277
+ Total,3059,39575,42634
+NotApp :,550,*,*
+AREA # 130103,Hopon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,38,138,176
+ Water seal (Improved pit latrine),4028,12247,16275
+ Pit (Traditional pit latrine),359,6528,6887
+ Bucket (Surface latrine),10,172,182
+ Other,39,75,114
+ No toilet,62,1032,1094
+ Total,4536,20192,24728
+NotApp :,246,*,*
+AREA # 130104,Hsihseng,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,16,162,178
+ Water seal (Improved pit latrine),2403,22928,25331
+ Pit (Traditional pit latrine),184,5153,5337
+ Bucket (Surface latrine),-,231,231
+ Other,2,675,677
+ No toilet,44,973,1017
+ Total,2649,30122,32771
+NotApp :,323,*,*
+AREA # 130105,Kalaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,329,156,485
+ Water seal (Improved pit latrine),11121,22294,33415
+ Pit (Traditional pit latrine),886,4121,5007
+ Bucket (Surface latrine),23,116,139
+ Other,86,142,228
+ No toilet,153,1914,2067
+ Total,12598,28743,41341
+NotApp :,409,*,*
+AREA # 130106,Pindaya,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,37,378,415
+ Water seal (Improved pit latrine),2045,10802,12847
+ Pit (Traditional pit latrine),138,2286,2424
+ Bucket (Surface latrine),4,79,83
+ Other,18,462,480
+ No toilet,17,1278,1295
+ Total,2259,15285,17544
+NotApp :,214,*,*
+AREA # 130107,Ywarngan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,18,163,181
+ Water seal (Improved pit latrine),1066,13192,14258
+ Pit (Traditional pit latrine),33,1806,1839
+ Bucket (Surface latrine),2,69,71
+ Other,10,179,189
+ No toilet,26,1784,1810
+ Total,1155,17193,18348
+NotApp :,248,*,*
+AREA # 130108,Yatsauk,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,65,43,108
+ Water seal (Improved pit latrine),5336,11511,16847
+ Pit (Traditional pit latrine),210,6628,6838
+ Bucket (Surface latrine),5,158,163
+ Other,36,502,538
+ No toilet,25,1438,1463
+ Total,5677,20280,25957
+NotApp :,294,*,*
+AREA # 130109,Pinlaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,45,37,82
+ Water seal (Improved pit latrine),2525,19919,22444
+ Pit (Traditional pit latrine),152,1289,1441
+ Bucket (Surface latrine),2,89,91
+ Other,4,109,113
+ No toilet,42,1291,1333
+ Total,2770,22734,25504
+NotApp :,214,*,*
+AREA # 130110,Phekon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,27,72,99
+ Water seal (Improved pit latrine),3223,14123,17346
+ Pit (Traditional pit latrine),89,527,616
+ Bucket (Surface latrine),2,100,102
+ Other,5,192,197
+ No toilet,85,1639,1724
+ Total,3431,16653,20084
+NotApp :,187,*,*
+AREA # 130151,Kyauktalongyi(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,37,38
+ Water seal (Improved pit latrine),599,10314,10913
+ Pit (Traditional pit latrine),-,1105,1105
+ Bucket (Surface latrine),-,70,70
+ Other,1,24,25
+ No toilet,1,113,114
+ Total,602,11663,12265
+NotApp :,78,*,*
+AREA # 130152,Indaw(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,7,65,72
+ Water seal (Improved pit latrine),1750,2668,4418
+ Pit (Traditional pit latrine),48,3239,3287
+ Bucket (Surface latrine),8,48,56
+ Other,2,76,78
+ No toilet,21,218,239
+ Total,1836,6314,8150
+NotApp :,120,*,*
+AREA # 130153,Naungtayar(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5,218,223
+ Water seal (Improved pit latrine),957,13056,14013
+ Pit (Traditional pit latrine),8,1118,1126
+ Bucket (Surface latrine),2,175,177
+ Other,-,90,90
+ No toilet,7,943,950
+ Total,979,15600,16579
+NotApp :,149,*,*
+AREA # 130201,Loilem,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,35,12,47
+ Water seal (Improved pit latrine),2629,3786,6415
+ Pit (Traditional pit latrine),174,3756,3930
+ Bucket (Surface latrine),1,84,85
+ Other,2,208,210
+ No toilet,12,202,214
+ Total,2853,8048,10901
+NotApp :,112,*,*
+AREA # 130202,Le`char,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,6,23,29
+ Water seal (Improved pit latrine),1259,3564,4823
+ Pit (Traditional pit latrine),49,3179,3228
+ Bucket (Surface latrine),4,240,244
+ Other,-,155,155
+ No toilet,12,299,311
+ Total,1330,7460,8790
+NotApp :,101,*,*
+AREA # 130203,Nanhsam(South),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,171,140,311
+ Water seal (Improved pit latrine),4448,7332,11780
+ Pit (Traditional pit latrine),188,4283,4471
+ Bucket (Surface latrine),10,290,300
+ Other,3,348,351
+ No toilet,21,1629,1650
+ Total,4841,14022,18863
+NotApp :,264,*,*
+AREA # 130204,Kunhing,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,112,20,132
+ Water seal (Improved pit latrine),1284,1909,3193
+ Pit (Traditional pit latrine),124,744,868
+ Bucket (Surface latrine),8,56,64
+ Other,1,26,27
+ No toilet,13,273,286
+ Total,1542,3028,4570
+NotApp :,122,*,*
+AREA # 130205,Kehsi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,38,172,210
+ Water seal (Improved pit latrine),640,2581,3221
+ Pit (Traditional pit latrine),157,4958,5115
+ Bucket (Surface latrine),1,81,82
+ Other,-,97,97
+ No toilet,6,170,176
+ Total,842,8059,8901
+NotApp :,109,*,*
+AREA # 130206,Mongkai,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,8,51,59
+ Water seal (Improved pit latrine),1619,3775,5394
+ Pit (Traditional pit latrine),424,5490,5914
+ Bucket (Surface latrine),15,794,809
+ Other,127,515,642
+ No toilet,26,3488,3514
+ Total,2219,14113,16332
+NotApp :,213,*,*
+AREA # 130207,Mineshu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,131,61,192
+ Water seal (Improved pit latrine),1535,1513,3048
+ Pit (Traditional pit latrine),353,4868,5221
+ Bucket (Surface latrine),9,129,138
+ Other,24,5,29
+ No toilet,31,542,573
+ Total,2083,7118,9201
+NotApp :,161,*,*
+AREA # 130251,Panglong(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,116,68,184
+ Water seal (Improved pit latrine),4377,1215,5592
+ Pit (Traditional pit latrine),663,7616,8279
+ Bucket (Surface latrine),11,82,93
+ Other,29,150,179
+ No toilet,28,161,189
+ Total,5224,9292,14516
+NotApp :,104,*,*
+AREA # 130252,Kholan(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,27,33,60
+ Water seal (Improved pit latrine),1565,1006,2571
+ Pit (Traditional pit latrine),120,1089,1209
+ Bucket (Surface latrine),14,57,71
+ Other,8,132,140
+ No toilet,14,299,313
+ Total,1748,2616,4364
+NotApp :,145,*,*
+AREA # 130253,Karli(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,76,35,111
+ Water seal (Improved pit latrine),1384,3710,5094
+ Pit (Traditional pit latrine),115,220,335
+ Bucket (Surface latrine),2,37,39
+ Other,58,11,69
+ No toilet,30,889,919
+ Total,1665,4902,6567
+NotApp :,80,*,*
+AREA # 130254,Minenaung(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2,49,51
+ Water seal (Improved pit latrine),363,755,1118
+ Pit (Traditional pit latrine),279,2870,3149
+ Bucket (Surface latrine),14,172,186
+ Other,93,574,667
+ No toilet,1,639,640
+ Total,752,5059,5811
+NotApp :,69,*,*
+AREA # 130255,Minesan(Monsan)(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,20,21
+ Water seal (Improved pit latrine),394,3855,4249
+ Pit (Traditional pit latrine),94,1202,1296
+ Bucket (Surface latrine),5,256,261
+ Other,1,208,209
+ No toilet,12,618,630
+ Total,507,6159,6666
+NotApp :,259,*,*
+AREA # 130301,Linkhe`,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,23,90,113
+ Water seal (Improved pit latrine),1522,4919,6441
+ Pit (Traditional pit latrine),128,1040,1168
+ Bucket (Surface latrine),7,37,44
+ Other,10,77,87
+ No toilet,28,507,535
+ Total,1718,6670,8388
+NotApp :,100,*,*
+AREA # 130302,Mone`,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,19,65,84
+ Water seal (Improved pit latrine),1743,1787,3530
+ Pit (Traditional pit latrine),278,1560,1838
+ Bucket (Surface latrine),5,37,42
+ Other,54,249,303
+ No toilet,4,423,427
+ Total,2103,4121,6224
+NotApp :,66,*,*
+AREA # 130303,Maukme`,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,56,64,120
+ Water seal (Improved pit latrine),1060,2906,3966
+ Pit (Traditional pit latrine),61,2301,2362
+ Bucket (Surface latrine),-,59,59
+ Other,6,29,35
+ No toilet,9,643,652
+ Total,1192,6002,7194
+NotApp :,191,*,*
+AREA # 130304,Minepan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,27,329,356
+ Water seal (Improved pit latrine),1810,1603,3413
+ Pit (Traditional pit latrine),89,1026,1115
+ Bucket (Surface latrine),11,19,30
+ Other,14,101,115
+ No toilet,8,384,392
+ Total,1959,3462,5421
+NotApp :,165,*,*
+AREA # 130351,Homane(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,62,12,74
+ Water seal (Improved pit latrine),569,194,763
+ Pit (Traditional pit latrine),7,133,140
+ Bucket (Surface latrine),7,26,33
+ Other,-,4,4
+ No toilet,29,117,146
+ Total,674,486,1160
+NotApp :,17,*,*
+AREA # 130352,Kengtaung(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,41,-,41
+ Water seal (Improved pit latrine),1630,1,1631
+ Pit (Traditional pit latrine),373,72,445
+ Bucket (Surface latrine),6,-,6
+ Other,9,30,39
+ No toilet,38,61,99
+ Total,2097,164,2261
+NotApp :,46,*,*
+AREA # 130401,Lashio,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,518,82,600
+ Water seal (Improved pit latrine),31805,16818,48623
+ Pit (Traditional pit latrine),1593,10529,12122
+ Bucket (Surface latrine),56,432,488
+ Other,37,323,360
+ No toilet,90,2649,2739
+ Total,34099,30833,64932
+NotApp :,881,*,*
+AREA # 130402,Theinni,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,11,36,47
+ Water seal (Improved pit latrine),1831,7310,9141
+ Pit (Traditional pit latrine),69,1981,2050
+ Bucket (Surface latrine),-,107,107
+ Other,3,170,173
+ No toilet,9,252,261
+ Total,1923,9856,11779
+NotApp :,116,*,*
+AREA # 130403,Mineye`,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,15,27,42
+ Water seal (Improved pit latrine),1188,2502,3690
+ Pit (Traditional pit latrine),219,7098,7317
+ Bucket (Surface latrine),3,393,396
+ Other,25,352,377
+ No toilet,20,1486,1506
+ Total,1470,11858,13328
+NotApp :,139,*,*
+AREA # 130404,Tantyan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,96,155,251
+ Water seal (Improved pit latrine),5301,8194,13495
+ Pit (Traditional pit latrine),1254,12731,13985
+ Bucket (Surface latrine),47,1596,1643
+ Other,14,489,503
+ No toilet,96,5169,5265
+ Total,6808,28334,35142
+NotApp :,291,*,*
+AREA # 130501,MuSe,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,243,233,476
+ Water seal (Improved pit latrine),12820,7064,19884
+ Pit (Traditional pit latrine),217,1354,1571
+ Bucket (Surface latrine),15,64,79
+ Other,9,30,39
+ No toilet,30,135,165
+ Total,13334,8880,22214
+NotApp :,873,*,*
+AREA # 130502,Namkham,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,311,592,903
+ Water seal (Improved pit latrine),5393,7218,12611
+ Pit (Traditional pit latrine),109,5008,5117
+ Bucket (Surface latrine),267,1633,1900
+ Other,28,128,156
+ No toilet,24,706,730
+ Total,6132,15285,21417
+NotApp :,200,*,*
+AREA # 130503,Kukai,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,78,177,255
+ Water seal (Improved pit latrine),4122,8270,12392
+ Pit (Traditional pit latrine),366,3669,4035
+ Bucket (Surface latrine),13,812,825
+ Other,92,547,639
+ No toilet,12,873,885
+ Total,4683,14348,19031
+NotApp :,175,*,*
+AREA # 130551,Monekoe(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,95,68,163
+ Water seal (Improved pit latrine),833,468,1301
+ Pit (Traditional pit latrine),253,919,1172
+ Bucket (Surface latrine),77,420,497
+ Other,180,362,542
+ No toilet,31,652,683
+ Total,1469,2889,4358
+NotApp :,29,*,*
+AREA # 130552,Manhero(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3,3,6
+ Water seal (Improved pit latrine),339,1173,1512
+ Pit (Traditional pit latrine),3,114,117
+ Other,1,1,2
+ No toilet,-,6,6
+ Total,346,1297,1643
+NotApp :,30,*,*
+AREA # 130553,Pansai(KyuKute)(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,9,4,13
+ Water seal (Improved pit latrine),1413,2046,3459
+ Pit (Traditional pit latrine),292,612,904
+ Bucket (Surface latrine),39,15,54
+ Other,5,20,25
+ No toilet,10,78,88
+ Total,1768,2775,4543
+NotApp :,51,*,*
+AREA # 130554,Tamoenye(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,293,60,353
+ Water seal (Improved pit latrine),1311,3176,4487
+ Pit (Traditional pit latrine),763,5626,6389
+ Bucket (Surface latrine),89,277,366
+ Other,5,281,286
+ No toilet,26,1142,1168
+ Total,2487,10562,13049
+NotApp :,45,*,*
+AREA # 130601,Kyukme,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,156,244,400
+ Water seal (Improved pit latrine),8145,12236,20381
+ Pit (Traditional pit latrine),288,6143,6431
+ Bucket (Surface latrine),15,265,280
+ Other,21,201,222
+ No toilet,28,629,657
+ Total,8653,19718,28371
+NotApp :,367,*,*
+AREA # 130602,Naungkhio,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,63,963,1026
+ Water seal (Improved pit latrine),3852,17712,21564
+ Pit (Traditional pit latrine),142,6287,6429
+ Bucket (Surface latrine),8,274,282
+ Other,51,591,642
+ No toilet,55,2226,2281
+ Total,4171,28053,32224
+NotApp :,365,*,*
+AREA # 130603,Hsipaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,43,157,200
+ Water seal (Improved pit latrine),3800,16842,20642
+ Pit (Traditional pit latrine),112,15326,15438
+ Bucket (Surface latrine),5,482,487
+ Other,2,231,233
+ No toilet,47,859,906
+ Total,4009,33897,37906
+NotApp :,454,*,*
+AREA # 130604,Namtu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,10,81,91
+ Water seal (Improved pit latrine),2645,4497,7142
+ Pit (Traditional pit latrine),421,2575,2996
+ Bucket (Surface latrine),32,465,497
+ Other,17,318,335
+ No toilet,132,448,580
+ Total,3257,8384,11641
+NotApp :,153,*,*
+AREA # 130605,Namsan(North),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5,137,142
+ Water seal (Improved pit latrine),820,6240,7060
+ Pit (Traditional pit latrine),78,5328,5406
+ Bucket (Surface latrine),30,119,149
+ Other,-,744,744
+ No toilet,2,182,184
+ Total,935,12750,13685
+NotApp :,265,*,*
+AREA # 130606,Momeik,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,112,113
+ Water seal (Improved pit latrine),2213,8013,10226
+ Pit (Traditional pit latrine),4,2711,2715
+ Bucket (Surface latrine),-,75,75
+ Other,7,62,69
+ No toilet,8,446,454
+ Total,2233,11419,13652
+NotApp :,177,*,*
+AREA # 130607,Mabane,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,165,166
+ Water seal (Improved pit latrine),699,7110,7809
+ Pit (Traditional pit latrine),13,179,192
+ Bucket (Surface latrine),1,28,29
+ Other,-,5,5
+ No toilet,-,431,431
+ Total,714,7918,8632
+NotApp :,266,*,*
+AREA # 130608,Manton,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3,16,19
+ Water seal (Improved pit latrine),511,1410,1921
+ Pit (Traditional pit latrine),169,4050,4219
+ Bucket (Surface latrine),43,291,334
+ Other,20,837,857
+ No toilet,33,300,333
+ Total,779,6904,7683
+NotApp :,136,*,*
+AREA # 130651,Minengaw(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,78,78
+ Water seal (Improved pit latrine),491,1464,1955
+ Pit (Traditional pit latrine),118,1669,1787
+ Bucket (Surface latrine),-,134,134
+ Other,-,38,38
+ No toilet,4,33,37
+ Total,613,3416,4029
+NotApp :,98,*,*
+AREA # 130652,Minelon(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,4,3,7
+ Water seal (Improved pit latrine),540,2385,2925
+ Pit (Traditional pit latrine),28,2463,2491
+ Bucket (Surface latrine),1,114,115
+ Other,1,132,133
+ No toilet,12,173,185
+ Total,586,5270,5856
+NotApp :,201,*,*
+AREA # 130701,Kunlon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5,126,131
+ Water seal (Improved pit latrine),1036,2811,3847
+ Pit (Traditional pit latrine),97,2772,2869
+ Bucket (Surface latrine),2,594,596
+ Other,-,193,193
+ No toilet,18,2738,2756
+ Total,1158,9234,10392
+NotApp :,158,*,*
+AREA # 130801,Laukine,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,53,403,456
+ Water seal (Improved pit latrine),2679,4371,7050
+ Pit (Traditional pit latrine),122,1782,1904
+ Bucket (Surface latrine),6,507,513
+ Other,60,188,248
+ No toilet,21,4039,4060
+ Total,2941,11290,14231
+NotApp :,557,*,*
+AREA # 130802,Kongyan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,65,65
+ Water seal (Improved pit latrine),147,537,684
+ Pit (Traditional pit latrine),8,419,427
+ Bucket (Surface latrine),10,1175,1185
+ Other,9,48,57
+ No toilet,20,3024,3044
+ Total,194,5268,5462
+NotApp :,14,*,*
+AREA # 130851,Chinshwehaw(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,8,2,10
+ Water seal (Improved pit latrine),521,77,598
+ Pit (Traditional pit latrine),66,76,142
+ Bucket (Surface latrine),1,2,3
+ Other,5,-,5
+ No toilet,18,174,192
+ Total,619,331,950
+NotApp :,28,*,*
+AREA # 130852,Mawhtike(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,79,79
+ Water seal (Improved pit latrine),82,382,464
+ Pit (Traditional pit latrine),2,409,411
+ Bucket (Surface latrine),1,407,408
+ Other,-,311,311
+ No toilet,-,2530,2530
+ Total,85,4118,4203
+NotApp :,14,*,*
+AREA # 130901,Hopan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,105,182,287
+ Water seal (Improved pit latrine),2549,2179,4728
+ Pit (Traditional pit latrine),597,2038,2635
+ Bucket (Surface latrine),39,553,592
+ Other,28,69,97
+ No toilet,60,1632,1692
+ Total,3378,6653,10031
+NotApp :,72,*,*
+AREA # 130902,Minemaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,86,151,237
+ Water seal (Improved pit latrine),447,2096,2543
+ Pit (Traditional pit latrine),258,5521,5779
+ Bucket (Surface latrine),13,992,1005
+ Other,37,335,372
+ No toilet,12,497,509
+ Total,853,9592,10445
+NotApp :,71,*,*
+AREA # 130903,Panwine,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,20,89,109
+ Water seal (Improved pit latrine),123,1169,1292
+ Pit (Traditional pit latrine),192,8779,8971
+ Bucket (Surface latrine),11,1129,1140
+ Other,120,1980,2100
+ No toilet,3,354,357
+ Total,469,13500,13969
+NotApp :,8,*,*
+AREA # 130952,Panlon(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,24,-,24
+ Water seal (Improved pit latrine),189,66,255
+ Pit (Traditional pit latrine),418,179,597
+ Bucket (Surface latrine),4,57,61
+ Other,22,2,24
+ No toilet,4,220,224
+ Total,661,524,1185
+NotApp :,26,*,*
+AREA # 131001,Makman,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,4,4
+ Water seal (Improved pit latrine),45,387,432
+ Pit (Traditional pit latrine),5,86,91
+ Bucket (Surface latrine),-,8,8
+ Other,-,12,12
+ No toilet,17,2754,2771
+ Total,67,3251,3318
+NotApp :,55,*,*
+AREA # 131002,Pan San(Pan Kham),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,142,264,406
+ Water seal (Improved pit latrine),1833,4976,6809
+ Pit (Traditional pit latrine),43,1652,1695
+ Bucket (Surface latrine),1,369,370
+ Other,3,411,414
+ No toilet,-,6448,6448
+ Total,2022,14120,16142
+NotApp :,744,*,*
+AREA # 131003,Naphang,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,24,580,604
+ Water seal (Improved pit latrine),89,3127,3216
+ Pit (Traditional pit latrine),18,4646,4664
+ Bucket (Surface latrine),4,1582,1586
+ Other,19,1510,1529
+ No toilet,1,4874,4875
+ Total,155,16319,16474
+NotApp :,40,*,*
+AREA # 131051,ManKan(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5,-,5
+ Water seal (Improved pit latrine),48,20,68
+ Pit (Traditional pit latrine),21,106,127
+ Bucket (Surface latrine),-,1,1
+ Other,-,4,4
+ No toilet,7,103,110
+ Total,81,234,315
+NotApp :,19,*,*
+AREA # 131101,Kengtung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,228,303,531
+ Water seal (Improved pit latrine),8814,15237,24051
+ Pit (Traditional pit latrine),22,407,429
+ Bucket (Surface latrine),2,71,73
+ Other,14,293,307
+ No toilet,22,8683,8705
+ Total,9102,24994,34096
+NotApp :,512,*,*
+AREA # 131102,Minekat,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3,39,42
+ Water seal (Improved pit latrine),502,1147,1649
+ Pit (Traditional pit latrine),10,272,282
+ Bucket (Surface latrine),-,52,52
+ Other,2,21,23
+ No toilet,41,5936,5977
+ Total,558,7467,8025
+NotApp :,133,*,*
+AREA # 131103,Mineyan,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,8,118,126
+ Water seal (Improved pit latrine),947,3912,4859
+ Pit (Traditional pit latrine),10,255,265
+ Bucket (Surface latrine),15,93,108
+ Other,-,41,41
+ No toilet,9,4711,4720
+ Total,989,9130,10119
+NotApp :,153,*,*
+AREA # 131104,Minelar,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,40,110,150
+ Water seal (Improved pit latrine),1494,1910,3404
+ Pit (Traditional pit latrine),1,101,102
+ Bucket (Surface latrine),1,145,146
+ Other,1,34,35
+ No toilet,23,1348,1371
+ Total,1560,3648,5208
+NotApp :,231,*,*
+AREA # 131151,Mine Pauk(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,169,169
+ Water seal (Improved pit latrine),-,3166,3166
+ Pit (Traditional pit latrine),-,1362,1362
+ Bucket (Surface latrine),-,87,87
+ Other,-,308,308
+ No toilet,-,4193,4193
+ Total,-,9285,9285
+NotApp :,65,*,*
+AREA # 131201,Minesat,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,30,270,300
+ Water seal (Improved pit latrine),1518,5645,7163
+ Pit (Traditional pit latrine),4,4843,4847
+ Bucket (Surface latrine),-,284,284
+ Other,1,33,34
+ No toilet,8,3273,3281
+ Total,1561,14348,15909
+NotApp :,313,*,*
+AREA # 131202,Minepyin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,65,37,102
+ Water seal (Improved pit latrine),1068,2642,3710
+ Pit (Traditional pit latrine),73,422,495
+ Bucket (Surface latrine),9,32,41
+ Other,5,27,32
+ No toilet,113,6112,6225
+ Total,1333,9272,10605
+NotApp :,144,*,*
+AREA # 131203,Minetung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,2,14,16
+ Water seal (Improved pit latrine),1024,1001,2025
+ Pit (Traditional pit latrine),67,893,960
+ Bucket (Surface latrine),9,19,28
+ Other,-,75,75
+ No toilet,17,1137,1154
+ Total,1119,3139,4258
+NotApp :,57,*,*
+AREA # 131251,Minekoke(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,38,35,73
+ Water seal (Improved pit latrine),177,445,622
+ Pit (Traditional pit latrine),1,22,23
+ Bucket (Surface latrine),-,9,9
+ Other,-,106,106
+ No toilet,68,2301,2369
+ Total,284,2918,3202
+NotApp :,77,*,*
+AREA # 131252,Tontar(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,-,1
+ Water seal (Improved pit latrine),330,239,569
+ Pit (Traditional pit latrine),12,5,17
+ Bucket (Surface latrine),1,2,3
+ Other,10,1,11
+ No toilet,73,2020,2093
+ Total,427,2267,2694
+NotApp :,33,*,*
+AREA # 131253,Ponparkyin(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,9,197,206
+ Water seal (Improved pit latrine),671,2518,3189
+ Pit (Traditional pit latrine),40,3274,3314
+ Bucket (Surface latrine),-,113,113
+ Other,-,121,121
+ No toilet,1,390,391
+ Total,721,6613,7334
+NotApp :,83,*,*
+AREA # 131254,Monehta(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,6,6
+ Water seal (Improved pit latrine),58,91,149
+ Pit (Traditional pit latrine),10,620,630
+ Bucket (Surface latrine),5,31,36
+ Other,3,2,5
+ No toilet,15,88,103
+ Total,91,838,929
+NotApp :,3,*,*
+AREA # 131301,Tachileik,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,503,174,677
+ Water seal (Improved pit latrine),10557,17536,28093
+ Pit (Traditional pit latrine),21,535,556
+ Bucket (Surface latrine),2,27,29
+ Other,4,82,86
+ No toilet,7,1731,1738
+ Total,11094,20085,31179
+NotApp :,515,*,*
+AREA # 131351,Talay(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5,31,36
+ Water seal (Improved pit latrine),848,2489,3337
+ Pit (Traditional pit latrine),2,18,20
+ Other,-,2,2
+ No toilet,18,605,623
+ Total,873,3145,4018
+NotApp :,85,*,*
+AREA # 131352,Kenglat(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,8,14,22
+ Water seal (Improved pit latrine),747,1146,1893
+ Pit (Traditional pit latrine),-,11,11
+ Bucket (Surface latrine),-,2,2
+ Other,-,6,6
+ No toilet,7,535,542
+ Total,762,1714,2476
+NotApp :,39,*,*
+AREA # 131401,Minephyat,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,13,15,28
+ Water seal (Improved pit latrine),1297,2690,3987
+ Pit (Traditional pit latrine),2,25,27
+ Bucket (Surface latrine),-,7,7
+ Other,1,5,6
+ No toilet,10,2100,2110
+ Total,1323,4842,6165
+NotApp :,161,*,*
+AREA # 131402,Mineyaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,4,286,290
+ Water seal (Improved pit latrine),1129,4199,5328
+ Pit (Traditional pit latrine),3,10,13
+ Bucket (Surface latrine),2,8,10
+ Other,2,19,21
+ No toilet,50,617,667
+ Total,1190,5139,6329
+NotApp :,131,*,*
+AREA # 131451,Mineyu(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,3,252,255
+ Water seal (Improved pit latrine),206,4321,4527
+ Pit (Traditional pit latrine),-,351,351
+ Bucket (Surface latrine),-,54,54
+ Other,1,103,104
+ No toilet,21,5555,5576
+ Total,231,10636,10867
+NotApp :,165,*,*
+AREA # 140101,Kangyidaunt,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,24,142,166
+ Water seal (Improved pit latrine),2480,32703,35183
+ Pit (Traditional pit latrine),29,629,658
+ Bucket (Surface latrine),73,2654,2727
+ Other,-,459,459
+ No toilet,68,3705,3773
+ Total,2674,40292,42966
+NotApp :,345,*,*
+AREA # 140102,Kyaungon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,79,340,419
+ Water seal (Improved pit latrine),3682,32437,36119
+ Pit (Traditional pit latrine),80,1767,1847
+ Bucket (Surface latrine),3,302,305
+ Other,2,196,198
+ No toilet,104,2410,2514
+ Total,3950,37452,41402
+NotApp :,278,*,*
+AREA # 140103,Kyonpyaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,94,111,205
+ Water seal (Improved pit latrine),5728,51095,56823
+ Pit (Traditional pit latrine),84,716,800
+ Bucket (Surface latrine),-,105,105
+ Other,4,70,74
+ No toilet,89,1392,1481
+ Total,5999,53489,59488
+NotApp :,394,*,*
+AREA # 140104,Ngaputaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,15,312,327
+ Water seal (Improved pit latrine),2224,15412,17636
+ Pit (Traditional pit latrine),51,546,597
+ Bucket (Surface latrine),26,4703,4729
+ Other,19,863,882
+ No toilet,206,12999,13205
+ Total,2541,34835,37376
+NotApp :,231,*,*
+AREA # 140105,Pathein,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,917,126,1043
+ Water seal (Improved pit latrine),34381,22946,57327
+ Pit (Traditional pit latrine),705,875,1580
+ Bucket (Surface latrine),620,947,1567
+ Other,100,231,331
+ No toilet,718,3470,4188
+ Total,37441,28595,66036
+NotApp :,851,*,*
+AREA # 140106,Yekyi,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,36,65,101
+ Water seal (Improved pit latrine),2691,22555,25246
+ Pit (Traditional pit latrine),25,461,486
+ Bucket (Surface latrine),1,395,396
+ Other,-,75,75
+ No toilet,13,1485,1498
+ Total,2766,25036,27802
+NotApp :,199,*,*
+AREA # 140107,Thapaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,13,329,342
+ Water seal (Improved pit latrine),1530,19509,21039
+ Pit (Traditional pit latrine),36,2766,2802
+ Bucket (Surface latrine),30,1302,1332
+ Other,5,1104,1109
+ No toilet,126,10487,10613
+ Total,1740,35497,37237
+NotApp :,376,*,*
+AREA # 140151,Ngayokaung(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1,7,8
+ Water seal (Improved pit latrine),588,3207,3795
+ Pit (Traditional pit latrine),6,215,221
+ Bucket (Surface latrine),36,685,721
+ Other,6,186,192
+ No toilet,196,5068,5264
+ Total,833,9368,10201
+NotApp :,68,*,*
+AREA # 140152,Hainggyikyun(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,5,68,73
+ Water seal (Improved pit latrine),2764,13188,15952
+ Pit (Traditional pit latrine),47,257,304
+ Bucket (Surface latrine),283,2184,2467
+ Other,2,412,414
+ No toilet,448,9417,9865
+ Total,3549,25526,29075
+NotApp :,204,*,*
+AREA # 140153,Shwethaungyan(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,4,40,44
+ Water seal (Improved pit latrine),520,6008,6528
+ Pit (Traditional pit latrine),42,121,163
+ Bucket (Surface latrine),1,243,244
+ Other,14,53,67
+ No toilet,238,2897,3135
+ Total,819,9362,10181
+NotApp :,202,*,*
+AREA # 140154,Ngwehsaung(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,36,27,63
+ Water seal (Improved pit latrine),2367,4357,6724
+ Pit (Traditional pit latrine),19,242,261
+ Bucket (Surface latrine),9,155,164
+ Other,9,18,27
+ No toilet,235,1996,2231
+ Total,2675,6795,9470
+NotApp :,180,*,*
+AREA # 140155,Ngathaingchaung(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,55,65,120
+ Water seal (Improved pit latrine),3930,10262,14192
+ Pit (Traditional pit latrine),179,991,1170
+ Bucket (Surface latrine),150,2808,2958
+ Other,7,284,291
+ No toilet,276,3906,4182
+ Total,4597,18316,22913
+NotApp :,199,*,*
+AREA # 140201,Kyaiklatt,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,111,182,293
+ Water seal (Improved pit latrine),4903,30730,35633
+ Pit (Traditional pit latrine),236,2256,2492
+ Bucket (Surface latrine),26,982,1008
+ Other,45,249,294
+ No toilet,96,3932,4028
+ Total,5417,38331,43748
+NotApp :,526,*,*
+AREA # 140202,Daydaye,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,25,296,321
+ Water seal (Improved pit latrine),3012,31896,34908
+ Pit (Traditional pit latrine),122,963,1085
+ Bucket (Surface latrine),260,3693,3953
+ Other,5,599,604
+ No toilet,142,7597,7739
+ Total,3566,45044,48610
+NotApp :,479,*,*
+AREA # 140203,Phyapon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,111,325,436
+ Water seal (Improved pit latrine),8908,16108,25016
+ Pit (Traditional pit latrine),396,853,1249
+ Bucket (Surface latrine),194,6352,6546
+ Other,81,1178,1259
+ No toilet,364,6760,7124
+ Total,10054,31576,41630
+NotApp :,366,*,*
+AREA # 140204,Bogale,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,116,494,610
+ Water seal (Improved pit latrine),7712,37179,44891
+ Pit (Traditional pit latrine),545,3214,3759
+ Bucket (Surface latrine),1190,7456,8646
+ Other,28,2049,2077
+ No toilet,524,15480,16004
+ Total,10115,65872,75987
+NotApp :,607,*,*
+AREA # 140251,Ahmar(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,4,271,275
+ Water seal (Improved pit latrine),516,6484,7000
+ Pit (Traditional pit latrine),30,727,757
+ Bucket (Surface latrine),20,8808,8828
+ Other,1,1334,1335
+ No toilet,206,9385,9591
+ Total,777,27009,27786
+NotApp :,383,*,*
+AREA # 140301,Nyaungdon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,58,88,146
+ Water seal (Improved pit latrine),4814,37707,42521
+ Pit (Traditional pit latrine),833,3748,4581
+ Bucket (Surface latrine),18,1272,1290
+ Other,47,513,560
+ No toilet,130,1973,2103
+ Total,5900,45301,51201
+NotApp :,457,*,*
+AREA # 140302,Danubyu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,84,100,184
+ Water seal (Improved pit latrine),4957,35108,40065
+ Pit (Traditional pit latrine),41,1161,1202
+ Bucket (Surface latrine),20,805,825
+ Other,5,479,484
+ No toilet,73,1964,2037
+ Total,5180,39617,44797
+NotApp :,310,*,*
+AREA # 140303,Pantanaw,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,86,147,233
+ Water seal (Improved pit latrine),3435,45658,49093
+ Pit (Traditional pit latrine),357,2043,2400
+ Bucket (Surface latrine),185,3592,3777
+ Other,16,417,433
+ No toilet,213,4128,4341
+ Total,4292,55985,60277
+NotApp :,434,*,*
+AREA # 140304,Maubin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,144,215,359
+ Water seal (Improved pit latrine),7992,41084,49076
+ Pit (Traditional pit latrine),635,12863,13498
+ Bucket (Surface latrine),63,3864,3927
+ Other,66,553,619
+ No toilet,237,4088,4325
+ Total,9137,62667,71804
+NotApp :,629,*,*
+AREA # 140401,Myaungmya,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,237,307,544
+ Water seal (Improved pit latrine),11163,33491,44654
+ Pit (Traditional pit latrine),329,3079,3408
+ Bucket (Surface latrine),262,6481,6743
+ Other,35,1069,1104
+ No toilet,487,9232,9719
+ Total,12513,53659,66172
+NotApp :,571,*,*
+AREA # 140402,Wakema,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,26,265,291
+ Water seal (Improved pit latrine),4935,48295,53230
+ Pit (Traditional pit latrine),76,2705,2781
+ Bucket (Surface latrine),80,3553,3633
+ Other,15,545,560
+ No toilet,173,6780,6953
+ Total,5305,62143,67448
+NotApp :,575,*,*
+AREA # 140403,Einme,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,48,115,163
+ Water seal (Improved pit latrine),2684,32485,35169
+ Pit (Traditional pit latrine),256,5933,6189
+ Bucket (Surface latrine),1,1279,1280
+ Other,14,410,424
+ No toilet,43,3187,3230
+ Total,3046,43409,46455
+NotApp :,362,*,*
+AREA # 140501,Mawlamyinegyun,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,71,187,258
+ Water seal (Improved pit latrine),7027,49637,56664
+ Pit (Traditional pit latrine),202,3914,4116
+ Bucket (Surface latrine),20,1475,1495
+ Other,39,518,557
+ No toilet,224,11572,11796
+ Total,7583,67303,74886
+NotApp :,436,*,*
+AREA # 140502,Labutta,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,100,335,435
+ Water seal (Improved pit latrine),5421,26551,31972
+ Pit (Traditional pit latrine),91,922,1013
+ Bucket (Surface latrine),1130,5871,7001
+ Other,117,993,1110
+ No toilet,344,13271,13615
+ Total,7203,47943,55146
+NotApp :,425,*,*
+AREA # 140551,Pyinsalu(ST),*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,-,82,82
+ Water seal (Improved pit latrine),389,10986,11375
+ Pit (Traditional pit latrine),1,290,291
+ Bucket (Surface latrine),52,1879,1931
+ Other,2,149,151
+ No toilet,57,6550,6607
+ Total,501,19936,20437
+NotApp :,161,*,*
+AREA # 140601,Kyangin,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,95,21,116
+ Water seal (Improved pit latrine),5114,18755,23869
+ Pit (Traditional pit latrine),10,444,454
+ Bucket (Surface latrine),-,243,243
+ Other,5,84,89
+ No toilet,82,2004,2086
+ Total,5306,21551,26857
+NotApp :,241,*,*
+AREA # 140602,Zalun,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,119,192,311
+ Water seal (Improved pit latrine),4910,33305,38215
+ Pit (Traditional pit latrine),37,739,776
+ Bucket (Surface latrine),20,582,602
+ Other,-,105,105
+ No toilet,171,1893,2064
+ Total,5257,36816,42073
+NotApp :,220,*,*
+AREA # 140603,Myanaung,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,67,155,222
+ Water seal (Improved pit latrine),5648,44382,50030
+ Pit (Traditional pit latrine),84,2883,2967
+ Bucket (Surface latrine),49,1176,1225
+ Other,18,351,369
+ No toilet,183,4924,5107
+ Total,6049,53871,59920
+NotApp :,437,*,*
+AREA # 140604,Laymyethna,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,11,25,36
+ Water seal (Improved pit latrine),715,19808,20523
+ Pit (Traditional pit latrine),2,1710,1712
+ Bucket (Surface latrine),2,1143,1145
+ Other,-,175,175
+ No toilet,40,2613,2653
+ Total,770,25474,26244
+NotApp :,310,*,*
+AREA # 140605,Hinthada,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,401,238,639
+ Water seal (Improved pit latrine),18437,53884,72321
+ Pit (Traditional pit latrine),647,9229,9876
+ Bucket (Surface latrine),97,796,893
+ Other,46,128,174
+ No toilet,201,2025,2226
+ Total,19829,66300,86129
+NotApp :,639,*,*
+AREA # 140606,Ingapu,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,45,136,181
+ Water seal (Improved pit latrine),3220,39717,42937
+ Pit (Traditional pit latrine),199,2810,3009
+ Bucket (Surface latrine),5,4956,4961
+ Other,5,333,338
+ No toilet,104,5699,5803
+ Total,3578,53651,57229
+NotApp :,515,*,*
+AREA # 150101,Tatkon,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,227,1229,1456
+ Water seal (Improved pit latrine),8461,35333,43794
+ Pit (Traditional pit latrine),115,1259,1374
+ Bucket (Surface latrine),-,61,61
+ Other,32,49,81
+ No toilet,311,4670,4981
+ Total,9146,42601,51747
+NotApp :,415,*,*
+AREA # 150102,Zeyarthiri,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,1405,234,1639
+ Water seal (Improved pit latrine),6787,16063,22850
+ Pit (Traditional pit latrine),39,485,524
+ Bucket (Surface latrine),3,82,85
+ Other,1,22,23
+ No toilet,11,943,954
+ Total,8246,17829,26075
+NotApp :,326,*,*
+AREA # 150103,Ottarathiri,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,377,314,691
+ Water seal (Improved pit latrine),4243,11507,15750
+ Pit (Traditional pit latrine),52,591,643
+ Bucket (Surface latrine),4,36,40
+ Other,14,36,50
+ No toilet,205,1282,1487
+ Total,4895,13766,18661
+NotApp :,325,*,*
+AREA # 150104,Pobbathiri,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,894,655,1549
+ Water seal (Improved pit latrine),8517,13579,22096
+ Pit (Traditional pit latrine),576,1263,1839
+ Bucket (Surface latrine),16,25,41
+ Other,29,44,73
+ No toilet,216,1802,2018
+ Total,10248,17368,27616
+NotApp :,382,*,*
+AREA # 150201,Pyinmana,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,521,428,949
+ Water seal (Improved pit latrine),12748,20007,32755
+ Pit (Traditional pit latrine),957,2627,3584
+ Bucket (Surface latrine),17,65,82
+ Other,18,117,135
+ No toilet,195,1963,2158
+ Total,14456,25207,39663
+NotApp :,695,*,*
+AREA # 150202,Lewe,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,384,505,889
+ Water seal (Improved pit latrine),5250,47196,52446
+ Pit (Traditional pit latrine),394,2968,3362
+ Bucket (Surface latrine),5,478,483
+ Other,3,453,456
+ No toilet,87,7451,7538
+ Total,6123,59051,65174
+NotApp :,584,*,*
+AREA # 150203,Zabuthiri,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,17504,9,17513
+ Water seal (Improved pit latrine),6420,1232,7652
+ Pit (Traditional pit latrine),466,89,555
+ Bucket (Surface latrine),30,2,32
+ Other,27,1,28
+ No toilet,275,265,540
+ Total,24722,1598,26320
+NotApp :,869,*,*
+AREA # 150204,Dekkhinathiri,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,152,54,206
+ Water seal (Improved pit latrine),726,5667,6393
+ Pit (Traditional pit latrine),16,38,54
+ Bucket (Surface latrine),2,13,15
+ Other,8,4,12
+ No toilet,4,313,317
+ Total,908,6089,6997
+NotApp :,205,*,*
+SUMMARY,*,*,*
+Toilet,Urban/Rural,*,*
+*,Urban,Rural,Total
+ Flush,158773,70202,228975
+ Water seal (Improved pit latrine),2656262,5198875,7855137
+ Pit (Traditional pit latrine),116972,738473,855445
+ Bucket (Surface latrine),30781,260135,290916
+ Other,9259,76416,85675
+ No toilet,77386,1484298,1561684
+ Total,3049433,7828399,10877832
+NotApp :,137752,*,*

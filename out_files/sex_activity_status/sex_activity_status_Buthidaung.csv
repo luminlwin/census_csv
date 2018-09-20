@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),3793,705,4498,Buthidaung,MMR012010
+" Employee (Private, Org)",1582,419,2001,Buthidaung,MMR012010
+ Employer,795,235,1030,Buthidaung,MMR012010
+ Own account worker,6092,1901,7993,Buthidaung,MMR012010
+ Contributing family worker,1732,3017,4749,Buthidaung,MMR012010
+ Sought work,947,815,1762,Buthidaung,MMR012010
+ Did not seek work,185,237,422,Buthidaung,MMR012010
+ Full time student,3637,2984,6621,Buthidaung,MMR012010
+ Household work,298,9248,9546,Buthidaung,MMR012010
+" Pensioner, retired, elderly person",492,879,1371,Buthidaung,MMR012010
+" Ill, disabled",94,121,215,Buthidaung,MMR012010
+ Other,1668,1018,2686,Buthidaung,MMR012010
+ Total,21315,21579,42894,Buthidaung,MMR012010

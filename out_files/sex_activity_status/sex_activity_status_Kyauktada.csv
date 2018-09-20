@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),740,779,1519,Kyauktada,MMR013033
+" Employee (Private, Org)",3669,2929,6598,Kyauktada,MMR013033
+ Employer,675,263,938,Kyauktada,MMR013033
+ Own account worker,2381,1201,3582,Kyauktada,MMR013033
+ Contributing family worker,565,405,970,Kyauktada,MMR013033
+ Sought work,405,380,785,Kyauktada,MMR013033
+ Did not seek work,87,67,154,Kyauktada,MMR013033
+ Full time student,1800,1599,3399,Kyauktada,MMR013033
+ Household work,149,4924,5073,Kyauktada,MMR013033
+" Pensioner, retired, elderly person",1147,1444,2591,Kyauktada,MMR013033
+" Ill, disabled",95,145,240,Kyauktada,MMR013033
+ Other,688,729,1417,Kyauktada,MMR013033
+ Total,12401,14865,27266,Kyauktada,MMR013033

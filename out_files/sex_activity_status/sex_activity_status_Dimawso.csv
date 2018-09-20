@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),988,890,1878,Dimawso,MMR002002
+" Employee (Private, Org)",2691,1376,4067,Dimawso,MMR002002
+ Employer,424,188,612,Dimawso,MMR002002
+ Own account worker,9933,6755,16688,Dimawso,MMR002002
+ Contributing family worker,5452,5845,11297,Dimawso,MMR002002
+ Sought work,765,515,1280,Dimawso,MMR002002
+ Did not seek work,178,114,292,Dimawso,MMR002002
+ Full time student,5220,5649,10869,Dimawso,MMR002002
+ Household work,766,7012,7778,Dimawso,MMR002002
+" Pensioner, retired, elderly person",1089,1321,2410,Dimawso,MMR002002
+" Ill, disabled",253,257,510,Dimawso,MMR002002
+ Other,494,266,760,Dimawso,MMR002002
+ Total,28253,30188,58441,Dimawso,MMR002002

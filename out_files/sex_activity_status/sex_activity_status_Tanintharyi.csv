@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1269,746,2015,Tanintharyi,MMR006008
+" Employee (Private, Org)",6297,2290,8587,Tanintharyi,MMR006008
+ Employer,569,265,834,Tanintharyi,MMR006008
+ Own account worker,15459,6387,21846,Tanintharyi,MMR006008
+ Contributing family worker,4292,3521,7813,Tanintharyi,MMR006008
+ Sought work,1357,698,2055,Tanintharyi,MMR006008
+ Did not seek work,315,170,485,Tanintharyi,MMR006008
+ Full time student,6656,7181,13837,Tanintharyi,MMR006008
+ Household work,650,14524,15174,Tanintharyi,MMR006008
+" Pensioner, retired, elderly person",1238,1990,3228,Tanintharyi,MMR006008
+" Ill, disabled",400,315,715,Tanintharyi,MMR006008
+ Other,2820,1150,3970,Tanintharyi,MMR006008
+ Total,41322,39237,80559,Tanintharyi,MMR006008

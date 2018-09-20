@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),637,239,876,Palauk(ST),MMR006007
+" Employee (Private, Org)",1458,297,1755,Palauk(ST),MMR006007
+ Employer,283,52,335,Palauk(ST),MMR006007
+ Own account worker,4354,1086,5440,Palauk(ST),MMR006007
+ Contributing family worker,801,1199,2000,Palauk(ST),MMR006007
+ Sought work,871,619,1490,Palauk(ST),MMR006007
+ Did not seek work,942,468,1410,Palauk(ST),MMR006007
+ Full time student,2314,2729,5043,Palauk(ST),MMR006007
+ Household work,397,5797,6194,Palauk(ST),MMR006007
+" Pensioner, retired, elderly person",633,889,1522,Palauk(ST),MMR006007
+" Ill, disabled",190,173,363,Palauk(ST),MMR006007
+ Other,384,189,573,Palauk(ST),MMR006007
+ Total,13264,13737,27001,Palauk(ST),MMR006007

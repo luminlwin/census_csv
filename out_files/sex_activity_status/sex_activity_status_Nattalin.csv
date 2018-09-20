@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1289,1444,2733,Nattalin,MMR008012
+" Employee (Private, Org)",14046,4430,18476,Nattalin,MMR008012
+ Employer,8117,1421,9538,Nattalin,MMR008012
+ Own account worker,18477,4466,22943,Nattalin,MMR008012
+ Contributing family worker,3580,5086,8666,Nattalin,MMR008012
+ Sought work,5072,3048,8120,Nattalin,MMR008012
+ Did not seek work,386,159,545,Nattalin,MMR008012
+ Full time student,6139,6235,12374,Nattalin,MMR008012
+ Household work,1402,42395,43797,Nattalin,MMR008012
+" Pensioner, retired, elderly person",4194,5628,9822,Nattalin,MMR008012
+" Ill, disabled",476,396,872,Nattalin,MMR008012
+ Other,6566,3286,9852,Nattalin,MMR008012
+ Total,69744,77994,147738,Nattalin,MMR008012

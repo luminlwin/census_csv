@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2826,1258,4084,Botahtaung,MMR013017
+" Employee (Private, Org)",4717,3329,8046,Botahtaung,MMR013017
+ Employer,721,278,999,Botahtaung,MMR013017
+ Own account worker,2263,1267,3530,Botahtaung,MMR013017
+ Contributing family worker,498,439,937,Botahtaung,MMR013017
+ Sought work,540,344,884,Botahtaung,MMR013017
+ Did not seek work,91,41,132,Botahtaung,MMR013017
+ Full time student,2679,2581,5260,Botahtaung,MMR013017
+ Household work,307,7306,7613,Botahtaung,MMR013017
+" Pensioner, retired, elderly person",1320,1693,3013,Botahtaung,MMR013017
+" Ill, disabled",125,151,276,Botahtaung,MMR013017
+ Other,1226,760,1986,Botahtaung,MMR013017
+ Total,17313,19447,36760,Botahtaung,MMR013017

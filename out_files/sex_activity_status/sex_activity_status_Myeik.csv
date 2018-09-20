@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),5305,3532,8837,Myeik,MMR006005
+" Employee (Private, Org)",39397,15293,54690,Myeik,MMR006005
+ Employer,2079,804,2883,Myeik,MMR006005
+ Own account worker,24536,13076,37612,Myeik,MMR006005
+ Contributing family worker,3385,3549,6934,Myeik,MMR006005
+ Sought work,3660,2295,5955,Myeik,MMR006005
+ Did not seek work,768,409,1177,Myeik,MMR006005
+ Full time student,18217,20712,38929,Myeik,MMR006005
+ Household work,1259,46456,47715,Myeik,MMR006005
+" Pensioner, retired, elderly person",4899,6799,11698,Myeik,MMR006005
+" Ill, disabled",1109,858,1967,Myeik,MMR006005
+ Other,5686,2590,8276,Myeik,MMR006005
+ Total,110300,116373,226673,Myeik,MMR006005

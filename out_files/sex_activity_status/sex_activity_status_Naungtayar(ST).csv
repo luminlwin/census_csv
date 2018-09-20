@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),726,397,1123,Naungtayar(ST),MMR014009
+" Employee (Private, Org)",3115,1340,4455,Naungtayar(ST),MMR014009
+ Employer,426,207,633,Naungtayar(ST),MMR014009
+ Own account worker,13390,9566,22956,Naungtayar(ST),MMR014009
+ Contributing family worker,5717,10359,16076,Naungtayar(ST),MMR014009
+ Sought work,344,324,668,Naungtayar(ST),MMR014009
+ Did not seek work,82,102,184,Naungtayar(ST),MMR014009
+ Full time student,3644,4027,7671,Naungtayar(ST),MMR014009
+ Household work,201,3054,3255,Naungtayar(ST),MMR014009
+" Pensioner, retired, elderly person",769,1203,1972,Naungtayar(ST),MMR014009
+" Ill, disabled",198,208,406,Naungtayar(ST),MMR014009
+ Other,1291,419,1710,Naungtayar(ST),MMR014009
+ Total,29903,31206,61109,Naungtayar(ST),MMR014009

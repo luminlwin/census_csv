@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),6839,2292,9131,Pobbathiri,MMR018005
+" Employee (Private, Org)",13951,6410,20361,Pobbathiri,MMR018005
+ Employer,1434,390,1824,Pobbathiri,MMR018005
+ Own account worker,8190,4011,12201,Pobbathiri,MMR018005
+ Contributing family worker,1134,1553,2687,Pobbathiri,MMR018005
+ Sought work,2590,1824,4414,Pobbathiri,MMR018005
+ Did not seek work,165,231,396,Pobbathiri,MMR018005
+ Full time student,6700,6885,13585,Pobbathiri,MMR018005
+ Household work,440,20313,20753,Pobbathiri,MMR018005
+" Pensioner, retired, elderly person",2026,2600,4626,Pobbathiri,MMR018005
+" Ill, disabled",247,219,466,Pobbathiri,MMR018005
+ Other,1835,1013,2848,Pobbathiri,MMR018005
+ Total,45551,47741,93292,Pobbathiri,MMR018005

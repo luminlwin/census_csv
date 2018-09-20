@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),3729,2736,6465,Taungdwingyi,MMR009004
+" Employee (Private, Org)",13055,8317,21372,Taungdwingyi,MMR009004
+ Employer,4062,1610,5672,Taungdwingyi,MMR009004
+ Own account worker,37455,16944,54399,Taungdwingyi,MMR009004
+ Contributing family worker,13289,25978,39267,Taungdwingyi,MMR009004
+ Sought work,1959,1618,3577,Taungdwingyi,MMR009004
+ Did not seek work,326,160,486,Taungdwingyi,MMR009004
+ Full time student,14366,14283,28649,Taungdwingyi,MMR009004
+ Household work,1654,32297,33951,Taungdwingyi,MMR009004
+" Pensioner, retired, elderly person",5255,7822,13077,Taungdwingyi,MMR009004
+" Ill, disabled",715,761,1476,Taungdwingyi,MMR009004
+ Other,3737,2146,5883,Taungdwingyi,MMR009004
+ Total,99602,114672,214274,Taungdwingyi,MMR009004

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),986,345,1331,Kunlon,MMR015020
+" Employee (Private, Org)",2497,923,3420,Kunlon,MMR015020
+ Employer,228,79,307,Kunlon,MMR015020
+ Own account worker,8402,4145,12547,Kunlon,MMR015020
+ Contributing family worker,5734,5747,11481,Kunlon,MMR015020
+ Sought work,319,170,489,Kunlon,MMR015020
+ Did not seek work,161,112,273,Kunlon,MMR015020
+ Full time student,2590,2454,5044,Kunlon,MMR015020
+ Household work,731,4657,5388,Kunlon,MMR015020
+" Pensioner, retired, elderly person",786,1290,2076,Kunlon,MMR015020
+" Ill, disabled",159,136,295,Kunlon,MMR015020
+ Other,701,549,1250,Kunlon,MMR015020
+ Total,23294,20607,43901,Kunlon,MMR015020

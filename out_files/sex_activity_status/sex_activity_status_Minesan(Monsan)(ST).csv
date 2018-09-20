@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),273,84,357,Minesan(Monsan)(ST),MMR014017
+" Employee (Private, Org)",4162,1143,5305,Minesan(Monsan)(ST),MMR014017
+ Employer,133,56,189,Minesan(Monsan)(ST),MMR014017
+ Own account worker,3990,2711,6701,Minesan(Monsan)(ST),MMR014017
+ Contributing family worker,1571,2351,3922,Minesan(Monsan)(ST),MMR014017
+ Sought work,56,35,91,Minesan(Monsan)(ST),MMR014017
+ Did not seek work,63,8,71,Minesan(Monsan)(ST),MMR014017
+ Full time student,1326,1306,2632,Minesan(Monsan)(ST),MMR014017
+ Household work,96,2506,2602,Minesan(Monsan)(ST),MMR014017
+" Pensioner, retired, elderly person",222,329,551,Minesan(Monsan)(ST),MMR014017
+" Ill, disabled",41,42,83,Minesan(Monsan)(ST),MMR014017
+ Other,708,457,1165,Minesan(Monsan)(ST),MMR014017
+ Total,12641,11028,23669,Minesan(Monsan)(ST),MMR014017

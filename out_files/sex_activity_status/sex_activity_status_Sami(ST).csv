@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),310,73,383,Sami(ST),MMR004009
+" Employee (Private, Org)",833,138,971,Sami(ST),MMR004009
+ Employer,52,29,81,Sami(ST),MMR004009
+ Own account worker,4451,2533,6984,Sami(ST),MMR004009
+ Contributing family worker,1044,1183,2227,Sami(ST),MMR004009
+ Sought work,270,153,423,Sami(ST),MMR004009
+ Did not seek work,56,55,111,Sami(ST),MMR004009
+ Full time student,3196,2799,5995,Sami(ST),MMR004009
+ Household work,109,4058,4167,Sami(ST),MMR004009
+" Pensioner, retired, elderly person",279,498,777,Sami(ST),MMR004009
+" Ill, disabled",78,101,179,Sami(ST),MMR004009
+ Other,62,71,133,Sami(ST),MMR004009
+ Total,10740,11691,22431,Sami(ST),MMR004009

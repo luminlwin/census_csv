@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),4807,2731,7538,Tatkon,MMR018003
+" Employee (Private, Org)",17783,12127,29910,Tatkon,MMR018003
+ Employer,3044,1205,4249,Tatkon,MMR018003
+ Own account worker,27564,12209,39773,Tatkon,MMR018003
+ Contributing family worker,7830,18160,25990,Tatkon,MMR018003
+ Sought work,1053,765,1818,Tatkon,MMR018003
+ Did not seek work,128,80,208,Tatkon,MMR018003
+ Full time student,12244,12462,24706,Tatkon,MMR018003
+ Household work,902,27020,27922,Tatkon,MMR018003
+" Pensioner, retired, elderly person",3592,5206,8798,Tatkon,MMR018003
+" Ill, disabled",567,551,1118,Tatkon,MMR018003
+ Other,4386,1494,5880,Tatkon,MMR018003
+ Total,83900,94010,177910,Tatkon,MMR018003

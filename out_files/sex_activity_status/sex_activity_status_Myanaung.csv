@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2072,1833,3905,Myanaung,MMR017011
+" Employee (Private, Org)",25529,18417,43946,Myanaung,MMR017011
+ Employer,6458,3108,9566,Myanaung,MMR017011
+ Own account worker,24771,15800,40571,Myanaung,MMR017011
+ Contributing family worker,5408,11199,16607,Myanaung,MMR017011
+ Sought work,1794,1356,3150,Myanaung,MMR017011
+ Did not seek work,194,112,306,Myanaung,MMR017011
+ Full time student,9656,10314,19970,Myanaung,MMR017011
+ Household work,1010,27734,28744,Myanaung,MMR017011
+" Pensioner, retired, elderly person",4344,6467,10811,Myanaung,MMR017011
+" Ill, disabled",891,992,1883,Myanaung,MMR017011
+ Other,2298,1253,3551,Myanaung,MMR017011
+ Total,84425,98585,183010,Myanaung,MMR017011

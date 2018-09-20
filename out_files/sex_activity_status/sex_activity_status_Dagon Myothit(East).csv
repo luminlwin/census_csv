@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2373,2315,4688,Dagon Myothit(East),MMR013020
+" Employee (Private, Org)",27244,14086,41330,Dagon Myothit(East),MMR013020
+ Employer,1443,480,1923,Dagon Myothit(East),MMR013020
+ Own account worker,11810,7821,19631,Dagon Myothit(East),MMR013020
+ Contributing family worker,1791,1630,3421,Dagon Myothit(East),MMR013020
+ Sought work,1956,1037,2993,Dagon Myothit(East),MMR013020
+ Did not seek work,492,240,732,Dagon Myothit(East),MMR013020
+ Full time student,9918,9775,19693,Dagon Myothit(East),MMR013020
+ Household work,828,27449,28277,Dagon Myothit(East),MMR013020
+" Pensioner, retired, elderly person",4402,4378,8780,Dagon Myothit(East),MMR013020
+" Ill, disabled",694,497,1191,Dagon Myothit(East),MMR013020
+ Other,5103,2412,7515,Dagon Myothit(East),MMR013020
+ Total,68054,72120,140174,Dagon Myothit(East),MMR013020

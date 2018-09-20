@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1082,888,1970,Loilem,MMR014011
+" Employee (Private, Org)",2021,706,2727,Loilem,MMR014011
+ Employer,199,96,295,Loilem,MMR014011
+ Own account worker,6970,4136,11106,Loilem,MMR014011
+ Contributing family worker,3553,6183,9736,Loilem,MMR014011
+ Sought work,349,318,667,Loilem,MMR014011
+ Did not seek work,88,61,149,Loilem,MMR014011
+ Full time student,2674,2844,5518,Loilem,MMR014011
+ Household work,210,4551,4761,Loilem,MMR014011
+" Pensioner, retired, elderly person",865,1259,2124,Loilem,MMR014011
+" Ill, disabled",138,150,288,Loilem,MMR014011
+ Other,1253,194,1447,Loilem,MMR014011
+ Total,19402,21386,40788,Loilem,MMR014011

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),4651,4479,9130,Thakayta,MMR013013
+" Employee (Private, Org)",34324,16223,50547,Thakayta,MMR013013
+ Employer,2012,793,2805,Thakayta,MMR013013
+ Own account worker,17849,12665,30514,Thakayta,MMR013013
+ Contributing family worker,1909,2021,3930,Thakayta,MMR013013
+ Sought work,3966,1798,5764,Thakayta,MMR013013
+ Did not seek work,767,325,1092,Thakayta,MMR013013
+ Full time student,13805,13514,27319,Thakayta,MMR013013
+ Household work,1116,38335,39451,Thakayta,MMR013013
+" Pensioner, retired, elderly person",6882,7164,14046,Thakayta,MMR013013
+" Ill, disabled",991,732,1723,Thakayta,MMR013013
+ Other,5111,2198,7309,Thakayta,MMR013013
+ Total,93383,100247,193630,Thakayta,MMR013013

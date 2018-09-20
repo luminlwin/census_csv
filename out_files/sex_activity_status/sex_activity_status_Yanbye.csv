@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),877,940,1817,Yanbye,MMR012013
+" Employee (Private, Org)",3193,1327,4520,Yanbye,MMR012013
+ Employer,1243,560,1803,Yanbye,MMR012013
+ Own account worker,13626,6281,19907,Yanbye,MMR012013
+ Contributing family worker,3636,5731,9367,Yanbye,MMR012013
+ Sought work,1927,1492,3419,Yanbye,MMR012013
+ Did not seek work,381,247,628,Yanbye,MMR012013
+ Full time student,5925,6191,12116,Yanbye,MMR012013
+ Household work,412,15636,16048,Yanbye,MMR012013
+" Pensioner, retired, elderly person",2359,4124,6483,Yanbye,MMR012013
+" Ill, disabled",319,375,694,Yanbye,MMR012013
+ Other,1852,1460,3312,Yanbye,MMR012013
+ Total,35750,44364,80114,Yanbye,MMR012013

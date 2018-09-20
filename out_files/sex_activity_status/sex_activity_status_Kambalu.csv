@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2407,1797,4204,Kambalu,MMR005007
+" Employee (Private, Org)",12289,9209,21498,Kambalu,MMR005007
+ Employer,3080,1039,4119,Kambalu,MMR005007
+ Own account worker,49292,28209,77501,Kambalu,MMR005007
+ Contributing family worker,15048,33977,49025,Kambalu,MMR005007
+ Sought work,1638,1498,3136,Kambalu,MMR005007
+ Did not seek work,204,166,370,Kambalu,MMR005007
+ Full time student,17636,17435,35071,Kambalu,MMR005007
+ Household work,1216,24344,25560,Kambalu,MMR005007
+" Pensioner, retired, elderly person",4861,7998,12859,Kambalu,MMR005007
+" Ill, disabled",562,591,1153,Kambalu,MMR005007
+ Other,3570,1931,5501,Kambalu,MMR005007
+ Total,111803,128194,239997,Kambalu,MMR005007

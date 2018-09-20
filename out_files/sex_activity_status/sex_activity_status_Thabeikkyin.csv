@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2365,533,2898,Thabeikkyin,MMR010012
+" Employee (Private, Org)",16956,6468,23424,Thabeikkyin,MMR010012
+ Employer,1486,398,1884,Thabeikkyin,MMR010012
+ Own account worker,14070,6490,20560,Thabeikkyin,MMR010012
+ Contributing family worker,4346,4747,9093,Thabeikkyin,MMR010012
+ Sought work,1141,531,1672,Thabeikkyin,MMR010012
+ Did not seek work,245,120,365,Thabeikkyin,MMR010012
+ Full time student,6806,6799,13605,Thabeikkyin,MMR010012
+ Household work,612,18820,19432,Thabeikkyin,MMR010012
+" Pensioner, retired, elderly person",1479,2335,3814,Thabeikkyin,MMR010012
+" Ill, disabled",254,208,462,Thabeikkyin,MMR010012
+ Other,1914,1048,2962,Thabeikkyin,MMR010012
+ Total,51674,48497,100171,Thabeikkyin,MMR010012

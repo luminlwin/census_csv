@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),50,11,61,Monehta(ST),MMR016008
+" Employee (Private, Org)",737,148,885,Monehta(ST),MMR016008
+ Employer,6,5,11,Monehta(ST),MMR016008
+ Own account worker,761,564,1325,Monehta(ST),MMR016008
+ Contributing family worker,53,107,160,Monehta(ST),MMR016008
+ Sought work,38,4,42,Monehta(ST),MMR016008
+ Did not seek work,14,16,30,Monehta(ST),MMR016008
+ Full time student,173,97,270,Monehta(ST),MMR016008
+ Household work,25,184,209,Monehta(ST),MMR016008
+" Pensioner, retired, elderly person",23,31,54,Monehta(ST),MMR016008
+" Ill, disabled",5,4,9,Monehta(ST),MMR016008
+ Other,24,20,44,Monehta(ST),MMR016008
+ Total,1909,1191,3100,Monehta(ST),MMR016008

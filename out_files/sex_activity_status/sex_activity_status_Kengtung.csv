@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),5708,1880,7588,Kengtung,MMR016001
+" Employee (Private, Org)",8122,3138,11260,Kengtung,MMR016001
+ Employer,1175,491,1666,Kengtung,MMR016001
+ Own account worker,23089,12544,35633,Kengtung,MMR016001
+ Contributing family worker,12831,14064,26895,Kengtung,MMR016001
+ Sought work,1179,776,1955,Kengtung,MMR016001
+ Did not seek work,275,145,420,Kengtung,MMR016001
+ Full time student,7581,9400,16981,Kengtung,MMR016001
+ Household work,1916,18281,20197,Kengtung,MMR016001
+" Pensioner, retired, elderly person",2450,3735,6185,Kengtung,MMR016001
+" Ill, disabled",357,328,685,Kengtung,MMR016001
+ Other,5330,2079,7409,Kengtung,MMR016001
+ Total,70013,66861,136874,Kengtung,MMR016001

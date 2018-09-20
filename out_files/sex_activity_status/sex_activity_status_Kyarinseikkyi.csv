@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1204,792,1996,Kyarinseikkyi,MMR003007
+" Employee (Private, Org)",5755,3533,9288,Kyarinseikkyi,MMR003007
+ Employer,874,504,1378,Kyarinseikkyi,MMR003007
+ Own account worker,14894,8522,23416,Kyarinseikkyi,MMR003007
+ Contributing family worker,5188,7508,12696,Kyarinseikkyi,MMR003007
+ Sought work,1348,780,2128,Kyarinseikkyi,MMR003007
+ Did not seek work,550,381,931,Kyarinseikkyi,MMR003007
+ Full time student,5296,6431,11727,Kyarinseikkyi,MMR003007
+ Household work,441,10730,11171,Kyarinseikkyi,MMR003007
+" Pensioner, retired, elderly person",1849,2347,4196,Kyarinseikkyi,MMR003007
+" Ill, disabled",526,498,1024,Kyarinseikkyi,MMR003007
+ Other,1735,594,2329,Kyarinseikkyi,MMR003007
+ Total,39660,42620,82280,Kyarinseikkyi,MMR003007

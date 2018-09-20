@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),807,301,1108,Phruso,MMR002003
+" Employee (Private, Org)",634,201,835,Phruso,MMR002003
+ Employer,60,59,119,Phruso,MMR002003
+ Own account worker,3803,3642,7445,Phruso,MMR002003
+ Contributing family worker,2495,3246,5741,Phruso,MMR002003
+ Sought work,158,106,264,Phruso,MMR002003
+ Did not seek work,51,15,66,Phruso,MMR002003
+ Full time student,1772,1903,3675,Phruso,MMR002003
+ Household work,192,932,1124,Phruso,MMR002003
+" Pensioner, retired, elderly person",270,358,628,Phruso,MMR002003
+" Ill, disabled",55,55,110,Phruso,MMR002003
+ Other,130,135,265,Phruso,MMR002003
+ Total,10427,10953,21380,Phruso,MMR002003

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),11894,7755,19649,Meiktila,MMR010028
+" Employee (Private, Org)",23722,15513,39235,Meiktila,MMR010028
+ Employer,3653,1744,5397,Meiktila,MMR010028
+ Own account worker,31092,19642,50734,Meiktila,MMR010028
+ Contributing family worker,6548,9098,15646,Meiktila,MMR010028
+ Sought work,3256,2278,5534,Meiktila,MMR010028
+ Did not seek work,995,374,1369,Meiktila,MMR010028
+ Full time student,20423,20833,41256,Meiktila,MMR010028
+ Household work,2271,50261,52532,Meiktila,MMR010028
+" Pensioner, retired, elderly person",8004,11035,19039,Meiktila,MMR010028
+" Ill, disabled",950,835,1785,Meiktila,MMR010028
+ Other,3432,1508,4940,Meiktila,MMR010028
+ Total,116240,140876,257116,Meiktila,MMR010028

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1061,1172,2233,Waw,MMR007004
+" Employee (Private, Org)",16885,11760,28645,Waw,MMR007004
+ Employer,3433,955,4388,Waw,MMR007004
+ Own account worker,16801,7137,23938,Waw,MMR007004
+ Contributing family worker,4445,5089,9534,Waw,MMR007004
+ Sought work,2586,1851,4437,Waw,MMR007004
+ Did not seek work,300,171,471,Waw,MMR007004
+ Full time student,10297,10445,20742,Waw,MMR007004
+ Household work,755,27996,28751,Waw,MMR007004
+" Pensioner, retired, elderly person",2609,4175,6784,Waw,MMR007004
+" Ill, disabled",705,589,1294,Waw,MMR007004
+ Other,3751,1759,5510,Waw,MMR007004
+ Total,63628,73099,136727,Waw,MMR007004

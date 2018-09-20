@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),924,929,1853,Monyo,MMR008013
+" Employee (Private, Org)",10891,6277,17168,Monyo,MMR008013
+ Employer,4978,1573,6551,Monyo,MMR008013
+ Own account worker,14560,6407,20967,Monyo,MMR008013
+ Contributing family worker,4462,7312,11774,Monyo,MMR008013
+ Sought work,2492,1620,4112,Monyo,MMR008013
+ Did not seek work,142,98,240,Monyo,MMR008013
+ Full time student,5858,5925,11783,Monyo,MMR008013
+ Household work,410,20764,21174,Monyo,MMR008013
+" Pensioner, retired, elderly person",2699,3888,6587,Monyo,MMR008013
+" Ill, disabled",369,353,722,Monyo,MMR008013
+ Other,1941,1080,3021,Monyo,MMR008013
+ Total,49726,56226,105952,Monyo,MMR008013

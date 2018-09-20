@@ -1,0 +1,13 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),56,24,80,Ingyanyan,MMR001003
+" Employee (Private, Org)",184,33,217,Ingyanyan,MMR001003
+ Employer,31,2,33,Ingyanyan,MMR001003
+ Own account worker,219,86,305,Ingyanyan,MMR001003
+ Contributing family worker,89,233,322,Ingyanyan,MMR001003
+ Sought work,1,1,2,Ingyanyan,MMR001003
+ Full time student,127,132,259,Ingyanyan,MMR001003
+ Household work,2,48,50,Ingyanyan,MMR001003
+" Pensioner, retired, elderly person",9,21,30,Ingyanyan,MMR001003
+" Ill, disabled",4,-,4,Ingyanyan,MMR001003
+ Other,10,10,20,Ingyanyan,MMR001003
+ Total,732,590,1322,Ingyanyan,MMR001003

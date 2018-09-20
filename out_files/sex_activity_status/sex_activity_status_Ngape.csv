@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1331,896,2227,Ngape,MMR009009
+" Employee (Private, Org)",1967,972,2939,Ngape,MMR009009
+ Employer,312,103,415,Ngape,MMR009009
+ Own account worker,9190,4095,13285,Ngape,MMR009009
+ Contributing family worker,1998,3186,5184,Ngape,MMR009009
+ Sought work,373,267,640,Ngape,MMR009009
+ Did not seek work,60,24,84,Ngape,MMR009009
+ Full time student,2457,2629,5086,Ngape,MMR009009
+ Household work,275,7671,7946,Ngape,MMR009009
+" Pensioner, retired, elderly person",1054,1645,2699,Ngape,MMR009009
+" Ill, disabled",116,106,222,Ngape,MMR009009
+ Other,531,277,808,Ngape,MMR009009
+ Total,19664,21871,41535,Ngape,MMR009009

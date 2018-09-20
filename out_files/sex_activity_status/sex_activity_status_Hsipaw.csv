@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2390,1004,3394,Hsipaw,MMR015014
+" Employee (Private, Org)",8387,4169,12556,Hsipaw,MMR015014
+ Employer,1652,809,2461,Hsipaw,MMR015014
+ Own account worker,27940,16143,44083,Hsipaw,MMR015014
+ Contributing family worker,14048,22428,36476,Hsipaw,MMR015014
+ Sought work,712,472,1184,Hsipaw,MMR015014
+ Did not seek work,197,133,330,Hsipaw,MMR015014
+ Full time student,5840,7396,13236,Hsipaw,MMR015014
+ Household work,942,15214,16156,Hsipaw,MMR015014
+" Pensioner, retired, elderly person",2725,3886,6611,Hsipaw,MMR015014
+" Ill, disabled",359,360,719,Hsipaw,MMR015014
+ Other,3204,942,4146,Hsipaw,MMR015014
+ Total,68396,72956,141352,Hsipaw,MMR015014

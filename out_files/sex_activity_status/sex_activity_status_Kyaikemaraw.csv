@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1249,1144,2393,Kyaikemaraw,MMR011002
+" Employee (Private, Org)",14828,6858,21686,Kyaikemaraw,MMR011002
+ Employer,2421,685,3106,Kyaikemaraw,MMR011002
+ Own account worker,17893,8398,26291,Kyaikemaraw,MMR011002
+ Contributing family worker,4197,4414,8611,Kyaikemaraw,MMR011002
+ Sought work,3820,1806,5626,Kyaikemaraw,MMR011002
+ Did not seek work,633,337,970,Kyaikemaraw,MMR011002
+ Full time student,10141,11098,21239,Kyaikemaraw,MMR011002
+ Household work,1451,35775,37226,Kyaikemaraw,MMR011002
+" Pensioner, retired, elderly person",3072,4680,7752,Kyaikemaraw,MMR011002
+" Ill, disabled",905,827,1732,Kyaikemaraw,MMR011002
+ Other,9159,4853,14012,Kyaikemaraw,MMR011002
+ Total,69769,80875,150644,Kyaikemaraw,MMR011002

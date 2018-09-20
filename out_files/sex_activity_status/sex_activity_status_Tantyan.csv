@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1525,561,2086,Tantyan,MMR015004
+" Employee (Private, Org)",6563,3264,9827,Tantyan,MMR015004
+ Employer,1162,641,1803,Tantyan,MMR015004
+ Own account worker,26279,15741,42020,Tantyan,MMR015004
+ Contributing family worker,13020,16999,30019,Tantyan,MMR015004
+ Sought work,1055,846,1901,Tantyan,MMR015004
+ Did not seek work,542,367,909,Tantyan,MMR015004
+ Full time student,4478,5644,10122,Tantyan,MMR015004
+ Household work,1678,18414,20092,Tantyan,MMR015004
+" Pensioner, retired, elderly person",2659,3796,6455,Tantyan,MMR015004
+" Ill, disabled",294,323,617,Tantyan,MMR015004
+ Other,5002,2372,7374,Tantyan,MMR015004
+ Total,64257,68968,133225,Tantyan,MMR015004

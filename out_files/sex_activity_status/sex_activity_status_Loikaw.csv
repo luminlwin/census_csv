@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),3955,3200,7155,Loikaw,MMR002001
+" Employee (Private, Org)",9627,3683,13310,Loikaw,MMR002001
+ Employer,1413,499,1912,Loikaw,MMR002001
+ Own account worker,14946,10537,25483,Loikaw,MMR002001
+ Contributing family worker,4733,5393,10126,Loikaw,MMR002001
+ Sought work,1113,745,1858,Loikaw,MMR002001
+ Did not seek work,227,125,352,Loikaw,MMR002001
+ Full time student,8847,10096,18943,Loikaw,MMR002001
+ Household work,480,13906,14386,Loikaw,MMR002001
+" Pensioner, retired, elderly person",2222,2812,5034,Loikaw,MMR002001
+" Ill, disabled",399,322,721,Loikaw,MMR002001
+ Other,1765,817,2582,Loikaw,MMR002001
+ Total,49727,52135,101862,Loikaw,MMR002001

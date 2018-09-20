@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),57,38,95,Panlon(ST),MMR015021
+" Employee (Private, Org)",308,94,402,Panlon(ST),MMR015021
+ Employer,21,8,29,Panlon(ST),MMR015021
+ Own account worker,1004,343,1347,Panlon(ST),MMR015021
+ Contributing family worker,375,303,678,Panlon(ST),MMR015021
+ Sought work,104,49,153,Panlon(ST),MMR015021
+ Did not seek work,12,3,15,Panlon(ST),MMR015021
+ Full time student,261,301,562,Panlon(ST),MMR015021
+ Household work,56,907,963,Panlon(ST),MMR015021
+" Pensioner, retired, elderly person",98,136,234,Panlon(ST),MMR015021
+" Ill, disabled",21,16,37,Panlon(ST),MMR015021
+ Other,74,30,104,Panlon(ST),MMR015021
+ Total,2391,2228,4619,Panlon(ST),MMR015021

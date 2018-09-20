@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),6202,4088,10290,Mayangon,MMR013042
+" Employee (Private, Org)",30207,21954,52161,Mayangon,MMR013042
+ Employer,2795,1317,4112,Mayangon,MMR013042
+ Own account worker,12449,9188,21637,Mayangon,MMR013042
+ Contributing family worker,2150,2558,4708,Mayangon,MMR013042
+ Sought work,2914,1951,4865,Mayangon,MMR013042
+ Did not seek work,589,338,927,Mayangon,MMR013042
+ Full time student,12647,12330,24977,Mayangon,MMR013042
+ Household work,892,29512,30404,Mayangon,MMR013042
+" Pensioner, retired, elderly person",5725,6903,12628,Mayangon,MMR013042
+" Ill, disabled",588,503,1091,Mayangon,MMR013042
+ Other,4587,3069,7656,Mayangon,MMR013042
+ Total,81745,93711,175456,Mayangon,MMR013042

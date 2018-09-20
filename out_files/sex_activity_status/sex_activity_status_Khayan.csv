@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),696,1228,1924,Khayan,MMR013026
+" Employee (Private, Org)",21135,10640,31775,Khayan,MMR013026
+ Employer,4624,1099,5723,Khayan,MMR013026
+ Own account worker,13473,5590,19063,Khayan,MMR013026
+ Contributing family worker,3189,6248,9437,Khayan,MMR013026
+ Sought work,1575,1078,2653,Khayan,MMR013026
+ Did not seek work,197,148,345,Khayan,MMR013026
+ Full time student,8845,8437,17282,Khayan,MMR013026
+ Household work,482,27292,27774,Khayan,MMR013026
+" Pensioner, retired, elderly person",2791,4175,6966,Khayan,MMR013026
+" Ill, disabled",554,504,1058,Khayan,MMR013026
+ Other,3337,1944,5281,Khayan,MMR013026
+ Total,60898,68383,129281,Khayan,MMR013026

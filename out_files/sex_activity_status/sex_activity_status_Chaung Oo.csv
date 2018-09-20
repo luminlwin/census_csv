@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),773,1088,1861,Chaung Oo,MMR005015
+" Employee (Private, Org)",10843,9940,20783,Chaung Oo,MMR005015
+ Employer,3021,1176,4197,Chaung Oo,MMR005015
+ Own account worker,12828,9041,21869,Chaung Oo,MMR005015
+ Contributing family worker,2160,4466,6626,Chaung Oo,MMR005015
+ Sought work,733,792,1525,Chaung Oo,MMR005015
+ Did not seek work,148,112,260,Chaung Oo,MMR005015
+ Full time student,4842,5400,10242,Chaung Oo,MMR005015
+ Household work,504,12851,13355,Chaung Oo,MMR005015
+" Pensioner, retired, elderly person",2350,3710,6060,Chaung Oo,MMR005015
+" Ill, disabled",360,358,718,Chaung Oo,MMR005015
+ Other,1593,537,2130,Chaung Oo,MMR005015
+ Total,40155,49471,89626,Chaung Oo,MMR005015

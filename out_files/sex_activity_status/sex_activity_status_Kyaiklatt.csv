@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),839,1473,2312,Kyaiklatt,MMR017025
+" Employee (Private, Org)",18559,9938,28497,Kyaiklatt,MMR017025
+ Employer,4331,1257,5588,Kyaiklatt,MMR017025
+ Own account worker,21235,7965,29200,Kyaiklatt,MMR017025
+ Contributing family worker,6413,7024,13437,Kyaiklatt,MMR017025
+ Sought work,1567,947,2514,Kyaiklatt,MMR017025
+ Did not seek work,235,153,388,Kyaiklatt,MMR017025
+ Full time student,10292,10355,20647,Kyaiklatt,MMR017025
+ Household work,561,30999,31560,Kyaiklatt,MMR017025
+" Pensioner, retired, elderly person",2713,4420,7133,Kyaiklatt,MMR017025
+" Ill, disabled",800,707,1507,Kyaiklatt,MMR017025
+ Other,7450,3962,11412,Kyaiklatt,MMR017025
+ Total,74995,79200,154195,Kyaiklatt,MMR017025

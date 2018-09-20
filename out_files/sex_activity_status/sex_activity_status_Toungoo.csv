@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),8037,3949,11986,Toungoo,MMR007009
+" Employee (Private, Org)",25692,13832,39524,Toungoo,MMR007009
+ Employer,3265,1145,4410,Toungoo,MMR007009
+ Own account worker,23849,14354,38203,Toungoo,MMR007009
+ Contributing family worker,5526,5070,10596,Toungoo,MMR007009
+ Sought work,2804,1797,4601,Toungoo,MMR007009
+ Did not seek work,483,227,710,Toungoo,MMR007009
+ Full time student,16255,16612,32867,Toungoo,MMR007009
+ Household work,1811,44569,46380,Toungoo,MMR007009
+" Pensioner, retired, elderly person",5787,7552,13339,Toungoo,MMR007009
+" Ill, disabled",866,732,1598,Toungoo,MMR007009
+ Other,7131,3785,10916,Toungoo,MMR007009
+ Total,101506,113624,215130,Toungoo,MMR007009

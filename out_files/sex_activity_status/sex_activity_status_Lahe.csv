@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),520,170,690,Lahe,MMR005036
+" Employee (Private, Org)",284,91,375,Lahe,MMR005036
+ Employer,60,29,89,Lahe,MMR005036
+ Own account worker,6843,4106,10949,Lahe,MMR005036
+ Contributing family worker,4382,6830,11212,Lahe,MMR005036
+ Sought work,122,90,212,Lahe,MMR005036
+ Did not seek work,9,3,12,Lahe,MMR005036
+ Full time student,2049,1706,3755,Lahe,MMR005036
+ Household work,320,1707,2027,Lahe,MMR005036
+" Pensioner, retired, elderly person",457,668,1125,Lahe,MMR005036
+" Ill, disabled",83,84,167,Lahe,MMR005036
+ Other,228,216,444,Lahe,MMR005036
+ Total,15357,15700,31057,Lahe,MMR005036

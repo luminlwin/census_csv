@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1576,176,1752,Kholan(ST),MMR014013
+" Employee (Private, Org)",839,262,1101,Kholan(ST),MMR014013
+ Employer,98,33,131,Kholan(ST),MMR014013
+ Own account worker,3892,2261,6153,Kholan(ST),MMR014013
+ Contributing family worker,1749,2665,4414,Kholan(ST),MMR014013
+ Sought work,108,45,153,Kholan(ST),MMR014013
+ Did not seek work,75,69,144,Kholan(ST),MMR014013
+ Full time student,898,860,1758,Kholan(ST),MMR014013
+ Household work,157,2129,2286,Kholan(ST),MMR014013
+" Pensioner, retired, elderly person",316,513,829,Kholan(ST),MMR014013
+" Ill, disabled",46,27,73,Kholan(ST),MMR014013
+ Other,310,195,505,Kholan(ST),MMR014013
+ Total,10064,9235,19299,Kholan(ST),MMR014013

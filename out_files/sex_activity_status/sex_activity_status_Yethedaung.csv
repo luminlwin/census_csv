@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1612,909,2521,Yethedaung,MMR012008
+" Employee (Private, Org)",3678,1455,5133,Yethedaung,MMR012008
+ Employer,2746,785,3531,Yethedaung,MMR012008
+ Own account worker,7668,2873,10541,Yethedaung,MMR012008
+ Contributing family worker,3034,4840,7874,Yethedaung,MMR012008
+ Sought work,3477,2636,6113,Yethedaung,MMR012008
+ Did not seek work,656,622,1278,Yethedaung,MMR012008
+ Full time student,8418,7560,15978,Yethedaung,MMR012008
+ Household work,694,21344,22038,Yethedaung,MMR012008
+" Pensioner, retired, elderly person",1860,3546,5406,Yethedaung,MMR012008
+" Ill, disabled",331,469,800,Yethedaung,MMR012008
+ Other,3966,3403,7369,Yethedaung,MMR012008
+ Total,38140,50442,88582,Yethedaung,MMR012008

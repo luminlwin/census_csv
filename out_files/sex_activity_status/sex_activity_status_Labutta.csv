@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1229,1575,2804,Labutta,MMR017016
+" Employee (Private, Org)",23921,7786,31707,Labutta,MMR017016
+ Employer,6872,1508,8380,Labutta,MMR017016
+ Own account worker,26346,10044,36390,Labutta,MMR017016
+ Contributing family worker,5109,6753,11862,Labutta,MMR017016
+ Sought work,2971,1432,4403,Labutta,MMR017016
+ Did not seek work,495,302,797,Labutta,MMR017016
+ Full time student,11624,11547,23171,Labutta,MMR017016
+ Household work,831,41888,42719,Labutta,MMR017016
+" Pensioner, retired, elderly person",3000,4392,7392,Labutta,MMR017016
+" Ill, disabled",1002,884,1886,Labutta,MMR017016
+ Other,6457,2777,9234,Labutta,MMR017016
+ Total,89857,90888,180745,Labutta,MMR017016

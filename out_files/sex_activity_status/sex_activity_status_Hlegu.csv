@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),9416,3132,12548,Hlegu,MMR013004
+" Employee (Private, Org)",34985,19986,54971,Hlegu,MMR013004
+ Employer,3009,904,3913,Hlegu,MMR013004
+ Own account worker,20417,9759,30176,Hlegu,MMR013004
+ Contributing family worker,3366,3357,6723,Hlegu,MMR013004
+ Sought work,2604,1432,4036,Hlegu,MMR013004
+ Did not seek work,512,314,826,Hlegu,MMR013004
+ Full time student,15812,16081,31893,Hlegu,MMR013004
+ Household work,1277,45135,46412,Hlegu,MMR013004
+" Pensioner, retired, elderly person",5076,6011,11087,Hlegu,MMR013004
+" Ill, disabled",938,763,1701,Hlegu,MMR013004
+ Other,11436,5266,16702,Hlegu,MMR013004
+ Total,108848,112140,220988,Hlegu,MMR013004

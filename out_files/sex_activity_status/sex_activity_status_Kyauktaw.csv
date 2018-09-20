@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2572,1343,3915,Kyauktaw,MMR012004
+" Employee (Private, Org)",7967,3611,11578,Kyauktaw,MMR012004
+ Employer,4405,1183,5588,Kyauktaw,MMR012004
+ Own account worker,16318,6998,23316,Kyauktaw,MMR012004
+ Contributing family worker,4769,10631,15400,Kyauktaw,MMR012004
+ Sought work,3465,2980,6445,Kyauktaw,MMR012004
+ Did not seek work,630,571,1201,Kyauktaw,MMR012004
+ Full time student,11801,11383,23184,Kyauktaw,MMR012004
+ Household work,928,29922,30850,Kyauktaw,MMR012004
+" Pensioner, retired, elderly person",2631,4896,7527,Kyauktaw,MMR012004
+" Ill, disabled",354,447,801,Kyauktaw,MMR012004
+ Other,4628,3907,8535,Kyauktaw,MMR012004
+ Total,60468,77872,138340,Kyauktaw,MMR012004

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),3733,2731,6464,Thaton,MMR011007
+" Employee (Private, Org)",24704,8745,33449,Thaton,MMR011007
+ Employer,3489,1020,4509,Thaton,MMR011007
+ Own account worker,18526,10592,29118,Thaton,MMR011007
+ Contributing family worker,4038,3884,7922,Thaton,MMR011007
+ Sought work,3329,2078,5407,Thaton,MMR011007
+ Did not seek work,901,544,1445,Thaton,MMR011007
+ Full time student,13577,14637,28214,Thaton,MMR011007
+ Household work,1497,40349,41846,Thaton,MMR011007
+" Pensioner, retired, elderly person",4898,6246,11144,Thaton,MMR011007
+" Ill, disabled",1091,913,2004,Thaton,MMR011007
+ Other,11147,5261,16408,Thaton,MMR011007
+ Total,90930,97000,187930,Thaton,MMR011007

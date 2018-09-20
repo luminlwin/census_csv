@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),193,279,472,Pyinsalu(ST),MMR017016
+" Employee (Private, Org)",4646,1106,5752,Pyinsalu(ST),MMR017016
+ Employer,1841,229,2070,Pyinsalu(ST),MMR017016
+ Own account worker,16554,3486,20040,Pyinsalu(ST),MMR017016
+ Contributing family worker,2496,2699,5195,Pyinsalu(ST),MMR017016
+ Sought work,699,268,967,Pyinsalu(ST),MMR017016
+ Did not seek work,98,46,144,Pyinsalu(ST),MMR017016
+ Full time student,3865,3814,7679,Pyinsalu(ST),MMR017016
+ Household work,312,16241,16553,Pyinsalu(ST),MMR017016
+" Pensioner, retired, elderly person",706,960,1666,Pyinsalu(ST),MMR017016
+" Ill, disabled",270,174,444,Pyinsalu(ST),MMR017016
+ Other,1392,810,2202,Pyinsalu(ST),MMR017016
+ Total,33072,30112,63184,Pyinsalu(ST),MMR017016

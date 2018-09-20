@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1604,1043,2647,Naungkhio,MMR015013
+" Employee (Private, Org)",11743,5676,17419,Naungkhio,MMR015013
+ Employer,2146,1087,3233,Naungkhio,MMR015013
+ Own account worker,22654,12890,35544,Naungkhio,MMR015013
+ Contributing family worker,10512,16875,27387,Naungkhio,MMR015013
+ Sought work,740,439,1179,Naungkhio,MMR015013
+ Did not seek work,127,55,182,Naungkhio,MMR015013
+ Full time student,6485,7094,13579,Naungkhio,MMR015013
+ Household work,568,10975,11543,Naungkhio,MMR015013
+" Pensioner, retired, elderly person",2674,3221,5895,Naungkhio,MMR015013
+" Ill, disabled",400,395,795,Naungkhio,MMR015013
+ Other,1885,678,2563,Naungkhio,MMR015013
+ Total,61538,60428,121966,Naungkhio,MMR015013

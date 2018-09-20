@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),630,705,1335,Ywarngan,MMR014007
+" Employee (Private, Org)",2801,1122,3923,Ywarngan,MMR014007
+ Employer,247,102,349,Ywarngan,MMR014007
+ Own account worker,13933,8094,22027,Ywarngan,MMR014007
+ Contributing family worker,7030,9788,16818,Ywarngan,MMR014007
+ Sought work,291,351,642,Ywarngan,MMR014007
+ Did not seek work,58,22,80,Ywarngan,MMR014007
+ Full time student,3888,4757,8645,Ywarngan,MMR014007
+ Household work,338,6143,6481,Ywarngan,MMR014007
+" Pensioner, retired, elderly person",1503,1658,3161,Ywarngan,MMR014007
+" Ill, disabled",252,200,452,Ywarngan,MMR014007
+ Other,1679,373,2052,Ywarngan,MMR014007
+ Total,32650,33315,65965,Ywarngan,MMR014007

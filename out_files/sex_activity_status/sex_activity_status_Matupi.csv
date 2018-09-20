@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1132,549,1681,Matupi,MMR004007
+" Employee (Private, Org)",1009,583,1592,Matupi,MMR004007
+ Employer,130,145,275,Matupi,MMR004007
+ Own account worker,2363,1497,3860,Matupi,MMR004007
+ Contributing family worker,2844,2594,5438,Matupi,MMR004007
+ Sought work,557,297,854,Matupi,MMR004007
+ Did not seek work,129,67,196,Matupi,MMR004007
+ Full time student,4053,4281,8334,Matupi,MMR004007
+ Household work,222,4111,4333,Matupi,MMR004007
+" Pensioner, retired, elderly person",687,887,1574,Matupi,MMR004007
+" Ill, disabled",135,152,287,Matupi,MMR004007
+ Other,215,186,401,Matupi,MMR004007
+ Total,13476,15349,28825,Matupi,MMR004007

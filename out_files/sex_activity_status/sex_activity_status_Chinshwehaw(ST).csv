@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),104,47,151,Chinshwehaw(ST),MMR015022
+" Employee (Private, Org)",866,264,1130,Chinshwehaw(ST),MMR015022
+ Employer,42,29,71,Chinshwehaw(ST),MMR015022
+ Own account worker,506,280,786,Chinshwehaw(ST),MMR015022
+ Contributing family worker,175,236,411,Chinshwehaw(ST),MMR015022
+ Sought work,39,15,54,Chinshwehaw(ST),MMR015022
+ Did not seek work,7,5,12,Chinshwehaw(ST),MMR015022
+ Full time student,279,247,526,Chinshwehaw(ST),MMR015022
+ Household work,20,527,547,Chinshwehaw(ST),MMR015022
+" Pensioner, retired, elderly person",43,65,108,Chinshwehaw(ST),MMR015022
+" Ill, disabled",11,6,17,Chinshwehaw(ST),MMR015022
+ Other,36,34,70,Chinshwehaw(ST),MMR015022
+ Total,2128,1755,3883,Chinshwehaw(ST),MMR015022

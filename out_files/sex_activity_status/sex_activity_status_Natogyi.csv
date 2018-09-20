@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1070,1423,2493,Natogyi,MMR010019
+" Employee (Private, Org)",11883,7167,19050,Natogyi,MMR010019
+ Employer,2340,644,2984,Natogyi,MMR010019
+ Own account worker,26653,10040,36693,Natogyi,MMR010019
+ Contributing family worker,4325,6900,11225,Natogyi,MMR010019
+ Sought work,2645,2233,4878,Natogyi,MMR010019
+ Did not seek work,226,121,347,Natogyi,MMR010019
+ Full time student,8747,9038,17785,Natogyi,MMR010019
+ Household work,1137,35971,37108,Natogyi,MMR010019
+" Pensioner, retired, elderly person",4097,6333,10430,Natogyi,MMR010019
+" Ill, disabled",700,672,1372,Natogyi,MMR010019
+ Other,2571,1324,3895,Natogyi,MMR010019
+ Total,66394,81866,148260,Natogyi,MMR010019

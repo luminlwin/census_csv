@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),98,59,157,Sumprabum,MMR001015
+" Employee (Private, Org)",106,18,124,Sumprabum,MMR001015
+ Employer,9,5,14,Sumprabum,MMR001015
+ Own account worker,370,295,665,Sumprabum,MMR001015
+ Contributing family worker,63,22,85,Sumprabum,MMR001015
+ Sought work,19,6,25,Sumprabum,MMR001015
+ Did not seek work,2,-,2,Sumprabum,MMR001015
+ Full time student,211,249,460,Sumprabum,MMR001015
+ Household work,55,224,279,Sumprabum,MMR001015
+" Pensioner, retired, elderly person",19,40,59,Sumprabum,MMR001015
+" Ill, disabled",2,8,10,Sumprabum,MMR001015
+ Other,14,8,22,Sumprabum,MMR001015
+ Total,968,934,1902,Sumprabum,MMR001015

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),117,151,268,Kyauktalongyi(ST),MMR014001
+" Employee (Private, Org)",775,431,1206,Kyauktalongyi(ST),MMR014001
+ Employer,129,70,199,Kyauktalongyi(ST),MMR014001
+ Own account worker,10619,6891,17510,Kyauktalongyi(ST),MMR014001
+ Contributing family worker,5153,9022,14175,Kyauktalongyi(ST),MMR014001
+ Sought work,177,207,384,Kyauktalongyi(ST),MMR014001
+ Did not seek work,10,6,16,Kyauktalongyi(ST),MMR014001
+ Full time student,2587,3025,5612,Kyauktalongyi(ST),MMR014001
+ Household work,41,1728,1769,Kyauktalongyi(ST),MMR014001
+" Pensioner, retired, elderly person",591,988,1579,Kyauktalongyi(ST),MMR014001
+" Ill, disabled",118,124,242,Kyauktalongyi(ST),MMR014001
+ Other,1045,550,1595,Kyauktalongyi(ST),MMR014001
+ Total,21362,23193,44555,Kyauktalongyi(ST),MMR014001

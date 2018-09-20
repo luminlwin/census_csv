@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),75,73,148,Minelar,MMR016005
+" Employee (Private, Org)",6205,5376,11581,Minelar,MMR016005
+ Employer,488,206,694,Minelar,MMR016005
+ Own account worker,5568,1981,7549,Minelar,MMR016005
+ Contributing family worker,3086,4745,7831,Minelar,MMR016005
+ Sought work,439,284,723,Minelar,MMR016005
+ Did not seek work,275,252,527,Minelar,MMR016005
+ Full time student,880,870,1750,Minelar,MMR016005
+ Household work,530,2924,3454,Minelar,MMR016005
+" Pensioner, retired, elderly person",447,726,1173,Minelar,MMR016005
+" Ill, disabled",36,33,69,Minelar,MMR016005
+ Other,1264,295,1559,Minelar,MMR016005
+ Total,19293,17765,37058,Minelar,MMR016005

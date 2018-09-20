@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1233,916,2149,MuSe,MMR015009
+" Employee (Private, Org)",18363,6324,24687,MuSe,MMR015009
+ Employer,1292,664,1956,MuSe,MMR015009
+ Own account worker,15495,11125,26620,MuSe,MMR015009
+ Contributing family worker,3159,10074,13233,MuSe,MMR015009
+ Sought work,871,567,1438,MuSe,MMR015009
+ Did not seek work,176,128,304,MuSe,MMR015009
+ Full time student,6305,6132,12437,MuSe,MMR015009
+ Household work,549,6707,7256,MuSe,MMR015009
+" Pensioner, retired, elderly person",1689,2976,4665,MuSe,MMR015009
+" Ill, disabled",174,162,336,MuSe,MMR015009
+ Other,1558,1165,2723,MuSe,MMR015009
+ Total,50864,46940,97804,MuSe,MMR015009

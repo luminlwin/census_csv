@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),127,93,220,Lwe`ge`(ST),MMR001012
+" Employee (Private, Org)",575,309,884,Lwe`ge`(ST),MMR001012
+ Employer,83,54,137,Lwe`ge`(ST),MMR001012
+ Own account worker,1535,1112,2647,Lwe`ge`(ST),MMR001012
+ Contributing family worker,507,650,1157,Lwe`ge`(ST),MMR001012
+ Sought work,88,55,143,Lwe`ge`(ST),MMR001012
+ Did not seek work,12,7,19,Lwe`ge`(ST),MMR001012
+ Full time student,645,707,1352,Lwe`ge`(ST),MMR001012
+ Household work,69,712,781,Lwe`ge`(ST),MMR001012
+" Pensioner, retired, elderly person",176,280,456,Lwe`ge`(ST),MMR001012
+" Ill, disabled",45,42,87,Lwe`ge`(ST),MMR001012
+ Other,123,106,229,Lwe`ge`(ST),MMR001012
+ Total,3985,4127,8112,Lwe`ge`(ST),MMR001012

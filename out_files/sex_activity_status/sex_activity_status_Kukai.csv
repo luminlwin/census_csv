@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1445,691,2136,Kukai,MMR015011
+" Employee (Private, Org)",3411,1553,4964,Kukai,MMR015011
+ Employer,712,405,1117,Kukai,MMR015011
+ Own account worker,13964,7619,21583,Kukai,MMR015011
+ Contributing family worker,4198,3339,7537,Kukai,MMR015011
+ Sought work,1530,914,2444,Kukai,MMR015011
+ Did not seek work,354,195,549,Kukai,MMR015011
+ Full time student,7985,8256,16241,Kukai,MMR015011
+ Household work,1161,12350,13511,Kukai,MMR015011
+" Pensioner, retired, elderly person",1787,2874,4661,Kukai,MMR015011
+" Ill, disabled",272,208,480,Kukai,MMR015011
+ Other,1393,733,2126,Kukai,MMR015011
+ Total,38212,39137,77349,Kukai,MMR015011

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),87,73,160,Minengaw(ST),MMR015012
+" Employee (Private, Org)",764,805,1569,Minengaw(ST),MMR015012
+ Employer,264,112,376,Minengaw(ST),MMR015012
+ Own account worker,2727,1817,4544,Minengaw(ST),MMR015012
+ Contributing family worker,985,1450,2435,Minengaw(ST),MMR015012
+ Sought work,108,84,192,Minengaw(ST),MMR015012
+ Did not seek work,80,76,156,Minengaw(ST),MMR015012
+ Full time student,668,915,1583,Minengaw(ST),MMR015012
+ Household work,78,1783,1861,Minengaw(ST),MMR015012
+" Pensioner, retired, elderly person",382,581,963,Minengaw(ST),MMR015012
+" Ill, disabled",34,42,76,Minengaw(ST),MMR015012
+ Other,428,160,588,Minengaw(ST),MMR015012
+ Total,6605,7898,14503,Minengaw(ST),MMR015012

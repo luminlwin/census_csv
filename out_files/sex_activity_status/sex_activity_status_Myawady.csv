@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),3299,958,4257,Myawady,MMR003005
+" Employee (Private, Org)",22669,7675,30344,Myawady,MMR003005
+ Employer,2162,638,2800,Myawady,MMR003005
+ Own account worker,21536,9728,31264,Myawady,MMR003005
+ Contributing family worker,4783,4580,9363,Myawady,MMR003005
+ Sought work,3106,1456,4562,Myawady,MMR003005
+ Did not seek work,693,427,1120,Myawady,MMR003005
+ Full time student,9860,9888,19748,Myawady,MMR003005
+ Household work,1589,33250,34839,Myawady,MMR003005
+" Pensioner, retired, elderly person",2300,3023,5323,Myawady,MMR003005
+" Ill, disabled",561,386,947,Myawady,MMR003005
+ Other,5093,2724,7817,Myawady,MMR003005
+ Total,77651,74733,152384,Myawady,MMR003005

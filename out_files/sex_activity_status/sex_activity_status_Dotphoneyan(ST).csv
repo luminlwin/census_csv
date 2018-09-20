@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),265,90,355,Dotphoneyan(ST),MMR001012
+" Employee (Private, Org)",519,248,767,Dotphoneyan(ST),MMR001012
+ Employer,39,12,51,Dotphoneyan(ST),MMR001012
+ Own account worker,1346,327,1673,Dotphoneyan(ST),MMR001012
+ Contributing family worker,1217,1371,2588,Dotphoneyan(ST),MMR001012
+ Sought work,62,32,94,Dotphoneyan(ST),MMR001012
+ Did not seek work,9,4,13,Dotphoneyan(ST),MMR001012
+ Full time student,751,668,1419,Dotphoneyan(ST),MMR001012
+ Household work,105,1213,1318,Dotphoneyan(ST),MMR001012
+" Pensioner, retired, elderly person",142,308,450,Dotphoneyan(ST),MMR001012
+" Ill, disabled",25,42,67,Dotphoneyan(ST),MMR001012
+ Other,127,63,190,Dotphoneyan(ST),MMR001012
+ Total,4607,4378,8985,Dotphoneyan(ST),MMR001012

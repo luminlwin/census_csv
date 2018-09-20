@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),603,480,1083,Lamine,MMR011006
+" Employee (Private, Org)",5924,2140,8064,Lamine,MMR011006
+ Employer,1448,319,1767,Lamine,MMR011006
+ Own account worker,9099,4374,13473,Lamine,MMR011006
+ Contributing family worker,1011,1194,2205,Lamine,MMR011006
+ Sought work,2664,950,3614,Lamine,MMR011006
+ Did not seek work,555,316,871,Lamine,MMR011006
+ Full time student,4758,5393,10151,Lamine,MMR011006
+ Household work,405,17871,18276,Lamine,MMR011006
+" Pensioner, retired, elderly person",2066,2744,4810,Lamine,MMR011006
+" Ill, disabled",524,435,959,Lamine,MMR011006
+ Other,2479,717,3196,Lamine,MMR011006
+ Total,31536,36933,68469,Lamine,MMR011006

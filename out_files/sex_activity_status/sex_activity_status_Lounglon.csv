@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),674,1451,2125,Lounglon,MMR006002
+" Employee (Private, Org)",13833,4859,18692,Lounglon,MMR006002
+ Employer,1731,523,2254,Lounglon,MMR006002
+ Own account worker,10240,9619,19859,Lounglon,MMR006002
+ Contributing family worker,1710,3469,5179,Lounglon,MMR006002
+ Sought work,1585,980,2565,Lounglon,MMR006002
+ Did not seek work,296,196,492,Lounglon,MMR006002
+ Full time student,7339,8294,15633,Lounglon,MMR006002
+ Household work,1279,17066,18345,Lounglon,MMR006002
+" Pensioner, retired, elderly person",2184,2877,5061,Lounglon,MMR006002
+" Ill, disabled",609,598,1207,Lounglon,MMR006002
+ Other,1049,340,1389,Lounglon,MMR006002
+ Total,42529,50272,92801,Lounglon,MMR006002

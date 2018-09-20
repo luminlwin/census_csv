@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2349,3055,5404,Myingyan,MMR010017
+" Employee (Private, Org)",25841,25867,51708,Myingyan,MMR010017
+ Employer,5473,2358,7831,Myingyan,MMR010017
+ Own account worker,26676,23369,50045,Myingyan,MMR010017
+ Contributing family worker,9310,15466,24776,Myingyan,MMR010017
+ Sought work,3039,2075,5114,Myingyan,MMR010017
+ Did not seek work,472,320,792,Myingyan,MMR010017
+ Full time student,14909,15575,30484,Myingyan,MMR010017
+ Household work,2268,29703,31971,Myingyan,MMR010017
+" Pensioner, retired, elderly person",6240,9798,16038,Myingyan,MMR010017
+" Ill, disabled",994,972,1966,Myingyan,MMR010017
+ Other,4921,2431,7352,Myingyan,MMR010017
+ Total,102492,130989,233481,Myingyan,MMR010017

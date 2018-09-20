@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1171,568,1739,Mawlaik,MMR005031
+" Employee (Private, Org)",2958,1519,4477,Mawlaik,MMR005031
+ Employer,725,198,923,Mawlaik,MMR005031
+ Own account worker,7264,3853,11117,Mawlaik,MMR005031
+ Contributing family worker,3005,5913,8918,Mawlaik,MMR005031
+ Sought work,287,171,458,Mawlaik,MMR005031
+ Did not seek work,54,15,69,Mawlaik,MMR005031
+ Full time student,2945,3210,6155,Mawlaik,MMR005031
+ Household work,147,4279,4426,Mawlaik,MMR005031
+" Pensioner, retired, elderly person",672,1040,1712,Mawlaik,MMR005031
+" Ill, disabled",113,126,239,Mawlaik,MMR005031
+ Other,336,172,508,Mawlaik,MMR005031
+ Total,19677,21064,40741,Mawlaik,MMR005031

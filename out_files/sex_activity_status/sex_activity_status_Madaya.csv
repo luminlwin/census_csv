@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1788,1684,3472,Madaya,MMR010009
+" Employee (Private, Org)",32626,20332,52958,Madaya,MMR010009
+ Employer,3070,1048,4118,Madaya,MMR010009
+ Own account worker,29225,16467,45692,Madaya,MMR010009
+ Contributing family worker,7659,11401,19060,Madaya,MMR010009
+ Sought work,2092,1557,3649,Madaya,MMR010009
+ Did not seek work,371,218,589,Madaya,MMR010009
+ Full time student,11890,12033,23923,Madaya,MMR010009
+ Household work,1453,37257,38710,Madaya,MMR010009
+" Pensioner, retired, elderly person",4498,7120,11618,Madaya,MMR010009
+" Ill, disabled",718,676,1394,Madaya,MMR010009
+ Other,3490,1480,4970,Madaya,MMR010009
+ Total,98880,111273,210153,Madaya,MMR010009

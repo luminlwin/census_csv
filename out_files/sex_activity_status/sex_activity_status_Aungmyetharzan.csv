@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),7541,5313,12854,Aungmyetharzan,MMR010001
+" Employee (Private, Org)",39604,22673,62277,Aungmyetharzan,MMR010001
+ Employer,3926,1624,5550,Aungmyetharzan,MMR010001
+ Own account worker,21920,17859,39779,Aungmyetharzan,MMR010001
+ Contributing family worker,3846,4438,8284,Aungmyetharzan,MMR010001
+ Sought work,2229,1486,3715,Aungmyetharzan,MMR010001
+ Did not seek work,509,384,893,Aungmyetharzan,MMR010001
+ Full time student,15966,16276,32242,Aungmyetharzan,MMR010001
+ Household work,1192,35876,37068,Aungmyetharzan,MMR010001
+" Pensioner, retired, elderly person",6075,7867,13942,Aungmyetharzan,MMR010001
+" Ill, disabled",701,547,1248,Aungmyetharzan,MMR010001
+ Other,8870,4473,13343,Aungmyetharzan,MMR010001
+ Total,112379,118816,231195,Aungmyetharzan,MMR010001

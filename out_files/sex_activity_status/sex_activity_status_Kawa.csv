@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),901,1404,2305,Kawa,MMR007003
+" Employee (Private, Org)",19430,10367,29797,Kawa,MMR007003
+ Employer,5293,1423,6716,Kawa,MMR007003
+ Own account worker,18511,5780,24291,Kawa,MMR007003
+ Contributing family worker,4571,6895,11466,Kawa,MMR007003
+ Sought work,2687,2261,4948,Kawa,MMR007003
+ Did not seek work,314,235,549,Kawa,MMR007003
+ Full time student,12237,11705,23942,Kawa,MMR007003
+ Household work,715,35317,36032,Kawa,MMR007003
+" Pensioner, retired, elderly person",2628,4528,7156,Kawa,MMR007003
+" Ill, disabled",617,599,1216,Kawa,MMR007003
+ Other,4008,2030,6038,Kawa,MMR007003
+ Total,71912,82544,154456,Kawa,MMR007003

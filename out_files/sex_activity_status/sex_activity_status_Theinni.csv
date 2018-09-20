@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1503,507,2010,Theinni,MMR015002
+" Employee (Private, Org)",2320,935,3255,Theinni,MMR015002
+ Employer,569,211,780,Theinni,MMR015002
+ Own account worker,8900,4410,13310,Theinni,MMR015002
+ Contributing family worker,3475,4081,7556,Theinni,MMR015002
+ Sought work,356,142,498,Theinni,MMR015002
+ Did not seek work,63,24,87,Theinni,MMR015002
+ Full time student,2517,2959,5476,Theinni,MMR015002
+ Household work,336,6506,6842,Theinni,MMR015002
+" Pensioner, retired, elderly person",1082,1607,2689,Theinni,MMR015002
+" Ill, disabled",116,118,234,Theinni,MMR015002
+ Other,1236,698,1934,Theinni,MMR015002
+ Total,22473,22198,44671,Theinni,MMR015002

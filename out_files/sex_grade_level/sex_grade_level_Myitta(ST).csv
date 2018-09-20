@@ -1,0 +1,21 @@
+Highest_grade,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ None,1146,1292,2438,Myitta(ST),MMR006001
+ Grade 1,694,635,1329,Myitta(ST),MMR006001
+ Grade 2,716,657,1373,Myitta(ST),MMR006001
+ Grade 3,1044,986,2030,Myitta(ST),MMR006001
+ Grade 4,933,1077,2010,Myitta(ST),MMR006001
+ Grade 5,1700,1681,3381,Myitta(ST),MMR006001
+ Grade 6,676,677,1353,Myitta(ST),MMR006001
+ Grade 7,514,453,967,Myitta(ST),MMR006001
+ Grade 8,403,440,843,Myitta(ST),MMR006001
+ Grade 9,463,396,859,Myitta(ST),MMR006001
+ Grade 10,257,302,559,Myitta(ST),MMR006001
+ Grade 11,405,454,859,Myitta(ST),MMR006001
+ College,76,97,173,Myitta(ST),MMR006001
+ Vocational training,7,7,14,Myitta(ST),MMR006001
+ Undergraduate diploma,7,12,19,Myitta(ST),MMR006001
+ Graduate,123,197,320,Myitta(ST),MMR006001
+ Postgraduate diploma,1,8,9,Myitta(ST),MMR006001
+ Master degree,2,6,8,Myitta(ST),MMR006001
+ Other,29,14,43,Myitta(ST),MMR006001
+ Total,9196,9391,18587,Myitta(ST),MMR006001

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),891,803,1694,Pauktaw,MMR012007
+" Employee (Private, Org)",11434,2645,14079,Pauktaw,MMR012007
+ Employer,4043,533,4576,Pauktaw,MMR012007
+ Own account worker,12023,3881,15904,Pauktaw,MMR012007
+ Contributing family worker,2869,4755,7624,Pauktaw,MMR012007
+ Sought work,4500,3796,8296,Pauktaw,MMR012007
+ Did not seek work,902,729,1631,Pauktaw,MMR012007
+ Full time student,9060,8205,17265,Pauktaw,MMR012007
+ Household work,1128,30842,31970,Pauktaw,MMR012007
+" Pensioner, retired, elderly person",1872,3402,5274,Pauktaw,MMR012007
+" Ill, disabled",301,339,640,Pauktaw,MMR012007
+ Other,3775,2819,6594,Pauktaw,MMR012007
+ Total,52798,62749,115547,Pauktaw,MMR012007

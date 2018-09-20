@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),105,45,150,Mawhtike(ST),MMR015023
+" Employee (Private, Org)",702,276,978,Mawhtike(ST),MMR015023
+ Employer,50,18,68,Mawhtike(ST),MMR015023
+ Own account worker,4505,2566,7071,Mawhtike(ST),MMR015023
+ Contributing family worker,2234,2258,4492,Mawhtike(ST),MMR015023
+ Sought work,485,351,836,Mawhtike(ST),MMR015023
+ Did not seek work,101,94,195,Mawhtike(ST),MMR015023
+ Full time student,1469,1287,2756,Mawhtike(ST),MMR015023
+ Household work,397,2196,2593,Mawhtike(ST),MMR015023
+" Pensioner, retired, elderly person",555,690,1245,Mawhtike(ST),MMR015023
+" Ill, disabled",81,57,138,Mawhtike(ST),MMR015023
+ Other,197,254,451,Mawhtike(ST),MMR015023
+ Total,10881,10092,20973,Mawhtike(ST),MMR015023

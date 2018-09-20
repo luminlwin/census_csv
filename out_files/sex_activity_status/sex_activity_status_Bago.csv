@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),9942,5503,15445,Bago,MMR007001
+" Employee (Private, Org)",59144,39574,98718,Bago,MMR007001
+ Employer,6448,2685,9133,Bago,MMR007001
+ Own account worker,46919,29684,76603,Bago,MMR007001
+ Contributing family worker,6012,5031,11043,Bago,MMR007001
+ Sought work,6532,3999,10531,Bago,MMR007001
+ Did not seek work,1136,622,1758,Bago,MMR007001
+ Full time student,27831,27843,55674,Bago,MMR007001
+ Household work,2067,77096,79163,Bago,MMR007001
+" Pensioner, retired, elderly person",7294,11977,19271,Bago,MMR007001
+" Ill, disabled",1675,1498,3173,Bago,MMR007001
+ Other,15703,6372,22075,Bago,MMR007001
+ Total,190703,211884,402587,Bago,MMR007001

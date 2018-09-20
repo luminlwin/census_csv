@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1931,1132,3063,Toungup,MMR012016
+" Employee (Private, Org)",6631,1993,8624,Toungup,MMR012016
+ Employer,805,227,1032,Toungup,MMR012016
+ Own account worker,17945,7206,25151,Toungup,MMR012016
+ Contributing family worker,2774,4902,7676,Toungup,MMR012016
+ Sought work,1975,1269,3244,Toungup,MMR012016
+ Did not seek work,551,1187,1738,Toungup,MMR012016
+ Full time student,6702,7036,13738,Toungup,MMR012016
+ Household work,449,17785,18234,Toungup,MMR012016
+" Pensioner, retired, elderly person",2661,3710,6371,Toungup,MMR012016
+" Ill, disabled",357,339,696,Toungup,MMR012016
+ Other,2499,1837,4336,Toungup,MMR012016
+ Total,45280,48623,93903,Toungup,MMR012016

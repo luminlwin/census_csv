@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),775,944,1719,Depayin,MMR005010
+" Employee (Private, Org)",8703,6785,15488,Depayin,MMR005010
+ Employer,4389,1200,5589,Depayin,MMR005010
+ Own account worker,17070,9787,26857,Depayin,MMR005010
+ Contributing family worker,5536,11845,17381,Depayin,MMR005010
+ Sought work,1064,1059,2123,Depayin,MMR005010
+ Did not seek work,181,133,314,Depayin,MMR005010
+ Full time student,7928,8113,16041,Depayin,MMR005010
+ Household work,427,17299,17726,Depayin,MMR005010
+" Pensioner, retired, elderly person",3223,5019,8242,Depayin,MMR005010
+" Ill, disabled",497,565,1062,Depayin,MMR005010
+ Other,1357,549,1906,Depayin,MMR005010
+ Total,51150,63298,114448,Depayin,MMR005010

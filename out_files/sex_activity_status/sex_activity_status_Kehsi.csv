@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),284,256,540,Kehsi,MMR014015
+" Employee (Private, Org)",768,520,1288,Kehsi,MMR014015
+ Employer,408,133,541,Kehsi,MMR014015
+ Own account worker,7508,4620,12128,Kehsi,MMR014015
+ Contributing family worker,3607,6177,9784,Kehsi,MMR014015
+ Sought work,187,154,341,Kehsi,MMR014015
+ Did not seek work,77,59,136,Kehsi,MMR014015
+ Full time student,1019,1534,2553,Kehsi,MMR014015
+ Household work,396,3997,4393,Kehsi,MMR014015
+" Pensioner, retired, elderly person",503,707,1210,Kehsi,MMR014015
+" Ill, disabled",88,89,177,Kehsi,MMR014015
+ Other,1207,365,1572,Kehsi,MMR014015
+ Total,16052,18611,34663,Kehsi,MMR014015

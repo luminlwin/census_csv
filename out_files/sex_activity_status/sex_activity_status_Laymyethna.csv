@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),737,870,1607,Laymyethna,MMR017010
+" Employee (Private, Org)",11712,5440,17152,Laymyethna,MMR017010
+ Employer,4085,774,4859,Laymyethna,MMR017010
+ Own account worker,9861,4236,14097,Laymyethna,MMR017010
+ Contributing family worker,2590,3209,5799,Laymyethna,MMR017010
+ Sought work,947,723,1670,Laymyethna,MMR017010
+ Did not seek work,155,92,247,Laymyethna,MMR017010
+ Full time student,5408,5470,10878,Laymyethna,MMR017010
+ Household work,276,19186,19462,Laymyethna,MMR017010
+" Pensioner, retired, elderly person",1915,2762,4677,Laymyethna,MMR017010
+" Ill, disabled",367,378,745,Laymyethna,MMR017010
+ Other,2138,933,3071,Laymyethna,MMR017010
+ Total,40191,44073,84264,Laymyethna,MMR017010

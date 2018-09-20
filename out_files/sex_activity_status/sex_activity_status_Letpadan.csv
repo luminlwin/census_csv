@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1471,1505,2976,Letpadan,MMR008008
+" Employee (Private, Org)",17728,7335,25063,Letpadan,MMR008008
+ Employer,7872,1921,9793,Letpadan,MMR008008
+ Own account worker,13661,5520,19181,Letpadan,MMR008008
+ Contributing family worker,4220,4416,8636,Letpadan,MMR008008
+ Sought work,3150,1665,4815,Letpadan,MMR008008
+ Did not seek work,321,226,547,Letpadan,MMR008008
+ Full time student,9148,9055,18203,Letpadan,MMR008008
+ Household work,1171,36158,37329,Letpadan,MMR008008
+" Pensioner, retired, elderly person",3146,4814,7960,Letpadan,MMR008008
+" Ill, disabled",487,507,994,Letpadan,MMR008008
+ Other,5000,3144,8144,Letpadan,MMR008008
+ Total,67375,76266,143641,Letpadan,MMR008008

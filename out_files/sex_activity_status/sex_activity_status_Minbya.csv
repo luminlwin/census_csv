@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2403,965,3368,Minbya,MMR012005
+" Employee (Private, Org)",10818,3693,14511,Minbya,MMR012005
+ Employer,4085,856,4941,Minbya,MMR012005
+ Own account worker,13631,4920,18551,Minbya,MMR012005
+ Contributing family worker,2957,7838,10795,Minbya,MMR012005
+ Sought work,6335,6085,12420,Minbya,MMR012005
+ Did not seek work,707,857,1564,Minbya,MMR012005
+ Full time student,10134,9617,19751,Minbya,MMR012005
+ Household work,1064,27949,29013,Minbya,MMR012005
+" Pensioner, retired, elderly person",2141,3966,6107,Minbya,MMR012005
+" Ill, disabled",421,505,926,Minbya,MMR012005
+ Other,6310,5339,11649,Minbya,MMR012005
+ Total,61006,72590,133596,Minbya,MMR012005

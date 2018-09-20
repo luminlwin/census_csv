@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),607,1980,2587,Chaungzon,MMR011003
+" Employee (Private, Org)",12396,4080,16476,Chaungzon,MMR011003
+ Employer,1923,502,2425,Chaungzon,MMR011003
+ Own account worker,8540,4720,13260,Chaungzon,MMR011003
+ Contributing family worker,1772,2431,4203,Chaungzon,MMR011003
+ Sought work,3218,2240,5458,Chaungzon,MMR011003
+ Did not seek work,407,278,685,Chaungzon,MMR011003
+ Full time student,6332,7180,13512,Chaungzon,MMR011003
+ Household work,830,25617,26447,Chaungzon,MMR011003
+" Pensioner, retired, elderly person",2943,3682,6625,Chaungzon,MMR011003
+" Ill, disabled",664,627,1291,Chaungzon,MMR011003
+ Other,4178,1851,6029,Chaungzon,MMR011003
+ Total,43810,55188,98998,Chaungzon,MMR011003

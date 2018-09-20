@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2411,669,3080,Hopon,MMR014003
+" Employee (Private, Org)",5907,2966,8873,Hopon,MMR014003
+ Employer,773,421,1194,Hopon,MMR014003
+ Own account worker,17949,11986,29935,Hopon,MMR014003
+ Contributing family worker,7250,13824,21074,Hopon,MMR014003
+ Sought work,255,181,436,Hopon,MMR014003
+ Did not seek work,62,21,83,Hopon,MMR014003
+ Full time student,4931,5727,10658,Hopon,MMR014003
+ Household work,220,6035,6255,Hopon,MMR014003
+" Pensioner, retired, elderly person",1117,2043,3160,Hopon,MMR014003
+" Ill, disabled",237,210,447,Hopon,MMR014003
+ Other,2160,710,2870,Hopon,MMR014003
+ Total,43272,44793,88065,Hopon,MMR014003

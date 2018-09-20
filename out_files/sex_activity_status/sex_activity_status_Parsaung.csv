@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),621,249,870,Parsaung,MMR002006
+" Employee (Private, Org)",3791,993,4784,Parsaung,MMR002006
+ Employer,368,84,452,Parsaung,MMR002006
+ Own account worker,3239,1495,4734,Parsaung,MMR002006
+ Contributing family worker,818,885,1703,Parsaung,MMR002006
+ Sought work,110,57,167,Parsaung,MMR002006
+ Did not seek work,40,17,57,Parsaung,MMR002006
+ Full time student,1429,1537,2966,Parsaung,MMR002006
+ Household work,98,2990,3088,Parsaung,MMR002006
+" Pensioner, retired, elderly person",250,359,609,Parsaung,MMR002006
+" Ill, disabled",38,41,79,Parsaung,MMR002006
+ Other,182,125,307,Parsaung,MMR002006
+ Total,10984,8832,19816,Parsaung,MMR002006

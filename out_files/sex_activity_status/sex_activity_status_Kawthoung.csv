@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2174,1014,3188,Kawthoung,MMR006009
+" Employee (Private, Org)",17875,4786,22661,Kawthoung,MMR006009
+ Employer,1280,332,1612,Kawthoung,MMR006009
+ Own account worker,10523,5063,15586,Kawthoung,MMR006009
+ Contributing family worker,1707,1286,2993,Kawthoung,MMR006009
+ Sought work,1136,485,1621,Kawthoung,MMR006009
+ Did not seek work,430,234,664,Kawthoung,MMR006009
+ Full time student,6275,6824,13099,Kawthoung,MMR006009
+ Household work,1041,21207,22248,Kawthoung,MMR006009
+" Pensioner, retired, elderly person",1620,2268,3888,Kawthoung,MMR006009
+" Ill, disabled",418,334,752,Kawthoung,MMR006009
+ Other,2414,1263,3677,Kawthoung,MMR006009
+ Total,46893,45096,91989,Kawthoung,MMR006009

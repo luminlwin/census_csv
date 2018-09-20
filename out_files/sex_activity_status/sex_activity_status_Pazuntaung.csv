@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),740,1036,1776,Pazuntaung,MMR013016
+" Employee (Private, Org)",5512,3752,9264,Pazuntaung,MMR013016
+ Employer,923,336,1259,Pazuntaung,MMR013016
+ Own account worker,3810,1708,5518,Pazuntaung,MMR013016
+ Contributing family worker,878,587,1465,Pazuntaung,MMR013016
+ Sought work,693,446,1139,Pazuntaung,MMR013016
+ Did not seek work,263,125,388,Pazuntaung,MMR013016
+ Full time student,2969,3026,5995,Pazuntaung,MMR013016
+ Household work,359,9282,9641,Pazuntaung,MMR013016
+" Pensioner, retired, elderly person",1927,2420,4347,Pazuntaung,MMR013016
+" Ill, disabled",90,116,206,Pazuntaung,MMR013016
+ Other,1600,1102,2702,Pazuntaung,MMR013016
+ Total,19764,23936,43700,Pazuntaung,MMR013016

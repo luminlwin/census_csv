@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1183,715,1898,Hsihseng,MMR014004
+" Employee (Private, Org)",5453,3087,8540,Hsihseng,MMR014004
+ Employer,512,294,806,Hsihseng,MMR014004
+ Own account worker,26630,19937,46567,Hsihseng,MMR014004
+ Contributing family worker,10061,17109,27170,Hsihseng,MMR014004
+ Sought work,420,357,777,Hsihseng,MMR014004
+ Did not seek work,165,90,255,Hsihseng,MMR014004
+ Full time student,6970,7737,14707,Hsihseng,MMR014004
+ Household work,494,6587,7081,Hsihseng,MMR014004
+" Pensioner, retired, elderly person",1502,2466,3968,Hsihseng,MMR014004
+" Ill, disabled",302,300,602,Hsihseng,MMR014004
+ Other,2370,664,3034,Hsihseng,MMR014004
+ Total,56062,59343,115405,Hsihseng,MMR014004

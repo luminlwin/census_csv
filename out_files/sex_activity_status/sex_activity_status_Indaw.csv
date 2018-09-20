@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),920,1080,2000,Indaw,MMR005021
+" Employee (Private, Org)",3708,1898,5606,Indaw,MMR005021
+ Employer,943,369,1312,Indaw,MMR005021
+ Own account worker,18746,10186,28932,Indaw,MMR005021
+ Contributing family worker,8533,18298,26831,Indaw,MMR005021
+ Sought work,296,413,709,Indaw,MMR005021
+ Did not seek work,35,11,46,Indaw,MMR005021
+ Full time student,6906,7697,14603,Indaw,MMR005021
+ Household work,407,6202,6609,Indaw,MMR005021
+" Pensioner, retired, elderly person",2241,4218,6459,Indaw,MMR005021
+" Ill, disabled",250,272,522,Indaw,MMR005021
+ Other,1012,340,1352,Indaw,MMR005021
+ Total,43997,50984,94981,Indaw,MMR005021

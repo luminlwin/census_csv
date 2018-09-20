@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),49,27,76,Mine Pauk(ST),MMR016003
+" Employee (Private, Org)",2136,867,3003,Mine Pauk(ST),MMR016003
+ Employer,509,420,929,Mine Pauk(ST),MMR016003
+ Own account worker,7965,5124,13089,Mine Pauk(ST),MMR016003
+ Contributing family worker,5555,5537,11092,Mine Pauk(ST),MMR016003
+ Sought work,415,363,778,Mine Pauk(ST),MMR016003
+ Did not seek work,177,119,296,Mine Pauk(ST),MMR016003
+ Full time student,2257,1882,4139,Mine Pauk(ST),MMR016003
+ Household work,703,4175,4878,Mine Pauk(ST),MMR016003
+" Pensioner, retired, elderly person",748,1117,1865,Mine Pauk(ST),MMR016003
+" Ill, disabled",58,62,120,Mine Pauk(ST),MMR016003
+ Other,1325,1185,2510,Mine Pauk(ST),MMR016003
+ Total,21897,20878,42775,Mine Pauk(ST),MMR016003

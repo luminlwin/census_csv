@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2715,2404,5119,Shwedaung,MMR008006
+" Employee (Private, Org)",10816,6724,17540,Shwedaung,MMR008006
+ Employer,2964,857,3821,Shwedaung,MMR008006
+ Own account worker,14420,7386,21806,Shwedaung,MMR008006
+ Contributing family worker,3428,5375,8803,Shwedaung,MMR008006
+ Sought work,1228,1056,2284,Shwedaung,MMR008006
+ Did not seek work,135,97,232,Shwedaung,MMR008006
+ Full time student,4893,5122,10015,Shwedaung,MMR008006
+ Household work,584,21219,21803,Shwedaung,MMR008006
+" Pensioner, retired, elderly person",3172,3967,7139,Shwedaung,MMR008006
+" Ill, disabled",414,446,860,Shwedaung,MMR008006
+ Other,3524,2232,5756,Shwedaung,MMR008006
+ Total,48293,56885,105178,Shwedaung,MMR008006

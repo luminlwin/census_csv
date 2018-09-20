@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),757,236,993,Minepyin,MMR016007
+" Employee (Private, Org)",985,421,1406,Minepyin,MMR016007
+ Employer,123,61,184,Minepyin,MMR016007
+ Own account worker,9356,4162,13518,Minepyin,MMR016007
+ Contributing family worker,5124,7036,12160,Minepyin,MMR016007
+ Sought work,327,171,498,Minepyin,MMR016007
+ Did not seek work,65,28,93,Minepyin,MMR016007
+ Full time student,1028,1221,2249,Minepyin,MMR016007
+ Household work,366,5028,5394,Minepyin,MMR016007
+" Pensioner, retired, elderly person",717,919,1636,Minepyin,MMR016007
+" Ill, disabled",78,107,185,Minepyin,MMR016007
+ Other,1417,317,1734,Minepyin,MMR016007
+ Total,20343,19707,40050,Minepyin,MMR016007

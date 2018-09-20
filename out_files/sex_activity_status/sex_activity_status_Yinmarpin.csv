@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1105,1169,2274,Yinmarpin,MMR005016
+" Employee (Private, Org)",9778,7663,17441,Yinmarpin,MMR005016
+ Employer,2849,1172,4021,Yinmarpin,MMR005016
+ Own account worker,18646,11366,30012,Yinmarpin,MMR005016
+ Contributing family worker,6463,15355,21818,Yinmarpin,MMR005016
+ Sought work,897,913,1810,Yinmarpin,MMR005016
+ Did not seek work,103,67,170,Yinmarpin,MMR005016
+ Full time student,8708,9039,17747,Yinmarpin,MMR005016
+ Household work,406,11529,11935,Yinmarpin,MMR005016
+" Pensioner, retired, elderly person",3447,4482,7929,Yinmarpin,MMR005016
+" Ill, disabled",387,418,805,Yinmarpin,MMR005016
+ Other,1036,265,1301,Yinmarpin,MMR005016
+ Total,53825,63438,117263,Yinmarpin,MMR005016

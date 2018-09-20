@@ -1,0 +1,414 @@
+tps_code_census,tsp_name_census,tsp_code_mimu,tsp_name_mimu,state_region,tsp_type
+AREA # 010101,Myitkyina,MMR001001,Myitkyina,Kachin,Main
+AREA # 010102,Waingmaw,MMR001002,Waingmaw,Kachin,Main
+AREA # 010103,Ingyanyan,MMR001003,Injangyang,Kachin,Main
+AREA # 010104,Tanaing,MMR001004,Tanai,Kachin,Main
+AREA # 010105,Chiphwe,MMR001005,Chipwi,Kachin,Main
+AREA # 010106,Hsotlaw,MMR001006,Tsawlaw,Kachin,Main
+AREA # 010151,Hsinbo(ST),MMR001001,Myitkyina,Kachin,Sub
+AREA # 010152,Hsadone(ST),MMR001002,Waingmaw,Kachin,Sub
+AREA # 010153,Kanpaikti(ST),MMR001002,Waingmaw,Kachin,Sub
+AREA # 010154,Shinbwayyan(ST),MMR001004,Tanai,Kachin,Sub
+AREA # 010155,Panwa(ST),MMR001005,Chipwi,Kachin,Sub
+AREA # 010201,Mohnyin,MMR001007,Mohnyin,Kachin,Main
+AREA # 010202,Mogaung,MMR001008,Mogaung,Kachin,Main
+AREA # 010203,Phakant,MMR001009,Hpakant,Kachin,Main
+AREA # 010251,Hopin(ST),MMR001007,Mohnyin,Kachin,Sub
+AREA # 010252,Kamine(ST),MMR001009,Hpakant,Kachin,Sub
+AREA # 010301,Bhamo,MMR001010,Bhamo,Kachin,Main
+AREA # 010302,Shwegu,MMR001011,Shwegu,Kachin,Main
+AREA # 010303,Momauk,MMR001012,Momauk,Kachin,Main
+AREA # 010304,Mansi,MMR001013,Mansi,Kachin,Main
+AREA # 010351,Myohla(ST),MMR001011,Shwegu,Kachin,Sub
+AREA # 010352,Lwe`ge`(ST),MMR001012,Momauk,Kachin,Sub
+AREA # 010353,Dotphoneyan(ST),MMR001012,Momauk,Kachin,Sub
+AREA # 010401,Putao,MMR001014,Puta-O,Kachin,Main
+AREA # 010402,Sumprabum,MMR001015,Sumprabum,Kachin,Main
+AREA # 010403,Machanbaw,MMR001016,Machanbaw,Kachin,Main
+AREA # 010404,Khaunglanphoo,MMR001018,Khaunglanhpu,Kachin,Main
+AREA # 010405,Naungmoon,MMR001017,Nawngmun,Kachin,Main
+AREA # 010451,Pannandin(ST),MMR001017,Nawngmun,Kachin,Sub
+AREA # 020101,Loikaw,MMR002001,Loikaw,Kayah,main
+AREA # 020102,Dimawso,MMR002002,Demoso,Kayah,main
+AREA # 020103,Phruso,MMR002003,Hpruso,Kayah,main
+AREA # 020104,Shardaw,MMR002004,Shadaw,Kayah,main
+AREA # 020201,Bawlakhe,MMR002005,Bawlake,Kayah,main
+AREA # 020202,Parsaung,MMR002006,Hpasawng,Kayah,main
+AREA # 020203,Meisi,MMR002007,Mese,Kayah,main
+AREA # 020251,Ywathit(ST),MMR002005,Bawlake,Kayah,Sub
+AREA # 030101,Hpa-an,MMR003001,Hpa-An,Kayin,Main
+AREA # 030102,Hlaingbwe,MMR003002,Hlaingbwe,Kayin,Main
+AREA # 030103,Thandaunggyi,MMR003004,Thandaunggyi,Kayin,Main
+AREA # 030151,Paingkyon(ST),MMR003002,Hlaingbwe,Kayin,Sub
+AREA # 030152,Shan Ywathit(ST),MMR003002,Hlaingbwe,Kayin,Sub
+AREA # 030153,Leiktho(ST),MMR003004,Thandaunggyi,Kayin,Sub
+AREA # 030154,Bawgali(ST),MMR003004,Thandaunggyi,Kayin,Sub
+AREA # 030201,Pharpon,MMR003003,Hpapun,Kayin,Main
+AREA # 030251,Kamamaung(ST},MMR003003,Hpapun,Kayin,Sub
+AREA # 030301,Myawady,MMR003005,Myawaddy,Kayin,Main
+AREA # 030351,Sugali(ST),MMR003005,Myawaddy,Kayin,Sub
+AREA # 030352,Wawlaymyaing(ST),MMR003005,Myawaddy,Kayin,Sub
+AREA # 030401,Kawkareik,MMR003006,Kawkareik,Kayin,Main
+AREA # 030402,Kyarinseikkyi,MMR003007,Kyainseikgyi,Kayin,Main
+AREA # 030451,Payarthonezu(ST),MMR003007,Kyainseikgyi,Kayin,Sub
+AREA # 030452,Kyaidon(ST),MMR003007,Kyainseikgyi,Kayin,Sub
+AREA # 040101,HaKa,MMR004002,Hakha,Chin,Main
+AREA # 040102,Thantlang,MMR004003,Thantlang,Chin,Main
+AREA # 040201,Falam,MMR004001,Falam,Chin,Main
+AREA # 040202,Tedim,MMR004004,Tedim,Chin,Main
+AREA # 040203,Tonzaung,MMR004005,Tonzang,Chin,Main
+AREA # 040251,Rihkhuadal(ST),MMR004001,Falam,Chin,Sub
+AREA # 040252,Cikha(ST),MMR004005,Tonzang,Chin,Sub
+AREA # 040301,Mindat,MMR004006,Mindat,Chin,Main
+AREA # 040302,Matupi,MMR004007,Matupi,Chin,Main
+AREA # 040303,Kanpalet,MMR004008,Kanpetlet,Chin,Main
+AREA # 040304,Paletwat,MMR004009,Paletwa,Chin,Main
+AREA # 040351,Reazu(ST),MMR004007,Matupi,Chin,Sub
+AREA # 040352,Sami(ST),MMR004009,Paletwa,Chin,Sub
+AREA # 050101,Sagaing,MMR005001,Sagaing,Sagaing,Main
+AREA # 050102,Myinmu,MMR005002,Myinmu,Sagaing,Main
+AREA # 050103,Myaung,MMR005003,Myaung,Sagaing,Main
+AREA # 050201,Shwebo,MMR005004,Shwebo,Sagaing,Main
+AREA # 050202,Khin U,MMR005005,Khin-U,Sagaing,Main
+AREA # 050203,Wetlet,MMR005006,Wetlet,Sagaing,Main
+AREA # 050204,Kambalu,MMR005007,Kanbalu,Sagaing,Main
+AREA # 050205,Kyunhlau,MMR005008,Kyunhla,Sagaing,Main
+AREA # 050206,Ye U,MMR005009,Ye-U,Sagaing,Main
+AREA # 050207,Depayin,MMR005010,Tabayin,Sagaing,Main
+AREA # 050208,Tasei,MMR005011,Taze,Sagaing,Main
+AREA # 050251,Kyaukmyaung(ST),MMR005004,Shwebo,Sagaing,Sub
+AREA # 050301,Monywa,MMR005012,Monywa,Sagaing,Main
+AREA # 050302,Butalin,MMR005013,Budalin,Sagaing,Main
+AREA # 050303,Ayartaw,MMR005014,Ayadaw,Sagaing,Main
+AREA # 050304,Chaung Oo,MMR005015,Chaung-U,Sagaing,Main
+AREA # 050401,Katha,MMR005020,Katha,Sagaing,Main
+AREA # 050402,Indaw,MMR005021,Indaw,Sagaing,Main
+AREA # 050403,Tigyaing,MMR005022,Tigyaing,Sagaing,Main
+AREA # 050404,Banmauk,MMR005023,Banmauk,Sagaing,Main
+AREA # 050405,Kawlin,MMR005024,Kawlin,Sagaing,Main
+AREA # 050406,Wuntho,MMR005025,Wuntho,Sagaing,Main
+AREA # 050407,Pinlebu,MMR005026,Pinlebu,Sagaing,Main
+AREA # 050501,Kalay,MMR014005,Kalaw,Sagaing,Main
+AREA # 050502,Kalewa,MMR005028,Kalewa,Sagaing,Main
+AREA # 050503,Mingin,MMR005029,Mingin,Sagaing,Main
+AREA # 050601,Tamu,MMR005030,Tamu,Sagaing,Main
+AREA # 050651,Myothit(ST),MMR005030,Tamu,Sagaing,Sub
+AREA # 050652,Khampat(ST),MMR005030,Tamu,Sagaing,Sub
+AREA # 050701,Mawlaik,MMR005031,Mawlaik,Sagaing,Main
+AREA # 050702,Phaungpyin,MMR005032,Paungbyin,Sagaing,Main
+AREA # 050801,Hkamti,MMR005033,Hkamti,Sagaing,Main
+AREA # 050802,Homalin,MMR005034,Homalin,Sagaing,Main
+AREA # 050803,Leshi,MMR005035,Lay Shi,Sagaing,Main
+AREA # 050804,Lahe,MMR005036,Lahe,Sagaing,Main
+AREA # 050805,Nanyun,MMR005037,Nanyun,Sagaing,Main
+AREA # 050851,Mobaingluk(ST),MMR005035,Lay Shi,Sagaing,Sub
+AREA # 050852,Sonemara(ST),MMR005035,Lay Shi,Sagaing,Sub
+AREA # 050853,Htanparkway(ST),MMR005036,Lahe,Sagaing,Sub
+AREA # 050854,Pansaung(ST),MMR005037,Nanyun,Sagaing,Sub
+AREA # 050855,Donhee(ST),MMR005037,Nanyun,Sagaing,Sub
+AREA # 050901,Yinmarpin,MMR005016,Yinmarbin,Sagaing,Main
+AREA # 050902,Salingyi,MMR005018,Salingyi,Sagaing,Main
+AREA # 050903,Palae,MMR005019,Pale,Sagaing,Main
+AREA # 050904,Kani,MMR005017,Kani,Sagaing,Main
+AREA # 060101,Dawei,MMR006001,Dawei,Tanintharyi,Main
+AREA # 060102,Lounglon,MMR006002,Launglon,Tanintharyi,Main
+AREA # 060103,Thayetchaung,MMR006003,Thayetchaung,Tanintharyi,Main
+AREA # 060104,Yebyu,MMR006004,Yebyu,Tanintharyi,Main
+AREA # 060151,Myitta(ST),MMR006001,Dawei,Tanintharyi,Sub
+AREA # 060152,Kaleinaung(ST),MMR006004,Yebyu,Tanintharyi,Sub
+AREA # 060201,Myeik,MMR006005,Myeik,Tanintharyi,Main
+AREA # 060202,Kyunsu,MMR006006,Kyunsu,Tanintharyi,Main
+AREA # 060203,Palaw,MMR006007,Palaw,Tanintharyi,Main
+AREA # 060204,Tanintharyi,MMR006008,Tanintharyi,Tanintharyi,Main
+AREA # 060251,Palauk(ST),MMR006007,Palaw,Tanintharyi,Sub
+AREA # 060301,Kawthoung,MMR006009,Kawthoung,Tanintharyi,Main
+AREA # 060302,Bokepyin,MMR006010,Bokpyin,Tanintharyi,Main
+AREA # 060351,Khamaukgyi,MMR006009,Kawthoung,Tanintharyi,Sub
+AREA # 060352,Pyigyimandaing,MMR006010,Bokpyin,Tanintharyi,Sub
+AREA # 060353,Karathuri(ST),MMR006010,Bokpyin,Tanintharyi,Sub
+AREA # 070101,Bago,MMR007001,Bago,Bago (East),main
+AREA # 070102,Tanatpin,MMR007002,Thanatpin,Bago (East),main
+AREA # 070103,Kawa,MMR007003,Kawa,Bago (East),main
+AREA # 070104,Waw,MMR007004,Waw,Bago (East),main
+AREA # 070105,Nyaunglebin,MMR007005,Nyaunglebin,Bago (East),main
+AREA # 070106,Kyauktaga,MMR007006,Kyauktaga,Bago (East),main
+AREA # 070107,Daik U,MMR007007,Daik-U,Bago (East),main
+AREA # 070108,Shwegyin,MMR007008,Shwegyin,Bago (East),main
+AREA # 070201,Toungoo,MMR007009,Taungoo,Bago (East),main
+AREA # 070202,Yaedashe,MMR007010,Yedashe,Bago (East),main
+AREA # 070203,Kyaukkyi,MMR007011,Kyaukkyi,Bago (East),main
+AREA # 070204,Pyu,MMR007012,Phyu,Bago (East),main
+AREA # 070205,Oatwin,MMR007013,Oktwin,Bago (East),main
+AREA # 070206,Htantapin,MMR007014,Htantabin,Bago (East),main
+AREA # 070301,Pyay,MMR008001,Pyay,Bago (West),main
+AREA # 070302,Paukkhaung,MMR008002,Paukkhaung,Bago (West),main
+AREA # 070303,Padaung,MMR008003,Padaung,Bago (West),main
+AREA # 070304,Paunde,MMR008004,Paungde,Bago (West),main
+AREA # 070305,Thegon,MMR008005,Thegon,Bago (West),main
+AREA # 070306,Shwedaung,MMR008006,Shwedaung,Bago (West),main
+AREA # 070401,Tharyarwaddy,MMR008007,Thayarwady,Bago (West),main
+AREA # 070402,Letpadan,MMR008008,Letpadan,Bago (West),main
+AREA # 070403,Minhla,MMR008009,Minhla,Bago (West),main
+AREA # 070404,Okpo,MMR008010,Okpho,Bago (West),main
+AREA # 070405,Zigon,MMR008011,Zigon,Bago (West),main
+AREA # 070406,Nattalin,MMR008012,Nattalin,Bago (West),main
+AREA # 070407,Monyo,MMR008013,Monyo,Bago (West),main
+AREA # 070408,Gyobingauk,MMR008014,Gyobingauk,Bago (West),main
+AREA # 080101,Magway,MMR009001,Magway,Magway,main
+AREA # 080102,Yenangyoung,MMR009002,Yenangyaung,Magway,main
+AREA # 080103,Chauk,MMR009003,Chauk,Magway,main
+AREA # 080104,Taungdwingyi,MMR009004,Taungdwingyi,Magway,main
+AREA # 080105,Myothit,MMR009005,Myothit,Magway,main
+AREA # 080106,Natmauk,MMR009006,Natmauk,Magway,main
+AREA # 080201,Minbu,MMR009007,Minbu,Magway,main
+AREA # 080202,Pwint Phyu,MMR009008,Pwintbyu,Magway,main
+AREA # 080203,Ngape,MMR009009,Ngape,Magway,main
+AREA # 080204,Salin,MMR009010,Salin,Magway,main
+AREA # 080205,Saytottara,MMR009011,Sidoktaya,Magway,main
+AREA # 080301,Thayet,MMR009012,Thayet,Magway,main
+AREA # 080302,Minhla,MMR009013,Minha,Magway,main
+AREA # 080303,Mindon,MMR009014,Mindon,Magway,main
+AREA # 080304,Kamma,MMR009015,Kamma,Magway,main
+AREA # 080305,Aunglan,MMR009016,Aunglan,Magway,main
+AREA # 080306,Sinpaungwe`,MMR009017,Sinbaungwe,Magway,main
+AREA # 080401,Pakokku,MMR009018,Pakokku,Magway,main
+AREA # 080402,Yesagyo,MMR009019,Yesagyo,Magway,main
+AREA # 080403,Myaing,MMR009020,Myaing,Magway,main
+AREA # 080404,Pauk,MMR009021,Pauk,Magway,main
+AREA # 080405,Seikphyu,MMR009022,Seikphyu,Magway,main
+AREA # 080501,Gangaw,MMR009023,Gangaw,Magway,main
+AREA # 080502,Htilin,MMR009024,Tilin,Magway,main
+AREA # 080503,Saw,MMR009025,Saw,Magway,main
+AREA # 080551,Kyaukhtu(ST),MMR009025,Saw,Magway,sub
+AREA # 090101,Aungmyetharzan,MMR010001,Aungmyaythazan,Mandalay,main
+AREA # 090102,Chanayeharzan,MMR010002,Chanayethazan,Mandalay,main
+AREA # 090103,Mahaaungmye,MMR010003,Mahaaungmyay,Mandalay,main
+AREA # 090104,Chanmyatharzi,MMR010004,Chanmyathazi,Mandalay,main
+AREA # 090105,Pyigyidagun,MMR010005,Pyigyitagon,Mandalay,main
+AREA # 090106,Amarapura,MMR010006,Amarapura,Mandalay,main
+AREA # 090107,Patheingyi,MMR010007,Patheingyi,Mandalay,main
+AREA # 090201,Pyin Oo Lwin,MMR010008,Pyinoolwin,Mandalay,main
+AREA # 090202,Madaya,MMR010009,Madaya,Mandalay,main
+AREA # 090203,Sinku,MMR010010,Singu,Mandalay,main
+AREA # 090204,Mogok,MMR010011,Mogoke,Mandalay,main
+AREA # 090205,Thabeikkyin,MMR010012,Thabeikkyin,Mandalay,main
+AREA # 090251,Tagaung,MMR010012,Thabeikkyin,Mandalay,sub
+AREA # 090301,Kyaukse,MMR010013,Kyaukse,Mandalay,main
+AREA # 090302,Singaing,MMR010014,Sintgaing,Mandalay,main
+AREA # 090303,Myitthar,MMR010015,Myittha,Mandalay,main
+AREA # 090304,Tada U,MMR010016,Tada-U,Mandalay,main
+AREA # 090401,Myingyan,MMR010017,Myingyan,Mandalay,main
+AREA # 090402,Taungtha,MMR010018,Taungtha,Mandalay,main
+AREA # 090403,Natogyi,MMR010019,Natogyi,Mandalay,main
+AREA # 090404,Kyaukpadaung,MMR010020,Kyaukpadaung,Mandalay,main
+AREA # 090405,Ngazun,MMR010021,Ngazun,Mandalay,main
+AREA # 090501,Nyaung U,MMR010022,Nyaung-U,Mandalay,main
+AREA # 090551,Ngathayauk,MMR010022,Nyaung-U,Mandalay,sub
+AREA # 090601,Yame`thin,MMR010023,Yamethin,Mandalay,main
+AREA # 090602,Pyawbwe,MMR010024,Pyawbwe,Mandalay,main
+AREA # 090701,Meiktila,MMR010028,Meiktila,Mandalay,main
+AREA # 090702,Mahlaing,MMR010029,Mahlaing,Mandalay,main
+AREA # 090703,Thazi,MMR010030,Thazi,Mandalay,main
+AREA # 090704,Wundwin,MMR010031,Wundwin,Mandalay,main
+AREA # 100101,Mawlamyine,MMR011001,Mawlamyine,Mon,main
+AREA # 100102,Kyaikemaraw,MMR011002,Kyaikmaraw,Mon,main
+AREA # 100103,Chaungzon,MMR011003,Chaungzon,Mon,main
+AREA # 100104,Thanbyuzayat,MMR011004,Thanbyuzayat,Mon,main
+AREA # 100105,Mudon,MMR011005,Mudon,Mon,main
+AREA # 100106,Ye,MMR011006,Ye,Mon,main
+AREA # 100151,Lamine,MMR011006,Ye,Mon,sub
+AREA # 100152,Khawzar,MMR011006,Ye,Mon,sub
+AREA # 100201,Thaton,MMR011007,Thaton,Mon,main
+AREA # 100202,Paung,MMR011008,Paung,Mon,main
+AREA # 100203,Kyaikto,MMR011009,Kyaikto,Mon,main
+AREA # 100204,Bilin,MMR011010,Bilin,Mon,main
+AREA # 110101,Sittway,MMR012001,Sittwe,Rakhine,main
+AREA # 110102,Ponnagyun,MMR012002,Ponnagyun,Rakhine,main
+AREA # 110103,Pauktaw,MMR012007,Pauktaw,Rakhine,main
+AREA # 110104,Yethedaung,MMR012008,Rathedaung,Rakhine,main
+AREA # 110201,Myauk U,MMR012003,Mrauk-U,Rakhine,main
+AREA # 110202,Kyauktaw,MMR012004,Kyauktaw,Rakhine,main
+AREA # 110203,Minbya,MMR012005,Minbya,Rakhine,main
+AREA # 110204,Myebon,MMR012006,Myebon,Rakhine,main
+AREA # 110301,Maungtaw,MMR012009,Maungdaw,Rakhine,main
+AREA # 110302,Buthidaung,MMR012010,Buthidaung,Rakhine,main
+AREA # 110351,Taungpyoletwe(ST),MMR012009,Maungdaw,Rakhine,sub
+AREA # 110401,Kyaukpyu,MMR012011,Kyaukpyu,Rakhine,main
+AREA # 110402,Mannaung,MMR017011,Myanaung,Rakhine,main
+AREA # 110403,Yanbye,MMR012013,Ramree,Rakhine,main
+AREA # 110404,An,MMR012014,Ann,Rakhine,main
+AREA # 110501,Thandwe,MMR012015,Thandwe,Rakhine,main
+AREA # 110502,Toungup,MMR012016,Toungup,Rakhine,main
+AREA # 110503,Gwa,MMR012017,Gwa,Rakhine,main
+AREA # 110551,Maei(ST),MMR012016,Toungup,Rakhine,sub
+AREA # 110552,Kyeintali(ST),MMR012017,Gwa,Rakhine,sub
+AREA # 120101,Insein,MMR013001,Insein,Yangon,main
+AREA # 120102,Mingaladon,MMR013002,Mingaladon,Yangon,main
+AREA # 120103,Hmawby,MMR013003,Hmawbi,Yangon,main
+AREA # 120104,Hlegu,MMR013004,Hlegu,Yangon,main
+AREA # 120105,Taikkyi,MMR013005,Taikkyi,Yangon,main
+AREA # 120106,Htantabin,MMR013006,Htantabin,Yangon,main
+AREA # 120107,Shwepyitha,MMR013007,Shwepyithar,Yangon,main
+AREA # 120108,Hlinethaya,MMR013008,Hlaingtharya,Yangon,main
+AREA # 120201,Thingangyun,MMR013009,Thingangyun,Yangon,main
+AREA # 120202,Yankin,MMR013010,Yankin,Yangon,main
+AREA # 120203,South Okkalapa,MMR013011,South Okkalapa,Yangon,main
+AREA # 120204,North Okkalapa,MMR013012,North Okkalapa,Yangon,main
+AREA # 120205,Thakayta,MMR013013,Thaketa,Yangon,main
+AREA # 120206,Dawbon,MMR013014,Dawbon,Yangon,main
+AREA # 120207,Tamway,MMR013015,Tamwe,Yangon,main
+AREA # 120208,Pazuntaung,MMR013016,Pazundaung,Yangon,main
+AREA # 120209,Botahtaung,MMR013017,Botahtaung,Yangon,main
+AREA # 120210,Dagon Myothit(South),MMR013018,Dagon Myothit (South),Yangon,main
+AREA # 120211,Dagon Myothit(North),MMR013019,Dagon Myothit (North),Yangon,main
+AREA # 120212,Dagon Myothit(East),MMR013020,Dagon Myothit (East),Yangon,main
+AREA # 120213,Dagon Myothit(Seik),MMR013021,Dagon Myothit (Seikkan),Yangon,main
+AREA # 120214,Mingala Taungnyunt,MMR013022,Mingalartaungnyunt,Yangon,main
+AREA # 120301,Thanlyin,MMR013023,Thanlyin,Yangon,main
+AREA # 120302,Kyauktan,MMR013024,Kyauktan,Yangon,main
+AREA # 120303,Thongwa,MMR013025,Thongwa,Yangon,main
+AREA # 120304,Khayan,MMR013026,Kayan,Yangon,main
+AREA # 120305,Twantay,MMR013027,Twantay,Yangon,main
+AREA # 120306,Kawhmu,MMR013028,Kawhmu,Yangon,main
+AREA # 120307,Kungyangon,MMR013029,Kungyangon,Yangon,main
+AREA # 120308,Dala,MMR013030,Dala,Yangon,main
+AREA # 120309,Seikkyi/Khanaungto,MMR013031,Seikgyikanaungto,Yangon,main
+AREA # 120310,Cocogyun,MMR013032,Cocokyun,Yangon,main
+AREA # 120351,Tada(ST),MMR013024,Kyauktan,Yangon,sub
+AREA # 120401,Kyauktada,MMR013033,Kyauktada,Yangon,main
+AREA # 120402,Pabedan,MMR013034,Pabedan,Yangon,main
+AREA # 120403,Lanmadaw,MMR013035,Lanmadaw,Yangon,main
+AREA # 120404,Latha,MMR013036,Latha,Yangon,main
+AREA # 120405,Ahlon,MMR013037,Ahlone,Yangon,main
+AREA # 120406,Kyimyindine,MMR013038,Kyeemyindaing,Yangon,main
+AREA # 120407,Sangyoung,MMR013039,Sanchaung,Yangon,main
+AREA # 120408,Hline,MMR013040,Hlaing,Yangon,main
+AREA # 120409,Kamayut,MMR013041,Kamaryut,Yangon,main
+AREA # 120410,Mayangon,MMR013042,Mayangone,Yangon,main
+AREA # 120411,Dagon,MMR013043,Dagon,Yangon,main
+AREA # 120412,Bahan,MMR013044,Bahan,Yangon,main
+AREA # 120413,Seikkan,MMR013045,Seikkan,Yangon,main
+AREA # 130101,Taunggyi,MMR014001,Taunggyi,Shan (south),main
+AREA # 130102,Nyaungshwe,MMR014002,Nyaungshwe,Shan (south),main
+AREA # 130103,Hopon,MMR014003,Hopong,Shan (south),main
+AREA # 130104,Hsihseng,MMR014004,Hsihseng,Shan (south),main
+AREA # 130105,Kalaw,MMR014005,Kalaw,Shan (south),main
+AREA # 130106,Pindaya,MMR014006,Pindaya,Shan (south),main
+AREA # 130107,Ywarngan,MMR014007,Ywangan,Shan (south),main
+AREA # 130108,Yatsauk,MMR014008,Lawksawk,Shan (south),main
+AREA # 130109,Pinlaung,MMR014009,Pinlaung,Shan (south),main
+AREA # 130110,Phekon,MMR014010,Pekon,Shan (south),main
+AREA # 130151,Kyauktalongyi(ST),MMR014001,Taunggyi,Shan (south),sub
+AREA # 130152,Indaw(ST),MMR014008,Lawksawk,Shan (south),sub
+AREA # 130153,Naungtayar(ST),MMR014009,Pinlaung,Shan (south),sub
+AREA # 130201,Loilem,MMR014011,Loilen,Shan (south),main
+AREA # 130202,Le`char,MMR014012,Laihka,Shan (south),main
+AREA # 130203,Nanhsam(South),MMR014013,Nansang,Shan (south),main
+AREA # 130204,Kunhing,MMR014014,Kunhing,Shan (south),main
+AREA # 130205,Kehsi,MMR014015,Kyethi,Shan (south),main
+AREA # 130206,Mongkai,MMR014016,Mongkaing,Shan (south),main
+AREA # 130207,Mineshu,MMR014017,Monghsu,Shan (south),main
+AREA # 130251,Panglong(ST),MMR014011,Loilen,Shan (south),sub
+AREA # 130252,Kholan(ST),MMR014013,Nansang,Shan (south),sub
+AREA # 130253,Karli(ST),MMR014014,Kunhing,Shan (south),sub
+AREA # 130254,Minenaung(ST),MMR014015,Kyethi,Shan (south),sub
+AREA # 130255,Minesan(Monsan)(ST),MMR014017,Monghsu,Shan (south),sub
+AREA # 130301,Linkhe`,MMR014018,Langkho,Shan (south),main
+AREA # 130302,Mone`,MMR014019,Mongnai,Shan (south),main
+AREA # 130303,Maukme`,MMR014020,Mawkmai,Shan (south),main
+AREA # 130304,Minepan,MMR014021,Mongpan,Shan (south),main
+AREA # 130351,Homane(ST),MMR014018,Langkho,Shan (south),sub
+AREA # 130352,Kengtaung(ST),MMR014019,Mongnai,Shan (south),sub
+AREA # 130401,Lashio,MMR015001,Lashio,Shan (north),main
+AREA # 130402,Theinni,MMR015002,Hseni,Shan (north),main
+AREA # 130403,Mineye`,MMR015003,Mongyai,Shan (north),main
+AREA # 130404,Tantyan,MMR015004,Tangyan,Shan (north),main
+AREA # 130501,MuSe,MMR015009,Muse,Shan (north),main
+AREA # 130502,Namkham,MMR015010,Namhkan,Shan (north),main
+AREA # 130503,Kukai,MMR015011,Kutkai,Shan (north),main
+AREA # 130551,Monekoe(ST),MMR015009,Muse,Shan (north),sub
+AREA # 130552,Manhero(ST),MMR015009,Muse,Shan (north),sub
+AREA # 130553,Pansai(KyuKute)(ST),MMR015009,Muse,Shan (north),sub
+AREA # 130554,Tamoenye(ST),MMR015011,Kutkai,Shan (north),sub
+AREA # 130601,Kyukme,MMR015012,Kyaukme,Shan (north),main
+AREA # 130602,Naungkhio,MMR015013,Nawnghkio,Shan (north),main
+AREA # 130603,Hsipaw,MMR015014,Hsipaw,Shan (north),main
+AREA # 130604,Namtu,MMR015015,Namtu,Shan (north),main
+AREA # 130605,Namsan(North),MMR015016,Namhsan,Shan (north),main
+AREA # 130606,Momeik,MMR015017,Mongmit,Shan (north),main
+AREA # 130607,Mabane,MMR015018,Mabein,Shan (north),main
+AREA # 130608,Manton,MMR015019,Manton,Shan (north),main
+AREA # 130651,Minengaw(ST),MMR015012,Kyaukme,Shan (north),sub
+AREA # 130652,Minelon(ST),MMR015012,Kyaukme,Shan (north),sub
+AREA # 130701,Kunlon,MMR015020,Kunlong,Shan (north),main
+AREA # 130801,Laukine,MMR015022,Laukkaing,Shan (north),main
+AREA # 130802,Kongyan,MMR015023,Konkyan,Shan (north),main
+AREA # 130851,Chinshwehaw(ST),MMR015022,Laukkaing,Shan (north),sub
+AREA # 130852,Mawhtike(ST),MMR015023,Konkyan,Shan (north),sub
+AREA # 130901,Hopan,MMR015021,Hopang,Shan (north),main
+AREA # 130902,Minemaw,MMR015008,Mongmao,Shan (north),main
+AREA # 130903,Panwine,MMR015007,Pangwaun,Shan (north),main
+AREA # 130952,Panlon(ST),MMR015021,Hopang,Shan (north),sub
+AREA # 131001,Makman,MMR015024,Matman,Shan (north),main
+AREA # 131002,Pan San(Pan Kham),MMR015005,Pangsang,Shan (north),main
+AREA # 131003,Naphang,MMR015006,Narphan,Shan (north),main
+AREA # 131051,ManKan(ST),MMR015005,Pangsang,Shan (north),sub
+AREA # 131101,Kengtung,MMR016001,Kengtung,Shan (east),main
+AREA # 131102,Minekat,MMR016002,Mongkhet,Shan (east),main
+AREA # 131103,Mineyan,MMR016003,Mongyang,Shan (east),main
+AREA # 131104,Minelar,MMR016005,Mongla,Shan (east),main
+AREA # 131151,Mine Pauk(ST),MMR016003,Mongyang,Shan (east),sub
+AREA # 131201,Minesat,MMR016006,Monghsat,Shan (east),main
+AREA # 131202,Minepyin,MMR016007,Mongping,Shan (east),main
+AREA # 131203,Minetung,MMR016008,Mongton,Shan (east),main
+AREA # 131251,Minekoke(ST),MMR016006,Monghsat,Shan (east),sub
+AREA # 131252,Tontar(ST),MMR016007,Mongping,Shan (east),sub
+AREA # 131253,Ponparkyin(ST),MMR016008,Mongton,Shan (east),sub
+AREA # 131254,Monehta(ST),MMR016008,Mongton,Shan (east),sub
+AREA # 131301,Tachileik,MMR016009,Tachileik,Shan (east),main
+AREA # 131351,Talay(ST),MMR016009,Tachileik,Shan (east),sub
+AREA # 131352,Kenglat(ST),MMR016009,Tachileik,Shan (east),sub
+AREA # 131401,Minephyat,MMR016010,Monghpyak,Shan (east),main
+AREA # 131402,Mineyaung,MMR016011,Mongyawng,Shan (east),main
+AREA # 131451,Mineyu(ST),MMR016011,Mongyawng,Shan (east),sub
+AREA # 140101,Kangyidaunt,MMR017002,Kangyidaunt,Ayeyarwady,Main
+AREA # 140102,Kyaungon,MMR017007,Kyaunggon,Ayeyarwady,Main
+AREA # 140103,Kyonpyaw,MMR017005,Kyonpyaw,Ayeyarwady,Main
+AREA # 140104,Ngaputaw,MMR017004,Ngapudaw,Ayeyarwady,Main
+AREA # 140105,Pathein,MMR017001,Pathein,Ayeyarwady,Main
+AREA # 140106,Yekyi,MMR017006,Yegyi,Ayeyarwady,Main
+AREA # 140107,Thapaung,MMR017003,Thabaung,Ayeyarwady,Main
+AREA # 140151,Ngayokaung(ST),MMR017004,Ngapudaw,Ayeyarwady,Sub
+AREA # 140152,Hainggyikyun(ST),MMR017004,Ngapudaw,Ayeyarwady,Sub
+AREA # 140153,Shwethaungyan(ST),MMR017001,Pathein,Ayeyarwady,Sub
+AREA # 140154,Ngwehsaung(ST),MMR017001,Pathein,Ayeyarwady,Sub
+AREA # 140155,Ngathaingchaung(ST),MMR017006,Yegyi,Ayeyarwady,Sub
+AREA # 140201,Kyaiklatt,MMR017025,Kyaiklat,Ayeyarwady,Main
+AREA # 140202,Daydaye,MMR017026,Dedaye,Ayeyarwady,Main
+AREA # 140203,Phyapon,MMR017023,Pyapon,Ayeyarwady,Main
+AREA # 140204,Bogale,MMR017024,Bogale,Ayeyarwady,Main
+AREA # 140251,Ahmar(ST),MMR017023,Pyapon,Ayeyarwady,Sub
+AREA # 140301,Nyaungdon,MMR017021,Nyaungdon,Ayeyarwady,Main
+AREA # 140302,Danubyu,MMR017022,Danubyu,Ayeyarwady,Main
+AREA # 140303,Pantanaw,MMR017020,Pantanaw,Ayeyarwady,Main
+AREA # 140304,Maubin,MMR017019,Maubin,Ayeyarwady,Main
+AREA # 140401,Myaungmya,MMR017014,Myaungmya,Ayeyarwady,Main
+AREA # 140402,Wakema,MMR017017,Wakema,Ayeyarwady,Main
+AREA # 140403,Einme,MMR017015,Einme,Ayeyarwady,Main
+AREA # 140501,Mawlamyinegyun,MMR017018,Mawlamyinegyun,Ayeyarwady,Main
+AREA # 140502,Labutta,MMR017016,Labutta,Ayeyarwady,Main
+AREA # 140551,Pyinsalu(ST),MMR017016,Labutta,Ayeyarwady,Sub
+AREA # 140601,Kyangin,MMR017012,Kyangin,Ayeyarwady,Main
+AREA # 140602,Zalun,MMR017009,Zalun,Ayeyarwady,Main
+AREA # 140603,Myanaung,MMR017011,Myanaung,Ayeyarwady,Main
+AREA # 140604,Laymyethna,MMR017010,Lemyethna,Ayeyarwady,Main
+AREA # 140605,Hinthada,MMR017008,Hinthada,Ayeyarwady,Main
+AREA # 140606,Ingapu,MMR017013,Ingapu,Ayeyarwady,Main
+AREA # 150101,Tatkon,MMR018003,Tatkon,Nay Pyi Taw,main
+AREA # 150102,Zeyarthiri,MMR018001,Zay Yar Thi Ri,Nay Pyi Taw,main
+AREA # 150103,Ottarathiri,MMR018008,Oke Ta Ra Thi Ri ,Nay Pyi Taw,main
+AREA # 150104,Pobbathiri,MMR018005,Poke Ba Thi Ri,Nay Pyi Taw,main
+AREA # 150201,Pyinmana,MMR018006,Pyinmana,Nay Pyi Taw,main
+AREA # 150202,Lewe,MMR018007,Lewe,Nay Pyi Taw,main
+AREA # 150203,Zabuthiri,MMR018002,Za Bu Thi Ri,Nay Pyi Taw,main
+AREA # 150204,Dekkhinathiri,MMR018004,Det Khi Na Thi Ri,Nay Pyi Taw,main

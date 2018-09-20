@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2160,1672,3832,Salin,MMR009010
+" Employee (Private, Org)",18978,16951,35929,Salin,MMR009010
+ Employer,4605,2014,6619,Salin,MMR009010
+ Own account worker,29361,18205,47566,Salin,MMR009010
+ Contributing family worker,10599,21865,32464,Salin,MMR009010
+ Sought work,1267,1355,2622,Salin,MMR009010
+ Did not seek work,154,124,278,Salin,MMR009010
+ Full time student,12636,12612,25248,Salin,MMR009010
+ Household work,1176,23913,25089,Salin,MMR009010
+" Pensioner, retired, elderly person",3744,6252,9996,Salin,MMR009010
+" Ill, disabled",633,718,1351,Salin,MMR009010
+ Other,2758,1421,4179,Salin,MMR009010
+ Total,88071,107102,195173,Salin,MMR009010

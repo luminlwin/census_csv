@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),229,63,292,Kongyan,MMR015023
+" Employee (Private, Org)",470,215,685,Kongyan,MMR015023
+ Employer,193,27,220,Kongyan,MMR015023
+ Own account worker,4684,998,5682,Kongyan,MMR015023
+ Contributing family worker,4768,7362,12130,Kongyan,MMR015023
+ Sought work,173,136,309,Kongyan,MMR015023
+ Did not seek work,14,8,22,Kongyan,MMR015023
+ Full time student,1325,996,2321,Kongyan,MMR015023
+ Household work,412,1163,1575,Kongyan,MMR015023
+" Pensioner, retired, elderly person",436,654,1090,Kongyan,MMR015023
+" Ill, disabled",73,87,160,Kongyan,MMR015023
+ Other,113,85,198,Kongyan,MMR015023
+ Total,12890,11794,24684,Kongyan,MMR015023

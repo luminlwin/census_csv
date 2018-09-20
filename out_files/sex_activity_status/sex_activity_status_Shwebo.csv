@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),3168,2994,6162,Shwebo,MMR005004
+" Employee (Private, Org)",26131,21622,47753,Shwebo,MMR005004
+ Employer,4199,1976,6175,Shwebo,MMR005004
+ Own account worker,26586,21319,47905,Shwebo,MMR005004
+ Contributing family worker,4411,7988,12399,Shwebo,MMR005004
+ Sought work,2016,1661,3677,Shwebo,MMR005004
+ Did not seek work,289,188,477,Shwebo,MMR005004
+ Full time student,12510,12502,25012,Shwebo,MMR005004
+ Household work,978,27167,28145,Shwebo,MMR005004
+" Pensioner, retired, elderly person",5945,9177,15122,Shwebo,MMR005004
+" Ill, disabled",684,736,1420,Shwebo,MMR005004
+ Other,4244,1551,5795,Shwebo,MMR005004
+ Total,91161,108881,200042,Shwebo,MMR005004

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2089,1736,3825,Homalin,MMR005034
+" Employee (Private, Org)",29082,8319,37401,Homalin,MMR005034
+ Employer,6032,1660,7692,Homalin,MMR005034
+ Own account worker,29031,11973,41004,Homalin,MMR005034
+ Contributing family worker,9910,14514,24424,Homalin,MMR005034
+ Sought work,3262,1960,5222,Homalin,MMR005034
+ Did not seek work,784,366,1150,Homalin,MMR005034
+ Full time student,14589,16099,30688,Homalin,MMR005034
+ Household work,1328,29593,30921,Homalin,MMR005034
+" Pensioner, retired, elderly person",2973,6239,9212,Homalin,MMR005034
+" Ill, disabled",350,349,699,Homalin,MMR005034
+ Other,3480,1669,5149,Homalin,MMR005034
+ Total,102910,94477,197387,Homalin,MMR005034

@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1623,1904,3527,Phyapon,MMR017023
+" Employee (Private, Org)",22592,6636,29228,Phyapon,MMR017023
+ Employer,4229,998,5227,Phyapon,MMR017023
+ Own account worker,14812,6538,21350,Phyapon,MMR017023
+ Contributing family worker,4394,2651,7045,Phyapon,MMR017023
+ Sought work,2207,1248,3455,Phyapon,MMR017023
+ Did not seek work,420,253,673,Phyapon,MMR017023
+ Full time student,10927,10940,21867,Phyapon,MMR017023
+ Household work,933,37013,37946,Phyapon,MMR017023
+" Pensioner, retired, elderly person",2964,4498,7462,Phyapon,MMR017023
+" Ill, disabled",925,701,1626,Phyapon,MMR017023
+ Other,7479,4025,11504,Phyapon,MMR017023
+ Total,73505,77405,150910,Phyapon,MMR017023

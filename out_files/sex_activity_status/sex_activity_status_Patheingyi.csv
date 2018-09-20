@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),4650,3254,7904,Patheingyi,MMR010007
+" Employee (Private, Org)",45671,25685,71356,Patheingyi,MMR010007
+ Employer,3233,2349,5582,Patheingyi,MMR010007
+ Own account worker,18477,16733,35210,Patheingyi,MMR010007
+ Contributing family worker,3781,3950,7731,Patheingyi,MMR010007
+ Sought work,1428,918,2346,Patheingyi,MMR010007
+ Did not seek work,428,243,671,Patheingyi,MMR010007
+ Full time student,12420,12801,25221,Patheingyi,MMR010007
+ Household work,1149,33722,34871,Patheingyi,MMR010007
+" Pensioner, retired, elderly person",4937,6416,11353,Patheingyi,MMR010007
+" Ill, disabled",632,564,1196,Patheingyi,MMR010007
+ Other,7529,4244,11773,Patheingyi,MMR010007
+ Total,104335,110879,215214,Patheingyi,MMR010007

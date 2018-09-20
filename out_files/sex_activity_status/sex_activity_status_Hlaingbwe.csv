@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1787,991,2778,Hlaingbwe,MMR003002
+" Employee (Private, Org)",7776,2502,10278,Hlaingbwe,MMR003002
+ Employer,1245,274,1519,Hlaingbwe,MMR003002
+ Own account worker,13007,4182,17189,Hlaingbwe,MMR003002
+ Contributing family worker,4585,4444,9029,Hlaingbwe,MMR003002
+ Sought work,5577,2342,7919,Hlaingbwe,MMR003002
+ Did not seek work,1696,919,2615,Hlaingbwe,MMR003002
+ Full time student,8177,9865,18042,Hlaingbwe,MMR003002
+ Household work,899,27015,27914,Hlaingbwe,MMR003002
+" Pensioner, retired, elderly person",3363,4235,7598,Hlaingbwe,MMR003002
+" Ill, disabled",699,601,1300,Hlaingbwe,MMR003002
+ Other,7402,3229,10631,Hlaingbwe,MMR003002
+ Total,56213,60599,116812,Hlaingbwe,MMR003002

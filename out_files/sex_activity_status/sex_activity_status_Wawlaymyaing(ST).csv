@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),54,19,73,Wawlaymyaing(ST),MMR003005
+" Employee (Private, Org)",766,279,1045,Wawlaymyaing(ST),MMR003005
+ Employer,68,27,95,Wawlaymyaing(ST),MMR003005
+ Own account worker,895,414,1309,Wawlaymyaing(ST),MMR003005
+ Contributing family worker,462,400,862,Wawlaymyaing(ST),MMR003005
+ Sought work,24,14,38,Wawlaymyaing(ST),MMR003005
+ Did not seek work,14,10,24,Wawlaymyaing(ST),MMR003005
+ Full time student,455,469,924,Wawlaymyaing(ST),MMR003005
+ Household work,39,1034,1073,Wawlaymyaing(ST),MMR003005
+" Pensioner, retired, elderly person",44,56,100,Wawlaymyaing(ST),MMR003005
+" Ill, disabled",19,12,31,Wawlaymyaing(ST),MMR003005
+ Other,722,453,1175,Wawlaymyaing(ST),MMR003005
+ Total,3562,3187,6749,Wawlaymyaing(ST),MMR003005

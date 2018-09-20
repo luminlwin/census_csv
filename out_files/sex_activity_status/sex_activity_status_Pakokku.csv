@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),6414,7031,13445,Pakokku,MMR009018
+" Employee (Private, Org)",28315,20065,48380,Pakokku,MMR009018
+ Employer,4006,2098,6104,Pakokku,MMR009018
+ Own account worker,24847,19932,44779,Pakokku,MMR009018
+ Contributing family worker,6634,12543,19177,Pakokku,MMR009018
+ Sought work,2898,2782,5680,Pakokku,MMR009018
+ Did not seek work,456,344,800,Pakokku,MMR009018
+ Full time student,18727,19429,38156,Pakokku,MMR009018
+ Household work,1490,36746,38236,Pakokku,MMR009018
+" Pensioner, retired, elderly person",6888,10018,16906,Pakokku,MMR009018
+" Ill, disabled",1323,1343,2666,Pakokku,MMR009018
+ Other,3929,2236,6165,Pakokku,MMR009018
+ Total,105927,134567,240494,Pakokku,MMR009018

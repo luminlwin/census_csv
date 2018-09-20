@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),499,809,1308,Pindaya,MMR014006
+" Employee (Private, Org)",3804,2642,6446,Pindaya,MMR014006
+ Employer,417,271,688,Pindaya,MMR014006
+ Own account worker,9108,6326,15434,Pindaya,MMR014006
+ Contributing family worker,9201,12426,21627,Pindaya,MMR014006
+ Sought work,236,281,517,Pindaya,MMR014006
+ Did not seek work,42,25,67,Pindaya,MMR014006
+ Full time student,3878,4681,8559,Pindaya,MMR014006
+ Household work,230,3416,3646,Pindaya,MMR014006
+" Pensioner, retired, elderly person",1467,1911,3378,Pindaya,MMR014006
+" Ill, disabled",165,163,328,Pindaya,MMR014006
+ Other,1531,310,1841,Pindaya,MMR014006
+ Total,30578,33261,63839,Pindaya,MMR014006

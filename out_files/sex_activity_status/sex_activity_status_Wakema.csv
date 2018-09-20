@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),1429,2254,3683,Wakema,MMR017017
+" Employee (Private, Org)",26967,13918,40885,Wakema,MMR017017
+ Employer,9052,3411,12463,Wakema,MMR017017
+ Own account worker,33200,17102,50302,Wakema,MMR017017
+ Contributing family worker,9485,12073,21558,Wakema,MMR017017
+ Sought work,3050,2165,5215,Wakema,MMR017017
+ Did not seek work,575,412,987,Wakema,MMR017017
+ Full time student,15418,15320,30738,Wakema,MMR017017
+ Household work,1118,41283,42401,Wakema,MMR017017
+" Pensioner, retired, elderly person",4854,7341,12195,Wakema,MMR017017
+" Ill, disabled",1151,1043,2194,Wakema,MMR017017
+ Other,5683,3583,9266,Wakema,MMR017017
+ Total,111982,119905,231887,Wakema,MMR017017

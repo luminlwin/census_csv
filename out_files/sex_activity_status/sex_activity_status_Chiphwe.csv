@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),498,152,650,Chiphwe,MMR001005
+" Employee (Private, Org)",221,43,264,Chiphwe,MMR001005
+ Employer,67,33,100,Chiphwe,MMR001005
+ Own account worker,1394,749,2143,Chiphwe,MMR001005
+ Contributing family worker,557,567,1124,Chiphwe,MMR001005
+ Sought work,143,103,246,Chiphwe,MMR001005
+ Did not seek work,42,45,87,Chiphwe,MMR001005
+ Full time student,813,721,1534,Chiphwe,MMR001005
+ Household work,190,1088,1278,Chiphwe,MMR001005
+" Pensioner, retired, elderly person",109,177,286,Chiphwe,MMR001005
+" Ill, disabled",17,25,42,Chiphwe,MMR001005
+ Other,212,161,373,Chiphwe,MMR001005
+ Total,4263,3864,8127,Chiphwe,MMR001005

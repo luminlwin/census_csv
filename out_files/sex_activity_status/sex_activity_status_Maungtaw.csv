@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),3035,960,3995,Maungtaw,MMR012009
+" Employee (Private, Org)",1640,416,2056,Maungtaw,MMR012009
+ Employer,571,179,750,Maungtaw,MMR012009
+ Own account worker,4323,1579,5902,Maungtaw,MMR012009
+ Contributing family worker,1147,1847,2994,Maungtaw,MMR012009
+ Sought work,842,444,1286,Maungtaw,MMR012009
+ Did not seek work,154,73,227,Maungtaw,MMR012009
+ Full time student,2160,1841,4001,Maungtaw,MMR012009
+ Household work,274,5635,5909,Maungtaw,MMR012009
+" Pensioner, retired, elderly person",387,537,924,Maungtaw,MMR012009
+" Ill, disabled",53,64,117,Maungtaw,MMR012009
+ Other,1023,918,1941,Maungtaw,MMR012009
+ Total,15609,14493,30102,Maungtaw,MMR012009

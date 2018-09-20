@@ -1,0 +1,14 @@
+Activity_status,Sex_Male,Sex_Female,Sex_Total,Township,MIMU_code
+ Employee (Government),2772,3175,5947,Kamayut,MMR013041
+" Employee (Private, Org)",12159,12121,24280,Kamayut,MMR013041
+ Employer,1213,680,1893,Kamayut,MMR013041
+ Own account worker,4473,3343,7816,Kamayut,MMR013041
+ Contributing family worker,620,875,1495,Kamayut,MMR013041
+ Sought work,1335,1163,2498,Kamayut,MMR013041
+ Did not seek work,252,184,436,Kamayut,MMR013041
+ Full time student,5527,6356,11883,Kamayut,MMR013041
+ Household work,330,10883,11213,Kamayut,MMR013041
+" Pensioner, retired, elderly person",2630,3298,5928,Kamayut,MMR013041
+" Ill, disabled",179,189,368,Kamayut,MMR013041
+ Other,1948,1950,3898,Kamayut,MMR013041
+ Total,33438,44217,77655,Kamayut,MMR013041
